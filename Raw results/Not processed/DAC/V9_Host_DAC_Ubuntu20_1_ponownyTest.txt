@@ -1,0 +1,2568 @@
+nohup: zignorowane dane wejściowe
+DAC_O3_native_1
+No protocol specified
+
+Result is 0.688172
+599.01user 0.06system 9:59.38elapsed 99%CPU (0avgtext+0avgdata 31336maxresident)k
+48inputs+16488outputs (7major+6279minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.29user 0.03system 9:59.62elapsed 99%CPU (0avgtext+0avgdata 31208maxresident)k
+0inputs+16488outputs (7major+6273minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.01user 0.03system 9:59.30elapsed 99%CPU (0avgtext+0avgdata 31500maxresident)k
+0inputs+16488outputs (7major+6299minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.17user 0.03system 9:59.46elapsed 99%CPU (0avgtext+0avgdata 31180maxresident)k
+0inputs+16488outputs (7major+6276minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.20user 0.05system 9:59.55elapsed 99%CPU (0avgtext+0avgdata 31164maxresident)k
+0inputs+16488outputs (7major+6280minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.27user 0.03system 9:59.56elapsed 99%CPU (0avgtext+0avgdata 31408maxresident)k
+0inputs+16488outputs (7major+6278minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.07user 0.03system 9:59.39elapsed 99%CPU (0avgtext+0avgdata 31644maxresident)k
+0inputs+16488outputs (7major+6297minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.52user 0.03system 9:59.82elapsed 99%CPU (0avgtext+0avgdata 31200maxresident)k
+0inputs+16488outputs (7major+6285minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.62user 0.06system 9:59.98elapsed 99%CPU (0avgtext+0avgdata 31528maxresident)k
+0inputs+16488outputs (7major+6293minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+599.66user 0.05system 9:59.96elapsed 99%CPU (0avgtext+0avgdata 31480maxresident)k
+0inputs+16488outputs (7major+6292minor)pagefaults 0swaps
+DAC_O3_native_2
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.c07d0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1539874] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1539874] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+611.54user 0.07system 5:06.16elapsed 199%CPU (0avgtext+0avgdata 31652maxresident)k
+16inputs+16488outputs (7major+7740minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.3f9c0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1540291] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1540291] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+611.23user 0.06system 5:05.99elapsed 199%CPU (0avgtext+0avgdata 31496maxresident)k
+0inputs+16488outputs (7major+7744minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.33user 0.05system 5:06.01elapsed 199%CPU (0avgtext+0avgdata 31392maxresident)k
+0inputs+16488outputs (7major+7683minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.21user 0.06system 5:05.96elapsed 199%CPU (0avgtext+0avgdata 31672maxresident)k
+0inputs+16488outputs (7major+7707minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+610.96user 0.06system 5:05.83elapsed 199%CPU (0avgtext+0avgdata 31500maxresident)k
+0inputs+16488outputs (7major+7730minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.39user 0.05system 5:06.02elapsed 199%CPU (0avgtext+0avgdata 31672maxresident)k
+0inputs+16488outputs (7major+7727minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.30user 0.05system 5:06.01elapsed 199%CPU (0avgtext+0avgdata 31256maxresident)k
+0inputs+16488outputs (7major+7723minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.00user 0.13system 5:05.91elapsed 199%CPU (0avgtext+0avgdata 31392maxresident)k
+0inputs+16488outputs (7major+7706minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.22user 0.07system 5:05.99elapsed 199%CPU (0avgtext+0avgdata 31420maxresident)k
+0inputs+16488outputs (7major+7708minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+611.00user 0.05system 5:05.87elapsed 199%CPU (0avgtext+0avgdata 31476maxresident)k
+0inputs+16488outputs (7major+7733minor)pagefaults 0swaps
+DAC_O3_native_4
+No protocol specified
+
+Result is 0.688172
+625.62user 0.19system 2:36.83elapsed 399%CPU (0avgtext+0avgdata 31188maxresident)k
+0inputs+16488outputs (7major+10489minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.62user 0.14system 2:36.79elapsed 399%CPU (0avgtext+0avgdata 31380maxresident)k
+0inputs+16488outputs (7major+10509minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.62user 0.09system 2:36.78elapsed 399%CPU (0avgtext+0avgdata 31264maxresident)k
+0inputs+16488outputs (7major+10467minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.61user 0.10system 2:36.80elapsed 399%CPU (0avgtext+0avgdata 31360maxresident)k
+0inputs+16488outputs (7major+10495minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.64user 0.11system 2:36.82elapsed 399%CPU (0avgtext+0avgdata 31196maxresident)k
+0inputs+16488outputs (7major+10479minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.369b0001.3
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1542596] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1542596] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+626.44user 0.18system 2:37.10elapsed 398%CPU (0avgtext+0avgdata 31236maxresident)k
+0inputs+16488outputs (7major+10469minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.66user 0.14system 2:36.82elapsed 399%CPU (0avgtext+0avgdata 31404maxresident)k
+0inputs+16488outputs (7major+10488minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.65user 0.13system 2:36.82elapsed 399%CPU (0avgtext+0avgdata 31188maxresident)k
+0inputs+16488outputs (7major+10492minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.55user 0.13system 2:36.77elapsed 399%CPU (0avgtext+0avgdata 31476maxresident)k
+0inputs+16488outputs (7major+10483minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+625.73user 0.13system 2:36.82elapsed 399%CPU (0avgtext+0avgdata 31612maxresident)k
+0inputs+16488outputs (7major+10471minor)pagefaults 0swaps
+DAC_O3_native_8
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.88user 0.14system 1:19.11elapsed 395%CPU (0avgtext+0avgdata 32264maxresident)k
+8inputs+16488outputs (7major+10723minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.94user 0.09system 1:18.90elapsed 396%CPU (0avgtext+0avgdata 32264maxresident)k
+0inputs+16488outputs (7major+10720minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.91user 0.16system 1:18.98elapsed 396%CPU (0avgtext+0avgdata 32204maxresident)k
+0inputs+16488outputs (7major+10718minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.87user 0.12system 1:18.92elapsed 396%CPU (0avgtext+0avgdata 32260maxresident)k
+0inputs+16488outputs (7major+10709minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.99user 0.08system 1:18.97elapsed 396%CPU (0avgtext+0avgdata 31980maxresident)k
+0inputs+16488outputs (7major+10721minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.91user 0.09system 1:18.93elapsed 396%CPU (0avgtext+0avgdata 32132maxresident)k
+0inputs+16488outputs (7major+10687minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.92user 0.07system 1:18.95elapsed 396%CPU (0avgtext+0avgdata 31960maxresident)k
+0inputs+16488outputs (7major+10716minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.90user 0.10system 1:18.97elapsed 396%CPU (0avgtext+0avgdata 32272maxresident)k
+0inputs+16488outputs (7major+10719minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.84user 0.13system 1:18.96elapsed 396%CPU (0avgtext+0avgdata 32184maxresident)k
+0inputs+16488outputs (7major+10702minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+312.90user 0.11system 1:18.98elapsed 396%CPU (0avgtext+0avgdata 32172maxresident)k
+0inputs+16488outputs (7major+10741minor)pagefaults 0swaps
+DAC_O3_native_16
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.62user 0.20system 0:40.12elapsed 390%CPU (0avgtext+0avgdata 32044maxresident)k
+8inputs+16488outputs (7major+10748minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.58user 0.19system 0:39.96elapsed 392%CPU (0avgtext+0avgdata 32192maxresident)k
+0inputs+16488outputs (7major+10753minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.55user 0.10system 0:39.92elapsed 392%CPU (0avgtext+0avgdata 32016maxresident)k
+0inputs+16488outputs (7major+10728minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.59user 0.14system 0:39.93elapsed 392%CPU (0avgtext+0avgdata 32324maxresident)k
+0inputs+16488outputs (7major+10789minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.55user 0.20system 0:39.95elapsed 392%CPU (0avgtext+0avgdata 32092maxresident)k
+0inputs+16488outputs (7major+10748minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.55user 0.10system 0:39.90elapsed 392%CPU (0avgtext+0avgdata 32284maxresident)k
+0inputs+16488outputs (7major+10767minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.70user 0.14system 0:40.09elapsed 391%CPU (0avgtext+0avgdata 32136maxresident)k
+0inputs+16488outputs (7major+10768minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.66user 0.21system 0:39.92elapsed 392%CPU (0avgtext+0avgdata 32488maxresident)k
+0inputs+16488outputs (7major+10754minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.70user 0.17system 0:40.03elapsed 391%CPU (0avgtext+0avgdata 32096maxresident)k
+0inputs+16488outputs (7major+10730minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+156.61user 0.16system 0:40.04elapsed 391%CPU (0avgtext+0avgdata 32468maxresident)k
+0inputs+16488outputs (7major+10728minor)pagefaults 0swaps
+DAC_O3_native_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.58user 0.24system 0:20.79elapsed 379%CPU (0avgtext+0avgdata 32656maxresident)k
+8inputs+16480outputs (7major+10820minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.49user 0.18system 0:20.49elapsed 383%CPU (0avgtext+0avgdata 32408maxresident)k
+0inputs+16480outputs (7major+10850minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.80user 0.58system 0:21.26elapsed 373%CPU (0avgtext+0avgdata 32792maxresident)k
+0inputs+16480outputs (7major+10857minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+79.19user 1.05system 0:21.92elapsed 365%CPU (0avgtext+0avgdata 32544maxresident)k
+0inputs+16472outputs (7major+10831minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.48user 0.16system 0:20.48elapsed 383%CPU (0avgtext+0avgdata 32364maxresident)k
+0inputs+16480outputs (7major+10847minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.47user 0.15system 0:20.45elapsed 384%CPU (0avgtext+0avgdata 32572maxresident)k
+0inputs+16480outputs (7major+10872minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.43user 0.16system 0:20.46elapsed 384%CPU (0avgtext+0avgdata 32480maxresident)k
+0inputs+16472outputs (7major+10914minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.58user 0.27system 0:20.61elapsed 382%CPU (0avgtext+0avgdata 32544maxresident)k
+0inputs+16480outputs (7major+10860minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.55user 0.20system 0:20.56elapsed 382%CPU (0avgtext+0avgdata 32380maxresident)k
+0inputs+16480outputs (7major+10905minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+78.77user 0.44system 0:21.11elapsed 375%CPU (0avgtext+0avgdata 32344maxresident)k
+0inputs+16472outputs (7major+10829minor)pagefaults 0swaps
+DAC_O3_native_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.62user 0.49system 0:11.69elapsed 342%CPU (0avgtext+0avgdata 32872maxresident)k
+8inputs+16472outputs (7major+11132minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.66user 0.49system 0:11.25elapsed 356%CPU (0avgtext+0avgdata 32552maxresident)k
+0inputs+16472outputs (7major+11101minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.65user 0.48system 0:11.22elapsed 357%CPU (0avgtext+0avgdata 32740maxresident)k
+0inputs+16480outputs (7major+11114minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.50user 0.33system 0:10.89elapsed 365%CPU (0avgtext+0avgdata 32812maxresident)k
+0inputs+16472outputs (7major+11137minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.53user 0.39system 0:10.98elapsed 363%CPU (0avgtext+0avgdata 32848maxresident)k
+0inputs+16480outputs (7major+11179minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.52user 0.36system 0:10.98elapsed 362%CPU (0avgtext+0avgdata 32720maxresident)k
+0inputs+16472outputs (7major+11122minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.52user 0.44system 0:11.01elapsed 363%CPU (0avgtext+0avgdata 32728maxresident)k
+0inputs+16480outputs (7major+11112minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.53user 0.42system 0:11.09elapsed 360%CPU (0avgtext+0avgdata 32740maxresident)k
+0inputs+16480outputs (7major+11125minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.62user 0.62system 0:11.35elapsed 354%CPU (0avgtext+0avgdata 32880maxresident)k
+0inputs+16480outputs (7major+11142minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+39.53user 0.39system 0:11.03elapsed 361%CPU (0avgtext+0avgdata 32656maxresident)k
+0inputs+16472outputs (7major+11134minor)pagefaults 0swaps
+DAC_O3_1
+No protocol specified
+
+Result is 0.688172
+524.54user 0.04system 8:44.89elapsed 99%CPU (0avgtext+0avgdata 31356maxresident)k
+40inputs+16488outputs (7major+6288minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.16user 0.05system 8:44.51elapsed 99%CPU (0avgtext+0avgdata 31364maxresident)k
+0inputs+16488outputs (7major+6290minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.66user 0.04system 8:45.02elapsed 99%CPU (0avgtext+0avgdata 31244maxresident)k
+0inputs+16488outputs (7major+6293minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.58user 0.06system 8:44.95elapsed 99%CPU (0avgtext+0avgdata 31248maxresident)k
+0inputs+16488outputs (7major+6277minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.84user 0.05system 8:45.15elapsed 99%CPU (0avgtext+0avgdata 31212maxresident)k
+0inputs+16488outputs (7major+6272minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.64user 0.06system 8:44.96elapsed 99%CPU (0avgtext+0avgdata 31228maxresident)k
+0inputs+16488outputs (7major+6283minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.77user 0.06system 8:45.09elapsed 99%CPU (0avgtext+0avgdata 31328maxresident)k
+0inputs+16488outputs (7major+6275minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.96user 0.04system 8:45.28elapsed 99%CPU (0avgtext+0avgdata 31416maxresident)k
+0inputs+16488outputs (7major+6277minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.36user 0.03system 8:44.69elapsed 99%CPU (0avgtext+0avgdata 31448maxresident)k
+0inputs+16488outputs (7major+6300minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.66user 0.03system 8:45.01elapsed 99%CPU (0avgtext+0avgdata 31180maxresident)k
+0inputs+16488outputs (7major+6275minor)pagefaults 0swaps
+DAC_O3_2
+No protocol specified
+
+Result is 0.688172
+534.91user 0.05system 4:27.79elapsed 199%CPU (0avgtext+0avgdata 31216maxresident)k
+0inputs+16488outputs (7major+7697minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.96user 0.06system 4:27.86elapsed 199%CPU (0avgtext+0avgdata 31268maxresident)k
+0inputs+16488outputs (7major+7725minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+535.17user 0.05system 4:27.94elapsed 199%CPU (0avgtext+0avgdata 31544maxresident)k
+0inputs+16488outputs (7major+7728minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+535.07user 0.04system 4:27.88elapsed 199%CPU (0avgtext+0avgdata 31212maxresident)k
+0inputs+16488outputs (7major+7695minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+535.13user 0.07system 4:27.94elapsed 199%CPU (0avgtext+0avgdata 31424maxresident)k
+0inputs+16488outputs (7major+7702minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.95user 0.05system 4:27.79elapsed 199%CPU (0avgtext+0avgdata 31388maxresident)k
+0inputs+16488outputs (7major+7696minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.89user 0.04system 4:27.80elapsed 199%CPU (0avgtext+0avgdata 31668maxresident)k
+0inputs+16488outputs (7major+7713minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.87user 0.05system 4:27.81elapsed 199%CPU (0avgtext+0avgdata 31368maxresident)k
+0inputs+16488outputs (7major+7718minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.89user 0.06system 4:27.79elapsed 199%CPU (0avgtext+0avgdata 31596maxresident)k
+0inputs+16488outputs (7major+7711minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.86user 0.04system 4:27.79elapsed 199%CPU (0avgtext+0avgdata 31208maxresident)k
+0inputs+16488outputs (7major+7702minor)pagefaults 0swaps
+DAC_O3_4
+No protocol specified
+
+Result is 0.688172
+547.72user 0.12system 2:17.34elapsed 398%CPU (0avgtext+0avgdata 31672maxresident)k
+0inputs+16488outputs (7major+10476minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.66user 0.10system 2:17.33elapsed 398%CPU (0avgtext+0avgdata 31220maxresident)k
+0inputs+16488outputs (7major+10480minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.16ae0001.3
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1550833] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1550833] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+548.15user 0.16system 2:17.52elapsed 398%CPU (0avgtext+0avgdata 31396maxresident)k
+0inputs+16488outputs (7major+10520minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.75user 0.08system 2:17.34elapsed 398%CPU (0avgtext+0avgdata 31416maxresident)k
+0inputs+16488outputs (7major+10484minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.65user 0.09system 2:17.30elapsed 398%CPU (0avgtext+0avgdata 31336maxresident)k
+0inputs+16488outputs (7major+10462minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.73user 0.11system 2:17.33elapsed 398%CPU (0avgtext+0avgdata 31656maxresident)k
+0inputs+16488outputs (7major+10487minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.70user 0.14system 2:17.34elapsed 398%CPU (0avgtext+0avgdata 31248maxresident)k
+0inputs+16488outputs (7major+10495minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.67user 0.11system 2:17.32elapsed 398%CPU (0avgtext+0avgdata 31264maxresident)k
+0inputs+16488outputs (7major+10494minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.74user 0.14system 2:17.33elapsed 398%CPU (0avgtext+0avgdata 31504maxresident)k
+0inputs+16488outputs (7major+10521minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.74user 0.11system 2:17.33elapsed 398%CPU (0avgtext+0avgdata 31196maxresident)k
+0inputs+16488outputs (7major+10488minor)pagefaults 0swaps
+DAC_O3_8
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+274.06user 0.14system 1:09.38elapsed 395%CPU (0avgtext+0avgdata 32068maxresident)k
+0inputs+16488outputs (7major+10699minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.94user 0.11system 1:09.24elapsed 395%CPU (0avgtext+0avgdata 32164maxresident)k
+0inputs+16488outputs (7major+10694minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.96user 0.13system 1:09.18elapsed 396%CPU (0avgtext+0avgdata 32032maxresident)k
+0inputs+16488outputs (7major+10697minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+274.01user 0.12system 1:09.21elapsed 396%CPU (0avgtext+0avgdata 32088maxresident)k
+0inputs+16488outputs (7major+10725minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.94user 0.13system 1:09.19elapsed 396%CPU (0avgtext+0avgdata 32408maxresident)k
+0inputs+16488outputs (7major+10730minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.94user 0.15system 1:09.22elapsed 395%CPU (0avgtext+0avgdata 32036maxresident)k
+0inputs+16488outputs (7major+10709minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+274.00user 0.13system 1:09.23elapsed 395%CPU (0avgtext+0avgdata 31920maxresident)k
+0inputs+16488outputs (7major+10688minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+274.07user 0.13system 1:09.27elapsed 395%CPU (0avgtext+0avgdata 32064maxresident)k
+0inputs+16488outputs (7major+10682minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+274.06user 0.12system 1:09.29elapsed 395%CPU (0avgtext+0avgdata 32180maxresident)k
+0inputs+16496outputs (7major+10727minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+274.55user 0.11system 1:09.47elapsed 395%CPU (0avgtext+0avgdata 32076maxresident)k
+0inputs+16488outputs (7major+10694minor)pagefaults 0swaps
+DAC_O3_16
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.22user 0.16system 0:35.26elapsed 389%CPU (0avgtext+0avgdata 32352maxresident)k
+0inputs+16488outputs (7major+10806minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.17user 0.20system 0:35.11elapsed 391%CPU (0avgtext+0avgdata 32100maxresident)k
+0inputs+16488outputs (7major+10736minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.09user 0.16system 0:35.03elapsed 391%CPU (0avgtext+0avgdata 32096maxresident)k
+0inputs+16488outputs (7major+10739minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.10user 0.13system 0:35.09elapsed 391%CPU (0avgtext+0avgdata 32104maxresident)k
+0inputs+16488outputs (7major+10757minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.13user 0.14system 0:35.11elapsed 390%CPU (0avgtext+0avgdata 32224maxresident)k
+0inputs+16488outputs (7major+10730minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.12user 0.10system 0:35.05elapsed 391%CPU (0avgtext+0avgdata 32088maxresident)k
+0inputs+16488outputs (7major+10737minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.20user 0.15system 0:35.15elapsed 390%CPU (0avgtext+0avgdata 32300maxresident)k
+0inputs+16488outputs (7major+10753minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.15user 0.09system 0:35.05elapsed 391%CPU (0avgtext+0avgdata 32080maxresident)k
+0inputs+16488outputs (7major+10750minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.13user 0.15system 0:35.17elapsed 390%CPU (0avgtext+0avgdata 31984maxresident)k
+0inputs+16488outputs (7major+10755minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.23user 0.16system 0:35.02elapsed 392%CPU (0avgtext+0avgdata 31964maxresident)k
+0inputs+16488outputs (7major+10729minor)pagefaults 0swaps
+DAC_O3_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.97user 0.51system 0:18.74elapsed 370%CPU (0avgtext+0avgdata 32500maxresident)k
+0inputs+16472outputs (7major+10843minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.79user 0.20system 0:18.05elapsed 382%CPU (0avgtext+0avgdata 32236maxresident)k
+0inputs+16480outputs (7major+10905minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.66user 0.15system 0:18.01elapsed 382%CPU (0avgtext+0avgdata 32452maxresident)k
+0inputs+16472outputs (7major+10828minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.71user 0.20system 0:18.00elapsed 382%CPU (0avgtext+0avgdata 32548maxresident)k
+0inputs+16480outputs (7major+10882minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.73user 0.13system 0:18.05elapsed 381%CPU (0avgtext+0avgdata 32308maxresident)k
+0inputs+16472outputs (7major+10837minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.80user 0.23system 0:18.08elapsed 381%CPU (0avgtext+0avgdata 32644maxresident)k
+0inputs+16480outputs (7major+10906minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.84user 0.12system 0:18.07elapsed 381%CPU (0avgtext+0avgdata 32476maxresident)k
+0inputs+16472outputs (7major+10861minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.74user 0.14system 0:18.02elapsed 382%CPU (0avgtext+0avgdata 32636maxresident)k
+0inputs+16480outputs (7major+10867minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.72user 0.14system 0:18.07elapsed 381%CPU (0avgtext+0avgdata 32396maxresident)k
+0inputs+16472outputs (7major+10886minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+69.32user 0.87system 0:19.23elapsed 365%CPU (0avgtext+0avgdata 32408maxresident)k
+0inputs+16480outputs (7major+10855minor)pagefaults 0swaps
+DAC_O3_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.94user 0.74system 0:11.24elapsed 317%CPU (0avgtext+0avgdata 32492maxresident)k
+0inputs+16472outputs (7major+11109minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.84user 0.54system 0:10.06elapsed 351%CPU (0avgtext+0avgdata 32560maxresident)k
+0inputs+16480outputs (7major+11124minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.81user 0.59system 0:10.13elapsed 349%CPU (0avgtext+0avgdata 32648maxresident)k
+0inputs+16472outputs (7major+11110minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.88user 0.65system 0:10.36elapsed 342%CPU (0avgtext+0avgdata 32648maxresident)k
+0inputs+16472outputs (7major+11155minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.98user 0.76system 0:10.38elapsed 344%CPU (0avgtext+0avgdata 32732maxresident)k
+0inputs+16472outputs (7major+11133minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.91user 0.74system 0:10.45elapsed 341%CPU (0avgtext+0avgdata 32420maxresident)k
+0inputs+16472outputs (7major+11114minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.87user 0.67system 0:10.28elapsed 345%CPU (0avgtext+0avgdata 32676maxresident)k
+0inputs+16472outputs (7major+11129minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+35.08user 0.94system 0:10.69elapsed 336%CPU (0avgtext+0avgdata 32512maxresident)k
+0inputs+16472outputs (7major+11158minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.92user 0.68system 0:10.33elapsed 344%CPU (0avgtext+0avgdata 32948maxresident)k
+0inputs+16472outputs (7major+11111minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.79user 0.50system 0:10.03elapsed 351%CPU (0avgtext+0avgdata 32852maxresident)k
+0inputs+16472outputs (7major+11093minor)pagefaults 0swaps
+DAC_O2_1
+No protocol specified
+
+Result is 0.688172
+524.27user 0.04system 8:44.61elapsed 99%CPU (0avgtext+0avgdata 31508maxresident)k
+40inputs+16488outputs (7major+6297minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.66user 0.03system 8:44.95elapsed 99%CPU (0avgtext+0avgdata 31548maxresident)k
+0inputs+16488outputs (7major+6304minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.49user 0.04system 8:44.83elapsed 99%CPU (0avgtext+0avgdata 31412maxresident)k
+0inputs+16488outputs (7major+6285minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.43user 0.03system 8:44.70elapsed 99%CPU (0avgtext+0avgdata 31176maxresident)k
+0inputs+16488outputs (7major+6279minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.53user 0.05system 8:44.88elapsed 99%CPU (0avgtext+0avgdata 31324maxresident)k
+0inputs+16488outputs (7major+6279minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.22user 0.04system 8:44.54elapsed 99%CPU (0avgtext+0avgdata 31180maxresident)k
+0inputs+16496outputs (7major+6278minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.77user 0.04system 8:45.08elapsed 99%CPU (0avgtext+0avgdata 31388maxresident)k
+0inputs+16488outputs (7major+6285minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.31user 0.04system 8:44.60elapsed 99%CPU (0avgtext+0avgdata 31408maxresident)k
+0inputs+16488outputs (7major+6291minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.50user 0.06system 8:44.81elapsed 99%CPU (0avgtext+0avgdata 31396maxresident)k
+0inputs+16488outputs (7major+6277minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+524.41user 0.05system 8:44.76elapsed 99%CPU (0avgtext+0avgdata 31436maxresident)k
+0inputs+16488outputs (7major+6302minor)pagefaults 0swaps
+DAC_O2_2
+No protocol specified
+
+Result is 0.688172
+534.86user 0.06system 4:27.84elapsed 199%CPU (0avgtext+0avgdata 31444maxresident)k
+0inputs+16488outputs (7major+7719minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.91user 0.05system 4:27.86elapsed 199%CPU (0avgtext+0avgdata 31420maxresident)k
+0inputs+16488outputs (7major+7701minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.86user 0.07system 4:27.84elapsed 199%CPU (0avgtext+0avgdata 31228maxresident)k
+0inputs+16488outputs (7major+7698minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.79user 0.06system 4:27.80elapsed 199%CPU (0avgtext+0avgdata 31492maxresident)k
+0inputs+16488outputs (7major+7723minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.88user 0.04system 4:27.81elapsed 199%CPU (0avgtext+0avgdata 31296maxresident)k
+0inputs+16488outputs (7major+7713minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.96user 0.04system 4:27.82elapsed 199%CPU (0avgtext+0avgdata 31632maxresident)k
+0inputs+16488outputs (7major+7724minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+534.88user 0.04system 4:27.80elapsed 199%CPU (0avgtext+0avgdata 31412maxresident)k
+0inputs+16488outputs (7major+7702minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+535.08user 0.07system 4:27.90elapsed 199%CPU (0avgtext+0avgdata 31228maxresident)k
+0inputs+16488outputs (7major+7706minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+535.01user 0.06system 4:27.90elapsed 199%CPU (0avgtext+0avgdata 31232maxresident)k
+0inputs+16488outputs (7major+7704minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+535.15user 0.07system 4:27.96elapsed 199%CPU (0avgtext+0avgdata 31656maxresident)k
+0inputs+16488outputs (7major+7704minor)pagefaults 0swaps
+DAC_O2_4
+No protocol specified
+
+Result is 0.688172
+547.62user 0.10system 2:17.34elapsed 398%CPU (0avgtext+0avgdata 31484maxresident)k
+0inputs+16488outputs (7major+10488minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.77fe0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1558689] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1558689] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+548.12user 0.11system 2:17.50elapsed 398%CPU (0avgtext+0avgdata 31236maxresident)k
+0inputs+16488outputs (7major+10479minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.57user 0.09system 2:17.30elapsed 398%CPU (0avgtext+0avgdata 31160maxresident)k
+0inputs+16488outputs (7major+10508minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.55user 0.13system 2:17.32elapsed 398%CPU (0avgtext+0avgdata 31236maxresident)k
+0inputs+16488outputs (7major+10470minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.69user 0.18system 2:17.34elapsed 398%CPU (0avgtext+0avgdata 31640maxresident)k
+0inputs+16488outputs (7major+10489minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.54user 0.17system 2:17.30elapsed 398%CPU (0avgtext+0avgdata 31640maxresident)k
+0inputs+16488outputs (7major+10491minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.48user 0.07system 2:17.28elapsed 398%CPU (0avgtext+0avgdata 31668maxresident)k
+0inputs+16488outputs (7major+10481minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.63user 0.11system 2:17.34elapsed 398%CPU (0avgtext+0avgdata 31220maxresident)k
+0inputs+16488outputs (7major+10468minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.58user 0.10system 2:17.33elapsed 398%CPU (0avgtext+0avgdata 31224maxresident)k
+0inputs+16488outputs (7major+10486minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+547.82user 0.10system 2:17.36elapsed 398%CPU (0avgtext+0avgdata 31612maxresident)k
+0inputs+16488outputs (7major+10455minor)pagefaults 0swaps
+DAC_O2_8
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.89user 0.16system 1:09.41elapsed 394%CPU (0avgtext+0avgdata 32012maxresident)k
+0inputs+16488outputs (7major+10719minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.93user 0.16system 1:09.27elapsed 395%CPU (0avgtext+0avgdata 31936maxresident)k
+0inputs+16488outputs (7major+10735minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.87user 0.07system 1:09.16elapsed 396%CPU (0avgtext+0avgdata 32144maxresident)k
+0inputs+16488outputs (7major+10721minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.90user 0.08system 1:09.20elapsed 395%CPU (0avgtext+0avgdata 32020maxresident)k
+0inputs+16488outputs (7major+10709minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.86user 0.09system 1:09.17elapsed 396%CPU (0avgtext+0avgdata 32376maxresident)k
+0inputs+16488outputs (7major+10749minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.83user 0.11system 1:09.20elapsed 395%CPU (0avgtext+0avgdata 32148maxresident)k
+0inputs+16488outputs (7major+10734minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.89user 0.18system 1:09.20elapsed 396%CPU (0avgtext+0avgdata 32188maxresident)k
+0inputs+16488outputs (7major+10715minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.90user 0.15system 1:09.19elapsed 396%CPU (0avgtext+0avgdata 32388maxresident)k
+0inputs+16488outputs (7major+10744minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.89user 0.14system 1:09.21elapsed 395%CPU (0avgtext+0avgdata 32100maxresident)k
+0inputs+16488outputs (7major+10736minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+273.86user 0.15system 1:09.24elapsed 395%CPU (0avgtext+0avgdata 32044maxresident)k
+0inputs+16488outputs (7major+10738minor)pagefaults 0swaps
+DAC_O2_16
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.14user 0.13system 0:35.18elapsed 390%CPU (0avgtext+0avgdata 32272maxresident)k
+0inputs+16488outputs (7major+10749minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.05user 0.12system 0:35.10elapsed 390%CPU (0avgtext+0avgdata 32460maxresident)k
+0inputs+16488outputs (7major+10767minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.08user 0.18system 0:35.08elapsed 391%CPU (0avgtext+0avgdata 32096maxresident)k
+0inputs+16488outputs (7major+10738minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.06user 0.15system 0:35.07elapsed 391%CPU (0avgtext+0avgdata 32360maxresident)k
+0inputs+16488outputs (7major+10780minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.20user 0.14system 0:35.09elapsed 391%CPU (0avgtext+0avgdata 32372maxresident)k
+0inputs+16488outputs (7major+10746minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.11user 0.12system 0:35.06elapsed 391%CPU (0avgtext+0avgdata 32232maxresident)k
+0inputs+16488outputs (7major+10768minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.13user 0.12system 0:35.08elapsed 391%CPU (0avgtext+0avgdata 32432maxresident)k
+0inputs+16488outputs (7major+10757minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.06user 0.09system 0:35.03elapsed 391%CPU (0avgtext+0avgdata 32072maxresident)k
+0inputs+16488outputs (7major+10756minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.12user 0.16system 0:35.08elapsed 391%CPU (0avgtext+0avgdata 32488maxresident)k
+0inputs+16488outputs (7major+10746minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+137.18user 0.17system 0:35.08elapsed 391%CPU (0avgtext+0avgdata 32388maxresident)k
+0inputs+16488outputs (7major+10751minor)pagefaults 0swaps
+DAC_O2_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.75user 0.21system 0:18.25elapsed 377%CPU (0avgtext+0avgdata 32484maxresident)k
+0inputs+16472outputs (7major+10862minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.68user 0.16system 0:18.03elapsed 381%CPU (0avgtext+0avgdata 32524maxresident)k
+0inputs+16480outputs (7major+10882minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.65user 0.15system 0:18.02elapsed 381%CPU (0avgtext+0avgdata 32368maxresident)k
+0inputs+16472outputs (7major+10848minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.68user 0.15system 0:17.96elapsed 383%CPU (0avgtext+0avgdata 32348maxresident)k
+0inputs+16480outputs (7major+10867minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.71user 0.14system 0:18.07elapsed 380%CPU (0avgtext+0avgdata 32296maxresident)k
+0inputs+16472outputs (7major+10848minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.66user 0.16system 0:18.04elapsed 381%CPU (0avgtext+0avgdata 32360maxresident)k
+0inputs+16480outputs (7major+10843minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.74user 0.23system 0:18.03elapsed 382%CPU (0avgtext+0avgdata 32340maxresident)k
+0inputs+16472outputs (7major+10837minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.67user 0.09system 0:17.97elapsed 382%CPU (0avgtext+0avgdata 32748maxresident)k
+0inputs+16480outputs (7major+10853minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.74user 0.22system 0:18.09elapsed 381%CPU (0avgtext+0avgdata 32464maxresident)k
+0inputs+16472outputs (7major+10903minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+68.70user 0.18system 0:18.05elapsed 381%CPU (0avgtext+0avgdata 32476maxresident)k
+0inputs+16480outputs (7major+10855minor)pagefaults 0swaps
+DAC_O2_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.95user 0.75system 0:10.48elapsed 340%CPU (0avgtext+0avgdata 32940maxresident)k
+0inputs+16472outputs (7major+11179minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+35.27user 1.13system 0:11.09elapsed 328%CPU (0avgtext+0avgdata 32740maxresident)k
+0inputs+16480outputs (7major+11144minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.69user 0.56system 0:10.06elapsed 350%CPU (0avgtext+0avgdata 32528maxresident)k
+0inputs+16472outputs (7major+11113minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.82user 0.56system 0:10.22elapsed 346%CPU (0avgtext+0avgdata 32704maxresident)k
+0inputs+16472outputs (7major+11139minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+35.25user 1.03system 0:10.90elapsed 332%CPU (0avgtext+0avgdata 32936maxresident)k
+0inputs+16480outputs (7major+11144minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.98user 0.66system 0:10.37elapsed 343%CPU (0avgtext+0avgdata 32956maxresident)k
+0inputs+16472outputs (7major+11171minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+35.04user 0.81system 0:10.63elapsed 337%CPU (0avgtext+0avgdata 32504maxresident)k
+0inputs+16480outputs (7major+11116minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+34.75user 0.43system 0:09.94elapsed 353%CPU (0avgtext+0avgdata 32700maxresident)k
+0inputs+16472outputs (7major+11142minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+35.22user 0.96system 0:10.74elapsed 336%CPU (0avgtext+0avgdata 32536maxresident)k
+0inputs+16472outputs (7major+11134minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+35.07user 0.74system 0:10.51elapsed 340%CPU (0avgtext+0avgdata 32932maxresident)k
+0inputs+16472outputs (7major+11121minor)pagefaults 0swaps
+DAC_1
+No protocol specified
+
+Result is 0.688172
+1284.40user 0.05system 21:24.76elapsed 99%CPU (0avgtext+0avgdata 31336maxresident)k
+40inputs+16488outputs (7major+6281minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1284.10user 0.07system 21:24.44elapsed 99%CPU (0avgtext+0avgdata 31232maxresident)k
+0inputs+16488outputs (7major+6280minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1284.65user 0.05system 21:24.96elapsed 99%CPU (0avgtext+0avgdata 31600maxresident)k
+0inputs+16488outputs (7major+6289minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1284.28user 0.05system 21:24.63elapsed 99%CPU (0avgtext+0avgdata 31440maxresident)k
+0inputs+16488outputs (7major+6291minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1285.30user 0.07system 21:25.66elapsed 99%CPU (0avgtext+0avgdata 31352maxresident)k
+0inputs+16496outputs (7major+6288minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1285.69user 0.04system 21:26.03elapsed 99%CPU (0avgtext+0avgdata 31660maxresident)k
+0inputs+16488outputs (7major+6298minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1284.46user 0.05system 21:24.75elapsed 99%CPU (0avgtext+0avgdata 31208maxresident)k
+0inputs+16488outputs (7major+6280minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1285.63user 0.02system 21:25.95elapsed 99%CPU (0avgtext+0avgdata 31476maxresident)k
+0inputs+16488outputs (7major+6285minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1284.77user 0.03system 21:25.06elapsed 99%CPU (0avgtext+0avgdata 31656maxresident)k
+0inputs+16488outputs (7major+6284minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1586.37user 0.06system 26:26.68elapsed 99%CPU (0avgtext+0avgdata 31396maxresident)k
+0inputs+16496outputs (7major+6293minor)pagefaults 0swaps
+DAC_2
+No protocol specified
+
+Result is 0.688172
+1310.48user 0.07system 10:55.63elapsed 199%CPU (0avgtext+0avgdata 31376maxresident)k
+0inputs+16488outputs (7major+7690minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1310.27user 0.08system 10:55.55elapsed 199%CPU (0avgtext+0avgdata 31212maxresident)k
+0inputs+16496outputs (7major+7702minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1309.84user 0.07system 10:55.31elapsed 199%CPU (0avgtext+0avgdata 31668maxresident)k
+0inputs+16496outputs (7major+7703minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.46eb0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1571252] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1571252] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+1310.14user 0.05system 10:55.48elapsed 199%CPU (0avgtext+0avgdata 31392maxresident)k
+0inputs+16488outputs (7major+7704minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1310.08user 0.07system 10:55.45elapsed 199%CPU (0avgtext+0avgdata 31224maxresident)k
+0inputs+16488outputs (7major+7702minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1309.78user 0.09system 10:55.27elapsed 199%CPU (0avgtext+0avgdata 31776maxresident)k
+0inputs+16488outputs (7major+7701minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1309.96user 0.09system 10:55.40elapsed 199%CPU (0avgtext+0avgdata 31252maxresident)k
+0inputs+16488outputs (7major+7702minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1309.75user 0.04system 10:55.25elapsed 199%CPU (0avgtext+0avgdata 31260maxresident)k
+0inputs+16488outputs (7major+7706minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.be9c0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1573324] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1573324] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+1310.85user 0.07system 10:55.93elapsed 199%CPU (0avgtext+0avgdata 31604maxresident)k
+0inputs+16488outputs (7major+7708minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1457.54user 0.10system 13:20.73elapsed 182%CPU (0avgtext+0avgdata 31160maxresident)k
+0inputs+16488outputs (7major+7700minor)pagefaults 0swaps
+DAC_4
+No protocol specified
+
+Result is 0.688172
+1341.24user 0.11system 5:35.71elapsed 399%CPU (0avgtext+0avgdata 31384maxresident)k
+0inputs+16488outputs (7major+10506minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1422.95user 0.38system 6:53.50elapsed 344%CPU (0avgtext+0avgdata 31416maxresident)k
+0inputs+16496outputs (7major+10469minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.66user 0.15system 5:35.85elapsed 399%CPU (0avgtext+0avgdata 31608maxresident)k
+0inputs+16488outputs (7major+10504minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.48user 0.11system 5:35.76elapsed 399%CPU (0avgtext+0avgdata 31636maxresident)k
+0inputs+16496outputs (7major+10478minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.24user 0.11system 5:35.72elapsed 399%CPU (0avgtext+0avgdata 31660maxresident)k
+0inputs+16488outputs (7major+10501minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.49user 0.13system 5:35.75elapsed 399%CPU (0avgtext+0avgdata 31220maxresident)k
+0inputs+16488outputs (7major+10476minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.33user 0.11system 5:35.75elapsed 399%CPU (0avgtext+0avgdata 31368maxresident)k
+0inputs+16496outputs (7major+10463minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.b4c50001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1575829] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1575829] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+1342.82user 0.14system 5:36.19elapsed 399%CPU (0avgtext+0avgdata 31384maxresident)k
+0inputs+16488outputs (7major+10509minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.41user 0.16system 5:35.78elapsed 399%CPU (0avgtext+0avgdata 31612maxresident)k
+0inputs+16496outputs (7major+10482minor)pagefaults 0swaps
+No protocol specified
+
+Result is 0.688172
+1341.50user 0.14system 5:35.82elapsed 399%CPU (0avgtext+0avgdata 31604maxresident)k
+0inputs+16488outputs (7major+10464minor)pagefaults 0swaps
+DAC_8
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.97user 0.13system 2:48.60elapsed 398%CPU (0avgtext+0avgdata 32448maxresident)k
+0inputs+16496outputs (7major+10727minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.66user 0.17system 2:48.41elapsed 398%CPU (0avgtext+0avgdata 32336maxresident)k
+0inputs+16496outputs (7major+10726minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.75user 0.10system 2:48.42elapsed 398%CPU (0avgtext+0avgdata 32156maxresident)k
+0inputs+16488outputs (7major+10714minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+693.13user 18.22system 3:26.92elapsed 343%CPU (0avgtext+0avgdata 32400maxresident)k
+0inputs+16496outputs (7major+10719minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+671.08user 0.15system 2:48.53elapsed 398%CPU (0avgtext+0avgdata 32196maxresident)k
+0inputs+16488outputs (7major+10756minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.69user 0.15system 2:48.41elapsed 398%CPU (0avgtext+0avgdata 32516maxresident)k
+0inputs+16488outputs (7major+10714minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.67user 0.16system 2:48.43elapsed 398%CPU (0avgtext+0avgdata 32068maxresident)k
+0inputs+16496outputs (7major+10696minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.86user 0.15system 2:48.50elapsed 398%CPU (0avgtext+0avgdata 32056maxresident)k
+0inputs+16488outputs (7major+10697minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.67user 0.15system 2:48.41elapsed 398%CPU (0avgtext+0avgdata 32064maxresident)k
+0inputs+16488outputs (7major+10727minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+670.72user 0.17system 2:48.38elapsed 398%CPU (0avgtext+0avgdata 32184maxresident)k
+0inputs+16488outputs (7major+10686minor)pagefaults 0swaps
+DAC_16
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.70user 0.30system 1:25.09elapsed 394%CPU (0avgtext+0avgdata 32176maxresident)k
+0inputs+16488outputs (7major+10753minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+346.10user 10.30system 1:44.16elapsed 342%CPU (0avgtext+0avgdata 32240maxresident)k
+0inputs+16488outputs (7major+10727minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.63user 0.18system 1:24.78elapsed 396%CPU (0avgtext+0avgdata 32136maxresident)k
+0inputs+16488outputs (7major+10773minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.67user 0.28system 1:24.85elapsed 395%CPU (0avgtext+0avgdata 32240maxresident)k
+0inputs+16488outputs (7major+10752minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+365.10user 10.18system 1:44.11elapsed 360%CPU (0avgtext+0avgdata 32548maxresident)k
+0inputs+16488outputs (7major+10764minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.52user 0.21system 1:24.79elapsed 395%CPU (0avgtext+0avgdata 32488maxresident)k
+0inputs+16488outputs (7major+10757minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.54user 0.20system 1:24.87elapsed 395%CPU (0avgtext+0avgdata 32124maxresident)k
+0inputs+16488outputs (7major+10760minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.66user 0.20system 1:24.85elapsed 395%CPU (0avgtext+0avgdata 32444maxresident)k
+0inputs+16488outputs (7major+10783minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.aabd0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:1578477] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:1578477] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+336.63user 0.16system 1:24.98elapsed 396%CPU (0avgtext+0avgdata 32200maxresident)k
+0inputs+16488outputs (7major+10760minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+335.61user 0.30system 1:24.86elapsed 395%CPU (0avgtext+0avgdata 32216maxresident)k
+0inputs+16488outputs (7major+10780minor)pagefaults 0swaps
+DAC_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+168.21user 0.39system 0:43.41elapsed 388%CPU (0avgtext+0avgdata 32460maxresident)k
+0inputs+16488outputs (7major+10824minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+167.93user 0.24system 0:42.84elapsed 392%CPU (0avgtext+0avgdata 32304maxresident)k
+0inputs+16488outputs (7major+10855minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+172.34user 5.50system 0:52.18elapsed 340%CPU (0avgtext+0avgdata 32112maxresident)k
+0inputs+16488outputs (7major+10885minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+167.88user 0.17system 0:42.87elapsed 391%CPU (0avgtext+0avgdata 32372maxresident)k
+0inputs+16488outputs (7major+10861minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+167.96user 0.23system 0:42.86elapsed 392%CPU (0avgtext+0avgdata 32692maxresident)k
+0inputs+16488outputs (7major+10880minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+172.76user 5.52system 0:52.54elapsed 339%CPU (0avgtext+0avgdata 32468maxresident)k
+0inputs+16488outputs (7major+10895minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+168.00user 0.17system 0:42.89elapsed 392%CPU (0avgtext+0avgdata 32188maxresident)k
+0inputs+16488outputs (7major+10858minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+168.03user 0.21system 0:42.83elapsed 392%CPU (0avgtext+0avgdata 32440maxresident)k
+0inputs+16488outputs (7major+10889minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+181.53user 5.58system 0:52.14elapsed 358%CPU (0avgtext+0avgdata 32436maxresident)k
+0inputs+16488outputs (7major+10855minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+172.69user 5.50system 0:52.41elapsed 340%CPU (0avgtext+0avgdata 32516maxresident)k
+0inputs+16488outputs (7major+10839minor)pagefaults 0swaps
+DAC_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+88.63user 5.86system 0:31.59elapsed 299%CPU (0avgtext+0avgdata 32760maxresident)k
+0inputs+16480outputs (7major+11110minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+88.18user 5.47system 0:30.76elapsed 304%CPU (0avgtext+0avgdata 32980maxresident)k
+0inputs+16480outputs (7major+11194minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+87.60user 4.81system 0:29.57elapsed 312%CPU (0avgtext+0avgdata 32764maxresident)k
+0inputs+16480outputs (7major+11174minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+88.47user 5.88system 0:31.40elapsed 300%CPU (0avgtext+0avgdata 32552maxresident)k
+0inputs+16488outputs (7major+11130minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+87.17user 4.51system 0:28.87elapsed 317%CPU (0avgtext+0avgdata 32572maxresident)k
+0inputs+16480outputs (7major+11123minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+87.93user 4.99system 0:29.94elapsed 310%CPU (0avgtext+0avgdata 32740maxresident)k
+0inputs+16480outputs (7major+11143minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+90.65user 8.89system 0:36.26elapsed 274%CPU (0avgtext+0avgdata 32516maxresident)k
+0inputs+16488outputs (7major+11177minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+89.75user 7.76system 0:34.42elapsed 283%CPU (0avgtext+0avgdata 32964maxresident)k
+0inputs+16488outputs (7major+11109minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+90.19user 8.12system 0:35.20elapsed 279%CPU (0avgtext+0avgdata 32716maxresident)k
+0inputs+16488outputs (7major+11160minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Result is 0.688172
+87.80user 5.04system 0:29.99elapsed 309%CPU (0avgtext+0avgdata 32684maxresident)k
+0inputs+16480outputs (7major+11132minor)pagefaults 0swaps

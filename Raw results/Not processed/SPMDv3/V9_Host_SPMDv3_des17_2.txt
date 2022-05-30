@@ -1,0 +1,464 @@
+SPMDv3_O3_native_8
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.02system 0:00.24elapsed 20%CPU (0avgtext+0avgdata 23144maxresident)k
+16inputs+56outputs (1major+3257minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.04system 0:00.17elapsed 42%CPU (0avgtext+0avgdata 23048maxresident)k
+0inputs+56outputs (1major+3260minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.01user 0.04system 0:00.16elapsed 35%CPU (0avgtext+0avgdata 22992maxresident)k
+0inputs+64outputs (1major+3256minor)pagefaults 0swaps
+SPMDv3_O3_8
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.02system 0:00.19elapsed 28%CPU (0avgtext+0avgdata 23104maxresident)k
+0inputs+56outputs (1major+3259minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.04user 0.03system 0:00.19elapsed 45%CPU (0avgtext+0avgdata 23152maxresident)k
+0inputs+56outputs (1major+3259minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.03system 0:00.17elapsed 36%CPU (0avgtext+0avgdata 22868maxresident)k
+0inputs+64outputs (1major+3250minor)pagefaults 0swaps
+SPMDv3_O2_8
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.01user 0.04system 0:00.16elapsed 37%CPU (0avgtext+0avgdata 22836maxresident)k
+0inputs+56outputs (1major+3240minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.03system 0:00.15elapsed 38%CPU (0avgtext+0avgdata 23132maxresident)k
+0inputs+64outputs (1major+3263minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.03system 0:00.16elapsed 36%CPU (0avgtext+0avgdata 22880maxresident)k
+0inputs+64outputs (1major+3241minor)pagefaults 0swaps
+SPMDv3_8
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.01user 0.04system 0:00.17elapsed 37%CPU (0avgtext+0avgdata 22996maxresident)k
+0inputs+56outputs (1major+3256minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.01user 0.04system 0:00.18elapsed 32%CPU (0avgtext+0avgdata 22984maxresident)k
+0inputs+56outputs (1major+3252minor)pagefaults 0swaps
+No protocol specified
+Permission denied, please try again.
+Permission denied, please try again.
+student@172.20.83.218: Permission denied (publickey,password).
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+Command exited with non-zero status 255
+0.02user 0.03system 0:00.16elapsed 34%CPU (0avgtext+0avgdata 22984maxresident)k
+0inputs+64outputs (1major+3258minor)pagefaults 0swaps
+SPMDv3_O3_native_8
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+558.07user 7.43system 2:22.19elapsed 397%CPU (0avgtext+0avgdata 206160maxresident)k
+0inputs+16488outputs (7major+206454minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+557.15user 7.47system 2:21.84elapsed 398%CPU (0avgtext+0avgdata 206200maxresident)k
+0inputs+16488outputs (7major+206484minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+557.59user 7.26system 2:21.95elapsed 397%CPU (0avgtext+0avgdata 206360maxresident)k
+0inputs+16488outputs (7major+206479minor)pagefaults 0swaps
+SPMDv3_O3_8
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+558.19user 7.42system 2:22.11elapsed 398%CPU (0avgtext+0avgdata 206388maxresident)k
+0inputs+16488outputs (7major+206447minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+558.42user 7.49system 2:22.17elapsed 398%CPU (0avgtext+0avgdata 206120maxresident)k
+0inputs+16488outputs (7major+206471minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+565.57user 8.23system 2:24.12elapsed 398%CPU (0avgtext+0avgdata 206184maxresident)k
+0inputs+16488outputs (7major+206455minor)pagefaults 0swaps
+SPMDv3_O2_8
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+557.97user 7.45system 2:22.11elapsed 397%CPU (0avgtext+0avgdata 206068maxresident)k
+0inputs+16488outputs (7major+206451minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+557.94user 7.36system 2:21.99elapsed 398%CPU (0avgtext+0avgdata 206272maxresident)k
+0inputs+16488outputs (7major+206460minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+560.79user 7.89system 2:22.89elapsed 397%CPU (0avgtext+0avgdata 206364maxresident)k
+0inputs+16488outputs (7major+206443minor)pagefaults 0swaps
+SPMDv3_8
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+19469.69user 28.59system 1:21:15elapsed 399%CPU (0avgtext+0avgdata 206336maxresident)k
+0inputs+16488outputs (7major+206451minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+19400.78user 9.24system 1:20:53elapsed 399%CPU (0avgtext+0avgdata 206308maxresident)k
+0inputs+16496outputs (7major+206467minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+19399.77user 8.47system 1:20:52elapsed 399%CPU (0avgtext+0avgdata 206280maxresident)k
+0inputs+16496outputs (7major+206424minor)pagefaults 0swaps

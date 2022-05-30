@@ -1,0 +1,358 @@
+nohup: zignorowane dane wejściowe
+SPMDv4_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+./tests4_bes.sh: linia 5: 64441 Unicestwiony            timeout -s 9 1500s time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4 200 400 600 300
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+4911.77user 71.48system 20:46.78elapsed 399%CPU (0avgtext+0avgdata 36204maxresident)k
+0inputs+16496outputs (7major+37009minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+5227.64user 267.78system 22:55.54elapsed 399%CPU (0avgtext+0avgdata 36064maxresident)k
+0inputs+16496outputs (7major+37038minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+4896.09user 59.24system 20:39.81elapsed 399%CPU (0avgtext+0avgdata 36220maxresident)k
+0inputs+16496outputs (7major+36993minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+5203.04user 203.15system 22:32.82elapsed 399%CPU (0avgtext+0avgdata 36216maxresident)k
+0inputs+16496outputs (7major+36997minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.b2650001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:68908] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:68908] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+5154.86user 267.65system 22:37.03elapsed 399%CPU (0avgtext+0avgdata 36112maxresident)k
+16inputs+16504outputs (7major+37036minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+5145.04user 271.65system 22:35.54elapsed 399%CPU (0avgtext+0avgdata 36108maxresident)k
+0inputs+16488outputs (7major+37010minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+5158.25user 283.32system 22:41.81elapsed 399%CPU (0avgtext+0avgdata 36020maxresident)k
+0inputs+16496outputs (7major+37063minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+5101.20user 234.05system 22:15.11elapsed 399%CPU (0avgtext+0avgdata 36064maxresident)k
+0inputs+16496outputs (7major+37012minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+5226.45user 339.96system 23:13.03elapsed 399%CPU (0avgtext+0avgdata 36156maxresident)k
+0inputs+16496outputs (7major+37012minor)pagefaults 0swaps
+SPMDv4_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.a1a50001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:73452] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:73452] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+10259.71user 515.56system 44:55.57elapsed 399%CPU (0avgtext+0avgdata 60804maxresident)k
+8inputs+16488outputs (7major+61535minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.9af00001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:75193] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:75193] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+9898.20user 199.57system 42:05.85elapsed 399%CPU (0avgtext+0avgdata 61040maxresident)k
+0inputs+16504outputs (7major+61501minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+10248.86user 509.47system 44:51.22elapsed 399%CPU (0avgtext+0avgdata 60960maxresident)k
+0inputs+16496outputs (7major+61512minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.8be60001.3
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:79023] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:79023] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+10244.36user 505.29system 44:49.14elapsed 399%CPU (0avgtext+0avgdata 60904maxresident)k
+0inputs+16496outputs (7major+61527minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.84230001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:80746] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:80746] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+9759.91user 86.43system 41:02.67elapsed 399%CPU (0avgtext+0avgdata 60912maxresident)k
+0inputs+16496outputs (7major+61516minor)pagefaults 0swaps
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node des01 exited on signal 9 (Killed).
+--------------------------------------------------------------------------

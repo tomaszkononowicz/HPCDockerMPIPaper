@@ -1,0 +1,41 @@
+SPMDv4_16
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.2.34]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.2.30]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.2.32]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real	1h 20m 18s
+user	5h 20m 43s
+sys	0m 27.12s
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.2.32]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.2.34]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.2.30]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real	1h 20m 19s
+user	5h 20m 48s
+sys	0m 28.44s
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.2.30]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.2.32]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.2.34]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real	1h 20m 18s
+user	5h 20m 45s
+sys	0m 27.26s
+SPMDv4_12
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.2.32]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.2.30]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+real	1h 46m 40s
+user	7h 6m 22s
+sys	0m 17.60s
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.2.32]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.2.30]:2222' (ECDSA) to the list of known hosts.

@@ -1,0 +1,184 @@
+SPMDv3_O3_native_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1019.54user 0.42system 17:00.23elapsed 99%CPU (0avgtext+0avgdata 1548636maxresident)k
+520inputs+16488outputs (12major+391031minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1018.38user 0.38system 16:59.05elapsed 99%CPU (0avgtext+0avgdata 1548636maxresident)k
+0inputs+16488outputs (7major+391026minor)pagefaults 0swaps
+SPMDv3_O3_native_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1038.64user 0.45system 8:39.90elapsed 199%CPU (0avgtext+0avgdata 782288maxresident)k
+0inputs+16488outputs (7major+393792minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1038.56user 0.48system 8:39.88elapsed 199%CPU (0avgtext+0avgdata 782264maxresident)k
+0inputs+16488outputs (7major+393776minor)pagefaults 0swaps
+SPMDv3_O3_native_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1065.96user 0.66system 4:27.01elapsed 399%CPU (0avgtext+0avgdata 398216maxresident)k
+0inputs+16488outputs (7major+398610minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1065.99user 0.59system 4:27.03elapsed 399%CPU (0avgtext+0avgdata 398172maxresident)k
+0inputs+16488outputs (7major+398575minor)pagefaults 0swaps
+SPMDv3_O3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1020.65user 0.38system 17:01.33elapsed 99%CPU (0avgtext+0avgdata 1548600maxresident)k
+0inputs+16488outputs (7major+391029minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1019.24user 0.42system 16:59.92elapsed 99%CPU (0avgtext+0avgdata 1548176maxresident)k
+0inputs+16488outputs (7major+391015minor)pagefaults 0swaps
+SPMDv3_O3_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1040.63user 0.47system 8:40.85elapsed 199%CPU (0avgtext+0avgdata 782300maxresident)k
+0inputs+16488outputs (7major+393772minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1041.20user 0.50system 8:41.19elapsed 199%CPU (0avgtext+0avgdata 782308maxresident)k
+0inputs+16504outputs (7major+393789minor)pagefaults 0swaps
+SPMDv3_O3_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1068.12user 0.64system 4:27.56elapsed 399%CPU (0avgtext+0avgdata 398152maxresident)k
+0inputs+16488outputs (7major+398609minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1067.67user 0.57system 4:27.43elapsed 399%CPU (0avgtext+0avgdata 398116maxresident)k
+0inputs+16488outputs (7major+398599minor)pagefaults 0swaps
+SPMDv3_O2_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1019.95user 0.41system 17:00.67elapsed 99%CPU (0avgtext+0avgdata 1548228maxresident)k
+0inputs+16488outputs (7major+391016minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1018.18user 0.44system 16:58.88elapsed 99%CPU (0avgtext+0avgdata 1548464maxresident)k
+0inputs+16488outputs (7major+391011minor)pagefaults 0swaps
+SPMDv3_O2_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1040.30user 0.46system 8:40.75elapsed 199%CPU (0avgtext+0avgdata 782168maxresident)k
+0inputs+16488outputs (7major+393780minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1051.73user 0.48system 8:46.47elapsed 199%CPU (0avgtext+0avgdata 782296maxresident)k
+0inputs+16488outputs (7major+393781minor)pagefaults 0swaps
+SPMDv3_O2_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1067.70user 0.54system 4:27.41elapsed 399%CPU (0avgtext+0avgdata 398160maxresident)k
+0inputs+16488outputs (7major+398579minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1067.37user 0.57system 4:27.35elapsed 399%CPU (0avgtext+0avgdata 398212maxresident)k
+0inputs+16488outputs (7major+398612minor)pagefaults 0swaps
+SPMDv3_1
+No protocol specified
+SPMDv3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+37064.98user 0.49system 10:17:45elapsed 99%CPU (0avgtext+0avgdata 1548608maxresident)k
+0inputs+16488outputs (7major+391017minor)pagefaults 0swaps
+No protocol specified
+SPMDv3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+37069.12user 0.51system 10:17:49elapsed 99%CPU (0avgtext+0avgdata 1548628maxresident)k
+0inputs+16488outputs (7major+391022minor)pagefaults 0swaps
+SPMDv3_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+37830.27user 0.83system 5:15:16elapsed 199%CPU (0avgtext+0avgdata 782304maxresident)k
+0inputs+16488outputs (7major+393783minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+37829.55user 0.79system 5:15:16elapsed 199%CPU (0avgtext+0avgdata 782192maxresident)k
+0inputs+16488outputs (7major+393794minor)pagefaults 0swaps
+SPMDv3_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+40503.87user 1.82system 2:48:47elapsed 399%CPU (0avgtext+0avgdata 398196maxresident)k
+0inputs+16488outputs (7major+398564minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+38768.33user 1.56system 2:41:33elapsed 399%CPU (0avgtext+0avgdata 398196maxresident)k
+0inputs+16488outputs (7major+398608minor)pagefaults 0swaps

@@ -1,0 +1,2815 @@
+nohup: zignorowane dane wejściowe
+SPMDv2_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.b33c0001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:03188] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:03188] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	33m36,209s
+user	67m10,178s
+sys	0m0,567s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.ad8d0001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:04805] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:04805] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	33m35,245s
+user	67m9,311s
+sys	0m0,442s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	33m35,270s
+user	67m9,412s
+sys	0m0,408s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.a3270001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:07279] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:07279] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	33m35,134s
+user	67m8,973s
+sys	0m0,537s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	33m34,682s
+user	67m8,183s
+sys	0m0,475s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.990d0001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:09797] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:09797] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	33m34,593s
+user	67m8,096s
+sys	0m0,442s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	33m34,823s
+user	67m8,520s
+sys	0m0,405s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.90a60001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:12270] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:12270] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	33m35,022s
+user	67m8,872s
+sys	0m0,414s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	33m34,494s
+user	67m7,773s
+sys	0m0,502s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.86fa0001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:14770] 1 more process has sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:14770] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	33m34,681s
+user	67m8,168s
+sys	0m0,432s
+SPMDv2_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	18m53,081s
+user	75m29,070s
+sys	0m0,776s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.fe7e0001.2
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:16694] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:16694] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	17m12,858s
+user	68m48,977s
+sys	0m0,693s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	17m17,517s
+user	69m7,748s
+sys	0m0,756s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	17m12,207s
+user	68m46,460s
+sys	0m0,849s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.f5550001.3
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:18973] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:18973] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	17m16,477s
+user	69m3,596s
+sys	0m0,756s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	17m12,191s
+user	68m46,586s
+sys	0m0,681s
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	17m12,343s
+user	68m47,117s
+sys	0m0,734s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	17m12,026s
+user	68m45,480s
+sys	0m1,047s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.ebdf0001.2
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:21655] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:21655] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	17m12,281s
+user	68m46,523s
+sys	0m1,090s
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	17m11,999s
+user	68m45,670s
+sys	0m0,885s
+SPMDv2_8
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,475s
+user	34m46,743s
+sys	0m7,489s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,330s
+user	34m46,332s
+sys	0m7,963s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,269s
+user	34m46,246s
+sys	0m7,898s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.e1550001.2
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:24093] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:24093] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	8m44,513s
+user	34m47,285s
+sys	0m7,897s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,231s
+user	34m46,148s
+sys	0m7,795s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,261s
+user	34m46,287s
+sys	0m7,818s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	9m27,783s
+user	37m1,297s
+sys	0m46,626s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,270s
+user	34m46,553s
+sys	0m7,497s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	9m30,802s
+user	37m12,415s
+sys	0m47,420s
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	8m44,250s
+user	34m46,627s
+sys	0m7,275s
+SPMDv2_12
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.d8390001.3
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:26481] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:26481] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	6m18,041s
+user	24m18,428s
+sys	0m48,504s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,441s
+user	23m20,227s
+sys	0m18,615s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,849s
+user	23m21,453s
+sys	0m19,009s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	6m17,553s
+user	24m29,523s
+sys	0m37,584s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,647s
+user	23m20,430s
+sys	0m19,062s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,546s
+user	23m20,837s
+sys	0m18,378s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,693s
+user	23m21,630s
+sys	0m18,273s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,422s
+user	23m20,254s
+sys	0m18,421s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,810s
+user	23m21,274s
+sys	0m18,876s
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	5m55,489s
+user	23m20,229s
+sys	0m18,647s
+SPMDv2_16
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.cea50001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:29165] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:29165] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	4m32,334s
+user	17m38,918s
+sys	0m24,969s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m40,482s
+user	17m58,571s
+sys	0m40,322s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m31,346s
+user	17m38,112s
+sys	0m24,311s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m31,469s
+user	17m38,361s
+sys	0m24,751s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m31,571s
+user	17m38,090s
+sys	0m25,192s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	4m32,701s
+user	17m41,429s
+sys	0m26,575s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m31,406s
+user	17m37,855s
+sys	0m24,824s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m31,398s
+user	17m37,662s
+sys	0m24,910s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m31,610s
+user	17m38,424s
+sys	0m24,691s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m54,278s
+user	18m28,608s
+sys	1m5,041s
+SPMDv2_20
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m40,633s
+user	14m12,814s
+sys	0m24,325s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m40,106s
+user	14m12,442s
+sys	0m25,011s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	4m0,102s
+user	15m3,572s
+sys	0m53,661s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.c4980001.3
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:31696] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:31696] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	4m0,338s
+user	14m57,408s
+sys	1m0,472s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m40,146s
+user	14m13,046s
+sys	0m24,476s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m40,033s
+user	14m12,649s
+sys	0m24,257s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	3m52,782s
+user	14m39,931s
+sys	0m47,310s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m56,181s
+user	14m47,960s
+sys	0m53,664s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	3m57,717s
+user	14m51,955s
+sys	0m55,600s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	3m58,922s
+user	14m55,173s
+sys	0m57,353s
+SPMDv2_24
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m5,593s
+user	11m55,933s
+sys	0m23,542s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m3,311s
+user	11m48,658s
+sys	0m21,605s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m6,582s
+user	11m58,039s
+sys	0m25,136s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m3,210s
+user	11m47,982s
+sys	0m21,522s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m8,113s
+user	11m58,463s
+sys	0m30,828s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m3,126s
+user	11m48,603s
+sys	0m20,865s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m15,937s
+user	12m15,355s
+sys	0m45,263s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m14,482s
+user	12m12,526s
+sys	0m42,151s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m3,078s
+user	11m47,889s
+sys	0m21,398s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m17,329s
+user	12m18,601s
+sys	0m47,626s
+SPMDv2_28
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m46,589s
+user	10m25,877s
+sys	0m35,114s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.39130001.2
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:34395] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:34395] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	2m41,261s
+user	10m15,622s
+sys	0m26,282s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m40,622s
+user	10m14,187s
+sys	0m25,185s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m52,410s
+user	10m40,326s
+sys	0m45,928s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m56,949s
+user	10m50,053s
+sys	0m54,177s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m53,193s
+user	10m41,735s
+sys	0m47,708s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m48,061s
+user	10m29,911s
+sys	0m38,979s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m52,653s
+user	10m40,659s
+sys	0m46,445s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m40,714s
+user	10m14,304s
+sys	0m25,437s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m56,290s
+user	10m48,342s
+sys	0m53,663s
+SPMDv2_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m28,673s
+user	9m15,615s
+sys	0m35,396s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m18,178s
+user	8m53,299s
+sys	0m16,180s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m25,273s
+user	9m13,230s
+sys	0m24,868s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m28,263s
+user	9m14,562s
+sys	0m34,896s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m25,589s
+user	9m9,225s
+sys	0m29,844s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m27,566s
+user	9m13,332s
+sys	0m33,269s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m33,169s
+user	9m25,283s
+sys	0m44,161s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m18,037s
+user	8m52,693s
+sys	0m16,307s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m30,009s
+user	9m19,117s
+sys	0m37,777s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m30,986s
+user	9m25,810s
+sys	0m34,808s
+SPMDv2_36
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m7,901s
+user	8m3,158s
+sys	0m23,644s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m5,770s
+user	7m59,522s
+sys	0m20,184s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m12,198s
+user	8m13,092s
+sys	0m32,248s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m10,258s
+user	8m9,127s
+sys	0m28,552s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.2e300001.2
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:37240] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:37240] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	2m14,641s
+user	8m23,415s
+sys	0m31,922s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m15,582s
+user	8m20,460s
+sys	0m38,239s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m5,650s
+user	7m58,865s
+sys	0m20,310s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m5,554s
+user	7m58,750s
+sys	0m20,195s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m5,950s
+user	8m0,050s
+sys	0m20,259s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m5,853s
+user	7m59,288s
+sys	0m20,907s
+SPMDv2_40
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m52,605s
+user	7m9,012s
+sys	0m15,924s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m2,234s
+user	7m31,471s
+sys	0m34,043s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m59,621s
+user	7m26,184s
+sys	0m29,350s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m56,777s
+user	7m19,952s
+sys	0m23,761s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m58,050s
+user	7m22,057s
+sys	0m26,758s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m0,805s
+user	7m28,309s
+sys	0m31,675s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	2m1,893s
+user	7m31,056s
+sys	0m33,058s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m52,146s
+user	7m9,405s
+sys	0m16,071s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m58,413s
+user	7m22,528s
+sys	0m27,664s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	2m1,298s
+user	7m29,344s
+sys	0m32,385s
+SPMDv2_44
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m49,121s
+user	6m45,237s
+sys	0m27,323s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m48,082s
+user	6m42,668s
+sys	0m26,442s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m47,890s
+user	6m42,293s
+sys	0m26,020s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m47,785s
+user	6m41,643s
+sys	0m26,403s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m47,842s
+user	6m41,464s
+sys	0m26,521s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m47,730s
+user	6m41,788s
+sys	0m25,442s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m51,758s
+user	6m51,100s
+sys	0m32,512s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m50,174s
+user	6m47,238s
+sys	0m30,099s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m49,286s
+user	6m45,284s
+sys	0m28,473s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m57,393s
+user	7m2,855s
+sys	0m43,457s
+SPMDv2_48
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m35,385s
+user	6m0,451s
+sys	0m15,803s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m34,714s
+user	6m1,239s
+sys	0m14,247s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m41,578s
+user	6m19,325s
+sys	0m23,465s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m34,826s
+user	6m0,766s
+sys	0m15,275s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.21710001.0
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:40505] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:40505] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	1m40,382s
+user	6m12,842s
+sys	0m24,976s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m38,961s
+user	6m9,286s
+sys	0m23,345s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m34,530s
+user	6m0,010s
+sys	0m14,962s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m41,390s
+user	6m14,550s
+sys	0m27,643s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m41,674s
+user	6m15,931s
+sys	0m27,626s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m40,645s
+user	6m13,002s
+sys	0m26,055s
+SPMDv2_52
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m41,270s
+user	6m2,726s
+sys	0m38,223s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	3m2,994s
+user	9m4,310s
+sys	3m1,232s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m38,385s
+user	5m56,531s
+sys	0m33,691s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m40,793s
+user	6m2,147s
+sys	0m37,614s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m33,969s
+user	5m46,900s
+sys	0m25,849s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m34,851s
+user	5m49,304s
+sys	0m26,683s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m38,362s
+user	5m56,429s
+sys	0m33,644s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m33,990s
+user	5m46,897s
+sys	0m25,645s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m37,090s
+user	5m54,350s
+sys	0m30,780s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m39,858s
+user	6m0,145s
+sys	0m36,011s
+SPMDv2_56
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m23,481s
+user	5m12,432s
+sys	0m17,940s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m24,734s
+user	5m15,270s
+sys	0m20,478s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m22,458s
+user	5m9,928s
+sys	0m16,367s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m24,525s
+user	5m14,947s
+sys	0m19,892s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m29,818s
+user	5m26,092s
+sys	0m29,726s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m23,310s
+user	5m12,106s
+sys	0m17,796s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m29,009s
+user	5m25,107s
+sys	0m27,307s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m28,582s
+user	5m23,482s
+sys	0m27,431s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m27,134s
+user	5m20,802s
+sys	0m24,448s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m25,086s
+user	5m15,855s
+sys	0m21,276s
+SPMDv2_60
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m23,849s
+user	5m5,126s
+sys	0m26,532s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m20,302s
+user	5m0,743s
+sys	0m17,198s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m20,714s
+user	4m58,713s
+sys	0m20,723s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m17,581s
+user	4m51,973s
+sys	0m15,351s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m22,307s
+user	5m1,739s
+sys	0m23,957s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m22,898s
+user	5m3,098s
+sys	0m25,054s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m18,153s
+user	4m53,232s
+sys	0m16,024s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m22,178s
+user	5m1,633s
+sys	0m23,427s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m24,045s
+user	5m6,119s
+sys	0m26,821s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m22,834s
+user	5m2,802s
+sys	0m25,189s
+SPMDv2_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m13,081s
+user	4m33,093s
+sys	0m13,631s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+--------------------------------------------------------------------------
+A system call failed during shared memory initialization that should
+not have.  It is likely that your MPI job will now either abort or
+experience performance degradation.
+
+  Local host:  des01.kask.eti.pg.gda.pl
+  System call: unlink(2) /dev/shm/vader_segment.des01.14970001.1
+  Error:       No such file or directory (errno 2)
+--------------------------------------------------------------------------
+[des01.kask.eti.pg.gda.pl:43999] 3 more processes have sent help message help-opal-shmem-mmap.txt / sys call fail
+[des01.kask.eti.pg.gda.pl:43999] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+real	1m17,138s
+user	4m43,189s
+sys	0m21,800s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m20,382s
+user	4m52,673s
+sys	0m25,243s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m13,578s
+user	4m35,599s
+sys	0m15,526s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+real	1m17,545s
+user	4m43,615s
+sys	0m23,179s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m16,597s
+user	4m41,912s
+sys	0m20,967s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m12,466s
+user	4m33,099s
+sys	0m13,493s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m19,538s
+user	4m48,447s
+sys	0m26,146s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m12,754s
+user	4m33,930s
+sys	0m14,106s
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+real	1m16,274s
+user	4m40,866s
+sys	0m20,971s

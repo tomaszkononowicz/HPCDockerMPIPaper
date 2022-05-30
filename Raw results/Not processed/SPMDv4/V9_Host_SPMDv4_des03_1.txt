@@ -1,0 +1,144 @@
+SPMDv4_O3_native_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2353.10user 0.39system 39:13.81elapsed 99%CPU (0avgtext+0avgdata 1548360maxresident)k
+0inputs+16488outputs (7major+391016minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2352.01user 0.34system 39:12.64elapsed 99%CPU (0avgtext+0avgdata 1548100maxresident)k
+0inputs+16488outputs (7major+391026minor)pagefaults 0swaps
+SPMDv4_O3_native_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2407.86user 0.47system 20:04.52elapsed 199%CPU (0avgtext+0avgdata 782292maxresident)k
+0inputs+16488outputs (7major+393783minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2407.47user 0.39system 20:04.30elapsed 199%CPU (0avgtext+0avgdata 782156maxresident)k
+0inputs+16488outputs (7major+393789minor)pagefaults 0swaps
+SPMDv4_O3_native_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2467.85user 0.52system 10:17.46elapsed 399%CPU (0avgtext+0avgdata 398180maxresident)k
+0inputs+16488outputs (7major+398628minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2467.99user 0.74system 10:17.55elapsed 399%CPU (0avgtext+0avgdata 398228maxresident)k
+0inputs+16488outputs (7major+398599minor)pagefaults 0swaps
+SPMDv4_O3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2352.79user 0.39system 39:13.49elapsed 99%CPU (0avgtext+0avgdata 1548544maxresident)k
+0inputs+16488outputs (7major+391027minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2354.24user 0.43system 39:14.94elapsed 99%CPU (0avgtext+0avgdata 1548620maxresident)k
+0inputs+16496outputs (7major+391015minor)pagefaults 0swaps
+SPMDv4_O3_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2408.57user 0.50system 20:04.93elapsed 199%CPU (0avgtext+0avgdata 782148maxresident)k
+0inputs+16488outputs (7major+393810minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2408.44user 0.45system 20:04.79elapsed 199%CPU (0avgtext+0avgdata 782276maxresident)k
+0inputs+16496outputs (7major+393795minor)pagefaults 0swaps
+SPMDv4_O3_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2469.20user 0.44system 10:17.77elapsed 399%CPU (0avgtext+0avgdata 398180maxresident)k
+0inputs+16488outputs (7major+398617minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2469.09user 0.56system 10:17.79elapsed 399%CPU (0avgtext+0avgdata 398176maxresident)k
+0inputs+16488outputs (7major+398598minor)pagefaults 0swaps
+SPMDv4_O2_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2355.49user 0.39system 39:16.19elapsed 99%CPU (0avgtext+0avgdata 1548588maxresident)k
+0inputs+16488outputs (7major+391016minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2356.14user 0.39system 39:16.84elapsed 99%CPU (0avgtext+0avgdata 1548224maxresident)k
+0inputs+16488outputs (7major+391016minor)pagefaults 0swaps
+SPMDv4_O2_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2411.78user 0.43system 20:06.48elapsed 199%CPU (0avgtext+0avgdata 782232maxresident)k
+0inputs+16488outputs (7major+393791minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2411.32user 0.40system 20:06.22elapsed 199%CPU (0avgtext+0avgdata 782200maxresident)k
+0inputs+16496outputs (7major+393800minor)pagefaults 0swaps
+SPMDv4_O2_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2470.91user 0.59system 10:18.25elapsed 399%CPU (0avgtext+0avgdata 398212maxresident)k
+0inputs+16488outputs (7major+398597minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2471.56user 0.63system 10:18.42elapsed 399%CPU (0avgtext+0avgdata 398208maxresident)k
+0inputs+16496outputs (7major+398600minor)pagefaults 0swaps
+SPMDv4_1
+No protocol specified
+./tests1_des03.sh: line 59: 1083064 Killed                  timeout -s 9 43200s time mpirun --timeout 43200 --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4_des03 -np 1 SPMDv4 200 400 600 300
+No protocol specified
+./tests1_des03.sh: line 61: 1092517 Killed                  timeout -s 9 43200s time mpirun --timeout 43200 --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4_des03 -np 1 SPMDv4 200 400 600 300
+SPMDv4_2
+No protocol specified
+./tests1_des03.sh: line 64: 1102025 Killed                  timeout -s 9 21600s time mpirun --timeout 21600 --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4_des03 -np 2 SPMDv4 200 400 600 300
+No protocol specified

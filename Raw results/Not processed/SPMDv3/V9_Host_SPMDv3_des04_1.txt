@@ -1,0 +1,218 @@
+SPMDv3_O3_native_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1015.99user 0.36system 16:56.64elapsed 99%CPU (0avgtext+0avgdata 1548516maxresident)k
+512inputs+16488outputs (12major+391026minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1017.91user 0.34system 16:58.51elapsed 99%CPU (0avgtext+0avgdata 1548336maxresident)k
+0inputs+16488outputs (7major+391015minor)pagefaults 0swaps
+SPMDv3_O3_native_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1040.50user 0.39system 8:40.80elapsed 199%CPU (0avgtext+0avgdata 782188maxresident)k
+0inputs+16488outputs (7major+393785minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1040.18user 0.37system 8:40.61elapsed 199%CPU (0avgtext+0avgdata 782232maxresident)k
+0inputs+16488outputs (7major+393791minor)pagefaults 0swaps
+SPMDv3_O3_native_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1066.83user 0.58system 4:27.23elapsed 399%CPU (0avgtext+0avgdata 398304maxresident)k
+0inputs+16488outputs (7major+398583minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1066.61user 0.59system 4:27.15elapsed 399%CPU (0avgtext+0avgdata 397968maxresident)k
+0inputs+16488outputs (7major+398614minor)pagefaults 0swaps
+SPMDv3_O3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1018.66user 0.39system 16:59.30elapsed 99%CPU (0avgtext+0avgdata 1548508maxresident)k
+0inputs+16488outputs (7major+391024minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1018.73user 0.37system 16:59.35elapsed 99%CPU (0avgtext+0avgdata 1548432maxresident)k
+0inputs+16488outputs (7major+391023minor)pagefaults 0swaps
+SPMDv3_O3_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1042.08user 0.44system 8:41.60elapsed 199%CPU (0avgtext+0avgdata 782152maxresident)k
+0inputs+16488outputs (7major+393780minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1049.08user 0.40system 8:45.08elapsed 199%CPU (0avgtext+0avgdata 782256maxresident)k
+0inputs+16488outputs (7major+393767minor)pagefaults 0swaps
+SPMDv3_O3_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1068.69user 0.46system 4:27.65elapsed 399%CPU (0avgtext+0avgdata 398192maxresident)k
+0inputs+16488outputs (7major+398570minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1068.26user 0.52system 4:27.54elapsed 399%CPU (0avgtext+0avgdata 398084maxresident)k
+0inputs+16488outputs (7major+398573minor)pagefaults 0swaps
+SPMDv3_O2_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1018.47user 0.38system 16:59.15elapsed 99%CPU (0avgtext+0avgdata 1548376maxresident)k
+0inputs+16488outputs (7major+391024minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1018.75user 0.40system 16:59.45elapsed 99%CPU (0avgtext+0avgdata 1548472maxresident)k
+0inputs+16488outputs (7major+391018minor)pagefaults 0swaps
+SPMDv3_O2_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1041.74user 0.44system 8:41.45elapsed 199%CPU (0avgtext+0avgdata 782304maxresident)k
+0inputs+16488outputs (7major+393783minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1041.66user 0.40system 8:41.33elapsed 199%CPU (0avgtext+0avgdata 782204maxresident)k
+0inputs+16488outputs (7major+393773minor)pagefaults 0swaps
+SPMDv3_O2_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1068.03user 0.53system 4:27.51elapsed 399%CPU (0avgtext+0avgdata 398292maxresident)k
+0inputs+16488outputs (7major+398599minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+1068.03user 0.52system 4:27.49elapsed 399%CPU (0avgtext+0avgdata 398136maxresident)k
+0inputs+16488outputs (7major+398588minor)pagefaults 0swaps
+SPMDv3_1
+No protocol specified
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node des04 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+Command exited with non-zero status 137
+12684.96user 0.40system 3:31:27elapsed 99%CPU (0avgtext+0avgdata 1548504maxresident)k
+48inputs+16488outputs (7major+390995minor)pagefaults 0swaps
+No protocol specified
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node des04 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+Command exited with non-zero status 137
+42.15user 0.41system 0:44.80elapsed 95%CPU (0avgtext+0avgdata 1548824maxresident)k
+0inputs+16488outputs (7major+391014minor)pagefaults 0swaps
+SPMDv3_2
+No protocol specified
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node des04 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+Command exited with non-zero status 137
+399.17user 0.42system 3:22.06elapsed 197%CPU (0avgtext+0avgdata 782524maxresident)k
+0inputs+16488outputs (7major+393742minor)pagefaults 0swaps
+No protocol specified
+SPMDv3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+37079.75user 0.44system 10:18:00elapsed 99%CPU (0avgtext+0avgdata 1548344maxresident)k
+0inputs+16488outputs (7major+391015minor)pagefaults 0swaps
+No protocol specified
+SPMDv3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+37070.65user 0.49system 10:17:51elapsed 99%CPU (0avgtext+0avgdata 1548400maxresident)k
+0inputs+16488outputs (7major+391015minor)pagefaults 0swaps
+SPMDv3_2
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+37833.33user 0.69system 5:15:17elapsed 199%CPU (0avgtext+0avgdata 782348maxresident)k
+0inputs+16496outputs (7major+393781minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+37834.15user 0.70system 5:15:17elapsed 199%CPU (0avgtext+0avgdata 782064maxresident)k
+0inputs+16488outputs (7major+393779minor)pagefaults 0swaps
+SPMDv3_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+38768.56user 0.91system 2:41:32elapsed 399%CPU (0avgtext+0avgdata 397984maxresident)k
+0inputs+16488outputs (7major+398590minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+38774.05user 0.94system 2:41:34elapsed 399%CPU (0avgtext+0avgdata 398116maxresident)k
+0inputs+16488outputs (7major+398632minor)pagefaults 0swaps

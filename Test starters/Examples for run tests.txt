@@ -1,0 +1,33 @@
+nohup ./tests1.sh >> V9_Host_DAC_Ubuntu20_1.txt 2>> V9_Host_DAC_Ubuntu20_1.txt &
+nohup ./tests3.sh >> V7_Docker_DAC_33.txt 2>> V7_Docker_DAC_33.txt &
+nohup ./tests1.sh >> V9_Host_SPMD_Ubuntu20_1.txt 2>> V9_Host_SPMD_Ubuntu20_1.txt &
+nohup ./tests1.sh >> V9_Host_SPMDv4_2.txt 2>> V9_Host_SPMDv4_2.txt &
+nohup ./tests1.sh >> V9_Host_MasterSlave_Ubuntu20_1.txt 2>> V9_Host_MasterSlave_Ubuntu20_1.txt &
+nohup ./tests1.sh >> V7_Docker_SPMDv3_1.txt 2>> V7_Docker_SPMDv3_1.txt &
+nohup ./tests2.sh >> V9_Docker_SPMDv2_2.txt 2>> V9_Docker_SPMDv2_2.txt &
+
+time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile65 -np 65 MasterSlave_O3_native 7
+timeout -s 9 300s time mpirun --timeout 290 --mca btl_tcp_if_include eth0 -hostfile ../hostfile128 -np 128 DAC 100 200
+
+cd /home/student/160839/Publication/Programs/SPMDv3 && nohup ./tests1_des01.sh >> V9_Docker_SPMDv3_des01_1.txt 2>> V9_Docker_SPMDv3_des01_1.txt &
+
+nohup ./tests1_des01.sh >> V9_Docker_SPMDv3_des01_1.txt 2>> V9_Docker_SPMDv3_des01_1.txt &
+nohup ./tests1_des02.sh >> V9_Docker_SPMDv3_des02_1.txt 2>> V9_Docker_SPMDv3_des02_1.txt &
+nohup ./tests1_des03.sh >> V9_Docker_SPMDv3_des03_1.txt 2>> V9_Docker_SPMDv3_des03_1.txt &
+nohup ./tests1_des04.sh >> V9_Docker_SPMDv3_des04_1.txt 2>> V9_Docker_SPMDv3_des04_1.txt &
+nohup ./tests1_des05.sh >> V9_Docker_SPMDv3_des05_1.txt 2>> V9_Docker_SPMDv3_des05_1.txt &
+nohup ./tests1_des06.sh >> V9_Docker_SPMDv3_des06_1.txt 2>> V9_Docker_SPMDv3_des06_1.txt &
+nohup ./tests1_des07.sh >> V9_Docker_SPMDv3_des07_1.txt 2>> V9_Docker_SPMDv3_des07_1.txt &
+nohup ./tests1_des08.sh >> V9_Docker_SPMDv3_des08_1.txt 2>> V9_Docker_SPMDv3_des08_1.txt &
+nohup ./tests1_des09.sh >> V9_Docker_SPMDv3_des09_1.txt 2>> V9_Docker_SPMDv3_des09_1.txt &
+nohup ./tests1_des10.sh >> V9_Docker_SPMDv3_des10_1.txt 2>> V9_Docker_SPMDv3_des10_1.txt &
+nohup ./tests1_des11.sh >> V9_Docker_SPMDv3_des11_1.txt 2>> V9_Docker_SPMDv3_des11_1.txt &
+nohup ./tests1_des12.sh >> V9_Docker_SPMDv3_des12_1.txt 2>> V9_Docker_SPMDv3_des12_1.txt &
+nohup ./tests1_des13.sh >> V9_Docker_SPMDv3_des13_1.txt 2>> V9_Docker_SPMDv3_des13_1.txt &
+nohup ./tests1_des14.sh >> V9_Docker_SPMDv3_des14_1.txt 2>> V9_Docker_SPMDv3_des14_1.txt &
+nohup ./tests1_des15.sh >> V9_Docker_SPMDv3_des15_1.txt 2>> V9_Docker_SPMDv3_des15_1.txt &
+nohup ./tests1_des16.sh >> V9_Docker_SPMDv3_des16_1.txt 2>> V9_Docker_SPMDv3_des16_1.txt &
+nohup ./tests1_des17.sh >> V9_Docker_SPMDv3_des17_1.txt 2>> V9_Docker_SPMDv3_des17_1.txt &
+nohup ./tests1_des18.sh >> V9_Docker_SPMDv3_des18_1.txt 2>> V9_Docker_SPMDv3_des18_1.txt &
+
+

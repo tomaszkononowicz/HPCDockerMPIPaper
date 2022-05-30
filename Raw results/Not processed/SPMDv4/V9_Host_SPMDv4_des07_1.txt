@@ -1,0 +1,144 @@
+SPMDv4_O3_native_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2359.60user 0.36system 39:20.25elapsed 99%CPU (0avgtext+0avgdata 1548548maxresident)k
+0inputs+16488outputs (7major+391027minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2357.33user 0.40system 39:18.04elapsed 99%CPU (0avgtext+0avgdata 1548556maxresident)k
+0inputs+16488outputs (7major+391018minor)pagefaults 0swaps
+SPMDv4_O3_native_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2409.65user 0.40system 20:05.34elapsed 199%CPU (0avgtext+0avgdata 782272maxresident)k
+0inputs+16488outputs (7major+393786minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2409.70user 0.46system 20:05.45elapsed 199%CPU (0avgtext+0avgdata 782256maxresident)k
+0inputs+16488outputs (7major+393790minor)pagefaults 0swaps
+SPMDv4_O3_native_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2469.00user 0.52system 10:17.76elapsed 399%CPU (0avgtext+0avgdata 398092maxresident)k
+0inputs+16488outputs (7major+398565minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2468.36user 0.63system 10:17.63elapsed 399%CPU (0avgtext+0avgdata 398208maxresident)k
+0inputs+16488outputs (7major+398590minor)pagefaults 0swaps
+SPMDv4_O3_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2358.18user 0.37system 39:18.84elapsed 99%CPU (0avgtext+0avgdata 1548488maxresident)k
+0inputs+16488outputs (7major+391026minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2357.71user 0.36system 39:18.35elapsed 99%CPU (0avgtext+0avgdata 1548492maxresident)k
+0inputs+16488outputs (7major+391016minor)pagefaults 0swaps
+SPMDv4_O3_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2410.17user 0.46system 20:05.67elapsed 199%CPU (0avgtext+0avgdata 782280maxresident)k
+0inputs+16488outputs (7major+393786minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2409.77user 0.46system 20:05.52elapsed 199%CPU (0avgtext+0avgdata 782232maxresident)k
+0inputs+16488outputs (7major+393781minor)pagefaults 0swaps
+SPMDv4_O3_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2470.09user 0.56system 10:18.06elapsed 399%CPU (0avgtext+0avgdata 398320maxresident)k
+0inputs+16488outputs (7major+398591minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2469.38user 0.57system 10:17.86elapsed 399%CPU (0avgtext+0avgdata 398068maxresident)k
+0inputs+16488outputs (7major+398584minor)pagefaults 0swaps
+SPMDv4_O2_1
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2361.11user 0.39system 39:21.81elapsed 99%CPU (0avgtext+0avgdata 1548356maxresident)k
+0inputs+16488outputs (7major+391022minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2361.48user 0.36system 39:22.16elapsed 99%CPU (0avgtext+0avgdata 1548612maxresident)k
+0inputs+16488outputs (7major+391018minor)pagefaults 0swaps
+SPMDv4_O2_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2412.85user 0.46system 20:07.02elapsed 199%CPU (0avgtext+0avgdata 782116maxresident)k
+0inputs+16488outputs (7major+393789minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2413.34user 0.48system 20:07.29elapsed 199%CPU (0avgtext+0avgdata 782288maxresident)k
+0inputs+16488outputs (7major+393781minor)pagefaults 0swaps
+SPMDv4_O2_4
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2472.05user 0.53system 10:18.54elapsed 399%CPU (0avgtext+0avgdata 398212maxresident)k
+0inputs+16488outputs (7major+398609minor)pagefaults 0swaps
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2472.17user 0.55system 10:18.56elapsed 399%CPU (0avgtext+0avgdata 398032maxresident)k
+0inputs+16488outputs (7major+398604minor)pagefaults 0swaps
+SPMDv4_1
+No protocol specified
+./tests1_des07.sh: linia 59: 1322854 Unicestwiony            timeout -s 9 43200s time mpirun --timeout 43200 --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4_des07 -np 1 SPMDv4 200 400 600 300
+No protocol specified
+./tests1_des07.sh: linia 61: 1347962 Unicestwiony            timeout -s 9 43200s time mpirun --timeout 43200 --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4_des07 -np 1 SPMDv4 200 400 600 300
+SPMDv4_2
+No protocol specified
+./tests1_des07.sh: linia 64: 1373051 Unicestwiony            timeout -s 9 21600s time mpirun --timeout 21600 --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4_des07 -np 2 SPMDv4 200 400 600 300
+No protocol specified

@@ -1,0 +1,3153 @@
+nohup: zignorowane dane wejściowe
+MasterSlave_O3_native_2b
+
+Result is 3.921973
+383.10user 165.68system 9:09.34elapsed 99%CPU (0avgtext+0avgdata 27396maxresident)k
+0inputs+16416outputs (4major+5548minor)pagefaults 0swaps
+
+Result is 3.921973
+388.46user 160.57system 9:09.50elapsed 99%CPU (0avgtext+0avgdata 27692maxresident)k
+0inputs+16416outputs (4major+5568minor)pagefaults 0swaps
+
+Result is 3.921973
+380.69user 168.52system 9:09.69elapsed 99%CPU (0avgtext+0avgdata 27536maxresident)k
+0inputs+16416outputs (4major+5552minor)pagefaults 0swaps
+
+Result is 3.921973
+382.96user 165.80system 9:09.33elapsed 99%CPU (0avgtext+0avgdata 27532maxresident)k
+0inputs+16416outputs (4major+5553minor)pagefaults 0swaps
+
+Result is 3.921973
+379.54user 169.28system 9:09.33elapsed 99%CPU (0avgtext+0avgdata 27596maxresident)k
+0inputs+16416outputs (4major+5562minor)pagefaults 0swaps
+
+Result is 3.921973
+378.60user 170.10system 9:09.32elapsed 99%CPU (0avgtext+0avgdata 28004maxresident)k
+0inputs+16416outputs (4major+5565minor)pagefaults 0swaps
+
+Result is 3.921973
+381.65user 167.21system 9:09.42elapsed 99%CPU (0avgtext+0avgdata 27596maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+383.13user 165.70system 9:09.39elapsed 99%CPU (0avgtext+0avgdata 27600maxresident)k
+0inputs+16416outputs (4major+5557minor)pagefaults 0swaps
+
+Result is 3.921973
+384.16user 164.88system 9:09.62elapsed 99%CPU (0avgtext+0avgdata 27456maxresident)k
+0inputs+16416outputs (4major+5556minor)pagefaults 0swaps
+
+Result is 3.921973
+381.54user 167.33system 9:09.38elapsed 99%CPU (0avgtext+0avgdata 27456maxresident)k
+0inputs+16416outputs (4major+5554minor)pagefaults 0swaps
+MasterSlave_O3_native_3
+
+Result is 3.921973
+186.43user 94.38system 4:41.34elapsed 99%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5574minor)pagefaults 0swaps
+
+Result is 3.921973
+183.60user 97.19system 4:41.33elapsed 99%CPU (0avgtext+0avgdata 28028maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+182.90user 97.70system 4:41.17elapsed 99%CPU (0avgtext+0avgdata 27268maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+182.40user 98.34system 4:41.27elapsed 99%CPU (0avgtext+0avgdata 27288maxresident)k
+0inputs+16416outputs (4major+5554minor)pagefaults 0swaps
+
+Result is 3.921973
+182.91user 97.86system 4:41.33elapsed 99%CPU (0avgtext+0avgdata 27388maxresident)k
+0inputs+16416outputs (4major+5554minor)pagefaults 0swaps
+
+Result is 3.921973
+181.69user 99.12system 4:41.37elapsed 99%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5573minor)pagefaults 0swaps
+
+Result is 3.921973
+182.05user 98.59system 4:41.23elapsed 99%CPU (0avgtext+0avgdata 28024maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+183.02user 97.66system 4:41.19elapsed 99%CPU (0avgtext+0avgdata 27544maxresident)k
+0inputs+16416outputs (4major+5559minor)pagefaults 0swaps
+
+Result is 3.921973
+182.12user 98.68system 4:41.36elapsed 99%CPU (0avgtext+0avgdata 27660maxresident)k
+0inputs+16416outputs (4major+5566minor)pagefaults 0swaps
+
+Result is 3.921973
+182.08user 98.68system 4:41.26elapsed 99%CPU (0avgtext+0avgdata 27452maxresident)k
+0inputs+16416outputs (4major+5575minor)pagefaults 0swaps
+MasterSlave_O3_native_5
+
+Result is 3.921973
+83.68user 60.20system 2:24.40elapsed 99%CPU (0avgtext+0avgdata 27620maxresident)k
+0inputs+16416outputs (4major+5565minor)pagefaults 0swaps
+
+Result is 3.921973
+83.01user 60.79system 2:24.35elapsed 99%CPU (0avgtext+0avgdata 27480maxresident)k
+0inputs+16416outputs (4major+5567minor)pagefaults 0swaps
+
+Result is 3.921973
+82.84user 60.99system 2:24.39elapsed 99%CPU (0avgtext+0avgdata 27340maxresident)k
+0inputs+16416outputs (4major+5558minor)pagefaults 0swaps
+
+Result is 3.921973
+82.85user 60.95system 2:24.29elapsed 99%CPU (0avgtext+0avgdata 27736maxresident)k
+0inputs+16416outputs (4major+5571minor)pagefaults 0swaps
+
+Result is 3.921973
+83.25user 60.59system 2:24.36elapsed 99%CPU (0avgtext+0avgdata 27412maxresident)k
+0inputs+16416outputs (4major+5568minor)pagefaults 0swaps
+
+Result is 3.921973
+82.04user 61.80system 2:24.27elapsed 99%CPU (0avgtext+0avgdata 27972maxresident)k
+0inputs+16416outputs (4major+5571minor)pagefaults 0swaps
+
+Result is 3.921973
+82.15user 61.68system 2:24.35elapsed 99%CPU (0avgtext+0avgdata 27492maxresident)k
+0inputs+16416outputs (4major+5576minor)pagefaults 0swaps
+
+Result is 3.921973
+82.78user 61.03system 2:24.36elapsed 99%CPU (0avgtext+0avgdata 27712maxresident)k
+0inputs+16416outputs (4major+5577minor)pagefaults 0swaps
+
+Result is 3.921973
+82.36user 61.47system 2:24.37elapsed 99%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16416outputs (4major+5586minor)pagefaults 0swaps
+
+Result is 3.921973
+84.14user 59.69system 2:24.38elapsed 99%CPU (0avgtext+0avgdata 27500maxresident)k
+0inputs+16416outputs (4major+5563minor)pagefaults 0swaps
+MasterSlave_O3_native_9
+
+Result is 3.921973
+34.76user 37.62system 1:12.94elapsed 99%CPU (0avgtext+0avgdata 27460maxresident)k
+0inputs+16416outputs (4major+5589minor)pagefaults 0swaps
+
+Result is 3.921973
+34.88user 37.50system 1:12.88elapsed 99%CPU (0avgtext+0avgdata 27600maxresident)k
+0inputs+16416outputs (4major+5598minor)pagefaults 0swaps
+
+Result is 3.921973
+34.37user 38.00system 1:12.98elapsed 99%CPU (0avgtext+0avgdata 27884maxresident)k
+0inputs+16416outputs (4major+5596minor)pagefaults 0swaps
+
+Result is 3.921973
+33.71user 38.65system 1:12.92elapsed 99%CPU (0avgtext+0avgdata 27864maxresident)k
+0inputs+16416outputs (4major+5614minor)pagefaults 0swaps
+
+Result is 3.921973
+34.20user 38.16system 1:12.92elapsed 99%CPU (0avgtext+0avgdata 28080maxresident)k
+0inputs+16416outputs (4major+5603minor)pagefaults 0swaps
+
+Result is 3.921973
+34.79user 37.59system 1:12.92elapsed 99%CPU (0avgtext+0avgdata 28044maxresident)k
+0inputs+16416outputs (4major+5606minor)pagefaults 0swaps
+
+Result is 3.921973
+34.37user 38.01system 1:12.92elapsed 99%CPU (0avgtext+0avgdata 27332maxresident)k
+0inputs+16416outputs (4major+5589minor)pagefaults 0swaps
+
+Result is 3.921973
+33.81user 38.56system 1:12.95elapsed 99%CPU (0avgtext+0avgdata 27348maxresident)k
+0inputs+16416outputs (4major+5598minor)pagefaults 0swaps
+
+Result is 3.921973
+34.32user 38.08system 1:12.95elapsed 99%CPU (0avgtext+0avgdata 27620maxresident)k
+0inputs+16416outputs (4major+5614minor)pagefaults 0swaps
+
+Result is 3.921973
+34.00user 38.39system 1:12.93elapsed 99%CPU (0avgtext+0avgdata 27412maxresident)k
+0inputs+16416outputs (4major+5593minor)pagefaults 0swaps
+MasterSlave_O3_native_13
+
+Result is 3.921973
+19.78user 28.80system 0:49.14elapsed 98%CPU (0avgtext+0avgdata 27688maxresident)k
+0inputs+16416outputs (4major+5624minor)pagefaults 0swaps
+
+Result is 3.921973
+19.78user 28.78system 0:49.13elapsed 98%CPU (0avgtext+0avgdata 27632maxresident)k
+0inputs+16416outputs (4major+5625minor)pagefaults 0swaps
+
+Result is 3.921973
+19.64user 28.91system 0:49.26elapsed 98%CPU (0avgtext+0avgdata 27644maxresident)k
+0inputs+16416outputs (4major+5624minor)pagefaults 0swaps
+
+Result is 3.921973
+19.56user 29.01system 0:49.18elapsed 98%CPU (0avgtext+0avgdata 28088maxresident)k
+0inputs+16416outputs (4major+5644minor)pagefaults 0swaps
+
+Result is 3.921973
+19.56user 29.04system 0:49.20elapsed 98%CPU (0avgtext+0avgdata 27736maxresident)k
+0inputs+16416outputs (4major+5624minor)pagefaults 0swaps
+
+Result is 3.921973
+19.50user 29.09system 0:49.17elapsed 98%CPU (0avgtext+0avgdata 28124maxresident)k
+0inputs+16416outputs (4major+5640minor)pagefaults 0swaps
+
+Result is 3.921973
+20.32user 28.25system 0:49.13elapsed 98%CPU (0avgtext+0avgdata 27484maxresident)k
+0inputs+16416outputs (4major+5628minor)pagefaults 0swaps
+
+Result is 3.921973
+19.35user 29.24system 0:49.15elapsed 98%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5643minor)pagefaults 0swaps
+
+Result is 3.921973
+19.32user 29.26system 0:49.16elapsed 98%CPU (0avgtext+0avgdata 28240maxresident)k
+0inputs+16416outputs (4major+5641minor)pagefaults 0swaps
+
+Result is 3.921973
+19.65user 28.90system 0:49.14elapsed 98%CPU (0avgtext+0avgdata 27372maxresident)k
+0inputs+16416outputs (4major+5626minor)pagefaults 0swaps
+MasterSlave_O3_native_17
+
+Result is 3.921973
+12.84user 23.46system 0:36.88elapsed 98%CPU (0avgtext+0avgdata 27728maxresident)k
+0inputs+16416outputs (4major+5669minor)pagefaults 0swaps
+
+Result is 3.921973
+12.19user 24.11system 0:36.89elapsed 98%CPU (0avgtext+0avgdata 27616maxresident)k
+0inputs+16416outputs (4major+5660minor)pagefaults 0swaps
+
+Result is 3.921973
+12.43user 23.86system 0:36.86elapsed 98%CPU (0avgtext+0avgdata 27952maxresident)k
+0inputs+16416outputs (4major+5671minor)pagefaults 0swaps
+
+Result is 3.921973
+12.76user 23.54system 0:36.84elapsed 98%CPU (0avgtext+0avgdata 27676maxresident)k
+0inputs+16416outputs (4major+5658minor)pagefaults 0swaps
+
+Result is 3.921973
+12.66user 23.65system 0:36.96elapsed 98%CPU (0avgtext+0avgdata 27956maxresident)k
+0inputs+16416outputs (4major+5664minor)pagefaults 0swaps
+
+Result is 3.921973
+12.38user 23.91system 0:36.85elapsed 98%CPU (0avgtext+0avgdata 27400maxresident)k
+0inputs+16416outputs (4major+5668minor)pagefaults 0swaps
+
+Result is 3.921973
+12.98user 23.31system 0:36.87elapsed 98%CPU (0avgtext+0avgdata 27824maxresident)k
+0inputs+16416outputs (4major+5676minor)pagefaults 0swaps
+
+Result is 3.921973
+12.89user 23.41system 0:36.86elapsed 98%CPU (0avgtext+0avgdata 28176maxresident)k
+0inputs+16416outputs (4major+5678minor)pagefaults 0swaps
+
+Result is 3.921973
+12.48user 23.80system 0:36.84elapsed 98%CPU (0avgtext+0avgdata 27440maxresident)k
+0inputs+16416outputs (4major+5651minor)pagefaults 0swaps
+
+Result is 3.921973
+12.88user 23.41system 0:36.93elapsed 98%CPU (0avgtext+0avgdata 27696maxresident)k
+0inputs+16416outputs (4major+5665minor)pagefaults 0swaps
+MasterSlave_O3_native_21
+
+Result is 3.921973
+9.68user 19.29system 0:29.56elapsed 98%CPU (0avgtext+0avgdata 27736maxresident)k
+0inputs+16416outputs (4major+5694minor)pagefaults 0swaps
+
+Result is 3.921973
+9.37user 19.55system 0:29.55elapsed 97%CPU (0avgtext+0avgdata 27440maxresident)k
+0inputs+16416outputs (4major+5688minor)pagefaults 0swaps
+
+Result is 3.921973
+9.42user 19.56system 0:29.55elapsed 98%CPU (0avgtext+0avgdata 27444maxresident)k
+0inputs+16416outputs (4major+5694minor)pagefaults 0swaps
+
+Result is 3.921973
+9.44user 19.54system 0:29.52elapsed 98%CPU (0avgtext+0avgdata 27884maxresident)k
+0inputs+16416outputs (4major+5701minor)pagefaults 0swaps
+
+Result is 3.921973
+8.96user 19.99system 0:29.54elapsed 98%CPU (0avgtext+0avgdata 28180maxresident)k
+0inputs+16416outputs (4major+5705minor)pagefaults 0swaps
+
+Result is 3.921973
+8.70user 20.27system 0:29.51elapsed 98%CPU (0avgtext+0avgdata 27732maxresident)k
+0inputs+16416outputs (4major+5700minor)pagefaults 0swaps
+
+Result is 3.921973
+9.36user 19.54system 0:29.52elapsed 97%CPU (0avgtext+0avgdata 27560maxresident)k
+0inputs+16416outputs (4major+5696minor)pagefaults 0swaps
+
+Result is 3.921973
+9.19user 19.75system 0:29.59elapsed 97%CPU (0avgtext+0avgdata 27856maxresident)k
+0inputs+16416outputs (4major+5697minor)pagefaults 0swaps
+
+Result is 3.921973
+9.44user 19.49system 0:29.50elapsed 98%CPU (0avgtext+0avgdata 27736maxresident)k
+0inputs+16416outputs (4major+5696minor)pagefaults 0swaps
+
+Result is 3.921973
+9.05user 19.90system 0:29.60elapsed 97%CPU (0avgtext+0avgdata 28332maxresident)k
+0inputs+16416outputs (4major+5722minor)pagefaults 0swaps
+MasterSlave_O3_native_25
+
+Result is 3.921973
+6.99user 17.78system 0:25.43elapsed 97%CPU (0avgtext+0avgdata 27632maxresident)k
+0inputs+16408outputs (4major+5723minor)pagefaults 0swaps
+
+Result is 3.921973
+7.25user 17.52system 0:25.42elapsed 97%CPU (0avgtext+0avgdata 27548maxresident)k
+0inputs+16416outputs (4major+5717minor)pagefaults 0swaps
+
+Result is 3.921973
+7.02user 17.76system 0:25.42elapsed 97%CPU (0avgtext+0avgdata 27956maxresident)k
+0inputs+16408outputs (4major+5737minor)pagefaults 0swaps
+
+Result is 3.921973
+7.07user 17.70system 0:25.36elapsed 97%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16416outputs (4major+5739minor)pagefaults 0swaps
+
+Result is 3.921973
+6.82user 17.98system 0:25.43elapsed 97%CPU (0avgtext+0avgdata 27612maxresident)k
+0inputs+16408outputs (4major+5734minor)pagefaults 0swaps
+
+Result is 3.921973
+7.20user 17.55system 0:25.37elapsed 97%CPU (0avgtext+0avgdata 28108maxresident)k
+0inputs+16416outputs (4major+5739minor)pagefaults 0swaps
+
+Result is 3.921973
+7.07user 17.69system 0:25.36elapsed 97%CPU (0avgtext+0avgdata 28264maxresident)k
+0inputs+16408outputs (4major+5735minor)pagefaults 0swaps
+
+Result is 3.921973
+7.16user 17.63system 0:25.40elapsed 97%CPU (0avgtext+0avgdata 27784maxresident)k
+0inputs+16416outputs (4major+5723minor)pagefaults 0swaps
+
+Result is 3.921973
+6.84user 17.93system 0:25.34elapsed 97%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16408outputs (4major+5733minor)pagefaults 0swaps
+
+Result is 3.921973
+7.14user 17.63system 0:25.38elapsed 97%CPU (0avgtext+0avgdata 28252maxresident)k
+0inputs+16416outputs (4major+5730minor)pagefaults 0swaps
+MasterSlave_O3_native_29
+
+Result is 3.921973
+5.40user 15.31system 0:21.41elapsed 96%CPU (0avgtext+0avgdata 27880maxresident)k
+0inputs+16408outputs (4major+5766minor)pagefaults 0swaps
+
+Result is 3.921973
+5.30user 15.51system 0:21.42elapsed 97%CPU (0avgtext+0avgdata 28304maxresident)k
+0inputs+16416outputs (4major+5773minor)pagefaults 0swaps
+
+Result is 3.921973
+5.31user 15.46system 0:21.41elapsed 96%CPU (0avgtext+0avgdata 27936maxresident)k
+0inputs+16408outputs (4major+5769minor)pagefaults 0swaps
+
+Result is 3.921973
+5.06user 15.67system 0:21.38elapsed 96%CPU (0avgtext+0avgdata 27576maxresident)k
+0inputs+16416outputs (4major+5760minor)pagefaults 0swaps
+
+Result is 3.921973
+5.37user 15.41system 0:21.34elapsed 97%CPU (0avgtext+0avgdata 27932maxresident)k
+0inputs+16408outputs (4major+5773minor)pagefaults 0swaps
+
+Result is 3.921973
+5.27user 15.48system 0:21.35elapsed 97%CPU (0avgtext+0avgdata 28108maxresident)k
+0inputs+16416outputs (4major+5770minor)pagefaults 0swaps
+
+Result is 3.921973
+5.61user 15.18system 0:21.34elapsed 97%CPU (0avgtext+0avgdata 28304maxresident)k
+0inputs+16408outputs (4major+5777minor)pagefaults 0swaps
+
+Result is 3.921973
+5.32user 15.43system 0:21.35elapsed 97%CPU (0avgtext+0avgdata 28432maxresident)k
+0inputs+16416outputs (4major+5767minor)pagefaults 0swaps
+
+Result is 3.921973
+5.50user 15.29system 0:21.38elapsed 97%CPU (0avgtext+0avgdata 28432maxresident)k
+0inputs+16408outputs (4major+5775minor)pagefaults 0swaps
+
+Result is 3.921973
+5.23user 15.49system 0:21.36elapsed 97%CPU (0avgtext+0avgdata 27668maxresident)k
+0inputs+16416outputs (4major+5761minor)pagefaults 0swaps
+MasterSlave_O3_native_33
+
+Result is 3.921973
+4.32user 13.91system 0:18.89elapsed 96%CPU (0avgtext+0avgdata 28344maxresident)k
+0inputs+16408outputs (4major+5796minor)pagefaults 0swaps
+
+Result is 3.921973
+4.27user 14.06system 0:18.90elapsed 96%CPU (0avgtext+0avgdata 28156maxresident)k
+0inputs+16416outputs (4major+5793minor)pagefaults 0swaps
+
+Result is 3.921973
+4.25user 14.04system 0:18.95elapsed 96%CPU (0avgtext+0avgdata 27972maxresident)k
+0inputs+16408outputs (4major+5789minor)pagefaults 0swaps
+
+Result is 3.921973
+4.35user 13.97system 0:18.88elapsed 97%CPU (0avgtext+0avgdata 28156maxresident)k
+0inputs+16416outputs (4major+5801minor)pagefaults 0swaps
+
+Result is 3.921973
+4.09user 14.20system 0:18.92elapsed 96%CPU (0avgtext+0avgdata 28024maxresident)k
+0inputs+16408outputs (4major+5793minor)pagefaults 0swaps
+
+Result is 3.921973
+4.21user 14.09system 0:18.96elapsed 96%CPU (0avgtext+0avgdata 28312maxresident)k
+0inputs+16416outputs (4major+5796minor)pagefaults 0swaps
+
+Result is 3.921973
+4.22user 14.14system 0:18.92elapsed 97%CPU (0avgtext+0avgdata 28024maxresident)k
+0inputs+16408outputs (4major+5801minor)pagefaults 0swaps
+
+Result is 3.921973
+3.92user 14.44system 0:18.97elapsed 96%CPU (0avgtext+0avgdata 27624maxresident)k
+0inputs+16416outputs (4major+5794minor)pagefaults 0swaps
+
+Result is 3.921973
+4.20user 14.10system 0:18.90elapsed 96%CPU (0avgtext+0avgdata 27764maxresident)k
+0inputs+16408outputs (4major+5796minor)pagefaults 0swaps
+
+Result is 3.921973
+4.23user 14.00system 0:18.92elapsed 96%CPU (0avgtext+0avgdata 28464maxresident)k
+0inputs+16416outputs (4major+5809minor)pagefaults 0swaps
+MasterSlave_O3_native_37
+
+Result is 3.921973
+3.44user 13.16system 0:17.25elapsed 96%CPU (0avgtext+0avgdata 28032maxresident)k
+0inputs+16408outputs (4major+5819minor)pagefaults 0swaps
+
+Result is 3.921973
+3.56user 13.03system 0:17.29elapsed 95%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16416outputs (4major+5824minor)pagefaults 0swaps
+
+Result is 3.921973
+3.58user 13.06system 0:17.28elapsed 96%CPU (0avgtext+0avgdata 28364maxresident)k
+0inputs+16408outputs (4major+5834minor)pagefaults 0swaps
+
+Result is 3.921973
+3.51user 13.10system 0:17.22elapsed 96%CPU (0avgtext+0avgdata 27908maxresident)k
+0inputs+16416outputs (4major+5827minor)pagefaults 0swaps
+
+Result is 3.921973
+3.62user 12.97system 0:17.28elapsed 96%CPU (0avgtext+0avgdata 28180maxresident)k
+0inputs+16408outputs (4major+5835minor)pagefaults 0swaps
+
+Result is 3.921973
+3.37user 13.19system 0:17.21elapsed 96%CPU (0avgtext+0avgdata 27768maxresident)k
+0inputs+16416outputs (4major+5817minor)pagefaults 0swaps
+
+Result is 3.921973
+3.55user 13.07system 0:17.23elapsed 96%CPU (0avgtext+0avgdata 27768maxresident)k
+0inputs+16408outputs (4major+5815minor)pagefaults 0swaps
+
+Result is 3.921973
+3.54user 13.09system 0:17.32elapsed 96%CPU (0avgtext+0avgdata 27900maxresident)k
+0inputs+16416outputs (4major+5815minor)pagefaults 0swaps
+
+Result is 3.921973
+3.49user 13.12system 0:17.29elapsed 96%CPU (0avgtext+0avgdata 27752maxresident)k
+0inputs+16408outputs (4major+5828minor)pagefaults 0swaps
+
+Result is 3.921973
+3.49user 13.14system 0:17.28elapsed 96%CPU (0avgtext+0avgdata 27780maxresident)k
+0inputs+16416outputs (4major+5817minor)pagefaults 0swaps
+MasterSlave_O3_native_41
+
+Result is 3.921973
+2.98user 11.98system 0:15.68elapsed 95%CPU (0avgtext+0avgdata 28564maxresident)k
+0inputs+16408outputs (4major+5866minor)pagefaults 0swaps
+
+Result is 3.921973
+2.72user 12.26system 0:15.74elapsed 95%CPU (0avgtext+0avgdata 28168maxresident)k
+0inputs+16416outputs (4major+5862minor)pagefaults 0swaps
+
+Result is 3.921973
+3.24user 11.72system 0:15.68elapsed 95%CPU (0avgtext+0avgdata 27800maxresident)k
+0inputs+16408outputs (4major+5869minor)pagefaults 0swaps
+
+Result is 3.921973
+2.92user 12.02system 0:15.62elapsed 95%CPU (0avgtext+0avgdata 28444maxresident)k
+0inputs+16416outputs (4major+5869minor)pagefaults 0swaps
+
+Result is 3.921973
+3.03user 11.97system 0:15.69elapsed 95%CPU (0avgtext+0avgdata 28412maxresident)k
+0inputs+16408outputs (4major+5869minor)pagefaults 0swaps
+
+Result is 3.921973
+3.05user 11.89system 0:15.62elapsed 95%CPU (0avgtext+0avgdata 27716maxresident)k
+0inputs+16416outputs (4major+5853minor)pagefaults 0swaps
+
+Result is 3.921973
+3.05user 11.94system 0:15.59elapsed 96%CPU (0avgtext+0avgdata 28516maxresident)k
+0inputs+16408outputs (4major+5871minor)pagefaults 0swaps
+
+Result is 3.921973
+3.04user 11.93system 0:15.65elapsed 95%CPU (0avgtext+0avgdata 28252maxresident)k
+0inputs+16416outputs (4major+5868minor)pagefaults 0swaps
+
+Result is 3.921973
+2.99user 11.98system 0:15.70elapsed 95%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16408outputs (4major+5860minor)pagefaults 0swaps
+
+Result is 3.921973
+3.00user 11.98system 0:15.67elapsed 95%CPU (0avgtext+0avgdata 27688maxresident)k
+0inputs+16416outputs (4major+5850minor)pagefaults 0swaps
+MasterSlave_O3_native_45
+
+Result is 3.921973
+2.47user 11.00system 0:14.00elapsed 96%CPU (0avgtext+0avgdata 28028maxresident)k
+0inputs+16408outputs (4major+5888minor)pagefaults 0swaps
+
+Result is 3.921973
+2.53user 10.90system 0:14.11elapsed 95%CPU (0avgtext+0avgdata 28168maxresident)k
+0inputs+16416outputs (4major+5899minor)pagefaults 0swaps
+
+Result is 3.921973
+2.29user 11.15system 0:14.07elapsed 95%CPU (0avgtext+0avgdata 28204maxresident)k
+0inputs+16408outputs (4major+5897minor)pagefaults 0swaps
+
+Result is 3.921973
+2.38user 11.10system 0:14.15elapsed 95%CPU (0avgtext+0avgdata 28484maxresident)k
+0inputs+16416outputs (4major+5899minor)pagefaults 0swaps
+
+Result is 3.921973
+2.35user 11.05system 0:14.01elapsed 95%CPU (0avgtext+0avgdata 28136maxresident)k
+0inputs+16408outputs (4major+5898minor)pagefaults 0swaps
+
+Result is 3.921973
+2.58user 10.88system 0:14.18elapsed 94%CPU (0avgtext+0avgdata 27848maxresident)k
+0inputs+16416outputs (4major+5891minor)pagefaults 0swaps
+
+Result is 3.921973
+2.33user 11.11system 0:14.10elapsed 95%CPU (0avgtext+0avgdata 28136maxresident)k
+0inputs+16408outputs (4major+5900minor)pagefaults 0swaps
+
+Result is 3.921973
+2.53user 10.87system 0:14.01elapsed 95%CPU (0avgtext+0avgdata 28472maxresident)k
+0inputs+16416outputs (4major+5896minor)pagefaults 0swaps
+
+Result is 3.921973
+2.42user 10.96system 0:14.09elapsed 95%CPU (0avgtext+0avgdata 28012maxresident)k
+0inputs+16408outputs (4major+5894minor)pagefaults 0swaps
+
+Result is 3.921973
+2.47user 10.92system 0:14.11elapsed 94%CPU (0avgtext+0avgdata 27928maxresident)k
+0inputs+16416outputs (4major+5906minor)pagefaults 0swaps
+MasterSlave_O3_native_49
+
+Result is 3.921973
+2.20user 10.30system 0:13.15elapsed 95%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16408outputs (4major+5925minor)pagefaults 0swaps
+
+Result is 3.921973
+1.94user 10.59system 0:13.16elapsed 95%CPU (0avgtext+0avgdata 28004maxresident)k
+0inputs+16416outputs (4major+5938minor)pagefaults 0swaps
+
+Result is 3.921973
+2.13user 10.41system 0:13.24elapsed 94%CPU (0avgtext+0avgdata 28300maxresident)k
+0inputs+16408outputs (4major+5921minor)pagefaults 0swaps
+
+Result is 3.921973
+2.10user 10.42system 0:13.16elapsed 95%CPU (0avgtext+0avgdata 28216maxresident)k
+0inputs+16416outputs (4major+5931minor)pagefaults 0swaps
+
+Result is 3.921973
+2.18user 10.33system 0:13.14elapsed 95%CPU (0avgtext+0avgdata 28292maxresident)k
+0inputs+16408outputs (4major+5917minor)pagefaults 0swaps
+
+Result is 3.921973
+2.12user 10.42system 0:13.15elapsed 95%CPU (0avgtext+0avgdata 27788maxresident)k
+0inputs+16416outputs (4major+5923minor)pagefaults 0swaps
+
+Result is 3.921973
+2.12user 10.39system 0:13.19elapsed 94%CPU (0avgtext+0avgdata 28488maxresident)k
+0inputs+16408outputs (4major+5922minor)pagefaults 0swaps
+
+Result is 3.921973
+2.16user 10.37system 0:13.18elapsed 95%CPU (0avgtext+0avgdata 28300maxresident)k
+0inputs+16416outputs (4major+5924minor)pagefaults 0swaps
+
+Result is 3.921973
+2.24user 10.26system 0:13.25elapsed 94%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16408outputs (4major+5920minor)pagefaults 0swaps
+
+Result is 3.921973
+2.22user 10.34system 0:13.18elapsed 95%CPU (0avgtext+0avgdata 28144maxresident)k
+0inputs+16416outputs (4major+5934minor)pagefaults 0swaps
+MasterSlave_O3_native_53
+
+Result is 3.921973
+1.83user 9.91system 0:12.39elapsed 94%CPU (0avgtext+0avgdata 28208maxresident)k
+0inputs+16408outputs (4major+5952minor)pagefaults 0swaps
+
+Result is 3.921973
+1.86user 9.82system 0:12.30elapsed 95%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16416outputs (4major+5953minor)pagefaults 0swaps
+
+Result is 3.921973
+1.87user 9.80system 0:12.40elapsed 94%CPU (0avgtext+0avgdata 28500maxresident)k
+0inputs+16408outputs (4major+5976minor)pagefaults 0swaps
+
+Result is 3.921973
+2.07user 9.60system 0:12.42elapsed 93%CPU (0avgtext+0avgdata 28576maxresident)k
+0inputs+16416outputs (4major+5966minor)pagefaults 0swaps
+
+Result is 3.921973
+1.89user 9.83system 0:12.33elapsed 95%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16408outputs (4major+5962minor)pagefaults 0swaps
+
+Result is 3.921973
+1.74user 9.94system 0:12.30elapsed 95%CPU (0avgtext+0avgdata 27932maxresident)k
+0inputs+16416outputs (4major+5949minor)pagefaults 0swaps
+
+Result is 3.921973
+1.84user 9.84system 0:12.39elapsed 94%CPU (0avgtext+0avgdata 28036maxresident)k
+0inputs+16408outputs (4major+5971minor)pagefaults 0swaps
+
+Result is 3.921973
+1.99user 9.74system 0:12.47elapsed 94%CPU (0avgtext+0avgdata 28100maxresident)k
+0inputs+16416outputs (4major+5952minor)pagefaults 0swaps
+
+Result is 3.921973
+1.82user 9.86system 0:12.28elapsed 95%CPU (0avgtext+0avgdata 28692maxresident)k
+0inputs+16408outputs (4major+5965minor)pagefaults 0swaps
+
+Result is 3.921973
+1.94user 9.78system 0:12.41elapsed 94%CPU (0avgtext+0avgdata 28052maxresident)k
+0inputs+16416outputs (4major+5957minor)pagefaults 0swaps
+MasterSlave_O3_native_57
+
+Result is 3.921973
+1.74user 9.12system 0:11.56elapsed 93%CPU (0avgtext+0avgdata 28392maxresident)k
+0inputs+16408outputs (4major+5983minor)pagefaults 0swaps
+
+Result is 3.921973
+1.70user 9.22system 0:11.59elapsed 94%CPU (0avgtext+0avgdata 28732maxresident)k
+0inputs+16416outputs (4major+5991minor)pagefaults 0swaps
+
+Result is 3.921973
+1.80user 9.07system 0:11.58elapsed 93%CPU (0avgtext+0avgdata 28632maxresident)k
+0inputs+16408outputs (4major+5988minor)pagefaults 0swaps
+
+Result is 3.921973
+1.77user 9.13system 0:11.62elapsed 93%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16416outputs (4major+6000minor)pagefaults 0swaps
+
+Result is 3.921973
+1.78user 9.15system 0:11.61elapsed 94%CPU (0avgtext+0avgdata 28260maxresident)k
+0inputs+16408outputs (4major+5983minor)pagefaults 0swaps
+
+Result is 3.921973
+1.69user 9.18system 0:11.54elapsed 94%CPU (0avgtext+0avgdata 28396maxresident)k
+0inputs+16416outputs (4major+5982minor)pagefaults 0swaps
+
+Result is 3.921973
+1.67user 9.19system 0:11.54elapsed 94%CPU (0avgtext+0avgdata 28628maxresident)k
+0inputs+16408outputs (4major+6001minor)pagefaults 0swaps
+
+Result is 3.921973
+1.60user 9.28system 0:11.55elapsed 94%CPU (0avgtext+0avgdata 27944maxresident)k
+0inputs+16416outputs (4major+5989minor)pagefaults 0swaps
+
+Result is 3.921973
+1.64user 9.23system 0:11.65elapsed 93%CPU (0avgtext+0avgdata 28696maxresident)k
+0inputs+16408outputs (4major+5990minor)pagefaults 0swaps
+
+Result is 3.921973
+1.68user 9.27system 0:11.62elapsed 94%CPU (0avgtext+0avgdata 28712maxresident)k
+0inputs+16416outputs (4major+5985minor)pagefaults 0swaps
+MasterSlave_O3_native_61
+
+Result is 3.921973
+1.62user 8.53system 0:10.76elapsed 94%CPU (0avgtext+0avgdata 28468maxresident)k
+0inputs+16408outputs (4major+6008minor)pagefaults 0swaps
+
+Result is 3.921973
+1.44user 8.73system 0:10.85elapsed 93%CPU (0avgtext+0avgdata 27916maxresident)k
+0inputs+16416outputs (4major+6013minor)pagefaults 0swaps
+
+Result is 3.921973
+1.58user 8.58system 0:10.84elapsed 93%CPU (0avgtext+0avgdata 28260maxresident)k
+0inputs+16408outputs (4major+6009minor)pagefaults 0swaps
+
+Result is 3.921973
+1.45user 8.67system 0:10.85elapsed 93%CPU (0avgtext+0avgdata 28120maxresident)k
+0inputs+16416outputs (4major+6015minor)pagefaults 0swaps
+
+Result is 3.921973
+1.39user 8.71system 0:10.81elapsed 93%CPU (0avgtext+0avgdata 28420maxresident)k
+0inputs+16408outputs (4major+6022minor)pagefaults 0swaps
+
+Result is 3.921973
+1.53user 8.61system 0:10.84elapsed 93%CPU (0avgtext+0avgdata 28512maxresident)k
+0inputs+16416outputs (4major+6013minor)pagefaults 0swaps
+
+Result is 3.921973
+1.49user 8.66system 0:10.80elapsed 94%CPU (0avgtext+0avgdata 28200maxresident)k
+0inputs+16408outputs (4major+6016minor)pagefaults 0swaps
+
+Result is 3.921973
+1.59user 8.54system 0:10.79elapsed 93%CPU (0avgtext+0avgdata 28192maxresident)k
+0inputs+16416outputs (4major+6009minor)pagefaults 0swaps
+
+Result is 3.921973
+1.41user 8.67system 0:10.76elapsed 93%CPU (0avgtext+0avgdata 27944maxresident)k
+0inputs+16408outputs (4major+6004minor)pagefaults 0swaps
+
+Result is 3.921973
+1.54user 8.56system 0:10.73elapsed 94%CPU (0avgtext+0avgdata 28364maxresident)k
+0inputs+16416outputs (4major+6014minor)pagefaults 0swaps
+MasterSlave_O3_native_65
+[des06.kask.eti.pg.gda.pl:06022] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06027] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06028] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06029] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06030] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.32user 8.15system 0:10.15elapsed 93%CPU (0avgtext+0avgdata 28840maxresident)k
+0inputs+16408outputs (4major+6052minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06127] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06132] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06133] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06134] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06135] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.29user 8.05system 0:10.01elapsed 93%CPU (0avgtext+0avgdata 28724maxresident)k
+0inputs+16408outputs (4major+6052minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06242] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06247] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06248] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06249] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06250] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.32user 8.02system 0:10.01elapsed 93%CPU (0avgtext+0avgdata 28164maxresident)k
+0inputs+16416outputs (4major+6055minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06362] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06367] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06368] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06369] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06370] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.32user 8.03system 0:10.04elapsed 93%CPU (0avgtext+0avgdata 28244maxresident)k
+0inputs+16408outputs (4major+6045minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06465] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06470] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06471] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06472] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06473] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.27user 8.08system 0:10.07elapsed 92%CPU (0avgtext+0avgdata 28532maxresident)k
+0inputs+16416outputs (4major+6047minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06569] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06574] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06575] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06576] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06577] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.31user 8.08system 0:10.08elapsed 93%CPU (0avgtext+0avgdata 28556maxresident)k
+0inputs+16408outputs (4major+6067minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06665] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06670] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06671] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06672] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06673] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.35user 8.07system 0:10.08elapsed 93%CPU (0avgtext+0avgdata 28780maxresident)k
+0inputs+16408outputs (4major+6053minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06768] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06773] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06774] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06775] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06776] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.23user 8.14system 0:10.03elapsed 93%CPU (0avgtext+0avgdata 28116maxresident)k
+0inputs+16416outputs (4major+6045minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06871] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06876] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06877] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06878] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06879] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.49user 7.89system 0:10.04elapsed 93%CPU (0avgtext+0avgdata 28656maxresident)k
+0inputs+16408outputs (4major+6049minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:06974] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06979] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06980] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06981] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:06982] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.38user 7.96system 0:10.09elapsed 92%CPU (0avgtext+0avgdata 28204maxresident)k
+0inputs+16416outputs (4major+6044minor)pagefaults 0swaps
+MasterSlave_O3_2b
+
+Result is 3.921973
+384.76user 171.11system 9:16.36elapsed 99%CPU (0avgtext+0avgdata 27440maxresident)k
+0inputs+16416outputs (4major+5565minor)pagefaults 0swaps
+
+Result is 3.921973
+385.69user 170.14system 9:16.39elapsed 99%CPU (0avgtext+0avgdata 27284maxresident)k
+0inputs+16416outputs (4major+5548minor)pagefaults 0swaps
+
+Result is 3.921973
+386.77user 168.97system 9:16.25elapsed 99%CPU (0avgtext+0avgdata 27592maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+383.81user 171.81system 9:16.28elapsed 99%CPU (0avgtext+0avgdata 28016maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+385.54user 170.15system 9:16.21elapsed 99%CPU (0avgtext+0avgdata 27592maxresident)k
+0inputs+16416outputs (4major+5555minor)pagefaults 0swaps
+
+Result is 3.921973
+402.66user 152.83system 9:15.99elapsed 99%CPU (0avgtext+0avgdata 27792maxresident)k
+0inputs+16416outputs (4major+5572minor)pagefaults 0swaps
+
+Result is 3.921973
+383.56user 172.07system 9:16.20elapsed 99%CPU (0avgtext+0avgdata 27704maxresident)k
+0inputs+16416outputs (4major+5563minor)pagefaults 0swaps
+
+Result is 3.921973
+382.59user 173.33system 9:16.47elapsed 99%CPU (0avgtext+0avgdata 27476maxresident)k
+0inputs+16416outputs (4major+5562minor)pagefaults 0swaps
+
+Result is 3.921973
+384.47user 171.28system 9:16.27elapsed 99%CPU (0avgtext+0avgdata 27648maxresident)k
+0inputs+16416outputs (4major+5560minor)pagefaults 0swaps
+
+Result is 3.921973
+385.06user 170.60system 9:16.22elapsed 99%CPU (0avgtext+0avgdata 27596maxresident)k
+0inputs+16416outputs (4major+5568minor)pagefaults 0swaps
+MasterSlave_O3_3
+
+Result is 3.921973
+185.73user 98.42system 4:44.70elapsed 99%CPU (0avgtext+0avgdata 27284maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+184.14user 100.03system 4:44.68elapsed 99%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+184.40user 99.83system 4:44.75elapsed 99%CPU (0avgtext+0avgdata 27832maxresident)k
+0inputs+16416outputs (4major+5562minor)pagefaults 0swaps
+
+Result is 3.921973
+184.56user 99.56system 4:44.64elapsed 99%CPU (0avgtext+0avgdata 27832maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+186.31user 97.92system 4:44.74elapsed 99%CPU (0avgtext+0avgdata 27464maxresident)k
+0inputs+16416outputs (4major+5559minor)pagefaults 0swaps
+
+Result is 3.921973
+184.40user 99.87system 4:44.80elapsed 99%CPU (0avgtext+0avgdata 27576maxresident)k
+0inputs+16416outputs (4major+5557minor)pagefaults 0swaps
+
+Result is 3.921973
+184.66user 99.54system 4:44.70elapsed 99%CPU (0avgtext+0avgdata 27544maxresident)k
+0inputs+16416outputs (4major+5563minor)pagefaults 0swaps
+
+Result is 3.921973
+183.99user 100.21system 4:44.81elapsed 99%CPU (0avgtext+0avgdata 27660maxresident)k
+0inputs+16416outputs (4major+5557minor)pagefaults 0swaps
+
+Result is 3.921973
+184.56user 99.64system 4:44.72elapsed 99%CPU (0avgtext+0avgdata 27984maxresident)k
+0inputs+16416outputs (4major+5575minor)pagefaults 0swaps
+
+Result is 3.921973
+186.90user 97.22system 4:44.65elapsed 99%CPU (0avgtext+0avgdata 27516maxresident)k
+0inputs+16416outputs (4major+5566minor)pagefaults 0swaps
+MasterSlave_O3_5
+
+Result is 3.921973
+84.30user 61.31system 2:26.14elapsed 99%CPU (0avgtext+0avgdata 27984maxresident)k
+0inputs+16416outputs (4major+5580minor)pagefaults 0swaps
+
+Result is 3.921973
+83.86user 61.73system 2:26.12elapsed 99%CPU (0avgtext+0avgdata 27704maxresident)k
+0inputs+16416outputs (4major+5563minor)pagefaults 0swaps
+
+Result is 3.921973
+85.54user 60.16system 2:26.24elapsed 99%CPU (0avgtext+0avgdata 27560maxresident)k
+0inputs+16416outputs (4major+5564minor)pagefaults 0swaps
+
+Result is 3.921973
+85.99user 59.62system 2:26.14elapsed 99%CPU (0avgtext+0avgdata 27676maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+85.43user 60.17system 2:26.14elapsed 99%CPU (0avgtext+0avgdata 27432maxresident)k
+0inputs+16416outputs (4major+5560minor)pagefaults 0swaps
+
+Result is 3.921973
+83.98user 61.65system 2:26.21elapsed 99%CPU (0avgtext+0avgdata 27472maxresident)k
+0inputs+16416outputs (4major+5576minor)pagefaults 0swaps
+
+Result is 3.921973
+83.42user 62.20system 2:26.20elapsed 99%CPU (0avgtext+0avgdata 28036maxresident)k
+0inputs+16416outputs (4major+5583minor)pagefaults 0swaps
+
+Result is 3.921973
+84.54user 61.07system 2:26.15elapsed 99%CPU (0avgtext+0avgdata 27552maxresident)k
+0inputs+16416outputs (4major+5575minor)pagefaults 0swaps
+
+Result is 3.921973
+83.64user 61.94system 2:26.15elapsed 99%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16416outputs (4major+5579minor)pagefaults 0swaps
+
+Result is 3.921973
+84.00user 61.62system 2:26.15elapsed 99%CPU (0avgtext+0avgdata 28152maxresident)k
+0inputs+16416outputs (4major+5579minor)pagefaults 0swaps
+MasterSlave_O3_9
+
+Result is 3.921973
+34.34user 38.92system 1:13.85elapsed 99%CPU (0avgtext+0avgdata 27972maxresident)k
+0inputs+16416outputs (4major+5602minor)pagefaults 0swaps
+
+Result is 3.921973
+35.08user 38.18system 1:13.82elapsed 99%CPU (0avgtext+0avgdata 27600maxresident)k
+0inputs+16416outputs (4major+5602minor)pagefaults 0swaps
+
+Result is 3.921973
+34.26user 39.03system 1:13.85elapsed 99%CPU (0avgtext+0avgdata 27856maxresident)k
+0inputs+16416outputs (4major+5598minor)pagefaults 0swaps
+
+Result is 3.921973
+34.98user 38.29system 1:13.89elapsed 99%CPU (0avgtext+0avgdata 28152maxresident)k
+0inputs+16416outputs (4major+5606minor)pagefaults 0swaps
+
+Result is 3.921973
+34.57user 38.71system 1:13.85elapsed 99%CPU (0avgtext+0avgdata 27884maxresident)k
+0inputs+16416outputs (4major+5602minor)pagefaults 0swaps
+
+Result is 3.921973
+35.26user 38.03system 1:13.84elapsed 99%CPU (0avgtext+0avgdata 27404maxresident)k
+0inputs+16416outputs (4major+5616minor)pagefaults 0swaps
+
+Result is 3.921973
+35.14user 38.14system 1:13.83elapsed 99%CPU (0avgtext+0avgdata 27588maxresident)k
+0inputs+16416outputs (4major+5598minor)pagefaults 0swaps
+
+Result is 3.921973
+34.99user 38.30system 1:13.84elapsed 99%CPU (0avgtext+0avgdata 27544maxresident)k
+0inputs+16416outputs (4major+5602minor)pagefaults 0swaps
+
+Result is 3.921973
+34.82user 38.44system 1:13.83elapsed 99%CPU (0avgtext+0avgdata 27448maxresident)k
+0inputs+16416outputs (4major+5588minor)pagefaults 0swaps
+
+Result is 3.921973
+34.27user 38.99system 1:13.82elapsed 99%CPU (0avgtext+0avgdata 27716maxresident)k
+0inputs+16416outputs (4major+5609minor)pagefaults 0swaps
+MasterSlave_O3_13
+
+Result is 3.921973
+20.03user 29.12system 0:49.72elapsed 98%CPU (0avgtext+0avgdata 27960maxresident)k
+0inputs+16416outputs (4major+5625minor)pagefaults 0swaps
+
+Result is 3.921973
+20.28user 28.87system 0:49.70elapsed 98%CPU (0avgtext+0avgdata 27796maxresident)k
+0inputs+16416outputs (4major+5630minor)pagefaults 0swaps
+
+Result is 3.921973
+19.56user 29.61system 0:49.75elapsed 98%CPU (0avgtext+0avgdata 28084maxresident)k
+0inputs+16416outputs (4major+5630minor)pagefaults 0swaps
+
+Result is 3.921973
+20.09user 29.10system 0:49.77elapsed 98%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16416outputs (4major+5632minor)pagefaults 0swaps
+
+Result is 3.921973
+20.07user 29.11system 0:49.78elapsed 98%CPU (0avgtext+0avgdata 28240maxresident)k
+0inputs+16416outputs (4major+5637minor)pagefaults 0swaps
+
+Result is 3.921973
+19.55user 29.61system 0:49.78elapsed 98%CPU (0avgtext+0avgdata 27392maxresident)k
+0inputs+16416outputs (4major+5614minor)pagefaults 0swaps
+
+Result is 3.921973
+19.83user 29.32system 0:49.74elapsed 98%CPU (0avgtext+0avgdata 28232maxresident)k
+0inputs+16416outputs (4major+5643minor)pagefaults 0swaps
+
+Result is 3.921973
+19.98user 29.19system 0:49.74elapsed 98%CPU (0avgtext+0avgdata 27904maxresident)k
+0inputs+16416outputs (4major+5632minor)pagefaults 0swaps
+
+Result is 3.921973
+20.00user 29.17system 0:49.74elapsed 98%CPU (0avgtext+0avgdata 27884maxresident)k
+0inputs+16416outputs (4major+5634minor)pagefaults 0swaps
+
+Result is 3.921973
+20.05user 29.12system 0:49.75elapsed 98%CPU (0avgtext+0avgdata 27700maxresident)k
+0inputs+16416outputs (4major+5635minor)pagefaults 0swaps
+MasterSlave_O3_17
+
+Result is 3.921973
+13.00user 23.74system 0:37.32elapsed 98%CPU (0avgtext+0avgdata 27544maxresident)k
+0inputs+16416outputs (4major+5656minor)pagefaults 0swaps
+
+Result is 3.921973
+13.00user 23.76system 0:37.41elapsed 98%CPU (0avgtext+0avgdata 27812maxresident)k
+0inputs+16416outputs (4major+5672minor)pagefaults 0swaps
+
+Result is 3.921973
+12.58user 24.18system 0:37.35elapsed 98%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5673minor)pagefaults 0swaps
+
+Result is 3.921973
+12.62user 24.12system 0:37.31elapsed 98%CPU (0avgtext+0avgdata 27696maxresident)k
+0inputs+16416outputs (4major+5669minor)pagefaults 0swaps
+
+Result is 3.921973
+13.19user 23.54system 0:37.29elapsed 98%CPU (0avgtext+0avgdata 27792maxresident)k
+0inputs+16416outputs (4major+5666minor)pagefaults 0swaps
+
+Result is 3.921973
+12.83user 23.92system 0:37.30elapsed 98%CPU (0avgtext+0avgdata 28012maxresident)k
+0inputs+16416outputs (4major+5672minor)pagefaults 0swaps
+
+Result is 3.921973
+12.85user 23.91system 0:37.39elapsed 98%CPU (0avgtext+0avgdata 27564maxresident)k
+0inputs+16416outputs (4major+5660minor)pagefaults 0swaps
+
+Result is 3.921973
+12.80user 23.95system 0:37.32elapsed 98%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5672minor)pagefaults 0swaps
+
+Result is 3.921973
+12.65user 24.07system 0:37.35elapsed 98%CPU (0avgtext+0avgdata 27988maxresident)k
+0inputs+16416outputs (4major+5681minor)pagefaults 0swaps
+
+Result is 3.921973
+12.56user 24.18system 0:37.32elapsed 98%CPU (0avgtext+0avgdata 27540maxresident)k
+0inputs+16416outputs (4major+5659minor)pagefaults 0swaps
+MasterSlave_O3_21
+
+Result is 3.921973
+9.64user 19.66system 0:29.90elapsed 98%CPU (0avgtext+0avgdata 27544maxresident)k
+0inputs+16416outputs (4major+5705minor)pagefaults 0swaps
+
+Result is 3.921973
+9.64user 19.71system 0:29.90elapsed 98%CPU (0avgtext+0avgdata 28056maxresident)k
+0inputs+16416outputs (4major+5704minor)pagefaults 0swaps
+
+Result is 3.921973
+9.07user 20.23system 0:29.91elapsed 97%CPU (0avgtext+0avgdata 27736maxresident)k
+0inputs+16416outputs (4major+5701minor)pagefaults 0swaps
+
+Result is 3.921973
+9.36user 19.90system 0:29.89elapsed 97%CPU (0avgtext+0avgdata 27732maxresident)k
+0inputs+16416outputs (4major+5710minor)pagefaults 0swaps
+
+Result is 3.921973
+9.37user 19.96system 0:29.94elapsed 97%CPU (0avgtext+0avgdata 27584maxresident)k
+0inputs+16416outputs (4major+5704minor)pagefaults 0swaps
+
+Result is 3.921973
+9.44user 19.87system 0:29.90elapsed 98%CPU (0avgtext+0avgdata 28024maxresident)k
+0inputs+16416outputs (4major+5708minor)pagefaults 0swaps
+
+Result is 3.921973
+9.39user 19.87system 0:29.90elapsed 97%CPU (0avgtext+0avgdata 28016maxresident)k
+0inputs+16416outputs (4major+5702minor)pagefaults 0swaps
+
+Result is 3.921973
+9.46user 19.80system 0:29.83elapsed 98%CPU (0avgtext+0avgdata 27732maxresident)k
+0inputs+16416outputs (4major+5696minor)pagefaults 0swaps
+
+Result is 3.921973
+9.54user 19.72system 0:29.86elapsed 98%CPU (0avgtext+0avgdata 27480maxresident)k
+0inputs+16416outputs (4major+5689minor)pagefaults 0swaps
+
+Result is 3.921973
+9.05user 20.28system 0:29.89elapsed 98%CPU (0avgtext+0avgdata 28048maxresident)k
+0inputs+16416outputs (4major+5704minor)pagefaults 0swaps
+MasterSlave_O3_25
+
+Result is 3.921973
+7.27user 17.79system 0:25.73elapsed 97%CPU (0avgtext+0avgdata 27484maxresident)k
+0inputs+16408outputs (4major+5732minor)pagefaults 0swaps
+
+Result is 3.921973
+7.27user 17.79system 0:25.62elapsed 97%CPU (0avgtext+0avgdata 27552maxresident)k
+0inputs+16408outputs (4major+5724minor)pagefaults 0swaps
+
+Result is 3.921973
+7.28user 17.79system 0:25.66elapsed 97%CPU (0avgtext+0avgdata 27560maxresident)k
+0inputs+16416outputs (4major+5727minor)pagefaults 0swaps
+
+Result is 3.921973
+7.13user 17.95system 0:25.71elapsed 97%CPU (0avgtext+0avgdata 28372maxresident)k
+0inputs+16416outputs (4major+5741minor)pagefaults 0swaps
+
+Result is 3.921973
+7.44user 17.63system 0:25.68elapsed 97%CPU (0avgtext+0avgdata 27836maxresident)k
+0inputs+16416outputs (4major+5724minor)pagefaults 0swaps
+
+Result is 3.921973
+7.22user 17.84system 0:25.62elapsed 97%CPU (0avgtext+0avgdata 27884maxresident)k
+0inputs+16408outputs (4major+5722minor)pagefaults 0swaps
+
+Result is 3.921973
+7.32user 17.81system 0:25.77elapsed 97%CPU (0avgtext+0avgdata 27776maxresident)k
+0inputs+16408outputs (4major+5728minor)pagefaults 0swaps
+
+Result is 3.921973
+7.44user 17.64system 0:25.73elapsed 97%CPU (0avgtext+0avgdata 27808maxresident)k
+0inputs+16408outputs (4major+5732minor)pagefaults 0swaps
+
+Result is 3.921973
+7.03user 18.05system 0:25.74elapsed 97%CPU (0avgtext+0avgdata 27532maxresident)k
+0inputs+16416outputs (4major+5725minor)pagefaults 0swaps
+
+Result is 3.921973
+7.23user 17.85system 0:25.68elapsed 97%CPU (0avgtext+0avgdata 27612maxresident)k
+0inputs+16416outputs (4major+5735minor)pagefaults 0swaps
+MasterSlave_O3_29
+
+Result is 3.921973
+5.38user 15.66system 0:21.71elapsed 96%CPU (0avgtext+0avgdata 27816maxresident)k
+0inputs+16408outputs (4major+5756minor)pagefaults 0swaps
+
+Result is 3.921973
+5.42user 15.62system 0:21.64elapsed 97%CPU (0avgtext+0avgdata 27940maxresident)k
+0inputs+16416outputs (4major+5765minor)pagefaults 0swaps
+
+Result is 3.921973
+5.72user 15.35system 0:21.66elapsed 97%CPU (0avgtext+0avgdata 28072maxresident)k
+0inputs+16408outputs (4major+5769minor)pagefaults 0swaps
+
+Result is 3.921973
+5.58user 15.46system 0:21.67elapsed 97%CPU (0avgtext+0avgdata 27988maxresident)k
+0inputs+16416outputs (4major+5765minor)pagefaults 0swaps
+
+Result is 3.921973
+5.63user 15.43system 0:21.68elapsed 97%CPU (0avgtext+0avgdata 27720maxresident)k
+0inputs+16408outputs (4major+5759minor)pagefaults 0swaps
+
+Result is 3.921973
+5.51user 15.50system 0:21.69elapsed 96%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5768minor)pagefaults 0swaps
+
+Result is 3.921973
+5.48user 15.52system 0:21.65elapsed 96%CPU (0avgtext+0avgdata 27568maxresident)k
+0inputs+16408outputs (4major+5746minor)pagefaults 0swaps
+
+Result is 3.921973
+5.48user 15.58system 0:21.67elapsed 97%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5763minor)pagefaults 0swaps
+
+Result is 3.921973
+5.55user 15.49system 0:21.63elapsed 97%CPU (0avgtext+0avgdata 28244maxresident)k
+0inputs+16408outputs (4major+5772minor)pagefaults 0swaps
+
+Result is 3.921973
+5.38user 15.66system 0:21.72elapsed 96%CPU (0avgtext+0avgdata 27652maxresident)k
+0inputs+16416outputs (4major+5762minor)pagefaults 0swaps
+MasterSlave_O3_33
+
+Result is 3.921973
+4.13user 14.42system 0:19.21elapsed 96%CPU (0avgtext+0avgdata 27988maxresident)k
+0inputs+16408outputs (4major+5813minor)pagefaults 0swaps
+
+Result is 3.921973
+4.31user 14.19system 0:19.12elapsed 96%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16416outputs (4major+5793minor)pagefaults 0swaps
+
+Result is 3.921973
+4.46user 14.19system 0:19.27elapsed 96%CPU (0avgtext+0avgdata 28188maxresident)k
+0inputs+16408outputs (4major+5809minor)pagefaults 0swaps
+
+Result is 3.921973
+4.00user 14.49system 0:19.17elapsed 96%CPU (0avgtext+0avgdata 28124maxresident)k
+0inputs+16416outputs (4major+5800minor)pagefaults 0swaps
+
+Result is 3.921973
+4.27user 14.25system 0:19.12elapsed 96%CPU (0avgtext+0avgdata 27932maxresident)k
+0inputs+16408outputs (4major+5802minor)pagefaults 0swaps
+
+Result is 3.921973
+4.31user 14.25system 0:19.19elapsed 96%CPU (0avgtext+0avgdata 28148maxresident)k
+0inputs+16416outputs (4major+5793minor)pagefaults 0swaps
+
+Result is 3.921973
+3.96user 14.56system 0:19.16elapsed 96%CPU (0avgtext+0avgdata 28464maxresident)k
+0inputs+16408outputs (4major+5806minor)pagefaults 0swaps
+
+Result is 3.921973
+4.38user 14.18system 0:19.16elapsed 96%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16416outputs (4major+5790minor)pagefaults 0swaps
+
+Result is 3.921973
+4.48user 14.04system 0:19.09elapsed 97%CPU (0avgtext+0avgdata 28476maxresident)k
+0inputs+16408outputs (4major+5805minor)pagefaults 0swaps
+
+Result is 3.921973
+4.05user 14.49system 0:19.18elapsed 96%CPU (0avgtext+0avgdata 28132maxresident)k
+0inputs+16416outputs (4major+5805minor)pagefaults 0swaps
+MasterSlave_O3_37
+
+Result is 3.921973
+3.39user 13.40system 0:17.55elapsed 95%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16408outputs (4major+5823minor)pagefaults 0swaps
+
+Result is 3.921973
+3.43user 13.35system 0:17.50elapsed 95%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16416outputs (4major+5829minor)pagefaults 0swaps
+
+Result is 3.921973
+3.52user 13.27system 0:17.50elapsed 95%CPU (0avgtext+0avgdata 28032maxresident)k
+0inputs+16408outputs (4major+5826minor)pagefaults 0swaps
+
+Result is 3.921973
+3.52user 13.30system 0:17.50elapsed 96%CPU (0avgtext+0avgdata 28448maxresident)k
+0inputs+16416outputs (4major+5828minor)pagefaults 0swaps
+
+Result is 3.921973
+3.52user 13.29system 0:17.39elapsed 96%CPU (0avgtext+0avgdata 27904maxresident)k
+0inputs+16408outputs (4major+5828minor)pagefaults 0swaps
+
+Result is 3.921973
+3.46user 13.34system 0:17.43elapsed 96%CPU (0avgtext+0avgdata 28364maxresident)k
+0inputs+16416outputs (4major+5827minor)pagefaults 0swaps
+
+Result is 3.921973
+3.37user 13.42system 0:17.40elapsed 96%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16408outputs (4major+5825minor)pagefaults 0swaps
+
+Result is 3.921973
+3.79user 13.08system 0:17.48elapsed 96%CPU (0avgtext+0avgdata 27792maxresident)k
+0inputs+16416outputs (4major+5821minor)pagefaults 0swaps
+
+Result is 3.921973
+3.72user 13.12system 0:17.48elapsed 96%CPU (0avgtext+0avgdata 27908maxresident)k
+0inputs+16408outputs (4major+5819minor)pagefaults 0swaps
+
+Result is 3.921973
+3.62user 13.17system 0:17.44elapsed 96%CPU (0avgtext+0avgdata 28060maxresident)k
+0inputs+16416outputs (4major+5838minor)pagefaults 0swaps
+MasterSlave_O3_41
+
+Result is 3.921973
+3.13user 12.01system 0:15.87elapsed 95%CPU (0avgtext+0avgdata 28560maxresident)k
+0inputs+16408outputs (4major+5871minor)pagefaults 0swaps
+
+Result is 3.921973
+2.91user 12.27system 0:15.76elapsed 96%CPU (0avgtext+0avgdata 28076maxresident)k
+0inputs+16416outputs (4major+5862minor)pagefaults 0swaps
+
+Result is 3.921973
+3.02user 12.16system 0:15.85elapsed 95%CPU (0avgtext+0avgdata 28072maxresident)k
+0inputs+16408outputs (4major+5870minor)pagefaults 0swaps
+
+Result is 3.921973
+2.87user 12.29system 0:15.80elapsed 96%CPU (0avgtext+0avgdata 27888maxresident)k
+0inputs+16416outputs (4major+5865minor)pagefaults 0swaps
+
+Result is 3.921973
+2.69user 12.44system 0:15.82elapsed 95%CPU (0avgtext+0avgdata 27784maxresident)k
+0inputs+16408outputs (4major+5861minor)pagefaults 0swaps
+
+Result is 3.921973
+2.87user 12.27system 0:15.87elapsed 95%CPU (0avgtext+0avgdata 27888maxresident)k
+0inputs+16416outputs (4major+5860minor)pagefaults 0swaps
+
+Result is 3.921973
+2.95user 12.22system 0:15.81elapsed 96%CPU (0avgtext+0avgdata 28384maxresident)k
+0inputs+16408outputs (4major+5871minor)pagefaults 0swaps
+
+Result is 3.921973
+3.02user 12.13system 0:15.75elapsed 96%CPU (0avgtext+0avgdata 28412maxresident)k
+0inputs+16416outputs (4major+5866minor)pagefaults 0swaps
+
+Result is 3.921973
+2.98user 12.16system 0:15.76elapsed 96%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16408outputs (4major+5859minor)pagefaults 0swaps
+
+Result is 3.921973
+3.07user 12.08system 0:15.83elapsed 95%CPU (0avgtext+0avgdata 28176maxresident)k
+0inputs+16416outputs (4major+5858minor)pagefaults 0swaps
+MasterSlave_O3_45
+
+Result is 3.921973
+2.42user 11.13system 0:14.26elapsed 95%CPU (0avgtext+0avgdata 27972maxresident)k
+0inputs+16408outputs (4major+5890minor)pagefaults 0swaps
+
+Result is 3.921973
+2.45user 11.10system 0:14.25elapsed 95%CPU (0avgtext+0avgdata 28484maxresident)k
+0inputs+16416outputs (4major+5907minor)pagefaults 0swaps
+
+Result is 3.921973
+2.47user 11.09system 0:14.15elapsed 95%CPU (0avgtext+0avgdata 27736maxresident)k
+0inputs+16408outputs (4major+5889minor)pagefaults 0swaps
+
+Result is 3.921973
+2.48user 11.07system 0:14.20elapsed 95%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16416outputs (4major+5883minor)pagefaults 0swaps
+
+Result is 3.921973
+2.50user 11.03system 0:14.28elapsed 94%CPU (0avgtext+0avgdata 27708maxresident)k
+0inputs+16408outputs (4major+5875minor)pagefaults 0swaps
+
+Result is 3.921973
+2.45user 11.12system 0:14.17elapsed 95%CPU (0avgtext+0avgdata 28300maxresident)k
+0inputs+16416outputs (4major+5891minor)pagefaults 0swaps
+
+Result is 3.921973
+2.63user 10.97system 0:14.20elapsed 95%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16408outputs (4major+5887minor)pagefaults 0swaps
+
+Result is 3.921973
+2.54user 10.99system 0:14.23elapsed 95%CPU (0avgtext+0avgdata 28008maxresident)k
+0inputs+16416outputs (4major+5897minor)pagefaults 0swaps
+
+Result is 3.921973
+2.51user 11.03system 0:14.21elapsed 95%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16408outputs (4major+5887minor)pagefaults 0swaps
+
+Result is 3.921973
+2.49user 11.14system 0:14.29elapsed 95%CPU (0avgtext+0avgdata 28124maxresident)k
+0inputs+16416outputs (4major+5888minor)pagefaults 0swaps
+MasterSlave_O3_49
+
+Result is 3.921973
+2.25user 10.40system 0:13.41elapsed 94%CPU (0avgtext+0avgdata 27756maxresident)k
+0inputs+16408outputs (4major+5913minor)pagefaults 0swaps
+
+Result is 3.921973
+2.28user 10.40system 0:13.28elapsed 95%CPU (0avgtext+0avgdata 28356maxresident)k
+0inputs+16416outputs (4major+5939minor)pagefaults 0swaps
+
+Result is 3.921973
+2.26user 10.40system 0:13.45elapsed 94%CPU (0avgtext+0avgdata 28668maxresident)k
+0inputs+16408outputs (4major+5932minor)pagefaults 0swaps
+
+Result is 3.921973
+2.11user 10.58system 0:13.35elapsed 95%CPU (0avgtext+0avgdata 28504maxresident)k
+0inputs+16416outputs (4major+5925minor)pagefaults 0swaps
+
+Result is 3.921973
+2.23user 10.46system 0:13.40elapsed 94%CPU (0avgtext+0avgdata 28328maxresident)k
+0inputs+16408outputs (4major+5924minor)pagefaults 0swaps
+
+Result is 3.921973
+2.12user 10.59system 0:13.39elapsed 94%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16416outputs (4major+5925minor)pagefaults 0swaps
+
+Result is 3.921973
+2.30user 10.41system 0:13.41elapsed 94%CPU (0avgtext+0avgdata 28488maxresident)k
+0inputs+16408outputs (4major+5928minor)pagefaults 0swaps
+
+Result is 3.921973
+2.13user 10.54system 0:13.32elapsed 95%CPU (0avgtext+0avgdata 28488maxresident)k
+0inputs+16416outputs (4major+5938minor)pagefaults 0swaps
+
+Result is 3.921973
+2.05user 10.69system 0:13.38elapsed 95%CPU (0avgtext+0avgdata 27812maxresident)k
+0inputs+16408outputs (4major+5936minor)pagefaults 0swaps
+
+Result is 3.921973
+2.24user 10.45system 0:13.43elapsed 94%CPU (0avgtext+0avgdata 28264maxresident)k
+0inputs+16416outputs (4major+5934minor)pagefaults 0swaps
+MasterSlave_O3_53
+
+Result is 3.921973
+1.91user 9.96system 0:12.66elapsed 93%CPU (0avgtext+0avgdata 28688maxresident)k
+0inputs+16408outputs (4major+5965minor)pagefaults 0swaps
+
+Result is 3.921973
+2.00user 9.82system 0:12.51elapsed 94%CPU (0avgtext+0avgdata 28384maxresident)k
+0inputs+16416outputs (4major+5956minor)pagefaults 0swaps
+
+Result is 3.921973
+1.98user 9.87system 0:12.48elapsed 94%CPU (0avgtext+0avgdata 28400maxresident)k
+0inputs+16408outputs (4major+5958minor)pagefaults 0swaps
+
+Result is 3.921973
+2.10user 9.72system 0:12.44elapsed 95%CPU (0avgtext+0avgdata 27840maxresident)k
+0inputs+16416outputs (4major+5956minor)pagefaults 0swaps
+
+Result is 3.921973
+1.98user 9.86system 0:12.49elapsed 94%CPU (0avgtext+0avgdata 28408maxresident)k
+0inputs+16408outputs (4major+5955minor)pagefaults 0swaps
+
+Result is 3.921973
+1.82user 10.02system 0:12.56elapsed 94%CPU (0avgtext+0avgdata 27960maxresident)k
+0inputs+16416outputs (4major+5946minor)pagefaults 0swaps
+
+Result is 3.921973
+1.85user 9.98system 0:12.57elapsed 94%CPU (0avgtext+0avgdata 28168maxresident)k
+0inputs+16408outputs (4major+5952minor)pagefaults 0swaps
+
+Result is 3.921973
+1.86user 9.96system 0:12.56elapsed 94%CPU (0avgtext+0avgdata 28324maxresident)k
+0inputs+16416outputs (4major+5971minor)pagefaults 0swaps
+
+Result is 3.921973
+1.99user 9.85system 0:12.47elapsed 95%CPU (0avgtext+0avgdata 28348maxresident)k
+0inputs+16408outputs (4major+5957minor)pagefaults 0swaps
+
+Result is 3.921973
+1.96user 9.87system 0:12.51elapsed 94%CPU (0avgtext+0avgdata 28188maxresident)k
+0inputs+16416outputs (4major+5972minor)pagefaults 0swaps
+MasterSlave_O3_57
+
+Result is 3.921973
+1.78user 9.25system 0:11.74elapsed 94%CPU (0avgtext+0avgdata 28260maxresident)k
+0inputs+16408outputs (4major+5985minor)pagefaults 0swaps
+
+Result is 3.921973
+1.77user 9.29system 0:11.70elapsed 94%CPU (0avgtext+0avgdata 28432maxresident)k
+0inputs+16416outputs (4major+5995minor)pagefaults 0swaps
+
+Result is 3.921973
+1.71user 9.31system 0:11.64elapsed 94%CPU (0avgtext+0avgdata 28008maxresident)k
+0inputs+16408outputs (4major+5979minor)pagefaults 0swaps
+
+Result is 3.921973
+1.64user 9.38system 0:11.62elapsed 94%CPU (0avgtext+0avgdata 28732maxresident)k
+0inputs+16416outputs (4major+5989minor)pagefaults 0swaps
+
+Result is 3.921973
+1.66user 9.34system 0:11.74elapsed 93%CPU (0avgtext+0avgdata 28456maxresident)k
+0inputs+16408outputs (4major+5990minor)pagefaults 0swaps
+
+Result is 3.921973
+1.75user 9.30system 0:11.65elapsed 94%CPU (0avgtext+0avgdata 28660maxresident)k
+0inputs+16416outputs (4major+5991minor)pagefaults 0swaps
+
+Result is 3.921973
+1.58user 9.42system 0:11.62elapsed 94%CPU (0avgtext+0avgdata 28232maxresident)k
+0inputs+16408outputs (4major+5997minor)pagefaults 0swaps
+
+Result is 3.921973
+1.71user 9.32system 0:11.74elapsed 93%CPU (0avgtext+0avgdata 28320maxresident)k
+0inputs+16416outputs (4major+5991minor)pagefaults 0swaps
+
+Result is 3.921973
+1.80user 9.24system 0:11.75elapsed 93%CPU (0avgtext+0avgdata 27880maxresident)k
+0inputs+16408outputs (4major+5968minor)pagefaults 0swaps
+
+Result is 3.921973
+1.64user 9.36system 0:11.73elapsed 93%CPU (0avgtext+0avgdata 27976maxresident)k
+0inputs+16416outputs (4major+5991minor)pagefaults 0swaps
+MasterSlave_O3_61
+
+Result is 3.921973
+1.56user 8.68system 0:10.94elapsed 93%CPU (0avgtext+0avgdata 28048maxresident)k
+0inputs+16408outputs (4major+6011minor)pagefaults 0swaps
+
+Result is 3.921973
+1.49user 8.75system 0:10.87elapsed 94%CPU (0avgtext+0avgdata 27944maxresident)k
+0inputs+16416outputs (4major+6004minor)pagefaults 0swaps
+
+Result is 3.921973
+1.44user 8.82system 0:10.93elapsed 93%CPU (0avgtext+0avgdata 27904maxresident)k
+0inputs+16408outputs (4major+6009minor)pagefaults 0swaps
+
+Result is 3.921973
+1.44user 8.78system 0:10.90elapsed 93%CPU (0avgtext+0avgdata 28260maxresident)k
+0inputs+16416outputs (4major+6012minor)pagefaults 0swaps
+
+Result is 3.921973
+1.47user 8.76system 0:10.85elapsed 94%CPU (0avgtext+0avgdata 27892maxresident)k
+0inputs+16408outputs (4major+6013minor)pagefaults 0swaps
+
+Result is 3.921973
+1.58user 8.68system 0:10.90elapsed 94%CPU (0avgtext+0avgdata 28592maxresident)k
+0inputs+16416outputs (4major+6009minor)pagefaults 0swaps
+
+Result is 3.921973
+1.58user 8.66system 0:10.88elapsed 94%CPU (0avgtext+0avgdata 28400maxresident)k
+0inputs+16408outputs (4major+6023minor)pagefaults 0swaps
+
+Result is 3.921973
+1.43user 8.80system 0:10.92elapsed 93%CPU (0avgtext+0avgdata 28200maxresident)k
+0inputs+16416outputs (4major+6017minor)pagefaults 0swaps
+
+Result is 3.921973
+1.50user 8.71system 0:10.84elapsed 94%CPU (0avgtext+0avgdata 28496maxresident)k
+0inputs+16408outputs (4major+6021minor)pagefaults 0swaps
+
+Result is 3.921973
+1.41user 8.84system 0:10.94elapsed 93%CPU (0avgtext+0avgdata 28316maxresident)k
+0inputs+16416outputs (4major+6007minor)pagefaults 0swaps
+MasterSlave_O3_65
+[des06.kask.eti.pg.gda.pl:15046] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15051] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15052] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15053] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15054] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.54user 8.67system 0:10.94elapsed 93%CPU (0avgtext+0avgdata 28688maxresident)k
+0inputs+16408outputs (4major+6038minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15150] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15156] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15155] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15157] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15158] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.55user 8.72system 0:10.95elapsed 93%CPU (0avgtext+0avgdata 28340maxresident)k
+0inputs+16424outputs (4major+6036minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15256] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15261] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15262] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15264] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15263] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.35user 8.90system 0:10.91elapsed 94%CPU (0avgtext+0avgdata 28036maxresident)k
+0inputs+16408outputs (4major+6028minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15360] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15365] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15366] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15367] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15368] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.43user 8.80system 0:10.90elapsed 93%CPU (0avgtext+0avgdata 28496maxresident)k
+0inputs+16416outputs (4major+6033minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15456] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15461] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15462] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15463] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15464] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.68user 8.57system 0:10.94elapsed 93%CPU (0avgtext+0avgdata 28052maxresident)k
+0inputs+16416outputs (4major+6048minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15559] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15564] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15565] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15566] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15567] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.69user 8.54system 0:10.95elapsed 93%CPU (0avgtext+0avgdata 28496maxresident)k
+0inputs+16416outputs (4major+6030minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15662] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15667] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15668] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15669] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15670] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.58user 8.64system 0:10.90elapsed 93%CPU (0avgtext+0avgdata 28496maxresident)k
+0inputs+16408outputs (4major+6026minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15766] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15771] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15772] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15773] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15774] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.64user 8.64system 0:10.91elapsed 94%CPU (0avgtext+0avgdata 28208maxresident)k
+0inputs+16416outputs (4major+6015minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15870] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15875] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15876] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15877] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15878] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.57user 8.72system 0:10.95elapsed 94%CPU (0avgtext+0avgdata 28316maxresident)k
+0inputs+16408outputs (4major+6031minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:15966] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15971] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15972] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15973] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:15974] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.49user 8.72system 0:10.87elapsed 93%CPU (0avgtext+0avgdata 27940maxresident)k
+0inputs+16416outputs (4major+6016minor)pagefaults 0swaps
+MasterSlave_O2_2b
+
+Result is 3.921973
+388.79user 166.94system 9:16.25elapsed 99%CPU (0avgtext+0avgdata 27384maxresident)k
+0inputs+16416outputs (4major+5549minor)pagefaults 0swaps
+
+Result is 3.921973
+386.81user 168.65system 9:16.09elapsed 99%CPU (0avgtext+0avgdata 27456maxresident)k
+0inputs+16416outputs (4major+5564minor)pagefaults 0swaps
+
+Result is 3.921973
+385.71user 169.81system 9:16.02elapsed 99%CPU (0avgtext+0avgdata 27456maxresident)k
+0inputs+16416outputs (4major+5552minor)pagefaults 0swaps
+
+Result is 3.921973
+383.98user 171.80system 9:16.31elapsed 99%CPU (0avgtext+0avgdata 27708maxresident)k
+0inputs+16416outputs (4major+5562minor)pagefaults 0swaps
+
+Result is 3.921973
+383.90user 171.90system 9:16.35elapsed 99%CPU (0avgtext+0avgdata 27536maxresident)k
+0inputs+16416outputs (4major+5548minor)pagefaults 0swaps
+
+Result is 3.921973
+384.32user 171.25system 9:16.09elapsed 99%CPU (0avgtext+0avgdata 27848maxresident)k
+0inputs+16416outputs (4major+5560minor)pagefaults 0swaps
+
+Result is 3.921973
+382.80user 173.00system 9:16.38elapsed 99%CPU (0avgtext+0avgdata 27404maxresident)k
+0inputs+16416outputs (4major+5558minor)pagefaults 0swaps
+
+Result is 3.921973
+387.02user 168.60system 9:16.25elapsed 99%CPU (0avgtext+0avgdata 28104maxresident)k
+0inputs+16416outputs (4major+5572minor)pagefaults 0swaps
+
+Result is 3.921973
+386.75user 168.80system 9:16.10elapsed 99%CPU (0avgtext+0avgdata 27760maxresident)k
+0inputs+16416outputs (4major+5558minor)pagefaults 0swaps
+
+Result is 3.921973
+400.80user 154.91system 9:16.22elapsed 99%CPU (0avgtext+0avgdata 27384maxresident)k
+0inputs+16416outputs (4major+5551minor)pagefaults 0swaps
+MasterSlave_O2_3
+
+Result is 3.921973
+185.72user 98.43system 4:44.71elapsed 99%CPU (0avgtext+0avgdata 27600maxresident)k
+0inputs+16416outputs (4major+5564minor)pagefaults 0swaps
+
+Result is 3.921973
+184.07user 100.07system 4:44.68elapsed 99%CPU (0avgtext+0avgdata 27388maxresident)k
+0inputs+16416outputs (4major+5552minor)pagefaults 0swaps
+
+Result is 3.921973
+185.20user 99.04system 4:44.73elapsed 99%CPU (0avgtext+0avgdata 28136maxresident)k
+0inputs+16416outputs (4major+5574minor)pagefaults 0swaps
+
+Result is 3.921973
+185.13user 98.98system 4:44.59elapsed 99%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5572minor)pagefaults 0swaps
+
+Result is 3.921973
+185.20user 98.96system 4:44.65elapsed 99%CPU (0avgtext+0avgdata 27376maxresident)k
+0inputs+16416outputs (4major+5567minor)pagefaults 0swaps
+
+Result is 3.921973
+186.07user 98.03system 4:44.68elapsed 99%CPU (0avgtext+0avgdata 27448maxresident)k
+0inputs+16416outputs (4major+5575minor)pagefaults 0swaps
+
+Result is 3.921973
+186.07user 98.08system 4:44.72elapsed 99%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+185.47user 98.67system 4:44.68elapsed 99%CPU (0avgtext+0avgdata 27288maxresident)k
+0inputs+16416outputs (4major+5547minor)pagefaults 0swaps
+
+Result is 3.921973
+185.55user 98.72system 4:44.84elapsed 99%CPU (0avgtext+0avgdata 27716maxresident)k
+0inputs+16416outputs (4major+5578minor)pagefaults 0swaps
+
+Result is 3.921973
+184.75user 99.44system 4:44.74elapsed 99%CPU (0avgtext+0avgdata 27812maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+MasterSlave_O2_5
+
+Result is 3.921973
+83.34user 62.24system 2:26.14elapsed 99%CPU (0avgtext+0avgdata 27872maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+84.66user 60.91system 2:26.12elapsed 99%CPU (0avgtext+0avgdata 27264maxresident)k
+0inputs+16416outputs (4major+5559minor)pagefaults 0swaps
+
+Result is 3.921973
+84.18user 61.43system 2:26.14elapsed 99%CPU (0avgtext+0avgdata 27556maxresident)k
+0inputs+16416outputs (4major+5571minor)pagefaults 0swaps
+
+Result is 3.921973
+84.17user 61.45system 2:26.15elapsed 99%CPU (0avgtext+0avgdata 27564maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+84.90user 60.70system 2:26.14elapsed 99%CPU (0avgtext+0avgdata 27416maxresident)k
+0inputs+16416outputs (4major+5575minor)pagefaults 0swaps
+
+Result is 3.921973
+84.33user 61.28system 2:26.16elapsed 99%CPU (0avgtext+0avgdata 27536maxresident)k
+0inputs+16416outputs (4major+5572minor)pagefaults 0swaps
+
+Result is 3.921973
+82.76user 62.91system 2:26.20elapsed 99%CPU (0avgtext+0avgdata 27428maxresident)k
+0inputs+16416outputs (4major+5563minor)pagefaults 0swaps
+
+Result is 3.921973
+85.60user 60.03system 2:26.18elapsed 99%CPU (0avgtext+0avgdata 28056maxresident)k
+0inputs+16416outputs (4major+5575minor)pagefaults 0swaps
+
+Result is 3.921973
+84.67user 60.92system 2:26.11elapsed 99%CPU (0avgtext+0avgdata 27620maxresident)k
+0inputs+16416outputs (4major+5577minor)pagefaults 0swaps
+
+Result is 3.921973
+84.22user 61.39system 2:26.16elapsed 99%CPU (0avgtext+0avgdata 27676maxresident)k
+0inputs+16416outputs (4major+5568minor)pagefaults 0swaps
+MasterSlave_O2_9
+
+Result is 3.921973
+34.77user 38.50system 1:13.82elapsed 99%CPU (0avgtext+0avgdata 28068maxresident)k
+0inputs+16416outputs (4major+5601minor)pagefaults 0swaps
+
+Result is 3.921973
+35.53user 37.72system 1:13.84elapsed 99%CPU (0avgtext+0avgdata 27912maxresident)k
+0inputs+16416outputs (4major+5602minor)pagefaults 0swaps
+
+Result is 3.921973
+34.88user 38.39system 1:13.89elapsed 99%CPU (0avgtext+0avgdata 27600maxresident)k
+0inputs+16416outputs (4major+5595minor)pagefaults 0swaps
+
+Result is 3.921973
+35.18user 38.09system 1:13.82elapsed 99%CPU (0avgtext+0avgdata 27432maxresident)k
+0inputs+16416outputs (4major+5592minor)pagefaults 0swaps
+
+Result is 3.921973
+34.81user 38.46system 1:13.80elapsed 99%CPU (0avgtext+0avgdata 27864maxresident)k
+0inputs+16416outputs (4major+5606minor)pagefaults 0swaps
+
+Result is 3.921973
+35.47user 37.80system 1:13.82elapsed 99%CPU (0avgtext+0avgdata 27852maxresident)k
+0inputs+16416outputs (4major+5597minor)pagefaults 0swaps
+
+Result is 3.921973
+34.85user 38.41system 1:13.81elapsed 99%CPU (0avgtext+0avgdata 27512maxresident)k
+0inputs+16416outputs (4major+5599minor)pagefaults 0swaps
+
+Result is 3.921973
+35.60user 37.66system 1:13.83elapsed 99%CPU (0avgtext+0avgdata 27660maxresident)k
+0inputs+16416outputs (4major+5601minor)pagefaults 0swaps
+
+Result is 3.921973
+35.15user 38.12system 1:13.83elapsed 99%CPU (0avgtext+0avgdata 27584maxresident)k
+0inputs+16416outputs (4major+5595minor)pagefaults 0swaps
+
+Result is 3.921973
+34.84user 38.45system 1:13.89elapsed 99%CPU (0avgtext+0avgdata 28048maxresident)k
+0inputs+16416outputs (4major+5607minor)pagefaults 0swaps
+MasterSlave_O2_13
+
+Result is 3.921973
+19.81user 29.35system 0:49.76elapsed 98%CPU (0avgtext+0avgdata 27656maxresident)k
+0inputs+16416outputs (4major+5628minor)pagefaults 0swaps
+
+Result is 3.921973
+20.03user 29.11system 0:49.77elapsed 98%CPU (0avgtext+0avgdata 27496maxresident)k
+0inputs+16416outputs (4major+5614minor)pagefaults 0swaps
+
+Result is 3.921973
+19.22user 29.95system 0:49.74elapsed 98%CPU (0avgtext+0avgdata 27956maxresident)k
+0inputs+16416outputs (4major+5628minor)pagefaults 0swaps
+
+Result is 3.921973
+19.99user 29.19system 0:49.74elapsed 98%CPU (0avgtext+0avgdata 27704maxresident)k
+0inputs+16416outputs (4major+5632minor)pagefaults 0swaps
+
+Result is 3.921973
+19.98user 29.22system 0:49.72elapsed 98%CPU (0avgtext+0avgdata 28060maxresident)k
+0inputs+16416outputs (4major+5643minor)pagefaults 0swaps
+
+Result is 3.921973
+19.93user 29.22system 0:49.71elapsed 98%CPU (0avgtext+0avgdata 27704maxresident)k
+0inputs+16416outputs (4major+5635minor)pagefaults 0swaps
+
+Result is 3.921973
+19.91user 29.23system 0:49.72elapsed 98%CPU (0avgtext+0avgdata 27404maxresident)k
+0inputs+16416outputs (4major+5631minor)pagefaults 0swaps
+
+Result is 3.921973
+20.47user 28.70system 0:49.82elapsed 98%CPU (0avgtext+0avgdata 28124maxresident)k
+0inputs+16416outputs (4major+5635minor)pagefaults 0swaps
+
+Result is 3.921973
+19.86user 29.32system 0:49.72elapsed 98%CPU (0avgtext+0avgdata 28088maxresident)k
+0inputs+16416outputs (4major+5634minor)pagefaults 0swaps
+
+Result is 3.921973
+19.72user 29.45system 0:49.77elapsed 98%CPU (0avgtext+0avgdata 27944maxresident)k
+0inputs+16416outputs (4major+5639minor)pagefaults 0swaps
+MasterSlave_O2_17
+
+Result is 3.921973
+12.63user 24.15system 0:37.37elapsed 98%CPU (0avgtext+0avgdata 27832maxresident)k
+0inputs+16416outputs (4major+5678minor)pagefaults 0swaps
+
+Result is 3.921973
+12.93user 23.82system 0:37.40elapsed 98%CPU (0avgtext+0avgdata 28292maxresident)k
+0inputs+16416outputs (4major+5683minor)pagefaults 0swaps
+
+Result is 3.921973
+12.73user 23.99system 0:37.29elapsed 98%CPU (0avgtext+0avgdata 28000maxresident)k
+0inputs+16416outputs (4major+5668minor)pagefaults 0swaps
+
+Result is 3.921973
+13.08user 23.66system 0:37.35elapsed 98%CPU (0avgtext+0avgdata 27572maxresident)k
+0inputs+16416outputs (4major+5663minor)pagefaults 0swaps
+
+Result is 3.921973
+13.14user 23.59system 0:37.33elapsed 98%CPU (0avgtext+0avgdata 27616maxresident)k
+0inputs+16416outputs (4major+5671minor)pagefaults 0swaps
+
+Result is 3.921973
+12.57user 24.19system 0:37.37elapsed 98%CPU (0avgtext+0avgdata 28180maxresident)k
+0inputs+16416outputs (4major+5677minor)pagefaults 0swaps
+
+Result is 3.921973
+13.16user 23.56system 0:37.32elapsed 98%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16416outputs (4major+5668minor)pagefaults 0swaps
+
+Result is 3.921973
+12.77user 23.98system 0:37.29elapsed 98%CPU (0avgtext+0avgdata 27784maxresident)k
+0inputs+16416outputs (4major+5668minor)pagefaults 0swaps
+
+Result is 3.921973
+13.17user 23.60system 0:37.32elapsed 98%CPU (0avgtext+0avgdata 27540maxresident)k
+0inputs+16416outputs (4major+5655minor)pagefaults 0swaps
+
+Result is 3.921973
+12.97user 23.75system 0:37.30elapsed 98%CPU (0avgtext+0avgdata 27468maxresident)k
+0inputs+16416outputs (4major+5648minor)pagefaults 0swaps
+MasterSlave_O2_21
+
+Result is 3.921973
+9.45user 19.84system 0:30.04elapsed 97%CPU (0avgtext+0avgdata 27440maxresident)k
+0inputs+16416outputs (4major+5685minor)pagefaults 0swaps
+
+Result is 3.921973
+9.37user 19.93system 0:29.87elapsed 98%CPU (0avgtext+0avgdata 28324maxresident)k
+0inputs+16416outputs (4major+5708minor)pagefaults 0swaps
+
+Result is 3.921973
+9.28user 20.04system 0:29.88elapsed 98%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16416outputs (4major+5705minor)pagefaults 0swaps
+
+Result is 3.921973
+9.43user 19.86system 0:29.88elapsed 98%CPU (0avgtext+0avgdata 27700maxresident)k
+0inputs+16416outputs (4major+5703minor)pagefaults 0swaps
+
+Result is 3.921973
+9.25user 20.06system 0:29.92elapsed 97%CPU (0avgtext+0avgdata 28332maxresident)k
+0inputs+16416outputs (4major+5708minor)pagefaults 0swaps
+
+Result is 3.921973
+9.37user 19.94system 0:29.90elapsed 98%CPU (0avgtext+0avgdata 27436maxresident)k
+0inputs+16416outputs (4major+5685minor)pagefaults 0swaps
+
+Result is 3.921973
+9.21user 20.06system 0:29.85elapsed 98%CPU (0avgtext+0avgdata 28180maxresident)k
+0inputs+16416outputs (4major+5706minor)pagefaults 0swaps
+
+Result is 3.921973
+9.54user 19.74system 0:29.85elapsed 98%CPU (0avgtext+0avgdata 27568maxresident)k
+0inputs+16416outputs (4major+5710minor)pagefaults 0swaps
+
+Result is 3.921973
+9.20user 20.08system 0:29.94elapsed 97%CPU (0avgtext+0avgdata 27568maxresident)k
+0inputs+16416outputs (4major+5695minor)pagefaults 0swaps
+
+Result is 3.921973
+9.59user 19.69system 0:29.93elapsed 97%CPU (0avgtext+0avgdata 27748maxresident)k
+0inputs+16416outputs (4major+5711minor)pagefaults 0swaps
+MasterSlave_O2_25
+
+Result is 3.921973
+7.17user 17.91system 0:25.71elapsed 97%CPU (0avgtext+0avgdata 27508maxresident)k
+0inputs+16408outputs (4major+5731minor)pagefaults 0swaps
+
+Result is 3.921973
+6.87user 18.22system 0:25.64elapsed 97%CPU (0avgtext+0avgdata 27516maxresident)k
+0inputs+16408outputs (4major+5721minor)pagefaults 0swaps
+
+Result is 3.921973
+7.44user 17.64system 0:25.71elapsed 97%CPU (0avgtext+0avgdata 27628maxresident)k
+0inputs+16416outputs (4major+5723minor)pagefaults 0swaps
+
+Result is 3.921973
+7.31user 17.81system 0:25.70elapsed 97%CPU (0avgtext+0avgdata 27792maxresident)k
+0inputs+16408outputs (4major+5742minor)pagefaults 0swaps
+
+Result is 3.921973
+7.44user 17.63system 0:25.65elapsed 97%CPU (0avgtext+0avgdata 27700maxresident)k
+0inputs+16416outputs (4major+5734minor)pagefaults 0swaps
+
+Result is 3.921973
+7.23user 17.84system 0:25.65elapsed 97%CPU (0avgtext+0avgdata 28088maxresident)k
+0inputs+16416outputs (4major+5741minor)pagefaults 0swaps
+
+Result is 3.921973
+7.27user 17.78system 0:25.68elapsed 97%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5735minor)pagefaults 0swaps
+
+Result is 3.921973
+7.30user 17.79system 0:25.70elapsed 97%CPU (0avgtext+0avgdata 27948maxresident)k
+0inputs+16408outputs (4major+5734minor)pagefaults 0swaps
+
+Result is 3.921973
+7.28user 17.78system 0:25.63elapsed 97%CPU (0avgtext+0avgdata 28028maxresident)k
+0inputs+16408outputs (4major+5733minor)pagefaults 0swaps
+
+Result is 3.921973
+7.06user 18.00system 0:25.71elapsed 97%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16416outputs (4major+5736minor)pagefaults 0swaps
+MasterSlave_O2_29
+
+Result is 3.921973
+5.38user 15.59system 0:21.60elapsed 97%CPU (0avgtext+0avgdata 28420maxresident)k
+0inputs+16408outputs (4major+5773minor)pagefaults 0swaps
+
+Result is 3.921973
+5.53user 15.45system 0:21.62elapsed 97%CPU (0avgtext+0avgdata 28220maxresident)k
+0inputs+16416outputs (4major+5768minor)pagefaults 0swaps
+
+Result is 3.921973
+5.49user 15.53system 0:21.63elapsed 97%CPU (0avgtext+0avgdata 28416maxresident)k
+0inputs+16408outputs (4major+5784minor)pagefaults 0swaps
+
+Result is 3.921973
+5.39user 15.62system 0:21.59elapsed 97%CPU (0avgtext+0avgdata 27928maxresident)k
+0inputs+16416outputs (4major+5769minor)pagefaults 0swaps
+
+Result is 3.921973
+5.33user 15.64system 0:21.64elapsed 96%CPU (0avgtext+0avgdata 27656maxresident)k
+0inputs+16408outputs (4major+5775minor)pagefaults 0swaps
+
+Result is 3.921973
+5.61user 15.40system 0:21.62elapsed 97%CPU (0avgtext+0avgdata 27652maxresident)k
+0inputs+16416outputs (4major+5778minor)pagefaults 0swaps
+
+Result is 3.921973
+5.21user 15.86system 0:21.65elapsed 97%CPU (0avgtext+0avgdata 27952maxresident)k
+0inputs+16408outputs (4major+5763minor)pagefaults 0swaps
+
+Result is 3.921973
+5.24user 15.79system 0:21.69elapsed 97%CPU (0avgtext+0avgdata 28300maxresident)k
+0inputs+16416outputs (4major+5772minor)pagefaults 0swaps
+
+Result is 3.921973
+5.32user 15.72system 0:21.62elapsed 97%CPU (0avgtext+0avgdata 28112maxresident)k
+0inputs+16408outputs (4major+5773minor)pagefaults 0swaps
+
+Result is 3.921973
+5.57user 15.56system 0:21.73elapsed 97%CPU (0avgtext+0avgdata 27564maxresident)k
+0inputs+16416outputs (4major+5766minor)pagefaults 0swaps
+MasterSlave_O2_33
+
+Result is 3.921973
+3.98user 14.55system 0:19.18elapsed 96%CPU (0avgtext+0avgdata 28164maxresident)k
+0inputs+16408outputs (4major+5809minor)pagefaults 0swaps
+
+Result is 3.921973
+4.29user 14.18system 0:19.13elapsed 96%CPU (0avgtext+0avgdata 28132maxresident)k
+0inputs+16416outputs (4major+5797minor)pagefaults 0swaps
+
+Result is 3.921973
+4.34user 14.17system 0:19.22elapsed 96%CPU (0avgtext+0avgdata 27936maxresident)k
+0inputs+16408outputs (4major+5795minor)pagefaults 0swaps
+
+Result is 3.921973
+4.11user 14.37system 0:19.10elapsed 96%CPU (0avgtext+0avgdata 27872maxresident)k
+0inputs+16416outputs (4major+5788minor)pagefaults 0swaps
+
+Result is 3.921973
+4.41user 14.15system 0:19.20elapsed 96%CPU (0avgtext+0avgdata 27852maxresident)k
+0inputs+16408outputs (4major+5796minor)pagefaults 0swaps
+
+Result is 3.921973
+4.27user 14.23system 0:19.11elapsed 96%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16416outputs (4major+5800minor)pagefaults 0swaps
+
+Result is 3.921973
+4.29user 14.20system 0:19.21elapsed 96%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16408outputs (4major+5791minor)pagefaults 0swaps
+
+Result is 3.921973
+4.05user 14.47system 0:19.20elapsed 96%CPU (0avgtext+0avgdata 27620maxresident)k
+0inputs+16416outputs (4major+5793minor)pagefaults 0swaps
+
+Result is 3.921973
+4.19user 14.31system 0:19.13elapsed 96%CPU (0avgtext+0avgdata 27992maxresident)k
+0inputs+16408outputs (4major+5788minor)pagefaults 0swaps
+
+Result is 3.921973
+4.29user 14.21system 0:19.17elapsed 96%CPU (0avgtext+0avgdata 28152maxresident)k
+0inputs+16416outputs (4major+5799minor)pagefaults 0swaps
+MasterSlave_O2_37
+
+Result is 3.921973
+3.70user 13.13system 0:17.44elapsed 96%CPU (0avgtext+0avgdata 28032maxresident)k
+0inputs+16408outputs (4major+5820minor)pagefaults 0swaps
+
+Result is 3.921973
+3.66user 13.15system 0:17.46elapsed 96%CPU (0avgtext+0avgdata 27856maxresident)k
+0inputs+16416outputs (4major+5822minor)pagefaults 0swaps
+
+Result is 3.921973
+3.62user 13.19system 0:17.52elapsed 95%CPU (0avgtext+0avgdata 28176maxresident)k
+0inputs+16408outputs (4major+5823minor)pagefaults 0swaps
+
+Result is 3.921973
+3.63user 13.19system 0:17.40elapsed 96%CPU (0avgtext+0avgdata 27956maxresident)k
+0inputs+16416outputs (4major+5822minor)pagefaults 0swaps
+
+Result is 3.921973
+3.52user 13.26system 0:17.40elapsed 96%CPU (0avgtext+0avgdata 27688maxresident)k
+0inputs+16408outputs (4major+5815minor)pagefaults 0swaps
+
+Result is 3.921973
+3.54user 13.32system 0:17.54elapsed 96%CPU (0avgtext+0avgdata 28360maxresident)k
+0inputs+16416outputs (4major+5823minor)pagefaults 0swaps
+
+Result is 3.921973
+3.56user 13.25system 0:17.51elapsed 96%CPU (0avgtext+0avgdata 27832maxresident)k
+0inputs+16408outputs (4major+5825minor)pagefaults 0swaps
+
+Result is 3.921973
+3.54user 13.28system 0:17.41elapsed 96%CPU (0avgtext+0avgdata 28232maxresident)k
+0inputs+16416outputs (4major+5836minor)pagefaults 0swaps
+
+Result is 3.921973
+3.62user 13.23system 0:17.51elapsed 96%CPU (0avgtext+0avgdata 27916maxresident)k
+0inputs+16408outputs (4major+5834minor)pagefaults 0swaps
+
+Result is 3.921973
+3.50user 13.35system 0:17.44elapsed 96%CPU (0avgtext+0avgdata 28212maxresident)k
+0inputs+16416outputs (4major+5824minor)pagefaults 0swaps
+MasterSlave_O2_41
+
+Result is 3.921973
+2.90user 12.24system 0:15.84elapsed 95%CPU (0avgtext+0avgdata 27712maxresident)k
+0inputs+16408outputs (4major+5863minor)pagefaults 0swaps
+
+Result is 3.921973
+2.92user 12.25system 0:15.86elapsed 95%CPU (0avgtext+0avgdata 28252maxresident)k
+0inputs+16416outputs (4major+5867minor)pagefaults 0swaps
+
+Result is 3.921973
+2.95user 12.23system 0:15.81elapsed 95%CPU (0avgtext+0avgdata 27796maxresident)k
+0inputs+16408outputs (4major+5856minor)pagefaults 0swaps
+
+Result is 3.921973
+3.05user 12.11system 0:15.79elapsed 96%CPU (0avgtext+0avgdata 28276maxresident)k
+0inputs+16416outputs (4major+5880minor)pagefaults 0swaps
+
+Result is 3.921973
+3.14user 11.99system 0:15.83elapsed 95%CPU (0avgtext+0avgdata 28284maxresident)k
+0inputs+16408outputs (4major+5861minor)pagefaults 0swaps
+
+Result is 3.921973
+2.88user 12.25system 0:15.74elapsed 96%CPU (0avgtext+0avgdata 27856maxresident)k
+0inputs+16416outputs (4major+5864minor)pagefaults 0swaps
+
+Result is 3.921973
+3.06user 12.08system 0:15.77elapsed 96%CPU (0avgtext+0avgdata 28064maxresident)k
+0inputs+16408outputs (4major+5866minor)pagefaults 0swaps
+
+Result is 3.921973
+2.90user 12.25system 0:15.76elapsed 96%CPU (0avgtext+0avgdata 28072maxresident)k
+0inputs+16416outputs (4major+5851minor)pagefaults 0swaps
+
+Result is 3.921973
+2.96user 12.20system 0:15.90elapsed 95%CPU (0avgtext+0avgdata 27884maxresident)k
+0inputs+16408outputs (4major+5861minor)pagefaults 0swaps
+
+Result is 3.921973
+3.07user 12.07system 0:15.84elapsed 95%CPU (0avgtext+0avgdata 28200maxresident)k
+0inputs+16416outputs (4major+5864minor)pagefaults 0swaps
+MasterSlave_O2_45
+
+Result is 3.921973
+2.43user 11.15system 0:14.27elapsed 95%CPU (0avgtext+0avgdata 28612maxresident)k
+0inputs+16408outputs (4major+5894minor)pagefaults 0swaps
+
+Result is 3.921973
+2.39user 11.22system 0:14.29elapsed 95%CPU (0avgtext+0avgdata 27952maxresident)k
+0inputs+16416outputs (4major+5903minor)pagefaults 0swaps
+
+Result is 3.921973
+2.48user 11.06system 0:14.15elapsed 95%CPU (0avgtext+0avgdata 28000maxresident)k
+0inputs+16408outputs (4major+5887minor)pagefaults 0swaps
+
+Result is 3.921973
+2.65user 10.93system 0:14.26elapsed 95%CPU (0avgtext+0avgdata 28308maxresident)k
+0inputs+16416outputs (4major+5894minor)pagefaults 0swaps
+
+Result is 3.921973
+2.51user 11.04system 0:14.25elapsed 95%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16408outputs (4major+5886minor)pagefaults 0swaps
+
+Result is 3.921973
+2.44user 11.23system 0:14.28elapsed 95%CPU (0avgtext+0avgdata 28284maxresident)k
+0inputs+16416outputs (4major+5894minor)pagefaults 0swaps
+
+Result is 3.921973
+2.60user 10.96system 0:14.27elapsed 95%CPU (0avgtext+0avgdata 28316maxresident)k
+0inputs+16408outputs (4major+5899minor)pagefaults 0swaps
+
+Result is 3.921973
+2.51user 11.04system 0:14.23elapsed 95%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5891minor)pagefaults 0swaps
+
+Result is 3.921973
+2.48user 11.12system 0:14.23elapsed 95%CPU (0avgtext+0avgdata 28260maxresident)k
+0inputs+16408outputs (4major+5887minor)pagefaults 0swaps
+
+Result is 3.921973
+2.45user 11.12system 0:14.21elapsed 95%CPU (0avgtext+0avgdata 28180maxresident)k
+0inputs+16416outputs (4major+5893minor)pagefaults 0swaps
+MasterSlave_O2_49
+
+Result is 3.921973
+2.11user 10.51system 0:13.33elapsed 94%CPU (0avgtext+0avgdata 28636maxresident)k
+0inputs+16408outputs (4major+5934minor)pagefaults 0swaps
+
+Result is 3.921973
+2.25user 10.47system 0:13.39elapsed 95%CPU (0avgtext+0avgdata 28160maxresident)k
+0inputs+16416outputs (4major+5922minor)pagefaults 0swaps
+
+Result is 3.921973
+2.08user 10.62system 0:13.42elapsed 94%CPU (0avgtext+0avgdata 28164maxresident)k
+0inputs+16408outputs (4major+5927minor)pagefaults 0swaps
+
+Result is 3.921973
+2.31user 10.38system 0:13.35elapsed 95%CPU (0avgtext+0avgdata 28104maxresident)k
+0inputs+16416outputs (4major+5922minor)pagefaults 0swaps
+
+Result is 3.921973
+2.09user 10.58system 0:13.37elapsed 94%CPU (0avgtext+0avgdata 28036maxresident)k
+0inputs+16408outputs (4major+5927minor)pagefaults 0swaps
+
+Result is 3.921973
+2.16user 10.55system 0:13.34elapsed 95%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5931minor)pagefaults 0swaps
+
+Result is 3.921973
+2.24user 10.51system 0:13.41elapsed 95%CPU (0avgtext+0avgdata 28212maxresident)k
+0inputs+16408outputs (4major+5924minor)pagefaults 0swaps
+
+Result is 3.921973
+2.20user 10.45system 0:13.37elapsed 94%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16416outputs (4major+5924minor)pagefaults 0swaps
+
+Result is 3.921973
+2.20user 10.50system 0:13.34elapsed 95%CPU (0avgtext+0avgdata 28524maxresident)k
+0inputs+16408outputs (4major+5940minor)pagefaults 0swaps
+
+Result is 3.921973
+2.19user 10.44system 0:13.38elapsed 94%CPU (0avgtext+0avgdata 28372maxresident)k
+0inputs+16416outputs (4major+5940minor)pagefaults 0swaps
+MasterSlave_O2_53
+
+Result is 3.921973
+2.01user 9.79system 0:12.49elapsed 94%CPU (0avgtext+0avgdata 27924maxresident)k
+0inputs+16408outputs (4major+5957minor)pagefaults 0swaps
+
+Result is 3.921973
+1.89user 9.92system 0:12.55elapsed 94%CPU (0avgtext+0avgdata 28160maxresident)k
+0inputs+16416outputs (4major+5960minor)pagefaults 0swaps
+
+Result is 3.921973
+1.84user 9.95system 0:12.44elapsed 94%CPU (0avgtext+0avgdata 28396maxresident)k
+0inputs+16408outputs (4major+5967minor)pagefaults 0swaps
+
+Result is 3.921973
+1.84user 10.02system 0:12.48elapsed 95%CPU (0avgtext+0avgdata 28344maxresident)k
+0inputs+16416outputs (4major+5963minor)pagefaults 0swaps
+
+Result is 3.921973
+1.89user 9.93system 0:12.48elapsed 94%CPU (0avgtext+0avgdata 28444maxresident)k
+0inputs+16408outputs (4major+5953minor)pagefaults 0swaps
+
+Result is 3.921973
+1.99user 9.85system 0:12.56elapsed 94%CPU (0avgtext+0avgdata 28148maxresident)k
+0inputs+16416outputs (4major+5954minor)pagefaults 0swaps
+
+Result is 3.921973
+2.09user 9.77system 0:12.48elapsed 95%CPU (0avgtext+0avgdata 28424maxresident)k
+0inputs+16408outputs (4major+5957minor)pagefaults 0swaps
+
+Result is 3.921973
+1.89user 9.97system 0:12.60elapsed 94%CPU (0avgtext+0avgdata 28540maxresident)k
+0inputs+16416outputs (4major+5960minor)pagefaults 0swaps
+
+Result is 3.921973
+1.86user 9.97system 0:12.59elapsed 94%CPU (0avgtext+0avgdata 28536maxresident)k
+0inputs+16408outputs (4major+5962minor)pagefaults 0swaps
+
+Result is 3.921973
+1.97user 9.86system 0:12.52elapsed 94%CPU (0avgtext+0avgdata 27840maxresident)k
+0inputs+16416outputs (4major+5943minor)pagefaults 0swaps
+MasterSlave_O2_57
+
+Result is 3.921973
+1.82user 9.19system 0:11.81elapsed 93%CPU (0avgtext+0avgdata 28180maxresident)k
+0inputs+16408outputs (4major+5986minor)pagefaults 0swaps
+
+Result is 3.921973
+1.65user 9.35system 0:11.73elapsed 93%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5980minor)pagefaults 0swaps
+
+Result is 3.921973
+1.68user 9.34system 0:11.73elapsed 94%CPU (0avgtext+0avgdata 27992maxresident)k
+0inputs+16408outputs (4major+5992minor)pagefaults 0swaps
+
+Result is 3.921973
+1.76user 9.26system 0:11.74elapsed 93%CPU (0avgtext+0avgdata 28144maxresident)k
+0inputs+16416outputs (4major+5980minor)pagefaults 0swaps
+
+Result is 3.921973
+1.81user 9.21system 0:11.68elapsed 94%CPU (0avgtext+0avgdata 28196maxresident)k
+0inputs+16408outputs (4major+5996minor)pagefaults 0swaps
+
+Result is 3.921973
+1.57user 9.42system 0:11.72elapsed 93%CPU (0avgtext+0avgdata 28316maxresident)k
+0inputs+16416outputs (4major+5985minor)pagefaults 0swaps
+
+Result is 3.921973
+1.68user 9.36system 0:11.63elapsed 95%CPU (0avgtext+0avgdata 27972maxresident)k
+0inputs+16408outputs (4major+5980minor)pagefaults 0swaps
+
+Result is 3.921973
+1.75user 9.28system 0:11.75elapsed 93%CPU (0avgtext+0avgdata 28744maxresident)k
+0inputs+16416outputs (4major+5995minor)pagefaults 0swaps
+
+Result is 3.921973
+1.73user 9.34system 0:11.73elapsed 94%CPU (0avgtext+0avgdata 27844maxresident)k
+0inputs+16408outputs (4major+5968minor)pagefaults 0swaps
+
+Result is 3.921973
+1.75user 9.27system 0:11.71elapsed 94%CPU (0avgtext+0avgdata 27848maxresident)k
+0inputs+16416outputs (4major+5973minor)pagefaults 0swaps
+MasterSlave_O2_61
+
+Result is 3.921973
+1.57user 8.70system 0:11.02elapsed 93%CPU (0avgtext+0avgdata 28036maxresident)k
+0inputs+16408outputs (4major+6017minor)pagefaults 0swaps
+
+Result is 3.921973
+1.52user 8.67system 0:10.95elapsed 93%CPU (0avgtext+0avgdata 28456maxresident)k
+0inputs+16416outputs (4major+6012minor)pagefaults 0swaps
+
+Result is 3.921973
+1.58user 8.66system 0:10.98elapsed 93%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16408outputs (4major+6018minor)pagefaults 0swaps
+
+Result is 3.921973
+1.54user 8.73system 0:10.92elapsed 94%CPU (0avgtext+0avgdata 28796maxresident)k
+0inputs+16416outputs (4major+6026minor)pagefaults 0swaps
+
+Result is 3.921973
+1.51user 8.73system 0:10.86elapsed 94%CPU (0avgtext+0avgdata 28484maxresident)k
+0inputs+16408outputs (4major+6014minor)pagefaults 0swaps
+
+Result is 3.921973
+1.52user 8.70system 0:10.96elapsed 93%CPU (0avgtext+0avgdata 28276maxresident)k
+0inputs+16416outputs (4major+6020minor)pagefaults 0swaps
+
+Result is 3.921973
+1.59user 8.71system 0:10.99elapsed 93%CPU (0avgtext+0avgdata 28620maxresident)k
+0inputs+16408outputs (4major+6018minor)pagefaults 0swaps
+
+Result is 3.921973
+1.66user 8.63system 0:10.90elapsed 94%CPU (0avgtext+0avgdata 28076maxresident)k
+0inputs+16416outputs (4major+6013minor)pagefaults 0swaps
+
+Result is 3.921973
+1.51user 8.72system 0:10.88elapsed 94%CPU (0avgtext+0avgdata 28312maxresident)k
+0inputs+16408outputs (4major+6011minor)pagefaults 0swaps
+
+Result is 3.921973
+1.58user 8.64system 0:10.97elapsed 93%CPU (0avgtext+0avgdata 28032maxresident)k
+0inputs+16416outputs (4major+6015minor)pagefaults 0swaps
+MasterSlave_O2_65
+[des06.kask.eti.pg.gda.pl:24059] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24064] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24066] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24065] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24067] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.36user 8.16system 0:10.24elapsed 93%CPU (0avgtext+0avgdata 28556maxresident)k
+0inputs+16408outputs (4major+6050minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24184] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24189] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24190] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24191] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24192] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.31user 8.22system 0:10.22elapsed 93%CPU (0avgtext+0avgdata 28240maxresident)k
+0inputs+16408outputs (4major+6060minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24296] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24301] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24302] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24303] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24304] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.27user 8.23system 0:10.15elapsed 93%CPU (0avgtext+0avgdata 28076maxresident)k
+0inputs+16416outputs (4major+6035minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24400] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24405] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24406] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24407] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24408] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.35user 8.18system 0:10.22elapsed 93%CPU (0avgtext+0avgdata 28500maxresident)k
+0inputs+16408outputs (4major+6042minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24503] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24508] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24509] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24511] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24510] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.38user 8.09system 0:10.21elapsed 92%CPU (0avgtext+0avgdata 28104maxresident)k
+0inputs+16416outputs (4major+6038minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24609] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24614] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24616] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24615] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24617] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.27user 8.19system 0:10.18elapsed 92%CPU (0avgtext+0avgdata 28232maxresident)k
+0inputs+16416outputs (4major+6044minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24706] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24711] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24712] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24713] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24714] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.28user 8.22system 0:10.38elapsed 91%CPU (0avgtext+0avgdata 28416maxresident)k
+0inputs+16408outputs (4major+6061minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24809] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24814] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24816] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24815] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24817] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.25user 8.25system 0:10.16elapsed 93%CPU (0avgtext+0avgdata 28248maxresident)k
+0inputs+16408outputs (4major+6049minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:24921] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24926] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24927] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24928] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:24929] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.38user 8.14system 0:10.18elapsed 93%CPU (0avgtext+0avgdata 28556maxresident)k
+0inputs+16416outputs (4major+6042minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:25024] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:25029] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:25030] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:25031] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:25032] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+1.44user 8.00system 0:10.21elapsed 92%CPU (0avgtext+0avgdata 28832maxresident)k
+0inputs+16408outputs (4major+6052minor)pagefaults 0swaps
+MasterSlave_2b
+
+Result is 3.921973
+1109.42user 479.78system 26:29.76elapsed 99%CPU (0avgtext+0avgdata 27708maxresident)k
+0inputs+16416outputs (4major+5569minor)pagefaults 0swaps
+
+Result is 3.921973
+1156.63user 433.91system 26:31.07elapsed 99%CPU (0avgtext+0avgdata 27352maxresident)k
+0inputs+16416outputs (4major+5566minor)pagefaults 0swaps
+
+Result is 3.921973
+1103.51user 487.27system 26:31.51elapsed 99%CPU (0avgtext+0avgdata 27652maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+1098.26user 489.61system 26:28.44elapsed 99%CPU (0avgtext+0avgdata 27484maxresident)k
+0inputs+16416outputs (4major+5553minor)pagefaults 0swaps
+
+Result is 3.921973
+1107.08user 481.91system 26:29.65elapsed 99%CPU (0avgtext+0avgdata 27980maxresident)k
+0inputs+16416outputs (4major+5561minor)pagefaults 0swaps
+
+Result is 3.921973
+1108.21user 480.76system 26:29.59elapsed 99%CPU (0avgtext+0avgdata 27284maxresident)k
+0inputs+16416outputs (4major+5545minor)pagefaults 0swaps
+
+Result is 3.921973
+1097.96user 489.99system 26:28.50elapsed 99%CPU (0avgtext+0avgdata 27644maxresident)k
+0inputs+16416outputs (4major+5559minor)pagefaults 0swaps
+
+Result is 3.921973
+1105.42user 483.82system 26:29.82elapsed 99%CPU (0avgtext+0avgdata 27772maxresident)k
+0inputs+16416outputs (4major+5563minor)pagefaults 0swaps
+
+Result is 3.921973
+1107.42user 482.15system 26:30.14elapsed 99%CPU (0avgtext+0avgdata 27452maxresident)k
+0inputs+16416outputs (4major+5560minor)pagefaults 0swaps
+
+Result is 3.921973
+1097.88user 492.85system 26:31.23elapsed 99%CPU (0avgtext+0avgdata 27608maxresident)k
+0inputs+16416outputs (4major+5556minor)pagefaults 0swaps
+MasterSlave_3
+
+Result is 3.921973
+527.31user 286.51system 13:34.34elapsed 99%CPU (0avgtext+0avgdata 27536maxresident)k
+0inputs+16416outputs (4major+5558minor)pagefaults 0swaps
+
+Result is 3.921973
+528.79user 284.05system 13:33.38elapsed 99%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+16416outputs (4major+5565minor)pagefaults 0swaps
+
+Result is 3.921973
+527.34user 286.14system 13:34.02elapsed 99%CPU (0avgtext+0avgdata 27532maxresident)k
+0inputs+16416outputs (4major+5569minor)pagefaults 0swaps
+
+Result is 3.921973
+534.08user 278.93system 13:33.56elapsed 99%CPU (0avgtext+0avgdata 27680maxresident)k
+0inputs+16416outputs (4major+5568minor)pagefaults 0swaps
+
+Result is 3.921973
+529.00user 284.10system 13:33.75elapsed 99%CPU (0avgtext+0avgdata 27296maxresident)k
+0inputs+16416outputs (4major+5553minor)pagefaults 0swaps
+
+Result is 3.921973
+528.86user 284.74system 13:34.14elapsed 99%CPU (0avgtext+0avgdata 28112maxresident)k
+0inputs+16416outputs (4major+5568minor)pagefaults 0swaps
+
+Result is 3.921973
+534.30user 279.15system 13:33.98elapsed 99%CPU (0avgtext+0avgdata 27984maxresident)k
+0inputs+16416outputs (4major+5577minor)pagefaults 0swaps
+
+Result is 3.921973
+529.25user 282.91system 13:32.70elapsed 99%CPU (0avgtext+0avgdata 27380maxresident)k
+0inputs+16416outputs (4major+5560minor)pagefaults 0swaps
+
+Result is 3.921973
+529.56user 284.23system 13:34.32elapsed 99%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+529.81user 283.80system 13:34.14elapsed 99%CPU (0avgtext+0avgdata 27664maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+MasterSlave_5
+
+Result is 3.921973
+241.12user 175.99system 6:57.63elapsed 99%CPU (0avgtext+0avgdata 27740maxresident)k
+0inputs+16416outputs (4major+5572minor)pagefaults 0swaps
+
+Result is 3.921973
+245.86user 175.39system 7:01.80elapsed 99%CPU (0avgtext+0avgdata 28164maxresident)k
+0inputs+16416outputs (4major+5576minor)pagefaults 0swaps
+
+Result is 3.921973
+240.05user 177.21system 6:57.84elapsed 99%CPU (0avgtext+0avgdata 27536maxresident)k
+0inputs+16416outputs (4major+5564minor)pagefaults 0swaps
+
+Result is 3.921973
+242.29user 174.69system 6:57.52elapsed 99%CPU (0avgtext+0avgdata 28160maxresident)k
+0inputs+16416outputs (4major+5579minor)pagefaults 0swaps
+
+Result is 3.921973
+241.14user 175.75system 6:57.47elapsed 99%CPU (0avgtext+0avgdata 27376maxresident)k
+0inputs+16416outputs (4major+5570minor)pagefaults 0swaps
+
+Result is 3.921973
+239.97user 176.89system 6:57.40elapsed 99%CPU (0avgtext+0avgdata 27824maxresident)k
+0inputs+16416outputs (4major+5574minor)pagefaults 0swaps
+
+Result is 3.921973
+241.91user 174.88system 6:57.35elapsed 99%CPU (0avgtext+0avgdata 27404maxresident)k
+0inputs+16416outputs (4major+5577minor)pagefaults 0swaps
+
+Result is 3.921973
+240.42user 176.44system 6:57.43elapsed 99%CPU (0avgtext+0avgdata 28012maxresident)k
+0inputs+16416outputs (4major+5572minor)pagefaults 0swaps
+
+Result is 3.921973
+240.62user 176.10system 6:57.24elapsed 99%CPU (0avgtext+0avgdata 27492maxresident)k
+0inputs+16416outputs (4major+5569minor)pagefaults 0swaps
+
+Result is 3.921973
+241.42user 175.27system 6:57.21elapsed 99%CPU (0avgtext+0avgdata 27824maxresident)k
+0inputs+16416outputs (4major+5584minor)pagefaults 0swaps
+MasterSlave_9
+
+Result is 3.921973
+102.10user 107.58system 3:30.22elapsed 99%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16416outputs (4major+5611minor)pagefaults 0swaps
+
+Result is 3.921973
+100.05user 109.69system 3:30.30elapsed 99%CPU (0avgtext+0avgdata 27340maxresident)k
+0inputs+16416outputs (4major+5589minor)pagefaults 0swaps
+
+Result is 3.921973
+100.01user 109.48system 3:30.05elapsed 99%CPU (0avgtext+0avgdata 27928maxresident)k
+0inputs+16416outputs (4major+5608minor)pagefaults 0swaps
+
+Result is 3.921973
+99.28user 110.28system 3:30.12elapsed 99%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16416outputs (4major+5605minor)pagefaults 0swaps
+
+Result is 3.921973
+100.72user 108.74system 3:30.03elapsed 99%CPU (0avgtext+0avgdata 27892maxresident)k
+0inputs+16416outputs (4major+5609minor)pagefaults 0swaps
+
+Result is 3.921973
+99.45user 110.03system 3:30.03elapsed 99%CPU (0avgtext+0avgdata 27596maxresident)k
+0inputs+16416outputs (4major+5596minor)pagefaults 0swaps
+
+Result is 3.921973
+99.43user 110.08system 3:30.07elapsed 99%CPU (0avgtext+0avgdata 27812maxresident)k
+0inputs+16416outputs (4major+5598minor)pagefaults 0swaps
+
+Result is 3.921973
+100.29user 109.25system 3:30.08elapsed 99%CPU (0avgtext+0avgdata 27912maxresident)k
+0inputs+16416outputs (4major+5602minor)pagefaults 0swaps
+
+Result is 3.921973
+98.17user 111.43system 3:30.16elapsed 99%CPU (0avgtext+0avgdata 27660maxresident)k
+0inputs+16416outputs (4major+5603minor)pagefaults 0swaps
+
+Result is 3.921973
+100.51user 108.92system 3:30.00elapsed 99%CPU (0avgtext+0avgdata 28040maxresident)k
+0inputs+16416outputs (4major+5598minor)pagefaults 0swaps
+MasterSlave_13
+
+Result is 3.921973
+57.92user 82.51system 2:21.01elapsed 99%CPU (0avgtext+0avgdata 27816maxresident)k
+0inputs+16416outputs (4major+5633minor)pagefaults 0swaps
+
+Result is 3.921973
+57.41user 83.06system 2:21.07elapsed 99%CPU (0avgtext+0avgdata 27496maxresident)k
+0inputs+16416outputs (4major+5621minor)pagefaults 0swaps
+
+Result is 3.921973
+57.63user 82.84system 2:21.08elapsed 99%CPU (0avgtext+0avgdata 27940maxresident)k
+0inputs+16416outputs (4major+5633minor)pagefaults 0swaps
+
+Result is 3.921973
+56.54user 83.89system 2:20.98elapsed 99%CPU (0avgtext+0avgdata 27492maxresident)k
+0inputs+16416outputs (4major+5624minor)pagefaults 0swaps
+
+Result is 3.921973
+56.15user 84.24system 2:21.01elapsed 99%CPU (0avgtext+0avgdata 27472maxresident)k
+0inputs+16416outputs (4major+5634minor)pagefaults 0swaps
+
+Result is 3.921973
+58.30user 84.79system 2:23.66elapsed 99%CPU (0avgtext+0avgdata 28124maxresident)k
+0inputs+16416outputs (4major+5639minor)pagefaults 0swaps
+
+Result is 3.921973
+56.84user 83.68system 2:21.09elapsed 99%CPU (0avgtext+0avgdata 27948maxresident)k
+0inputs+16416outputs (4major+5632minor)pagefaults 0swaps
+
+Result is 3.921973
+57.37user 83.07system 2:21.06elapsed 99%CPU (0avgtext+0avgdata 27816maxresident)k
+0inputs+16416outputs (4major+5631minor)pagefaults 0swaps
+
+Result is 3.921973
+56.46user 84.06system 2:21.06elapsed 99%CPU (0avgtext+0avgdata 27904maxresident)k
+0inputs+16416outputs (4major+5630minor)pagefaults 0swaps
+
+Result is 3.921973
+55.81user 84.57system 2:20.96elapsed 99%CPU (0avgtext+0avgdata 27960maxresident)k
+0inputs+16416outputs (4major+5626minor)pagefaults 0swaps
+MasterSlave_17
+
+Result is 3.921973
+36.22user 68.69system 1:45.67elapsed 99%CPU (0avgtext+0avgdata 27692maxresident)k
+0inputs+16416outputs (4major+5665minor)pagefaults 0swaps
+
+Result is 3.921973
+37.02user 67.85system 1:45.48elapsed 99%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16416outputs (4major+5669minor)pagefaults 0swaps
+
+Result is 3.921973
+37.16user 67.79system 1:45.57elapsed 99%CPU (0avgtext+0avgdata 27688maxresident)k
+0inputs+16416outputs (4major+5678minor)pagefaults 0swaps
+
+Result is 3.921973
+36.18user 68.70system 1:45.51elapsed 99%CPU (0avgtext+0avgdata 27544maxresident)k
+0inputs+16416outputs (4major+5663minor)pagefaults 0swaps
+
+Result is 3.921973
+36.80user 68.16system 1:45.51elapsed 99%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16416outputs (4major+5670minor)pagefaults 0swaps
+
+Result is 3.921973
+36.57user 68.38system 1:45.52elapsed 99%CPU (0avgtext+0avgdata 28136maxresident)k
+0inputs+16416outputs (4major+5683minor)pagefaults 0swaps
+
+Result is 3.921973
+36.08user 68.96system 1:45.61elapsed 99%CPU (0avgtext+0avgdata 28172maxresident)k
+0inputs+16416outputs (4major+5681minor)pagefaults 0swaps
+
+Result is 3.921973
+37.39user 69.70system 1:47.69elapsed 99%CPU (0avgtext+0avgdata 27952maxresident)k
+0inputs+16416outputs (4major+5667minor)pagefaults 0swaps
+
+Result is 3.921973
+36.40user 68.46system 1:45.42elapsed 99%CPU (0avgtext+0avgdata 27980maxresident)k
+0inputs+16416outputs (4major+5663minor)pagefaults 0swaps
+
+Result is 3.921973
+36.57user 68.38system 1:45.56elapsed 99%CPU (0avgtext+0avgdata 27688maxresident)k
+0inputs+16416outputs (4major+5663minor)pagefaults 0swaps
+MasterSlave_21
+
+Result is 3.921973
+27.06user 56.50system 1:24.12elapsed 99%CPU (0avgtext+0avgdata 28332maxresident)k
+0inputs+16416outputs (4major+5721minor)pagefaults 0swaps
+
+Result is 3.921973
+26.12user 57.45system 1:24.16elapsed 99%CPU (0avgtext+0avgdata 28024maxresident)k
+0inputs+16416outputs (4major+5711minor)pagefaults 0swaps
+
+Result is 3.921973
+27.31user 56.30system 1:24.21elapsed 99%CPU (0avgtext+0avgdata 27732maxresident)k
+0inputs+16416outputs (4major+5708minor)pagefaults 0swaps
+
+Result is 3.921973
+28.03user 57.63system 1:26.24elapsed 99%CPU (0avgtext+0avgdata 27480maxresident)k
+0inputs+16416outputs (4major+5686minor)pagefaults 0swaps
+
+Result is 3.921973
+26.42user 57.09system 1:24.16elapsed 99%CPU (0avgtext+0avgdata 28200maxresident)k
+0inputs+16416outputs (4major+5703minor)pagefaults 0swaps
+
+Result is 3.921973
+27.10user 58.83system 1:26.51elapsed 99%CPU (0avgtext+0avgdata 27476maxresident)k
+0inputs+16416outputs (4major+5690minor)pagefaults 0swaps
+
+Result is 3.921973
+26.66user 56.94system 1:24.25elapsed 99%CPU (0avgtext+0avgdata 27860maxresident)k
+0inputs+16416outputs (4major+5699minor)pagefaults 0swaps
+
+Result is 3.921973
+26.91user 56.59system 1:24.08elapsed 99%CPU (0avgtext+0avgdata 27476maxresident)k
+0inputs+16416outputs (4major+5693minor)pagefaults 0swaps
+
+Result is 3.921973
+27.14user 56.49system 1:24.22elapsed 99%CPU (0avgtext+0avgdata 27744maxresident)k
+0inputs+16416outputs (4major+5699minor)pagefaults 0swaps
+
+Result is 3.921973
+28.08user 57.88system 1:26.58elapsed 99%CPU (0avgtext+0avgdata 28020maxresident)k
+0inputs+16416outputs (4major+5703minor)pagefaults 0swaps
+MasterSlave_25
+
+Result is 3.921973
+21.05user 50.53system 1:12.18elapsed 99%CPU (0avgtext+0avgdata 27804maxresident)k
+0inputs+16416outputs (4major+5732minor)pagefaults 0swaps
+
+Result is 3.921973
+20.36user 51.23system 1:12.17elapsed 99%CPU (0avgtext+0avgdata 27836maxresident)k
+0inputs+16416outputs (4major+5733minor)pagefaults 0swaps
+
+Result is 3.921973
+20.02user 51.45system 1:12.07elapsed 99%CPU (0avgtext+0avgdata 27624maxresident)k
+0inputs+16416outputs (4major+5725minor)pagefaults 0swaps
+
+Result is 3.921973
+20.60user 50.86system 1:12.14elapsed 99%CPU (0avgtext+0avgdata 28372maxresident)k
+0inputs+16416outputs (4major+5735minor)pagefaults 0swaps
+
+Result is 3.921973
+20.32user 51.12system 1:12.06elapsed 99%CPU (0avgtext+0avgdata 27784maxresident)k
+0inputs+16416outputs (4major+5730minor)pagefaults 0swaps
+
+Result is 3.921973
+20.54user 50.90system 1:12.05elapsed 99%CPU (0avgtext+0avgdata 27624maxresident)k
+0inputs+16416outputs (4major+5733minor)pagefaults 0swaps
+
+Result is 3.921973
+20.59user 50.89system 1:12.11elapsed 99%CPU (0avgtext+0avgdata 28064maxresident)k
+0inputs+16416outputs (4major+5740minor)pagefaults 0swaps
+
+Result is 3.921973
+20.54user 50.92system 1:12.06elapsed 99%CPU (0avgtext+0avgdata 27620maxresident)k
+0inputs+16416outputs (4major+5744minor)pagefaults 0swaps
+
+Result is 3.921973
+20.46user 51.00system 1:12.04elapsed 99%CPU (0avgtext+0avgdata 28224maxresident)k
+0inputs+16416outputs (4major+5743minor)pagefaults 0swaps
+
+Result is 3.921973
+19.88user 51.53system 1:12.03elapsed 99%CPU (0avgtext+0avgdata 28336maxresident)k
+0inputs+16416outputs (4major+5733minor)pagefaults 0swaps
+MasterSlave_29
+
+Result is 3.921973
+16.30user 45.59system 1:02.49elapsed 99%CPU (0avgtext+0avgdata 27808maxresident)k
+0inputs+16416outputs (4major+5754minor)pagefaults 0swaps
+
+Result is 3.921973
+16.38user 45.59system 1:02.59elapsed 99%CPU (0avgtext+0avgdata 27952maxresident)k
+0inputs+16416outputs (4major+5777minor)pagefaults 0swaps
+
+Result is 3.921973
+15.88user 46.08system 1:02.54elapsed 99%CPU (0avgtext+0avgdata 27812maxresident)k
+0inputs+16416outputs (4major+5766minor)pagefaults 0swaps
+
+Result is 3.921973
+16.13user 45.80system 1:02.56elapsed 98%CPU (0avgtext+0avgdata 27844maxresident)k
+0inputs+16416outputs (4major+5774minor)pagefaults 0swaps
+
+Result is 3.921973
+15.67user 44.14system 1:00.37elapsed 99%CPU (0avgtext+0avgdata 27940maxresident)k
+0inputs+16416outputs (4major+5770minor)pagefaults 0swaps
+
+Result is 3.921973
+16.31user 45.58system 1:02.61elapsed 98%CPU (0avgtext+0avgdata 27520maxresident)k
+0inputs+16416outputs (4major+5749minor)pagefaults 0swaps
+
+Result is 3.921973
+14.85user 44.90system 1:00.39elapsed 98%CPU (0avgtext+0avgdata 28388maxresident)k
+0inputs+16416outputs (4major+5766minor)pagefaults 0swaps
+
+Result is 3.921973
+15.65user 44.15system 1:00.46elapsed 98%CPU (0avgtext+0avgdata 28320maxresident)k
+0inputs+16416outputs (4major+5781minor)pagefaults 0swaps
+
+Result is 3.921973
+15.26user 44.50system 1:00.35elapsed 99%CPU (0avgtext+0avgdata 28112maxresident)k
+0inputs+16416outputs (4major+5770minor)pagefaults 0swaps
+
+Result is 3.921973
+16.30user 48.46system 1:05.41elapsed 99%CPU (0avgtext+0avgdata 27944maxresident)k
+0inputs+16416outputs (4major+5763minor)pagefaults 0swaps
+MasterSlave_33
+
+Result is 3.921973
+11.95user 40.68system 0:53.34elapsed 98%CPU (0avgtext+0avgdata 27708maxresident)k
+0inputs+16416outputs (4major+5801minor)pagefaults 0swaps
+
+Result is 3.921973
+12.12user 40.47system 0:53.26elapsed 98%CPU (0avgtext+0avgdata 27872maxresident)k
+0inputs+16416outputs (4major+5795minor)pagefaults 0swaps
+
+Result is 3.921973
+12.08user 40.63system 0:53.34elapsed 98%CPU (0avgtext+0avgdata 27796maxresident)k
+0inputs+16416outputs (4major+5792minor)pagefaults 0swaps
+
+Result is 3.921973
+11.96user 40.66system 0:53.23elapsed 98%CPU (0avgtext+0avgdata 27984maxresident)k
+0inputs+16416outputs (4major+5793minor)pagefaults 0swaps
+
+Result is 3.921973
+12.35user 40.27system 0:53.28elapsed 98%CPU (0avgtext+0avgdata 27716maxresident)k
+0inputs+16416outputs (4major+5791minor)pagefaults 0swaps
+
+Result is 3.921973
+12.10user 40.49system 0:53.29elapsed 98%CPU (0avgtext+0avgdata 27936maxresident)k
+0inputs+16416outputs (4major+5795minor)pagefaults 0swaps
+
+Result is 3.921973
+11.91user 40.69system 0:53.24elapsed 98%CPU (0avgtext+0avgdata 27828maxresident)k
+0inputs+16416outputs (4major+5796minor)pagefaults 0swaps
+
+Result is 3.921973
+12.20user 40.50system 0:53.28elapsed 98%CPU (0avgtext+0avgdata 27620maxresident)k
+0inputs+16416outputs (4major+5796minor)pagefaults 0swaps
+
+Result is 3.921973
+12.30user 40.36system 0:53.31elapsed 98%CPU (0avgtext+0avgdata 27868maxresident)k
+0inputs+16416outputs (4major+5787minor)pagefaults 0swaps
+
+Result is 3.921973
+11.95user 40.67system 0:53.17elapsed 98%CPU (0avgtext+0avgdata 28320maxresident)k
+0inputs+16416outputs (4major+5799minor)pagefaults 0swaps
+MasterSlave_37
+
+Result is 3.921973
+9.90user 37.88system 0:48.53elapsed 98%CPU (0avgtext+0avgdata 28200maxresident)k
+0inputs+16416outputs (4major+5825minor)pagefaults 0swaps
+
+Result is 3.921973
+10.34user 37.42system 0:48.35elapsed 98%CPU (0avgtext+0avgdata 28048maxresident)k
+0inputs+16416outputs (4major+5825minor)pagefaults 0swaps
+
+Result is 3.921973
+10.34user 37.42system 0:48.45elapsed 98%CPU (0avgtext+0avgdata 28172maxresident)k
+0inputs+16416outputs (4major+5820minor)pagefaults 0swaps
+
+Result is 3.921973
+10.18user 37.59system 0:48.43elapsed 98%CPU (0avgtext+0avgdata 27912maxresident)k
+0inputs+16416outputs (4major+5823minor)pagefaults 0swaps
+
+Result is 3.921973
+10.44user 37.33system 0:48.47elapsed 98%CPU (0avgtext+0avgdata 28400maxresident)k
+0inputs+16416outputs (4major+5835minor)pagefaults 0swaps
+
+Result is 3.921973
+10.28user 37.45system 0:48.33elapsed 98%CPU (0avgtext+0avgdata 27764maxresident)k
+0inputs+16416outputs (4major+5817minor)pagefaults 0swaps
+
+Result is 3.921973
+9.78user 38.03system 0:48.45elapsed 98%CPU (0avgtext+0avgdata 27916maxresident)k
+0inputs+16416outputs (4major+5817minor)pagefaults 0swaps
+
+Result is 3.921973
+9.88user 37.86system 0:48.35elapsed 98%CPU (0avgtext+0avgdata 28132maxresident)k
+0inputs+16416outputs (4major+5825minor)pagefaults 0swaps
+
+Result is 3.921973
+10.12user 37.66system 0:48.43elapsed 98%CPU (0avgtext+0avgdata 28204maxresident)k
+0inputs+16416outputs (4major+5827minor)pagefaults 0swaps
+
+Result is 3.921973
+10.29user 37.52system 0:48.51elapsed 98%CPU (0avgtext+0avgdata 27984maxresident)k
+0inputs+16416outputs (4major+5826minor)pagefaults 0swaps
+MasterSlave_41
+
+Result is 3.921973
+8.29user 34.73system 0:43.66elapsed 98%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16416outputs (4major+5854minor)pagefaults 0swaps
+
+Result is 3.921973
+8.38user 34.63system 0:43.75elapsed 98%CPU (0avgtext+0avgdata 28544maxresident)k
+0inputs+16416outputs (4major+5868minor)pagefaults 0swaps
+
+Result is 3.921973
+8.45user 34.68system 0:43.81elapsed 98%CPU (0avgtext+0avgdata 27792maxresident)k
+0inputs+16416outputs (4major+5863minor)pagefaults 0swaps
+
+Result is 3.921973
+8.55user 34.46system 0:43.66elapsed 98%CPU (0avgtext+0avgdata 27712maxresident)k
+0inputs+16416outputs (4major+5856minor)pagefaults 0swaps
+
+Result is 3.921973
+8.63user 34.39system 0:43.68elapsed 98%CPU (0avgtext+0avgdata 27944maxresident)k
+0inputs+16416outputs (4major+5852minor)pagefaults 0swaps
+
+Result is 3.921973
+8.33user 34.75system 0:43.77elapsed 98%CPU (0avgtext+0avgdata 28068maxresident)k
+0inputs+16416outputs (4major+5863minor)pagefaults 0swaps
+
+Result is 3.921973
+8.27user 34.85system 0:43.73elapsed 98%CPU (0avgtext+0avgdata 27880maxresident)k
+0inputs+16416outputs (4major+5857minor)pagefaults 0swaps
+
+Result is 3.921973
+8.47user 34.54system 0:43.68elapsed 98%CPU (0avgtext+0avgdata 27656maxresident)k
+0inputs+16416outputs (4major+5855minor)pagefaults 0swaps
+
+Result is 3.921973
+8.17user 34.84system 0:43.71elapsed 98%CPU (0avgtext+0avgdata 27784maxresident)k
+0inputs+16416outputs (4major+5861minor)pagefaults 0swaps
+
+Result is 3.921973
+8.48user 34.55system 0:43.64elapsed 98%CPU (0avgtext+0avgdata 27920maxresident)k
+0inputs+16416outputs (4major+5862minor)pagefaults 0swaps
+MasterSlave_45
+
+Result is 3.921973
+6.81user 31.53system 0:39.10elapsed 98%CPU (0avgtext+0avgdata 28292maxresident)k
+0inputs+16416outputs (4major+5902minor)pagefaults 0swaps
+
+Result is 3.921973
+6.85user 31.55system 0:39.03elapsed 98%CPU (0avgtext+0avgdata 27836maxresident)k
+0inputs+16416outputs (4major+5893minor)pagefaults 0swaps
+
+Result is 3.921973
+6.97user 31.42system 0:39.07elapsed 98%CPU (0avgtext+0avgdata 28444maxresident)k
+0inputs+16416outputs (4major+5893minor)pagefaults 0swaps
+
+Result is 3.921973
+7.02user 31.36system 0:39.06elapsed 98%CPU (0avgtext+0avgdata 27864maxresident)k
+0inputs+16416outputs (4major+5877minor)pagefaults 0swaps
+
+Result is 3.921973
+6.77user 31.65system 0:39.05elapsed 98%CPU (0avgtext+0avgdata 27752maxresident)k
+0inputs+16416outputs (4major+5875minor)pagefaults 0swaps
+
+Result is 3.921973
+7.53user 30.84system 0:39.09elapsed 98%CPU (0avgtext+0avgdata 27988maxresident)k
+0inputs+16416outputs (4major+5879minor)pagefaults 0swaps
+
+Result is 3.921973
+6.79user 31.55system 0:39.08elapsed 98%CPU (0avgtext+0avgdata 27924maxresident)k
+0inputs+16416outputs (4major+5884minor)pagefaults 0swaps
+
+Result is 3.921973
+6.78user 31.55system 0:38.98elapsed 98%CPU (0avgtext+0avgdata 28300maxresident)k
+0inputs+16416outputs (4major+5894minor)pagefaults 0swaps
+
+Result is 3.921973
+7.08user 31.36system 0:39.10elapsed 98%CPU (0avgtext+0avgdata 27704maxresident)k
+0inputs+16416outputs (4major+5882minor)pagefaults 0swaps
+
+Result is 3.921973
+7.12user 31.26system 0:38.98elapsed 98%CPU (0avgtext+0avgdata 28484maxresident)k
+0inputs+16416outputs (4major+5903minor)pagefaults 0swaps
+MasterSlave_49
+
+Result is 3.921973
+5.99user 29.90system 0:36.62elapsed 98%CPU (0avgtext+0avgdata 28216maxresident)k
+0inputs+16416outputs (4major+5942minor)pagefaults 0swaps
+
+Result is 3.921973
+6.18user 29.72system 0:36.56elapsed 98%CPU (0avgtext+0avgdata 27872maxresident)k
+0inputs+16416outputs (4major+5926minor)pagefaults 0swaps
+
+Result is 3.921973
+6.15user 29.78system 0:36.49elapsed 98%CPU (0avgtext+0avgdata 27912maxresident)k
+0inputs+16416outputs (4major+5924minor)pagefaults 0swaps
+
+Result is 3.921973
+5.78user 30.17system 0:36.61elapsed 98%CPU (0avgtext+0avgdata 28488maxresident)k
+0inputs+16416outputs (4major+5933minor)pagefaults 0swaps
+
+Result is 3.921973
+5.92user 29.99system 0:36.68elapsed 97%CPU (0avgtext+0avgdata 27896maxresident)k
+0inputs+16416outputs (4major+5932minor)pagefaults 0swaps
+
+Result is 3.921973
+5.95user 29.98system 0:36.54elapsed 98%CPU (0avgtext+0avgdata 28308maxresident)k
+0inputs+16416outputs (4major+5931minor)pagefaults 0swaps
+
+Result is 3.921973
+5.89user 30.02system 0:36.61elapsed 98%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16416outputs (4major+5920minor)pagefaults 0swaps
+
+Result is 3.921973
+6.17user 29.72system 0:36.50elapsed 98%CPU (0avgtext+0avgdata 28524maxresident)k
+0inputs+16416outputs (4major+5930minor)pagefaults 0swaps
+
+Result is 3.921973
+6.22user 29.67system 0:36.59elapsed 98%CPU (0avgtext+0avgdata 27876maxresident)k
+0inputs+16416outputs (4major+5925minor)pagefaults 0swaps
+
+Result is 3.921973
+6.10user 29.81system 0:36.64elapsed 98%CPU (0avgtext+0avgdata 28332maxresident)k
+0inputs+16416outputs (4major+5929minor)pagefaults 0swaps
+MasterSlave_53
+
+Result is 3.921973
+5.35user 28.17system 0:34.19elapsed 98%CPU (0avgtext+0avgdata 28684maxresident)k
+0inputs+16416outputs (4major+5955minor)pagefaults 0swaps
+
+Result is 3.921973
+5.24user 28.27system 0:34.20elapsed 98%CPU (0avgtext+0avgdata 28212maxresident)k
+0inputs+16416outputs (4major+5965minor)pagefaults 0swaps
+
+Result is 3.921973
+5.38user 28.18system 0:34.21elapsed 98%CPU (0avgtext+0avgdata 28236maxresident)k
+0inputs+16416outputs (4major+5955minor)pagefaults 0swaps
+
+Result is 3.921973
+5.36user 28.19system 0:34.19elapsed 98%CPU (0avgtext+0avgdata 28384maxresident)k
+0inputs+16416outputs (4major+5973minor)pagefaults 0swaps
+
+Result is 3.921973
+5.29user 28.23system 0:34.12elapsed 98%CPU (0avgtext+0avgdata 28348maxresident)k
+0inputs+16416outputs (4major+5963minor)pagefaults 0swaps
+
+Result is 3.921973
+5.06user 28.46system 0:34.25elapsed 97%CPU (0avgtext+0avgdata 28352maxresident)k
+0inputs+16416outputs (4major+5962minor)pagefaults 0swaps
+
+Result is 3.921973
+5.59user 27.89system 0:34.18elapsed 97%CPU (0avgtext+0avgdata 28016maxresident)k
+0inputs+16416outputs (4major+5958minor)pagefaults 0swaps
+
+Result is 3.921973
+5.61user 27.92system 0:34.20elapsed 98%CPU (0avgtext+0avgdata 28576maxresident)k
+0inputs+16416outputs (4major+5971minor)pagefaults 0swaps
+
+Result is 3.921973
+5.45user 28.04system 0:34.19elapsed 97%CPU (0avgtext+0avgdata 28652maxresident)k
+0inputs+16416outputs (4major+5971minor)pagefaults 0swaps
+
+Result is 3.921973
+5.33user 28.16system 0:34.27elapsed 97%CPU (0avgtext+0avgdata 28204maxresident)k
+0inputs+16416outputs (4major+5958minor)pagefaults 0swaps
+MasterSlave_57
+
+Result is 3.921973
+4.73user 26.39system 0:31.86elapsed 97%CPU (0avgtext+0avgdata 28064maxresident)k
+0inputs+16416outputs (4major+5980minor)pagefaults 0swaps
+
+Result is 3.921973
+4.68user 26.49system 0:31.85elapsed 97%CPU (0avgtext+0avgdata 28100maxresident)k
+0inputs+16416outputs (4major+5995minor)pagefaults 0swaps
+
+Result is 3.921973
+4.58user 26.58system 0:31.89elapsed 97%CPU (0avgtext+0avgdata 28448maxresident)k
+0inputs+16416outputs (4major+5982minor)pagefaults 0swaps
+
+Result is 3.921973
+4.68user 26.50system 0:31.75elapsed 98%CPU (0avgtext+0avgdata 28196maxresident)k
+0inputs+16416outputs (4major+5977minor)pagefaults 0swaps
+
+Result is 3.921973
+4.77user 26.75system 0:32.15elapsed 98%CPU (0avgtext+0avgdata 27848maxresident)k
+0inputs+16416outputs (4major+5975minor)pagefaults 0swaps
+
+Result is 3.921973
+4.61user 26.54system 0:31.78elapsed 98%CPU (0avgtext+0avgdata 28436maxresident)k
+0inputs+16416outputs (4major+5991minor)pagefaults 0swaps
+
+Result is 3.921973
+4.53user 26.65system 0:31.86elapsed 97%CPU (0avgtext+0avgdata 28436maxresident)k
+0inputs+16416outputs (4major+5985minor)pagefaults 0swaps
+
+Result is 3.921973
+4.73user 26.38system 0:31.83elapsed 97%CPU (0avgtext+0avgdata 28440maxresident)k
+0inputs+16416outputs (4major+5998minor)pagefaults 0swaps
+
+Result is 3.921973
+4.80user 26.70system 0:32.19elapsed 97%CPU (0avgtext+0avgdata 28432maxresident)k
+0inputs+16416outputs (4major+5991minor)pagefaults 0swaps
+
+Result is 3.921973
+4.62user 26.59system 0:31.89elapsed 97%CPU (0avgtext+0avgdata 28428maxresident)k
+0inputs+16416outputs (4major+5988minor)pagefaults 0swaps
+MasterSlave_61
+
+Result is 3.921973
+4.04user 24.76system 0:29.52elapsed 97%CPU (0avgtext+0avgdata 28644maxresident)k
+0inputs+16416outputs (4major+6016minor)pagefaults 0swaps
+
+Result is 3.921973
+4.03user 24.76system 0:29.44elapsed 97%CPU (0avgtext+0avgdata 28192maxresident)k
+0inputs+16416outputs (4major+6014minor)pagefaults 0swaps
+
+Result is 3.921973
+4.14user 24.73system 0:29.55elapsed 97%CPU (0avgtext+0avgdata 27912maxresident)k
+0inputs+16416outputs (4major+6014minor)pagefaults 0swaps
+
+Result is 3.921973
+3.82user 25.00system 0:29.47elapsed 97%CPU (0avgtext+0avgdata 28152maxresident)k
+0inputs+16416outputs (4major+6012minor)pagefaults 0swaps
+
+Result is 3.921973
+4.06user 24.86system 0:29.53elapsed 97%CPU (0avgtext+0avgdata 28508maxresident)k
+0inputs+16416outputs (4major+6028minor)pagefaults 0swaps
+
+Result is 3.921973
+4.13user 24.66system 0:29.57elapsed 97%CPU (0avgtext+0avgdata 28316maxresident)k
+0inputs+16416outputs (4major+6020minor)pagefaults 0swaps
+
+Result is 3.921973
+4.10user 24.77system 0:29.59elapsed 97%CPU (0avgtext+0avgdata 28004maxresident)k
+0inputs+16416outputs (4major+5998minor)pagefaults 0swaps
+
+Result is 3.921973
+4.16user 24.73system 0:29.60elapsed 97%CPU (0avgtext+0avgdata 28488maxresident)k
+0inputs+16416outputs (4major+6028minor)pagefaults 0swaps
+
+Result is 3.921973
+4.11user 24.69system 0:29.49elapsed 97%CPU (0avgtext+0avgdata 28644maxresident)k
+0inputs+16416outputs (4major+6021minor)pagefaults 0swaps
+
+Result is 3.921973
+4.00user 24.88system 0:29.49elapsed 97%CPU (0avgtext+0avgdata 28156maxresident)k
+0inputs+16416outputs (4major+6020minor)pagefaults 0swaps
+MasterSlave_65
+[des06.kask.eti.pg.gda.pl:16247] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16252] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16253] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16254] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16255] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.65user 22.89system 0:27.26elapsed 97%CPU (0avgtext+0avgdata 28476maxresident)k
+0inputs+16416outputs (4major+6042minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:16368] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16373] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16374] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16375] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16376] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.66user 22.87system 0:27.23elapsed 97%CPU (0avgtext+0avgdata 28236maxresident)k
+0inputs+16416outputs (4major+6040minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:16482] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16487] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16488] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16489] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16490] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.73user 22.78system 0:27.28elapsed 97%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16424outputs (4major+6029minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:16588] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16593] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16594] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16595] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16596] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.80user 22.78system 0:27.20elapsed 97%CPU (0avgtext+0avgdata 27964maxresident)k
+0inputs+16416outputs (4major+6046minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:16699] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16704] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16705] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16706] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16707] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.68user 22.82system 0:27.25elapsed 97%CPU (0avgtext+0avgdata 28288maxresident)k
+0inputs+16416outputs (4major+6044minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:16804] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16809] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16810] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16811] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16812] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.55user 23.00system 0:27.26elapsed 97%CPU (0avgtext+0avgdata 28092maxresident)k
+0inputs+16416outputs (4major+6044minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:16940] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16945] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16946] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16947] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:16948] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.67user 25.16system 0:29.46elapsed 97%CPU (0avgtext+0avgdata 28508maxresident)k
+0inputs+16416outputs (4major+6070minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:17068] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17073] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17074] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17075] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17076] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.42user 23.13system 0:27.28elapsed 97%CPU (0avgtext+0avgdata 28304maxresident)k
+0inputs+16416outputs (4major+6052minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:17172] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17177] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17178] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17179] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17180] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.93user 22.60system 0:27.21elapsed 97%CPU (0avgtext+0avgdata 28304maxresident)k
+0inputs+16416outputs (4major+6048minor)pagefaults 0swaps
+[des06.kask.eti.pg.gda.pl:17287] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17292] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17293] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17294] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+[des06.kask.eti.pg.gda.pl:17295] mca_base_component_repository_open: unable to open mca_state_staged_hnp: /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi/mca_state_staged_hnp.so: undefined symbol: orte]staged_execution (ignored)
+
+Result is 3.921973
+3.56user 23.10system 0:27.28elapsed 97%CPU (0avgtext+0avgdata 28140maxresident)k
+0inputs+16416outputs (4major+6039minor)pagefaults 0swaps
