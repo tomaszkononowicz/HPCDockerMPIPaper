@@ -11,6 +11,6 @@ Contains programs, hostfiles, and helper scripts used to run tests. The `ignored
  - Raw results
 Contains raw text files which contains execution times. All files in `Not processed` directory have not been modified, there is raw output from test executions. The files in `Processed` directory do not contain incorrect results and unnecessary content, only the name of the test and results.
 
-`Raw results` directory and `Results and analysis - draft.xlsx` file contain SPMD, SPMDv2, SPMDv3 and SPMDv4 program names. These versions of SPMD program only differ in the value of the COMPCOEFF flag. The greater the value, the more time for calculations and less for communication. 
+`Raw results` directory file containc SPMD, SPMDv2, SPMDv3 and SPMDv4 program names. These versions of SPMD program only differ in the value of the COMPCOEFF flag. The greater the value, the more time for calculations and less for communication. 
 
-**Important:** SPMD in publication and `Results and analysis.xlsx` means SPMDv4 in `Raw results` directory and `Results and analysis - draft.xlsx`
+**Important:** SPMD in publication and `Results and analysis.xlsx` means SPMDv4 in `Raw results` directory.
