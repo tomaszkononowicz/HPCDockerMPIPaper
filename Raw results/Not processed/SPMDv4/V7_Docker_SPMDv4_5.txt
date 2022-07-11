@@ -1,0 +1,36 @@
+SPMDv4_O3_native_8
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.88]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real    5m 21.24s
+user    21m 14.12s
+sys     0m 5.47s
+
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.88]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real    5m 19.40s
+user    21m 9.44s
+sys     0m 5.16s
+
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.88]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real    5m 21.28s
+user    21m 16.87s
+sys     0m 5.28s
+
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.88]:2222' (ECDSA) to the list of known hosts.
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+real    5m 20.00s
+user    21m 12.02s
+sys     0m 5.00s
