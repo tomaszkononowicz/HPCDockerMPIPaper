@@ -1,0 +1,1655 @@
+MasterSlave_O3_native_3
+Command exited with non-zero status 1
+          2 701,07 msec task-clock                #    0,817 CPUs utilized          
+             1 245      context-switches          #    0,461 K/sec                  
+             1 329      hw_interrupts,received    #    0,492 K/sec                    (20,99%)
+             6 369      page-faults               #    0,002 M/sec                  
+                 7      major-faults              #    0,003 K/sec                  
+             6 362      minor-faults              #    0,002 M/sec                  
+    10 997 675 319      cpu-cycles                #    4,072 GHz                      (20,89%)
+     8 428 466 013      instructions              #    0,77  insn per cycle           (26,05%)
+    10 981 781 617      inst_retired,total_cycles_ps # 4065,715 M/sec                    (26,05%)
+     8 434 032 906      inst_retired,any          # 3122,478 M/sec                    (26,05%)
+     8 460 252 670      inst_retired,any_p        # 3132,185 M/sec                    (25,84%)
+         8 741 078      cache-references          #    3,236 M/sec                    (25,85%)
+         2 789 898      cache-misses              #   31,917 % of all cache refs      (26,07%)
+     2 470 739 121      L1-dcache-loads           #  914,726 M/sec                    (26,31%)
+         6 414 624      L1-dcache-load-misses     #    0,26% of all L1-dcache hits    (26,57%)
+     1 341 882 160      L1-dcache-stores          #  496,796 M/sec                    (21,60%)
+        15 140 012      l2_rqsts,references       #    5,605 M/sec                    (21,51%)
+         7 061 170      l2_rqsts,miss             #    2,614 M/sec                    (21,30%)
+         1 015 762      LLC-loads                 #    0,376 M/sec                    (20,95%)
+           112 974      LLC-load-misses           #   11,12% of all LL-cache hits     (21,23%)
+           126 746      LLC-stores                #    0,047 M/sec                    (10,82%)
+            47 114      LLC-store-misses          #    0,017 M/sec                    (10,43%)
+     1 833 167 059      branches                  #  678,682 M/sec                    (15,60%)
+        43 100 719      branch-misses             #    2,35% of all branches          (20,77%)
+       3,306637253 seconds time elapsed
+       0,023432000 seconds user
+       0,031938000 seconds sys
+MasterSlave_O3_native_3
+        280 266,91 msec task-clock                #    0,998 CPUs utilized          
+             2 280      context-switches          #    0,008 K/sec                  
+           140 395      hw_interrupts,received    #    0,501 K/sec                    (21,05%)
+             6 679      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 672      minor-faults              #    0,024 K/sec                  
+ 1 168 260 991 484      cpu-cycles                #    4,168 GHz                      (21,05%)
+   891 234 859 340      instructions              #    0,76  insn per cycle           (26,31%)
+ 1 168 232 506 877      inst_retired,total_cycles_ps # 4168,286 M/sec                    (26,32%)
+   891 255 899 226      inst_retired,any          # 3180,025 M/sec                    (26,32%)
+   891 295 491 153      inst_retired,any_p        # 3180,167 M/sec                    (26,32%)
+        32 390 125      cache-references          #    0,116 M/sec                    (26,32%)
+         3 574 234      cache-misses              #   11,035 % of all cache refs      (26,32%)
+   262 581 033 740      L1-dcache-loads           #  936,896 M/sec                    (26,32%)
+        22 398 702      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   145 255 115 827      L1-dcache-stores          #  518,274 M/sec                    (21,06%)
+        79 792 838      l2_rqsts,references       #    0,285 M/sec                    (21,05%)
+        20 265 371      l2_rqsts,miss             #    0,072 M/sec                    (21,05%)
+         2 429 991      LLC-loads                 #    0,009 M/sec                    (21,05%)
+            95 059      LLC-load-misses           #    3,91% of all LL-cache hits     (21,05%)
+           813 969      LLC-stores                #    0,003 M/sec                    (10,53%)
+            65 992      LLC-store-misses          #    0,235 K/sec                    (10,52%)
+   194 366 147 514      branches                  #  693,504 M/sec                    (15,78%)
+     4 568 205 101      branch-misses             #    2,35% of all branches          (21,05%)
+     280,918473485 seconds time elapsed
+      90,321317000 seconds user
+     189,947458000 seconds sys
+        280 407,51 msec task-clock                #    0,998 CPUs utilized          
+             2 371      context-switches          #    0,008 K/sec                  
+           140 837      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 671      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 664      minor-faults              #    0,024 K/sec                  
+ 1 169 008 764 199      cpu-cycles                #    4,169 GHz                      (21,05%)
+   894 025 243 346      instructions              #    0,76  insn per cycle           (26,32%)
+ 1 169 217 101 808      inst_retired,total_cycles_ps # 4169,707 M/sec                    (26,32%)
+   894 198 146 361      inst_retired,any          # 3188,924 M/sec                    (26,32%)
+   894 188 192 145      inst_retired,any_p        # 3188,888 M/sec                    (26,31%)
+        32 948 939      cache-references          #    0,118 M/sec                    (26,31%)
+         3 708 505      cache-misses              #   11,255 % of all cache refs      (26,31%)
+   263 393 541 472      L1-dcache-loads           #  939,324 M/sec                    (26,31%)
+     1 934 292 429      L1-dcache-load-misses     #    0,73% of all L1-dcache hits    (26,31%)
+   145 731 800 888      L1-dcache-stores          #  519,714 M/sec                    (21,05%)
+     1 995 292 334      l2_rqsts,references       #    7,116 M/sec                    (21,05%)
+        24 609 734      l2_rqsts,miss             #    0,088 M/sec                    (21,05%)
+         2 756 794      LLC-loads                 #    0,010 M/sec                    (21,06%)
+           219 719      LLC-load-misses           #    7,97% of all LL-cache hits     (21,06%)
+         1 429 491      LLC-stores                #    0,005 M/sec                    (10,53%)
+           329 946      LLC-store-misses          #    0,001 M/sec                    (10,53%)
+   194 966 125 716      branches                  #  695,296 M/sec                    (15,79%)
+     4 582 128 840      branch-misses             #    2,35% of all branches          (21,05%)
+     281,060200568 seconds time elapsed
+      92,360881000 seconds user
+     188,050251000 seconds sys
+        280 321,08 msec task-clock                #    0,998 CPUs utilized          
+             2 304      context-switches          #    0,008 K/sec                  
+           140 796      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 644      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 637      minor-faults              #    0,024 K/sec                  
+ 1 168 072 629 752      cpu-cycles                #    4,167 GHz                      (21,05%)
+   901 942 776 100      instructions              #    0,77  insn per cycle           (26,32%)
+ 1 168 379 849 211      inst_retired,total_cycles_ps # 4168,006 M/sec                    (26,31%)
+   902 203 227 459      inst_retired,any          # 3218,464 M/sec                    (26,31%)
+   902 178 821 288      inst_retired,any_p        # 3218,377 M/sec                    (26,31%)
+        30 066 111      cache-references          #    0,107 M/sec                    (26,31%)
+         3 327 812      cache-misses              #   11,068 % of all cache refs      (26,31%)
+   265 754 494 498      L1-dcache-loads           #  948,036 M/sec                    (26,31%)
+        28 941 229      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   147 026 670 742      L1-dcache-stores          #  524,494 M/sec                    (21,05%)
+        86 633 335      l2_rqsts,references       #    0,309 M/sec                    (21,06%)
+        20 617 139      l2_rqsts,miss             #    0,074 M/sec                    (21,06%)
+         2 296 705      LLC-loads                 #    0,008 M/sec                    (21,06%)
+           255 112      LLC-load-misses           #   11,11% of all LL-cache hits     (21,05%)
+         1 211 296      LLC-stores                #    0,004 M/sec                    (10,52%)
+           118 582      LLC-store-misses          #    0,423 K/sec                    (10,52%)
+   196 689 184 266      branches                  #  701,657 M/sec                    (15,79%)
+     4 623 130 733      branch-misses             #    2,35% of all branches          (21,05%)
+     280,972469531 seconds time elapsed
+     130,613799000 seconds user
+     149,712126000 seconds sys
+        280 441,94 msec task-clock                #    0,998 CPUs utilized          
+             2 450      context-switches          #    0,009 K/sec                  
+           140 778      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 671      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 664      minor-faults              #    0,024 K/sec                  
+ 1 169 684 971 236      cpu-cycles                #    4,171 GHz                      (21,05%)
+   902 612 262 295      instructions              #    0,77  insn per cycle           (26,31%)
+ 1 169 740 360 432      inst_retired,total_cycles_ps # 4171,061 M/sec                    (26,31%)
+   902 727 244 325      inst_retired,any          # 3218,945 M/sec                    (26,31%)
+   902 825 704 257      inst_retired,any_p        # 3219,296 M/sec                    (26,31%)
+        34 809 035      cache-references          #    0,124 M/sec                    (26,32%)
+         3 851 577      cache-misses              #   11,065 % of all cache refs      (26,32%)
+   265 962 802 763      L1-dcache-loads           #  948,370 M/sec                    (26,32%)
+        21 631 256      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,33%)
+   147 142 335 855      L1-dcache-stores          #  524,680 M/sec                    (21,06%)
+        79 203 372      l2_rqsts,references       #    0,282 M/sec                    (21,06%)
+        20 536 882      l2_rqsts,miss             #    0,073 M/sec                    (21,05%)
+         2 339 913      LLC-loads                 #    0,008 M/sec                    (21,05%)
+           111 220      LLC-load-misses           #    4,75% of all LL-cache hits     (21,05%)
+         1 019 278      LLC-stores                #    0,004 M/sec                    (10,52%)
+            41 468      LLC-store-misses          #    0,148 K/sec                    (10,52%)
+   196 874 662 338      branches                  #  702,016 M/sec                    (15,79%)
+     4 626 340 874      branch-misses             #    2,35% of all branches          (21,05%)
+     281,080181312 seconds time elapsed
+     115,320781000 seconds user
+     165,123689000 seconds sys
+        280 238,26 msec task-clock                #    0,998 CPUs utilized          
+             2 610      context-switches          #    0,009 K/sec                  
+           142 284      hw_interrupts,received    #    0,508 K/sec                    (21,05%)
+             6 674      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 667      minor-faults              #    0,024 K/sec                  
+ 1 168 022 290 335      cpu-cycles                #    4,168 GHz                      (21,05%)
+   900 111 788 478      instructions              #    0,77  insn per cycle           (26,31%)
+ 1 168 069 955 785      inst_retired,total_cycles_ps # 4168,132 M/sec                    (26,31%)
+   900 127 561 529      inst_retired,any          # 3212,008 M/sec                    (26,31%)
+   900 191 210 758      inst_retired,any_p        # 3212,235 M/sec                    (26,31%)
+        28 539 738      cache-references          #    0,102 M/sec                    (26,31%)
+         3 811 943      cache-misses              #   13,357 % of all cache refs      (26,31%)
+   265 212 728 601      L1-dcache-loads           #  946,383 M/sec                    (26,32%)
+        26 778 689      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   146 703 545 025      L1-dcache-stores          #  523,496 M/sec                    (21,06%)
+        89 354 374      l2_rqsts,references       #    0,319 M/sec                    (21,06%)
+        22 191 396      l2_rqsts,miss             #    0,079 M/sec                    (21,06%)
+         2 649 511      LLC-loads                 #    0,009 M/sec                    (21,06%)
+           160 298      LLC-load-misses           #    6,05% of all LL-cache hits     (21,06%)
+           793 646      LLC-stores                #    0,003 M/sec                    (10,53%)
+            86 191      LLC-store-misses          #    0,308 K/sec                    (10,52%)
+   196 302 926 460      branches                  #  700,486 M/sec                    (15,79%)
+     4 613 401 343      branch-misses             #    2,35% of all branches          (21,05%)
+     280,891308418 seconds time elapsed
+     107,858115000 seconds user
+     172,382666000 seconds sys
+        280 368,43 msec task-clock                #    0,998 CPUs utilized          
+             2 477      context-switches          #    0,009 K/sec                  
+           140 795      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 671      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 664      minor-faults              #    0,024 K/sec                  
+ 1 169 153 866 020      cpu-cycles                #    4,170 GHz                      (21,05%)
+   894 900 773 220      instructions              #    0,77  insn per cycle           (26,31%)
+ 1 169 071 603 901      inst_retired,total_cycles_ps # 4169,769 M/sec                    (26,31%)
+   894 793 703 761      inst_retired,any          # 3191,492 M/sec                    (26,31%)
+   894 765 799 543      inst_retired,any_p        # 3191,393 M/sec                    (26,31%)
+        30 570 770      cache-references          #    0,109 M/sec                    (26,31%)
+         2 641 037      cache-misses              #    8,639 % of all cache refs      (26,32%)
+   263 582 109 308      L1-dcache-loads           #  940,128 M/sec                    (26,32%)
+        34 204 509      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   145 789 899 106      L1-dcache-stores          #  519,994 M/sec                    (21,06%)
+        93 085 452      l2_rqsts,references       #    0,332 M/sec                    (21,06%)
+        25 689 851      l2_rqsts,miss             #    0,092 M/sec                    (21,06%)
+         3 016 325      LLC-loads                 #    0,011 M/sec                    (21,06%)
+           195 113      LLC-load-misses           #    6,47% of all LL-cache hits     (21,05%)
+           747 039      LLC-stores                #    0,003 M/sec                    (10,52%)
+            16 518      LLC-store-misses          #    0,059 K/sec                    (10,52%)
+   195 151 589 207      branches                  #  696,054 M/sec                    (15,78%)
+     4 586 754 348      branch-misses             #    2,35% of all branches          (21,04%)
+     281,001852324 seconds time elapsed
+      86,051360000 seconds user
+     194,316872000 seconds sys
+        280 314,59 msec task-clock                #    0,998 CPUs utilized          
+             2 417      context-switches          #    0,009 K/sec                  
+           140 550      hw_interrupts,received    #    0,501 K/sec                    (21,05%)
+             6 663      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 656      minor-faults              #    0,024 K/sec                  
+ 1 168 202 382 391      cpu-cycles                #    4,167 GHz                      (21,05%)
+   897 502 888 868      instructions              #    0,77  insn per cycle           (26,31%)
+ 1 168 190 250 590      inst_retired,total_cycles_ps # 4167,426 M/sec                    (26,31%)
+   897 360 510 367      inst_retired,any          # 3201,262 M/sec                    (26,31%)
+   897 323 117 758      inst_retired,any_p        # 3201,129 M/sec                    (26,31%)
+        39 722 945      cache-references          #    0,142 M/sec                    (26,32%)
+         4 209 978      cache-misses              #   10,598 % of all cache refs      (26,32%)
+   264 300 760 951      L1-dcache-loads           #  942,872 M/sec                    (26,32%)
+        19 203 705      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   146 231 368 664      L1-dcache-stores          #  521,669 M/sec                    (21,06%)
+        75 554 627      l2_rqsts,references       #    0,270 M/sec                    (21,06%)
+        22 820 426      l2_rqsts,miss             #    0,081 M/sec                    (21,06%)
+         2 856 331      LLC-loads                 #    0,010 M/sec                    (21,05%)
+           146 111      LLC-load-misses           #    5,12% of all LL-cache hits     (21,05%)
+           908 796      LLC-stores                #    0,003 M/sec                    (10,53%)
+            88 749      LLC-store-misses          #    0,317 K/sec                    (10,52%)
+   195 723 982 712      branches                  #  698,230 M/sec                    (15,78%)
+     4 599 793 759      branch-misses             #    2,35% of all branches          (21,04%)
+     280,964138562 seconds time elapsed
+      92,457992000 seconds user
+     187,858335000 seconds sys
+        280 260,47 msec task-clock                #    0,998 CPUs utilized          
+             2 230      context-switches          #    0,008 K/sec                  
+           140 356      hw_interrupts,received    #    0,501 K/sec                    (21,05%)
+             6 662      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 655      minor-faults              #    0,024 K/sec                  
+ 1 168 268 230 811      cpu-cycles                #    4,169 GHz                      (21,05%)
+   891 973 374 437      instructions              #    0,76  insn per cycle           (26,31%)
+ 1 168 305 232 960      inst_retired,total_cycles_ps # 4168,641 M/sec                    (26,32%)
+   892 021 156 404      inst_retired,any          # 3182,829 M/sec                    (26,32%)
+   892 020 335 342      inst_retired,any_p        # 3182,826 M/sec                    (26,31%)
+        33 095 402      cache-references          #    0,118 M/sec                    (26,31%)
+         3 729 489      cache-misses              #   11,269 % of all cache refs      (26,32%)
+   262 777 737 968      L1-dcache-loads           #  937,620 M/sec                    (26,32%)
+        31 147 131      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   145 370 922 536      L1-dcache-stores          #  518,699 M/sec                    (21,06%)
+        86 925 836      l2_rqsts,references       #    0,310 M/sec                    (21,05%)
+        18 881 372      l2_rqsts,miss             #    0,067 M/sec                    (21,05%)
+         2 390 235      LLC-loads                 #    0,009 M/sec                    (21,05%)
+           100 578      LLC-load-misses           #    4,21% of all LL-cache hits     (21,05%)
+           843 805      LLC-stores                #    0,003 M/sec                    (10,52%)
+            44 346      LLC-store-misses          #    0,158 K/sec                    (10,52%)
+   194 525 888 331      branches                  #  694,090 M/sec                    (15,79%)
+     4 571 516 641      branch-misses             #    2,35% of all branches          (21,05%)
+     280,914915447 seconds time elapsed
+      87,298321000 seconds user
+     192,965615000 seconds sys
+        280 378,45 msec task-clock                #    0,998 CPUs utilized          
+             2 429      context-switches          #    0,009 K/sec                  
+           140 654      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 668      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 661      minor-faults              #    0,024 K/sec                  
+ 1 168 507 052 269      cpu-cycles                #    4,168 GHz                      (21,05%)
+   897 115 481 659      instructions              #    0,77  insn per cycle           (26,31%)
+ 1 168 585 709 498      inst_retired,total_cycles_ps # 4167,887 M/sec                    (26,31%)
+   897 247 375 413      inst_retired,any          # 3200,130 M/sec                    (26,31%)
+   897 267 095 854      inst_retired,any_p        # 3200,200 M/sec                    (26,31%)
+        31 232 910      cache-references          #    0,111 M/sec                    (26,31%)
+         3 891 465      cache-misses              #   12,460 % of all cache refs      (26,32%)
+   264 378 747 657      L1-dcache-loads           #  942,935 M/sec                    (26,32%)
+        27 690 387      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+   146 260 263 842      L1-dcache-stores          #  521,653 M/sec                    (21,06%)
+        75 679 263      l2_rqsts,references       #    0,270 M/sec                    (21,06%)
+        20 010 664      l2_rqsts,miss             #    0,071 M/sec                    (21,05%)
+         2 318 762      LLC-loads                 #    0,008 M/sec                    (21,05%)
+           110 740      LLC-load-misses           #    4,78% of all LL-cache hits     (21,05%)
+           819 258      LLC-stores                #    0,003 M/sec                    (10,53%)
+            87 124      LLC-store-misses          #    0,311 K/sec                    (10,53%)
+   195 598 866 405      branches                  #  697,624 M/sec                    (15,79%)
+     4 597 073 982      branch-misses             #    2,35% of all branches          (21,05%)
+     281,011568240 seconds time elapsed
+     102,989738000 seconds user
+     177,393843000 seconds sys
+        280 436,55 msec task-clock                #    0,998 CPUs utilized          
+             2 481      context-switches          #    0,009 K/sec                  
+           140 694      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 669      page-faults               #    0,024 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 662      minor-faults              #    0,024 K/sec                  
+ 1 169 252 664 649      cpu-cycles                #    4,169 GHz                      (21,05%)
+   902 165 644 843      instructions              #    0,77  insn per cycle           (26,31%)
+ 1 169 152 386 178      inst_retired,total_cycles_ps # 4169,044 M/sec                    (26,31%)
+   902 118 486 012      inst_retired,any          # 3216,836 M/sec                    (26,32%)
+   902 150 902 091      inst_retired,any_p        # 3216,952 M/sec                    (26,31%)
+        26 403 410      cache-references          #    0,094 M/sec                    (26,31%)
+         3 372 976      cache-misses              #   12,775 % of all cache refs      (26,32%)
+   265 798 839 709      L1-dcache-loads           #  947,804 M/sec                    (26,32%)
+     3 619 649 889      L1-dcache-load-misses     #    1,36% of all L1-dcache hits    (26,32%)
+   147 065 633 944      L1-dcache-stores          #  524,417 M/sec                    (21,06%)
+     3 681 164 490      l2_rqsts,references       #   13,127 M/sec                    (21,06%)
+        23 276 978      l2_rqsts,miss             #    0,083 M/sec                    (21,05%)
+         2 999 291      LLC-loads                 #    0,011 M/sec                    (21,06%)
+           224 997      LLC-load-misses           #    7,50% of all LL-cache hits     (21,05%)
+           861 255      LLC-stores                #    0,003 M/sec                    (10,52%)
+            37 735      LLC-store-misses          #    0,135 K/sec                    (10,52%)
+   196 761 063 832      branches                  #  701,624 M/sec                    (15,78%)
+     4 624 055 974      branch-misses             #    2,35% of all branches          (21,05%)
+     281,075703252 seconds time elapsed
+     122,897493000 seconds user
+     157,541680000 seconds sys
+MasterSlave_O3_native_5
+        143 643,73 msec task-clock                #    0,995 CPUs utilized          
+             1 798      context-switches          #    0,013 K/sec                  
+            71 875      hw_interrupts,received    #    0,500 K/sec                    (21,04%)
+             6 662      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 655      minor-faults              #    0,046 K/sec                  
+   598 525 486 989      cpu-cycles                #    4,167 GHz                      (21,05%)
+   487 391 103 234      instructions              #    0,81  insn per cycle           (26,31%)
+   598 545 881 557      inst_retired,total_cycles_ps # 4166,878 M/sec                    (26,31%)
+   487 468 762 693      inst_retired,any          # 3393,596 M/sec                    (26,31%)
+   487 470 457 076      inst_retired,any_p        # 3393,608 M/sec                    (26,31%)
+        24 088 565      cache-references          #    0,168 M/sec                    (26,32%)
+         2 795 243      cache-misses              #   11,604 % of all cache refs      (26,32%)
+   145 407 822 269      L1-dcache-loads           # 1012,281 M/sec                    (26,33%)
+       878 317 988      L1-dcache-load-misses     #    0,60% of all L1-dcache hits    (26,34%)
+    77 140 152 951      L1-dcache-stores          #  537,024 M/sec                    (21,08%)
+       918 259 800      l2_rqsts,references       #    6,393 M/sec                    (21,07%)
+        17 472 331      l2_rqsts,miss             #    0,122 M/sec                    (21,06%)
+         1 844 106      LLC-loads                 #    0,013 M/sec                    (21,05%)
+            46 507      LLC-load-misses           #    2,52% of all LL-cache hits     (21,04%)
+           513 096      LLC-stores                #    0,004 M/sec                    (10,52%)
+            65 429      LLC-store-misses          #    0,455 K/sec                    (10,52%)
+   106 803 691 341      branches                  #  743,532 M/sec                    (15,78%)
+     3 320 509 878      branch-misses             #    3,11% of all branches          (21,04%)
+     144,305476238 seconds time elapsed
+      64,072152000 seconds user
+      79,576163000 seconds sys
+        143 648,55 msec task-clock                #    0,996 CPUs utilized          
+             1 832      context-switches          #    0,013 K/sec                  
+            72 201      hw_interrupts,received    #    0,503 K/sec                    (21,04%)
+             6 669      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 662      minor-faults              #    0,046 K/sec                  
+   599 024 325 260      cpu-cycles                #    4,170 GHz                      (21,05%)
+   487 393 070 979      instructions              #    0,81  insn per cycle           (26,31%)
+   598 954 127 348      inst_retired,total_cycles_ps # 4169,580 M/sec                    (26,31%)
+   487 298 721 920      inst_retired,any          # 3392,298 M/sec                    (26,31%)
+   487 316 996 466      inst_retired,any_p        # 3392,426 M/sec                    (26,31%)
+        23 695 205      cache-references          #    0,165 M/sec                    (26,31%)
+         3 023 631      cache-misses              #   12,761 % of all cache refs      (26,32%)
+   145 399 710 449      L1-dcache-loads           # 1012,191 M/sec                    (26,32%)
+       223 603 533      L1-dcache-load-misses     #    0,15% of all L1-dcache hits    (26,33%)
+    77 169 190 328      L1-dcache-stores          #  537,208 M/sec                    (21,07%)
+       248 494 515      l2_rqsts,references       #    1,730 M/sec                    (21,07%)
+        18 641 394      l2_rqsts,miss             #    0,130 M/sec                    (21,06%)
+         2 329 828      LLC-loads                 #    0,016 M/sec                    (21,05%)
+           173 619      LLC-load-misses           #    7,45% of all LL-cache hits     (21,04%)
+           469 988      LLC-stores                #    0,003 M/sec                    (10,53%)
+            53 528      LLC-store-misses          #    0,373 K/sec                    (10,53%)
+   106 790 098 947      branches                  #  743,412 M/sec                    (15,79%)
+     3 320 270 438      branch-misses             #    3,11% of all branches          (21,05%)
+     144,295702941 seconds time elapsed
+      57,983016000 seconds user
+      85,669554000 seconds sys
+        143 633,57 msec task-clock                #    0,995 CPUs utilized          
+             1 887      context-switches          #    0,013 K/sec                  
+            72 130      hw_interrupts,received    #    0,502 K/sec                    (21,04%)
+             6 676      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 669      minor-faults              #    0,046 K/sec                  
+   598 448 305 806      cpu-cycles                #    4,166 GHz                      (21,04%)
+   484 797 213 831      instructions              #    0,81  insn per cycle           (26,31%)
+   598 395 641 301      inst_retired,total_cycles_ps # 4166,127 M/sec                    (26,31%)
+   484 756 749 123      inst_retired,any          # 3374,954 M/sec                    (26,32%)
+   484 809 475 080      inst_retired,any_p        # 3375,322 M/sec                    (26,31%)
+        20 480 187      cache-references          #    0,143 M/sec                    (26,32%)
+         2 352 016      cache-misses              #   11,484 % of all cache refs      (26,32%)
+   144 685 782 950      L1-dcache-loads           # 1007,326 M/sec                    (26,32%)
+        17 876 879      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,33%)
+    76 771 519 022      L1-dcache-stores          #  534,496 M/sec                    (21,07%)
+        58 761 803      l2_rqsts,references       #    0,409 M/sec                    (21,07%)
+        19 833 805      l2_rqsts,miss             #    0,138 M/sec                    (21,06%)
+         2 556 097      LLC-loads                 #    0,018 M/sec                    (21,06%)
+           171 711      LLC-load-misses           #    6,72% of all LL-cache hits     (21,05%)
+           532 278      LLC-stores                #    0,004 M/sec                    (10,52%)
+            60 900      LLC-store-misses          #    0,424 K/sec                    (10,52%)
+   106 243 174 515      branches                  #  739,682 M/sec                    (15,78%)
+     3 303 240 325      branch-misses             #    3,11% of all branches          (21,04%)
+     144,283500576 seconds time elapsed
+      51,478320000 seconds user
+      92,157320000 seconds sys
+        143 660,41 msec task-clock                #    0,995 CPUs utilized          
+             1 810      context-switches          #    0,013 K/sec                  
+            72 291      hw_interrupts,received    #    0,503 K/sec                    (21,04%)
+             6 660      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 653      minor-faults              #    0,046 K/sec                  
+   598 252 340 693      cpu-cycles                #    4,164 GHz                      (21,04%)
+   486 234 464 095      instructions              #    0,81  insn per cycle           (26,31%)
+   598 320 288 455      inst_retired,total_cycles_ps # 4164,824 M/sec                    (26,31%)
+   486 284 688 671      inst_retired,any          # 3384,960 M/sec                    (26,31%)
+   486 297 984 212      inst_retired,any_p        # 3385,052 M/sec                    (26,31%)
+        19 737 844      cache-references          #    0,137 M/sec                    (26,31%)
+         2 694 891      cache-misses              #   13,653 % of all cache refs      (26,31%)
+   145 104 606 355      L1-dcache-loads           # 1010,053 M/sec                    (26,32%)
+       824 149 524      L1-dcache-load-misses     #    0,57% of all L1-dcache hits    (26,32%)
+    76 983 756 664      L1-dcache-stores          #  535,873 M/sec                    (21,06%)
+       842 684 301      l2_rqsts,references       #    5,866 M/sec                    (21,06%)
+        17 774 550      l2_rqsts,miss             #    0,124 M/sec                    (21,06%)
+         2 772 537      LLC-loads                 #    0,019 M/sec                    (21,07%)
+           297 251      LLC-load-misses           #   10,72% of all LL-cache hits     (21,07%)
+           566 654      LLC-stores                #    0,004 M/sec                    (10,52%)
+            35 842      LLC-store-misses          #    0,249 K/sec                    (10,52%)
+   106 567 289 738      branches                  #  741,800 M/sec                    (15,78%)
+     3 312 564 685      branch-misses             #    3,11% of all branches          (21,04%)
+     144,340345526 seconds time elapsed
+      56,734222000 seconds user
+      86,925263000 seconds sys
+        143 671,05 msec task-clock                #    0,995 CPUs utilized          
+             1 921      context-switches          #    0,013 K/sec                  
+            71 949      hw_interrupts,received    #    0,501 K/sec                    (21,04%)
+             6 670      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 663      minor-faults              #    0,046 K/sec                  
+   598 557 918 386      cpu-cycles                #    4,166 GHz                      (21,04%)
+   481 936 431 835      instructions              #    0,81  insn per cycle           (26,30%)
+   598 648 779 723      inst_retired,total_cycles_ps # 4166,802 M/sec                    (26,31%)
+   482 004 405 113      inst_retired,any          # 3354,917 M/sec                    (26,31%)
+   482 042 736 611      inst_retired,any_p        # 3355,183 M/sec                    (26,31%)
+        19 089 482      cache-references          #    0,133 M/sec                    (26,31%)
+         2 440 674      cache-misses              #   12,785 % of all cache refs      (26,31%)
+   143 796 755 122      L1-dcache-loads           # 1000,875 M/sec                    (26,31%)
+        14 370 507      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,32%)
+    76 282 695 311      L1-dcache-stores          #  530,954 M/sec                    (21,06%)
+        51 158 250      l2_rqsts,references       #    0,356 M/sec                    (21,07%)
+        17 619 811      l2_rqsts,miss             #    0,123 M/sec                    (21,07%)
+         2 190 691      LLC-loads                 #    0,015 M/sec                    (21,06%)
+           202 592      LLC-load-misses           #    9,25% of all LL-cache hits     (21,06%)
+           542 147      LLC-stores                #    0,004 M/sec                    (10,53%)
+            89 078      LLC-store-misses          #    0,620 K/sec                    (10,52%)
+   105 596 360 047      branches                  #  734,987 M/sec                    (15,78%)
+     3 282 868 659      branch-misses             #    3,11% of all branches          (21,04%)
+     144,333488610 seconds time elapsed
+      42,921358000 seconds user
+     100,752309000 seconds sys
+        143 634,27 msec task-clock                #    0,995 CPUs utilized          
+             1 853      context-switches          #    0,013 K/sec                  
+            71 974      hw_interrupts,received    #    0,501 K/sec                    (21,04%)
+             6 679      page-faults               #    0,047 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 672      minor-faults              #    0,046 K/sec                  
+   598 874 457 554      cpu-cycles                #    4,169 GHz                      (21,05%)
+   490 073 429 953      instructions              #    0,82  insn per cycle           (26,31%)
+   598 892 388 589      inst_retired,total_cycles_ps # 4169,565 M/sec                    (26,32%)
+   490 104 394 884      inst_retired,any          # 3412,169 M/sec                    (26,32%)
+   490 149 123 232      inst_retired,any_p        # 3412,480 M/sec                    (26,32%)
+        28 258 765      cache-references          #    0,197 M/sec                    (26,33%)
+         4 316 181      cache-misses              #   15,274 % of all cache refs      (26,33%)
+   146 205 067 142      L1-dcache-loads           # 1017,898 M/sec                    (26,34%)
+       124 675 618      L1-dcache-load-misses     #    0,09% of all L1-dcache hits    (26,34%)
+    77 587 443 400      L1-dcache-stores          #  540,174 M/sec                    (21,06%)
+       160 207 712      l2_rqsts,references       #    1,115 M/sec                    (21,05%)
+        10 568 569      l2_rqsts,miss             #    0,074 M/sec                    (21,04%)
+         1 223 223      LLC-loads                 #    0,009 M/sec                    (21,04%)
+            15 599      LLC-load-misses           #    1,28% of all LL-cache hits     (21,04%)
+           450 362      LLC-stores                #    0,003 M/sec                    (10,52%)
+            55 824      LLC-store-misses          #    0,389 K/sec                    (10,52%)
+   107 370 022 643      branches                  #  747,524 M/sec                    (15,78%)
+     3 338 640 985      branch-misses             #    3,11% of all branches          (21,04%)
+     144,289950918 seconds time elapsed
+      71,315182000 seconds user
+      72,322800000 seconds sys
+        143 629,23 msec task-clock                #    0,995 CPUs utilized          
+             1 791      context-switches          #    0,012 K/sec                  
+            71 919      hw_interrupts,received    #    0,501 K/sec                    (21,05%)
+             6 663      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 656      minor-faults              #    0,046 K/sec                  
+   596 544 723 536      cpu-cycles                #    4,153 GHz                      (21,05%)
+   481 908 160 331      instructions              #    0,81  insn per cycle           (26,31%)
+   596 631 347 740      inst_retired,total_cycles_ps # 4153,969 M/sec                    (26,31%)
+   481 987 740 989      inst_retired,any          # 3355,778 M/sec                    (26,32%)
+   481 997 521 947      inst_retired,any_p        # 3355,846 M/sec                    (26,32%)
+        29 609 454      cache-references          #    0,206 M/sec                    (26,32%)
+         3 996 122      cache-misses              #   13,496 % of all cache refs      (26,32%)
+   143 784 251 278      L1-dcache-loads           # 1001,079 M/sec                    (26,32%)
+     1 596 300 008      L1-dcache-load-misses     #    1,11% of all L1-dcache hits    (26,32%)
+    76 303 287 666      L1-dcache-stores          #  531,252 M/sec                    (21,06%)
+     1 663 710 685      l2_rqsts,references       #   11,583 M/sec                    (21,06%)
+        20 497 726      l2_rqsts,miss             #    0,143 M/sec                    (21,06%)
+         2 697 911      LLC-loads                 #    0,019 M/sec                    (21,05%)
+           164 973      LLC-load-misses           #    6,11% of all LL-cache hits     (21,05%)
+           646 088      LLC-stores                #    0,004 M/sec                    (10,53%)
+            61 245      LLC-store-misses          #    0,426 K/sec                    (10,52%)
+   105 596 722 982      branches                  #  735,204 M/sec                    (15,78%)
+     3 282 830 421      branch-misses             #    3,11% of all branches          (21,04%)
+     144,280094970 seconds time elapsed
+      47,815528000 seconds user
+      95,816331000 seconds sys
+        143 634,66 msec task-clock                #    0,995 CPUs utilized          
+             1 849      context-switches          #    0,013 K/sec                  
+            72 010      hw_interrupts,received    #    0,501 K/sec                    (21,04%)
+             6 672      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 665      minor-faults              #    0,046 K/sec                  
+   598 637 905 138      cpu-cycles                #    4,168 GHz                      (21,05%)
+   487 859 075 743      instructions              #    0,81  insn per cycle           (26,31%)
+   598 571 035 337      inst_retired,total_cycles_ps # 4167,316 M/sec                    (26,31%)
+   487 822 435 181      inst_retired,any          # 3396,273 M/sec                    (26,32%)
+   487 900 125 449      inst_retired,any_p        # 3396,813 M/sec                    (26,31%)
+        22 701 243      cache-references          #    0,158 M/sec                    (26,31%)
+         3 750 652      cache-misses              #   16,522 % of all cache refs      (26,32%)
+   145 596 033 375      L1-dcache-loads           # 1013,655 M/sec                    (26,32%)
+        21 424 893      L1-dcache-load-misses     #    0,01% of all L1-dcache hits    (26,33%)
+    77 235 917 307      L1-dcache-stores          #  537,725 M/sec                    (21,07%)
+        62 959 672      l2_rqsts,references       #    0,438 M/sec                    (21,07%)
+        22 554 388      l2_rqsts,miss             #    0,157 M/sec                    (21,06%)
+         2 504 664      LLC-loads                 #    0,017 M/sec                    (21,05%)
+           112 951      LLC-load-misses           #    4,51% of all LL-cache hits     (21,05%)
+           484 199      LLC-stores                #    0,003 M/sec                    (10,53%)
+            56 357      LLC-store-misses          #    0,392 K/sec                    (10,52%)
+   106 920 868 931      branches                  #  744,395 M/sec                    (15,78%)
+     3 324 538 826      branch-misses             #    3,11% of all branches          (21,04%)
+     144,286115580 seconds time elapsed
+      61,177068000 seconds user
+      82,460861000 seconds sys
+        143 632,15 msec task-clock                #    0,996 CPUs utilized          
+             1 835      context-switches          #    0,013 K/sec                  
+            72 256      hw_interrupts,received    #    0,503 K/sec                    (21,04%)
+             6 673      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 666      minor-faults              #    0,046 K/sec                  
+   598 601 060 021      cpu-cycles                #    4,168 GHz                      (21,04%)
+   492 023 418 888      instructions              #    0,82  insn per cycle           (26,30%)
+   598 569 158 281      inst_retired,total_cycles_ps # 4167,376 M/sec                    (26,31%)
+   491 973 096 662      inst_retired,any          # 3425,230 M/sec                    (26,31%)
+   491 935 428 319      inst_retired,any_p        # 3424,967 M/sec                    (26,31%)
+        21 573 672      cache-references          #    0,150 M/sec                    (26,32%)
+         2 974 000      cache-misses              #   13,785 % of all cache refs      (26,32%)
+   146 721 706 467      L1-dcache-loads           # 1021,510 M/sec                    (26,33%)
+     1 238 291 239      L1-dcache-load-misses     #    0,84% of all L1-dcache hits    (26,34%)
+    77 868 524 670      L1-dcache-stores          #  542,139 M/sec                    (21,07%)
+     1 276 331 416      l2_rqsts,references       #    8,886 M/sec                    (21,07%)
+        18 256 905      l2_rqsts,miss             #    0,127 M/sec                    (21,06%)
+         2 059 042      LLC-loads                 #    0,014 M/sec                    (21,06%)
+           153 275      LLC-load-misses           #    7,44% of all LL-cache hits     (21,05%)
+           529 390      LLC-stores                #    0,004 M/sec                    (10,52%)
+            41 562      LLC-store-misses          #    0,289 K/sec                    (10,52%)
+   107 799 093 019      branches                  #  750,522 M/sec                    (15,78%)
+     3 352 270 883      branch-misses             #    3,11% of all branches          (21,03%)
+     144,270714469 seconds time elapsed
+      69,871760000 seconds user
+      73,764869000 seconds sys
+        143 639,83 msec task-clock                #    0,996 CPUs utilized          
+             1 834      context-switches          #    0,013 K/sec                  
+            72 038      hw_interrupts,received    #    0,502 K/sec                    (21,05%)
+             6 665      page-faults               #    0,046 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             6 658      minor-faults              #    0,046 K/sec                  
+   598 209 515 944      cpu-cycles                #    4,165 GHz                      (21,05%)
+   485 337 941 189      instructions              #    0,81  insn per cycle           (26,31%)
+   598 215 572 418      inst_retired,total_cycles_ps # 4164,691 M/sec                    (26,31%)
+   485 398 191 828      inst_retired,any          # 3379,273 M/sec                    (26,32%)
+   485 446 855 952      inst_retired,any_p        # 3379,612 M/sec                    (26,31%)
+        27 481 817      cache-references          #    0,191 M/sec                    (26,31%)
+         3 516 714      cache-misses              #   12,797 % of all cache refs      (26,32%)
+   144 797 577 888      L1-dcache-loads           # 1008,060 M/sec                    (26,32%)
+     2 274 312 466      L1-dcache-load-misses     #    1,57% of all L1-dcache hits    (26,32%)
+    76 815 184 869      L1-dcache-stores          #  534,776 M/sec                    (21,06%)
+     2 326 041 188      l2_rqsts,references       #   16,194 M/sec                    (21,06%)
+        19 286 876      l2_rqsts,miss             #    0,134 M/sec                    (21,06%)
+         2 651 875      LLC-loads                 #    0,018 M/sec                    (21,07%)
+           176 797      LLC-load-misses           #    6,67% of all LL-cache hits     (21,06%)
+           560 274      LLC-stores                #    0,004 M/sec                    (10,52%)
+            37 856      LLC-store-misses          #    0,264 K/sec                    (10,52%)
+   106 373 182 714      branches                  #  740,555 M/sec                    (15,78%)
+     3 306 313 390      branch-misses             #    3,11% of all branches          (21,04%)
+     144,278124325 seconds time elapsed
+      57,025319000 seconds user
+      86,598693000 seconds sys
+MasterSlave_O3_native_9
+         72 363,72 msec task-clock                #    0,991 CPUs utilized          
+             1 623      context-switches          #    0,022 K/sec                  
+            36 233      hw_interrupts,received    #    0,501 K/sec                    (21,03%)
+             7 074      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 067      minor-faults              #    0,098 K/sec                  
+   300 971 149 900      cpu-cycles                #    4,159 GHz                      (21,04%)
+   257 285 598 100      instructions              #    0,85  insn per cycle           (26,31%)
+   300 840 031 744      inst_retired,total_cycles_ps # 4157,332 M/sec                    (26,33%)
+   257 168 223 339      inst_retired,any          # 3553,828 M/sec                    (26,35%)
+   257 303 750 097      inst_retired,any_p        # 3555,701 M/sec                    (26,37%)
+        30 282 179      cache-references          #    0,418 M/sec                    (26,36%)
+         3 091 335      cache-misses              #   10,208 % of all cache refs      (26,35%)
+    78 514 258 603      L1-dcache-loads           # 1084,995 M/sec                    (26,35%)
+     1 292 772 096      L1-dcache-load-misses     #    1,65% of all L1-dcache hits    (26,33%)
+    39 484 617 379      L1-dcache-stores          #  545,641 M/sec                    (21,05%)
+     1 317 914 284      l2_rqsts,references       #   18,212 M/sec                    (21,05%)
+         8 893 938      l2_rqsts,miss             #    0,123 M/sec                    (21,04%)
+         1 245 343      LLC-loads                 #    0,017 M/sec                    (21,04%)
+           130 304      LLC-load-misses           #   10,46% of all LL-cache hits     (21,04%)
+           816 204      LLC-stores                #    0,011 M/sec                    (10,51%)
+           323 109      LLC-store-misses          #    0,004 M/sec                    (10,51%)
+    56 899 863 249      branches                  #  786,304 M/sec                    (15,77%)
+     2 144 324 083      branch-misses             #    3,77% of all branches          (21,02%)
+      73,013763262 seconds time elapsed
+      22,939667000 seconds user
+      49,413885000 seconds sys
+         72 341,73 msec task-clock                #    0,991 CPUs utilized          
+             1 608      context-switches          #    0,022 K/sec                  
+            36 272      hw_interrupts,received    #    0,501 K/sec                    (21,04%)
+             7 074      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 067      minor-faults              #    0,098 K/sec                  
+   301 124 709 553      cpu-cycles                #    4,163 GHz                      (21,04%)
+   256 431 404 436      instructions              #    0,85  insn per cycle           (26,29%)
+   301 150 278 911      inst_retired,total_cycles_ps # 4162,884 M/sec                    (26,29%)
+   256 530 584 906      inst_retired,any          # 3546,094 M/sec                    (26,29%)
+   256 556 821 990      inst_retired,any_p        # 3546,457 M/sec                    (26,29%)
+        23 009 917      cache-references          #    0,318 M/sec                    (26,29%)
+         4 507 532      cache-misses              #   19,590 % of all cache refs      (26,32%)
+    78 279 003 656      L1-dcache-loads           # 1082,073 M/sec                    (26,33%)
+     1 254 331 137      L1-dcache-load-misses     #    1,60% of all L1-dcache hits    (26,34%)
+    39 339 826 426      L1-dcache-stores          #  543,805 M/sec                    (21,09%)
+     1 473 170 053      l2_rqsts,references       #   20,364 M/sec                    (21,08%)
+        17 146 075      l2_rqsts,miss             #    0,237 M/sec                    (21,08%)
+         2 021 525      LLC-loads                 #    0,028 M/sec                    (21,07%)
+           174 818      LLC-load-misses           #    8,65% of all LL-cache hits     (21,07%)
+           406 396      LLC-stores                #    0,006 M/sec                    (10,52%)
+            35 010      LLC-store-misses          #    0,484 K/sec                    (10,52%)
+    56 718 948 768      branches                  #  784,042 M/sec                    (15,77%)
+     2 136 139 558      branch-misses             #    3,77% of all branches          (21,03%)
+      72,990048484 seconds time elapsed
+      22,376511000 seconds user
+      49,957739000 seconds sys
+         72 355,92 msec task-clock                #    0,991 CPUs utilized          
+             1 549      context-switches          #    0,021 K/sec                  
+            36 290      hw_interrupts,received    #    0,502 K/sec                    (21,04%)
+             7 116      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 109      minor-faults              #    0,098 K/sec                  
+   300 934 246 510      cpu-cycles                #    4,159 GHz                      (21,05%)
+   256 624 727 399      instructions              #    0,85  insn per cycle           (26,31%)
+   300 848 951 125      inst_retired,total_cycles_ps # 4157,904 M/sec                    (26,32%)
+   256 528 066 031      inst_retired,any          # 3545,364 M/sec                    (26,33%)
+   256 627 625 785      inst_retired,any_p        # 3546,740 M/sec                    (26,31%)
+        13 812 524      cache-references          #    0,191 M/sec                    (26,31%)
+         2 986 214      cache-misses              #   21,620 % of all cache refs      (26,30%)
+    78 351 558 908      L1-dcache-loads           # 1082,863 M/sec                    (26,30%)
+       667 130 989      L1-dcache-load-misses     #    0,85% of all L1-dcache hits    (26,29%)
+    39 446 021 568      L1-dcache-stores          #  545,166 M/sec                    (21,03%)
+       709 859 104      l2_rqsts,references       #    9,811 M/sec                    (21,04%)
+        18 997 095      l2_rqsts,miss             #    0,263 M/sec                    (21,07%)
+         2 584 807      LLC-loads                 #    0,036 M/sec                    (21,09%)
+           385 406      LLC-load-misses           #   14,91% of all LL-cache hits     (21,10%)
+           951 557      LLC-stores                #    0,013 M/sec                    (10,53%)
+           218 440      LLC-store-misses          #    0,003 M/sec                    (10,52%)
+    56 815 286 593      branches                  #  785,220 M/sec                    (15,77%)
+     2 140 400 439      branch-misses             #    3,77% of all branches          (21,02%)
+      73,026824113 seconds time elapsed
+      23,362012000 seconds user
+      48,980730000 seconds sys
+         72 336,84 msec task-clock                #    0,992 CPUs utilized          
+             1 529      context-switches          #    0,021 K/sec                  
+            36 290      hw_interrupts,received    #    0,502 K/sec                    (21,02%)
+             7 110      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 103      minor-faults              #    0,098 K/sec                  
+   301 178 295 471      cpu-cycles                #    4,164 GHz                      (21,02%)
+   261 908 385 457      instructions              #    0,87  insn per cycle           (26,28%)
+   301 151 362 952      inst_retired,total_cycles_ps # 4163,181 M/sec                    (26,29%)
+   261 925 588 031      inst_retired,any          # 3620,916 M/sec                    (26,29%)
+   261 948 239 858      inst_retired,any_p        # 3621,229 M/sec                    (26,29%)
+        23 419 818      cache-references          #    0,324 M/sec                    (26,30%)
+         2 524 610      cache-misses              #   10,780 % of all cache refs      (26,32%)
+    79 887 293 505      L1-dcache-loads           # 1104,379 M/sec                    (26,34%)
+     1 904 731 572      L1-dcache-load-misses     #    2,38% of all L1-dcache hits    (26,36%)
+    40 129 317 698      L1-dcache-stores          #  554,756 M/sec                    (21,11%)
+     2 136 642 773      l2_rqsts,references       #   29,537 M/sec                    (21,10%)
+        19 605 984      l2_rqsts,miss             #    0,271 M/sec                    (21,09%)
+         1 909 553      LLC-loads                 #    0,026 M/sec                    (21,07%)
+            82 418      LLC-load-misses           #    4,32% of all LL-cache hits     (21,06%)
+           384 319      LLC-stores                #    0,005 M/sec                    (10,51%)
+            34 780      LLC-store-misses          #    0,481 K/sec                    (10,51%)
+    57 934 025 555      branches                  #  800,892 M/sec                    (15,76%)
+     2 170 425 213      branch-misses             #    3,75% of all branches          (21,01%)
+      72,952356027 seconds time elapsed
+      21,086665000 seconds user
+      51,217881000 seconds sys
+         72 315,98 msec task-clock                #    0,991 CPUs utilized          
+             1 714      context-switches          #    0,024 K/sec                  
+            36 467      hw_interrupts,received    #    0,504 K/sec                    (21,05%)
+             7 105      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 098      minor-faults              #    0,098 K/sec                  
+   301 225 491 192      cpu-cycles                #    4,165 GHz                      (21,05%)
+   257 239 689 955      instructions              #    0,85  insn per cycle           (26,31%)
+   301 278 628 392      inst_retired,total_cycles_ps # 4166,142 M/sec                    (26,30%)
+   257 329 648 332      inst_retired,any          # 3558,406 M/sec                    (26,30%)
+   257 316 825 432      inst_retired,any_p        # 3558,229 M/sec                    (26,29%)
+        22 316 681      cache-references          #    0,309 M/sec                    (26,30%)
+         4 152 896      cache-misses              #   18,609 % of all cache refs      (26,32%)
+    78 531 623 804      L1-dcache-loads           # 1085,951 M/sec                    (26,33%)
+     1 162 849 391      L1-dcache-load-misses     #    1,48% of all L1-dcache hits    (26,34%)
+    39 454 992 048      L1-dcache-stores          #  545,592 M/sec                    (21,09%)
+     1 201 691 910      l2_rqsts,references       #   16,617 M/sec                    (21,09%)
+        15 303 201      l2_rqsts,miss             #    0,212 M/sec                    (21,08%)
+         2 020 361      LLC-loads                 #    0,028 M/sec                    (21,06%)
+           152 248      LLC-load-misses           #    7,54% of all LL-cache hits     (21,05%)
+           244 951      LLC-stores                #    0,003 M/sec                    (10,52%)
+            10 690      LLC-store-misses          #    0,148 K/sec                    (10,51%)
+    56 875 477 436      branches                  #  786,486 M/sec                    (15,77%)
+     2 143 131 623      branch-misses             #    3,77% of all branches          (21,03%)
+      72,978097594 seconds time elapsed
+      23,351841000 seconds user
+      48,959725000 seconds sys
+         72 366,13 msec task-clock                #    0,991 CPUs utilized          
+             1 565      context-switches          #    0,022 K/sec                  
+            36 280      hw_interrupts,received    #    0,501 K/sec                    (21,04%)
+             7 085      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 078      minor-faults              #    0,098 K/sec                  
+   301 030 119 750      cpu-cycles                #    4,160 GHz                      (21,04%)
+   259 935 441 949      instructions              #    0,86  insn per cycle           (26,30%)
+   301 071 360 001      inst_retired,total_cycles_ps # 4160,390 M/sec                    (26,31%)
+   259 918 963 975      inst_retired,any          # 3591,721 M/sec                    (26,32%)
+   260 015 870 571      inst_retired,any_p        # 3593,060 M/sec                    (26,31%)
+        22 308 353      cache-references          #    0,308 M/sec                    (26,31%)
+         4 284 233      cache-misses              #   19,205 % of all cache refs      (26,32%)
+    79 301 597 800      L1-dcache-loads           # 1095,839 M/sec                    (26,35%)
+     1 637 345 005      L1-dcache-load-misses     #    2,06% of all L1-dcache hits    (26,35%)
+    39 878 636 817      L1-dcache-stores          #  551,068 M/sec                    (21,10%)
+     1 664 232 001      l2_rqsts,references       #   22,997 M/sec                    (21,09%)
+        14 369 816      l2_rqsts,miss             #    0,199 M/sec                    (21,06%)
+         1 793 943      LLC-loads                 #    0,025 M/sec                    (21,05%)
+           118 356      LLC-load-misses           #    6,60% of all LL-cache hits     (21,03%)
+           268 647      LLC-stores                #    0,004 M/sec                    (10,51%)
+            18 647      LLC-store-misses          #    0,258 K/sec                    (10,52%)
+    57 458 012 904      branches                  #  793,990 M/sec                    (15,78%)
+     2 166 121 670      branch-misses             #    3,77% of all branches          (21,03%)
+      73,006032148 seconds time elapsed
+      21,848212000 seconds user
+      50,503347000 seconds sys
+         72 358,88 msec task-clock                #    0,992 CPUs utilized          
+             1 519      context-switches          #    0,021 K/sec                  
+            36 335      hw_interrupts,received    #    0,502 K/sec                    (21,04%)
+             7 091      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 084      minor-faults              #    0,098 K/sec                  
+   301 340 152 314      cpu-cycles                #    4,165 GHz                      (21,04%)
+   257 033 947 237      instructions              #    0,85  insn per cycle           (26,30%)
+   301 328 918 289      inst_retired,total_cycles_ps # 4164,367 M/sec                    (26,31%)
+   257 069 217 374      inst_retired,any          # 3552,698 M/sec                    (26,31%)
+   257 085 730 225      inst_retired,any_p        # 3552,926 M/sec                    (26,31%)
+        48 285 740      cache-references          #    0,667 M/sec                    (26,31%)
+         3 812 467      cache-misses              #    7,896 % of all cache refs      (26,32%)
+    78 418 814 312      L1-dcache-loads           # 1083,748 M/sec                    (26,33%)
+       766 113 084      L1-dcache-load-misses     #    0,98% of all L1-dcache hits    (26,34%)
+    39 407 769 760      L1-dcache-stores          #  544,616 M/sec                    (21,10%)
+       814 949 232      l2_rqsts,references       #   11,263 M/sec                    (21,08%)
+        35 745 236      l2_rqsts,miss             #    0,494 M/sec                    (21,08%)
+        21 364 826      LLC-loads                 #    0,295 M/sec                    (21,05%)
+            72 870      LLC-load-misses           #    0,34% of all LL-cache hits     (21,04%)
+           465 745      LLC-stores                #    0,006 M/sec                    (10,52%)
+           119 489      LLC-store-misses          #    0,002 M/sec                    (10,52%)
+    56 820 928 242      branches                  #  785,265 M/sec                    (15,78%)
+     2 141 344 423      branch-misses             #    3,77% of all branches          (21,03%)
+      72,974678793 seconds time elapsed
+      22,801969000 seconds user
+      49,546113000 seconds sys
+         72 322,00 msec task-clock                #    0,991 CPUs utilized          
+             1 620      context-switches          #    0,022 K/sec                  
+            36 335      hw_interrupts,received    #    0,502 K/sec                    (21,03%)
+             7 110      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 103      minor-faults              #    0,098 K/sec                  
+   301 113 754 862      cpu-cycles                #    4,164 GHz                      (21,03%)
+   256 418 840 735      instructions              #    0,85  insn per cycle           (26,28%)
+   301 106 992 280      inst_retired,total_cycles_ps # 4163,422 M/sec                    (26,29%)
+   256 394 086 254      inst_retired,any          # 3545,174 M/sec                    (26,30%)
+   256 409 859 812      inst_retired,any_p        # 3545,392 M/sec                    (26,30%)
+        17 336 717      cache-references          #    0,240 M/sec                    (26,30%)
+         2 529 716      cache-misses              #   14,592 % of all cache refs      (26,30%)
+    78 212 180 253      L1-dcache-loads           # 1081,444 M/sec                    (26,31%)
+     1 725 330 002      L1-dcache-load-misses     #    2,21% of all L1-dcache hits    (26,32%)
+    39 344 420 551      L1-dcache-stores          #  544,017 M/sec                    (21,08%)
+     1 894 207 210      l2_rqsts,references       #   26,191 M/sec                    (21,09%)
+        22 562 350      l2_rqsts,miss             #    0,312 M/sec                    (21,10%)
+         2 401 799      LLC-loads                 #    0,033 M/sec                    (21,08%)
+           198 428      LLC-load-misses           #    8,26% of all LL-cache hits     (21,08%)
+           387 005      LLC-stores                #    0,005 M/sec                    (10,53%)
+            76 276      LLC-store-misses          #    0,001 M/sec                    (10,52%)
+    56 703 141 788      branches                  #  784,037 M/sec                    (15,77%)
+     2 136 976 239      branch-misses             #    3,77% of all branches          (21,02%)
+      72,954616346 seconds time elapsed
+      22,827769000 seconds user
+      49,479535000 seconds sys
+         72 363,17 msec task-clock                #    0,991 CPUs utilized          
+             1 683      context-switches          #    0,023 K/sec                  
+            36 212      hw_interrupts,received    #    0,500 K/sec                    (21,01%)
+             7 091      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 084      minor-faults              #    0,098 K/sec                  
+   301 479 591 741      cpu-cycles                #    4,166 GHz                      (21,02%)
+   257 041 597 810      instructions              #    0,85  insn per cycle           (26,27%)
+   301 446 438 278      inst_retired,total_cycles_ps # 4165,744 M/sec                    (26,28%)
+   257 037 322 949      inst_retired,any          # 3552,046 M/sec                    (26,28%)
+   257 033 984 203      inst_retired,any_p        # 3552,000 M/sec                    (26,28%)
+        18 723 114      cache-references          #    0,259 M/sec                    (26,28%)
+         2 600 772      cache-misses              #   13,891 % of all cache refs      (26,30%)
+    78 391 765 984      L1-dcache-loads           # 1083,310 M/sec                    (26,32%)
+       699 789 882      L1-dcache-load-misses     #    0,89% of all L1-dcache hits    (26,33%)
+    39 396 734 423      L1-dcache-stores          #  544,431 M/sec                    (21,09%)
+       747 423 856      l2_rqsts,references       #   10,329 M/sec                    (21,09%)
+        16 939 030      l2_rqsts,miss             #    0,234 M/sec                    (21,10%)
+         2 223 274      LLC-loads                 #    0,031 M/sec                    (21,10%)
+           159 149      LLC-load-misses           #    7,16% of all LL-cache hits     (21,09%)
+           376 804      LLC-stores                #    0,005 M/sec                    (10,53%)
+            52 549      LLC-store-misses          #    0,726 K/sec                    (10,52%)
+    56 793 796 467      branches                  #  784,844 M/sec                    (15,77%)
+     2 138 903 763      branch-misses             #    3,77% of all branches          (21,02%)
+      72,997801854 seconds time elapsed
+      22,775382000 seconds user
+      49,529948000 seconds sys
+         72 321,26 msec task-clock                #    0,991 CPUs utilized          
+             1 634      context-switches          #    0,023 K/sec                  
+            36 284      hw_interrupts,received    #    0,502 K/sec                    (21,04%)
+             7 097      page-faults               #    0,098 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 090      minor-faults              #    0,098 K/sec                  
+   301 210 495 738      cpu-cycles                #    4,165 GHz                      (21,04%)
+   256 984 891 131      instructions              #    0,85  insn per cycle           (26,30%)
+   301 219 307 898      inst_retired,total_cycles_ps # 4165,018 M/sec                    (26,30%)
+   257 092 291 128      inst_retired,any          # 3554,865 M/sec                    (26,30%)
+   257 093 535 814      inst_retired,any_p        # 3554,882 M/sec                    (26,30%)
+        21 224 027      cache-references          #    0,293 M/sec                    (26,31%)
+         3 000 282      cache-misses              #   14,136 % of all cache refs      (26,33%)
+    78 419 025 424      L1-dcache-loads           # 1084,315 M/sec                    (26,34%)
+       257 257 192      L1-dcache-load-misses     #    0,33% of all L1-dcache hits    (26,35%)
+    39 447 579 173      L1-dcache-stores          #  545,449 M/sec                    (21,09%)
+       280 194 490      l2_rqsts,references       #    3,874 M/sec                    (21,07%)
+        15 005 583      l2_rqsts,miss             #    0,207 M/sec                    (21,06%)
+         1 772 060      LLC-loads                 #    0,025 M/sec                    (21,05%)
+            82 096      LLC-load-misses           #    4,63% of all LL-cache hits     (21,05%)
+           318 441      LLC-stores                #    0,004 M/sec                    (10,52%)
+            62 120      LLC-store-misses          #    0,859 K/sec                    (10,52%)
+    56 831 924 475      branches                  #  785,826 M/sec                    (15,78%)
+     2 143 795 663      branch-misses             #    3,77% of all branches          (21,03%)
+      72,951181109 seconds time elapsed
+      22,855667000 seconds user
+      49,452513000 seconds sys
+MasterSlave_O3_native_17
+         36 358,74 msec task-clock                #    0,983 CPUs utilized          
+             1 670      context-switches          #    0,046 K/sec                  
+            18 255      hw_interrupts,received    #    0,502 K/sec                    (21,00%)
+             7 947      page-faults               #    0,219 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 940      minor-faults              #    0,218 K/sec                  
+   151 222 793 637      cpu-cycles                #    4,159 GHz                      (21,00%)
+   140 267 109 257      instructions              #    0,93  insn per cycle           (26,26%)
+   151 200 498 430      inst_retired,total_cycles_ps # 4158,574 M/sec                    (26,27%)
+   140 319 753 377      inst_retired,any          # 3859,313 M/sec                    (26,28%)
+   140 314 418 312      inst_retired,any_p        # 3859,166 M/sec                    (26,28%)
+        30 405 611      cache-references          #    0,836 M/sec                    (26,31%)
+         3 943 329      cache-misses              #   12,969 % of all cache refs      (26,36%)
+    43 371 520 376      L1-dcache-loads           # 1192,877 M/sec                    (26,38%)
+     1 239 799 444      L1-dcache-load-misses     #    2,86% of all L1-dcache hits    (26,43%)
+    20 871 757 094      L1-dcache-stores          #  574,051 M/sec                    (21,18%)
+     1 469 236 906      l2_rqsts,references       #   40,409 M/sec                    (21,14%)
+        27 826 423      l2_rqsts,miss             #    0,765 M/sec                    (21,11%)
+         2 212 266      LLC-loads                 #    0,061 M/sec                    (21,07%)
+           236 574      LLC-load-misses           #   10,69% of all LL-cache hits     (21,03%)
+           223 056      LLC-stores                #    0,006 M/sec                    (10,48%)
+            36 164      LLC-store-misses          #    0,995 K/sec                    (10,49%)
+    31 134 285 688      branches                  #  856,308 M/sec                    (15,73%)
+     1 323 170 510      branch-misses             #    4,25% of all branches          (20,98%)
+      37,004843844 seconds time elapsed
+       8,487058000 seconds user
+      27,843448000 seconds sys
+         36 392,14 msec task-clock                #    0,982 CPUs utilized          
+             1 586      context-switches          #    0,044 K/sec                  
+            18 222      hw_interrupts,received    #    0,501 K/sec                    (21,02%)
+             7 931      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 924      minor-faults              #    0,218 K/sec                  
+   151 363 396 030      cpu-cycles                #    4,159 GHz                      (20,99%)
+   139 054 596 841      instructions              #    0,92  insn per cycle           (26,24%)
+   151 338 645 151      inst_retired,total_cycles_ps # 4158,553 M/sec                    (26,25%)
+   139 105 102 989      inst_retired,any          # 3822,394 M/sec                    (26,26%)
+   139 152 632 852      inst_retired,any_p        # 3823,700 M/sec                    (26,25%)
+        18 298 109      cache-references          #    0,503 M/sec                    (26,26%)
+         2 509 029      cache-misses              #   13,712 % of all cache refs      (26,26%)
+    43 034 795 969      L1-dcache-loads           # 1182,530 M/sec                    (26,26%)
+       963 607 153      L1-dcache-load-misses     #    2,24% of all L1-dcache hits    (26,29%)
+    20 723 104 999      L1-dcache-stores          #  569,439 M/sec                    (21,09%)
+     1 122 232 149      l2_rqsts,references       #   30,837 M/sec                    (21,17%)
+        26 757 020      l2_rqsts,miss             #    0,735 M/sec                    (21,19%)
+         2 798 100      LLC-loads                 #    0,077 M/sec                    (21,19%)
+           327 470      LLC-load-misses           #   11,70% of all LL-cache hits     (21,14%)
+           700 461      LLC-stores                #    0,019 M/sec                    (10,50%)
+           101 460      LLC-store-misses          #    0,003 M/sec                    (10,52%)
+    30 804 645 483      branches                  #  846,464 M/sec                    (15,76%)
+     1 308 720 083      branch-misses             #    4,25% of all branches          (21,00%)
+      37,041696466 seconds time elapsed
+       7,413754000 seconds user
+      28,935031000 seconds sys
+         36 377,51 msec task-clock                #    0,982 CPUs utilized          
+             1 616      context-switches          #    0,044 K/sec                  
+            18 298      hw_interrupts,received    #    0,503 K/sec                    (20,97%)
+             7 948      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 941      minor-faults              #    0,218 K/sec                  
+   151 223 047 603      cpu-cycles                #    4,157 GHz                      (20,99%)
+   140 497 521 184      instructions              #    0,93  insn per cycle           (26,24%)
+   151 159 326 425      inst_retired,total_cycles_ps # 4155,296 M/sec                    (26,27%)
+   140 457 507 529      inst_retired,any          # 3861,108 M/sec                    (26,28%)
+   140 518 106 370      inst_retired,any_p        # 3862,774 M/sec                    (26,27%)
+        57 387 565      cache-references          #    1,578 M/sec                    (26,28%)
+         3 339 818      cache-misses              #    5,820 % of all cache refs      (26,29%)
+    43 413 861 407      L1-dcache-loads           # 1193,426 M/sec                    (26,33%)
+     1 532 177 532      L1-dcache-load-misses     #    3,53% of all L1-dcache hits    (26,39%)
+    20 898 185 406      L1-dcache-stores          #  574,481 M/sec                    (21,16%)
+     2 064 648 497      l2_rqsts,references       #   56,756 M/sec                    (21,18%)
+        58 149 891      l2_rqsts,miss             #    1,599 M/sec                    (21,18%)
+         2 508 018      LLC-loads                 #    0,069 M/sec                    (21,13%)
+           372 416      LLC-load-misses           #   14,85% of all LL-cache hits     (21,11%)
+           517 736      LLC-stores                #    0,014 M/sec                    (10,48%)
+             7 956      LLC-store-misses          #    0,219 K/sec                    (10,47%)
+    31 213 245 232      branches                  #  858,037 M/sec                    (15,70%)
+     1 326 775 986      branch-misses             #    4,25% of all branches          (20,94%)
+      37,051021734 seconds time elapsed
+       8,464757000 seconds user
+      27,864361000 seconds sys
+         36 485,77 msec task-clock                #    0,985 CPUs utilized          
+             1 569      context-switches          #    0,043 K/sec                  
+            18 200      hw_interrupts,received    #    0,499 K/sec                    (21,07%)
+             7 926      page-faults               #    0,217 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 919      minor-faults              #    0,217 K/sec                  
+   151 448 444 122      cpu-cycles                #    4,151 GHz                      (20,99%)
+   137 936 468 825      instructions              #    0,91  insn per cycle           (26,23%)
+   151 595 079 544      inst_retired,total_cycles_ps # 4154,910 M/sec                    (26,22%)
+   138 127 723 854      inst_retired,any          # 3785,797 M/sec                    (26,21%)
+   138 147 767 606      inst_retired,any_p        # 3786,347 M/sec                    (26,19%)
+        74 363 930      cache-references          #    2,038 M/sec                    (26,19%)
+         2 490 623      cache-misses              #    3,349 % of all cache refs      (26,21%)
+    42 628 604 838      L1-dcache-loads           # 1168,363 M/sec                    (26,26%)
+     1 453 817 534      L1-dcache-load-misses     #    3,41% of all L1-dcache hits    (26,30%)
+    20 496 382 710      L1-dcache-stores          #  561,764 M/sec                    (21,10%)
+     2 061 745 141      l2_rqsts,references       #   56,508 M/sec                    (21,12%)
+        74 817 524      l2_rqsts,miss             #    2,051 M/sec                    (21,11%)
+         1 561 429      LLC-loads                 #    0,043 M/sec                    (21,11%)
+           160 674      LLC-load-misses           #   10,29% of all LL-cache hits     (21,13%)
+           750 502      LLC-stores                #    0,021 M/sec                    (10,58%)
+           226 667      LLC-store-misses          #    0,006 M/sec                    (10,59%)
+    30 396 452 483      branches                  #  833,104 M/sec                    (15,84%)
+     1 292 387 702      branch-misses             #    4,25% of all branches          (21,09%)
+      37,047141420 seconds time elapsed
+       5,634820000 seconds user
+      30,710342000 seconds sys
+         36 447,30 msec task-clock                #    0,985 CPUs utilized          
+             1 378      context-switches          #    0,038 K/sec                  
+            18 183      hw_interrupts,received    #    0,499 K/sec                    (21,02%)
+             7 934      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 927      minor-faults              #    0,217 K/sec                  
+   151 315 047 038      cpu-cycles                #    4,152 GHz                      (20,99%)
+   137 942 372 145      instructions              #    0,91  insn per cycle           (26,24%)
+   151 373 254 022      inst_retired,total_cycles_ps # 4153,209 M/sec                    (26,24%)
+   137 979 022 147      inst_retired,any          # 3785,713 M/sec                    (26,26%)
+   138 236 517 701      inst_retired,any_p        # 3792,778 M/sec                    (26,22%)
+        28 782 207      cache-references          #    0,790 M/sec                    (26,23%)
+         3 529 334      cache-misses              #   12,262 % of all cache refs      (26,23%)
+    42 654 096 190      L1-dcache-loads           # 1170,295 M/sec                    (26,28%)
+     1 424 370 243      L1-dcache-load-misses     #    3,34% of all L1-dcache hits    (26,30%)
+    20 509 772 081      L1-dcache-stores          #  562,724 M/sec                    (21,10%)
+     1 800 568 620      l2_rqsts,references       #   49,402 M/sec                    (21,15%)
+        24 807 741      l2_rqsts,miss             #    0,681 M/sec                    (21,15%)
+         1 466 233      LLC-loads                 #    0,040 M/sec                    (21,17%)
+           201 472      LLC-load-misses           #   13,74% of all LL-cache hits     (21,15%)
+           474 116      LLC-stores                #    0,013 M/sec                    (10,53%)
+           220 343      LLC-store-misses          #    0,006 M/sec                    (10,53%)
+    30 563 209 649      branches                  #  838,559 M/sec                    (15,76%)
+     1 311 062 870      branch-misses             #    4,29% of all branches          (20,99%)
+      36,990301325 seconds time elapsed
+       6,546156000 seconds user
+      29,793123000 seconds sys
+         36 372,96 msec task-clock                #    0,983 CPUs utilized          
+             1 730      context-switches          #    0,048 K/sec                  
+            18 452      hw_interrupts,received    #    0,507 K/sec                    (20,97%)
+             7 965      page-faults               #    0,219 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 958      minor-faults              #    0,219 K/sec                  
+   151 182 062 914      cpu-cycles                #    4,156 GHz                      (20,97%)
+   137 721 815 454      instructions              #    0,91  insn per cycle           (26,22%)
+   151 205 838 528      inst_retired,total_cycles_ps # 4157,094 M/sec                    (26,23%)
+   137 735 618 110      inst_retired,any          # 3786,758 M/sec                    (26,24%)
+   137 759 653 831      inst_retired,any_p        # 3787,419 M/sec                    (26,23%)
+        27 018 588      cache-references          #    0,743 M/sec                    (26,23%)
+         2 774 795      cache-misses              #   10,270 % of all cache refs      (26,26%)
+    42 581 621 744      L1-dcache-loads           # 1170,694 M/sec                    (26,33%)
+     1 545 057 130      L1-dcache-load-misses     #    3,63% of all L1-dcache hits    (26,40%)
+    20 447 090 550      L1-dcache-stores          #  562,151 M/sec                    (21,23%)
+     1 957 992 755      l2_rqsts,references       #   53,831 M/sec                    (21,23%)
+        34 921 411      l2_rqsts,miss             #    0,960 M/sec                    (21,19%)
+         2 595 850      LLC-loads                 #    0,071 M/sec                    (21,12%)
+           225 288      LLC-load-misses           #    8,68% of all LL-cache hits     (21,08%)
+           307 461      LLC-stores                #    0,008 M/sec                    (10,52%)
+            56 853      LLC-store-misses          #    0,002 M/sec                    (10,49%)
+    30 541 494 026      branches                  #  839,676 M/sec                    (15,73%)
+     1 298 668 318      branch-misses             #    4,25% of all branches          (20,96%)
+      37,006209415 seconds time elapsed
+       5,765259000 seconds user
+      30,559426000 seconds sys
+         36 391,49 msec task-clock                #    0,983 CPUs utilized          
+             1 629      context-switches          #    0,045 K/sec                  
+            18 281      hw_interrupts,received    #    0,502 K/sec                    (20,98%)
+             7 950      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 943      minor-faults              #    0,218 K/sec                  
+   151 186 120 798      cpu-cycles                #    4,154 GHz                      (20,98%)
+   139 847 759 239      instructions              #    0,93  insn per cycle           (26,22%)
+   151 238 643 495      inst_retired,total_cycles_ps # 4155,880 M/sec                    (26,23%)
+   139 918 981 986      inst_retired,any          # 3844,827 M/sec                    (26,24%)
+   139 814 631 980      inst_retired,any_p        # 3841,960 M/sec                    (26,25%)
+        83 164 838      cache-references          #    2,285 M/sec                    (26,31%)
+         3 695 194      cache-misses              #    4,443 % of all cache refs      (26,36%)
+    43 124 680 994      L1-dcache-loads           # 1185,021 M/sec                    (26,41%)
+     1 889 946 567      L1-dcache-load-misses     #    4,38% of all L1-dcache hits    (26,48%)
+    20 763 371 736      L1-dcache-stores          #  570,556 M/sec                    (21,20%)
+     2 729 369 425      l2_rqsts,references       #   75,000 M/sec                    (21,16%)
+        64 928 022      l2_rqsts,miss             #    1,784 M/sec                    (21,10%)
+        16 868 160      LLC-loads                 #    0,464 M/sec                    (21,03%)
+            76 873      LLC-load-misses           #    0,46% of all LL-cache hits     (21,02%)
+           397 048      LLC-stores                #    0,011 M/sec                    (10,53%)
+            87 448      LLC-store-misses          #    0,002 M/sec                    (10,50%)
+    30 959 747 026      branches                  #  850,741 M/sec                    (15,74%)
+     1 314 961 860      branch-misses             #    4,25% of all branches          (20,98%)
+      37,021529918 seconds time elapsed
+       7,989687000 seconds user
+      28,358467000 seconds sys
+         36 369,33 msec task-clock                #    0,983 CPUs utilized          
+             1 507      context-switches          #    0,041 K/sec                  
+            18 231      hw_interrupts,received    #    0,501 K/sec                    (20,99%)
+             7 941      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 934      minor-faults              #    0,218 K/sec                  
+   151 230 740 342      cpu-cycles                #    4,158 GHz                      (21,00%)
+   137 607 588 006      instructions              #    0,91  insn per cycle           (26,26%)
+   151 214 573 093      inst_retired,total_cycles_ps # 4157,750 M/sec                    (26,27%)
+   137 624 714 510      inst_retired,any          # 3784,087 M/sec                    (26,28%)
+   137 636 726 857      inst_retired,any_p        # 3784,417 M/sec                    (26,28%)
+        25 021 123      cache-references          #    0,688 M/sec                    (26,29%)
+         3 459 147      cache-misses              #   13,825 % of all cache refs      (26,39%)
+    42 562 723 816      L1-dcache-loads           # 1170,292 M/sec                    (26,43%)
+     1 422 391 839      L1-dcache-load-misses     #    3,34% of all L1-dcache hits    (26,45%)
+    20 460 821 250      L1-dcache-stores          #  562,584 M/sec                    (21,20%)
+     1 733 102 401      l2_rqsts,references       #   47,653 M/sec                    (21,09%)
+        17 671 273      l2_rqsts,miss             #    0,486 M/sec                    (21,04%)
+         1 910 868      LLC-loads                 #    0,053 M/sec                    (21,03%)
+           120 079      LLC-load-misses           #    6,28% of all LL-cache hits     (21,01%)
+           349 842      LLC-stores                #    0,010 M/sec                    (10,51%)
+            54 730      LLC-store-misses          #    0,002 M/sec                    (10,49%)
+    30 541 756 968      branches                  #  839,767 M/sec                    (15,73%)
+     1 297 441 521      branch-misses             #    4,25% of all branches          (20,97%)
+      37,009456481 seconds time elapsed
+       5,998154000 seconds user
+      30,332776000 seconds sys
+         36 387,40 msec task-clock                #    0,983 CPUs utilized          
+             1 532      context-switches          #    0,042 K/sec                  
+            18 242      hw_interrupts,received    #    0,501 K/sec                    (20,97%)
+             7 923      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 916      minor-faults              #    0,218 K/sec                  
+   151 273 310 059      cpu-cycles                #    4,157 GHz                      (20,97%)
+   137 804 998 706      instructions              #    0,91  insn per cycle           (26,23%)
+   151 259 627 059      inst_retired,total_cycles_ps # 4156,924 M/sec                    (26,24%)
+   137 792 884 960      inst_retired,any          # 3786,830 M/sec                    (26,25%)
+   137 767 523 670      inst_retired,any_p        # 3786,133 M/sec                    (26,26%)
+        21 509 185      cache-references          #    0,591 M/sec                    (26,27%)
+         2 891 039      cache-misses              #   13,441 % of all cache refs      (26,26%)
+    42 592 810 149      L1-dcache-loads           # 1170,537 M/sec                    (26,28%)
+     1 468 240 140      L1-dcache-load-misses     #    3,45% of all L1-dcache hits    (26,32%)
+    20 497 606 631      L1-dcache-stores          #  563,316 M/sec                    (21,13%)
+     1 659 124 721      l2_rqsts,references       #   45,596 M/sec                    (21,16%)
+        24 745 473      l2_rqsts,miss             #    0,680 M/sec                    (21,17%)
+         2 715 123      LLC-loads                 #    0,075 M/sec                    (21,16%)
+           235 472      LLC-load-misses           #    8,67% of all LL-cache hits     (21,12%)
+           416 380      LLC-stores                #    0,011 M/sec                    (10,55%)
+            56 452      LLC-store-misses          #    0,002 M/sec                    (10,52%)
+    30 553 910 391      branches                  #  839,684 M/sec                    (15,76%)
+     1 299 329 260      branch-misses             #    4,25% of all branches          (21,00%)
+      37,009619713 seconds time elapsed
+       6,867568000 seconds user
+      29,473203000 seconds sys
+         36 428,84 msec task-clock                #    0,984 CPUs utilized          
+             1 509      context-switches          #    0,041 K/sec                  
+            18 336      hw_interrupts,received    #    0,503 K/sec                    (20,99%)
+             7 940      page-faults               #    0,218 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             7 933      minor-faults              #    0,218 K/sec                  
+   151 357 182 582      cpu-cycles                #    4,155 GHz                      (20,98%)
+   140 137 683 852      instructions              #    0,93  insn per cycle           (26,22%)
+   151 401 264 315      inst_retired,total_cycles_ps # 4156,083 M/sec                    (26,22%)
+   140 200 552 328      inst_retired,any          # 3848,615 M/sec                    (26,21%)
+   140 215 810 487      inst_retired,any_p        # 3849,033 M/sec                    (26,20%)
+        41 653 142      cache-references          #    1,143 M/sec                    (26,19%)
+         4 593 784      cache-misses              #   11,029 % of all cache refs      (26,23%)
+    43 293 809 382      L1-dcache-loads           # 1188,449 M/sec                    (26,27%)
+     1 991 373 734      L1-dcache-load-misses     #    4,60% of all L1-dcache hits    (26,31%)
+    20 812 651 948      L1-dcache-stores          #  571,324 M/sec                    (21,14%)
+     2 505 621 619      l2_rqsts,references       #   68,781 M/sec                    (21,15%)
+        34 687 586      l2_rqsts,miss             #    0,952 M/sec                    (21,18%)
+         2 593 298      LLC-loads                 #    0,071 M/sec                    (21,22%)
+           232 600      LLC-load-misses           #    8,97% of all LL-cache hits     (21,17%)
+           321 541      LLC-stores                #    0,009 M/sec                    (10,52%)
+            30 675      LLC-store-misses          #    0,842 K/sec                    (10,52%)
+    31 050 895 664      branches                  #  852,371 M/sec                    (15,76%)
+     1 316 400 800      branch-misses             #    4,24% of all branches          (21,00%)
+      37,004355399 seconds time elapsed
+       8,451273000 seconds user
+      27,870256000 seconds sys
+MasterSlave_O3_native_33
+         18 714,43 msec task-clock                #    0,975 CPUs utilized          
+             1 550      context-switches          #    0,083 K/sec                  
+            10 676      hw_interrupts,received    #    0,570 K/sec                    (20,85%)
+             9 679      page-faults               #    0,517 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 672      minor-faults              #    0,517 K/sec                  
+    77 549 107 395      cpu-cycles                #    4,144 GHz                      (20,80%)
+    70 855 105 191      instructions              #    0,91  insn per cycle           (25,99%)
+    77 637 431 508      inst_retired,total_cycles_ps # 4148,533 M/sec                    (25,98%)
+    70 908 734 653      inst_retired,any          # 3788,988 M/sec                    (25,99%)
+    70 917 212 372      inst_retired,any_p        # 3789,441 M/sec                    (25,99%)
+       355 166 910      cache-references          #   18,978 M/sec                    (25,95%)
+         2 201 172      cache-misses              #    0,620 % of all cache refs      (25,96%)
+    21 895 342 118      L1-dcache-loads           # 1169,971 M/sec                    (26,07%)
+     3 637 761 938      L1-dcache-load-misses     #   16,61% of all L1-dcache hits    (26,21%)
+    10 097 941 419      L1-dcache-stores          #  539,581 M/sec                    (21,21%)
+     5 996 847 508      l2_rqsts,references       #  320,440 M/sec                    (21,39%)
+       274 528 806      l2_rqsts,miss             #   14,669 M/sec                    (21,42%)
+        54 170 568      LLC-loads                 #    2,895 M/sec                    (21,47%)
+           294 189      LLC-load-misses           #    0,54% of all LL-cache hits     (21,45%)
+         1 282 721      LLC-stores                #    0,069 M/sec                    (10,67%)
+            94 962      LLC-store-misses          #    0,005 M/sec                    (10,59%)
+    15 567 990 446      branches                  #  831,871 M/sec                    (15,80%)
+       697 863 771      branch-misses             #    4,48% of all branches          (20,96%)
+      19,186178908 seconds time elapsed
+       2,383878000 seconds user
+      16,094842000 seconds sys
+         18 594,25 msec task-clock                #    0,973 CPUs utilized          
+             1 582      context-switches          #    0,085 K/sec                  
+             9 335      hw_interrupts,received    #    0,502 K/sec                    (20,76%)
+             9 647      page-faults               #    0,519 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 640      minor-faults              #    0,518 K/sec                  
+    77 151 809 095      cpu-cycles                #    4,149 GHz                      (20,80%)
+    72 146 032 488      instructions              #    0,94  insn per cycle           (26,00%)
+    77 093 044 361      inst_retired,total_cycles_ps # 4146,069 M/sec                    (26,02%)
+    72 095 904 592      inst_retired,any          # 3877,322 M/sec                    (26,04%)
+    72 143 059 571      inst_retired,any_p        # 3879,858 M/sec                    (26,04%)
+        85 238 314      cache-references          #    4,584 M/sec                    (26,03%)
+         3 812 154      cache-misses              #    4,472 % of all cache refs      (26,10%)
+    22 152 501 908      L1-dcache-loads           # 1191,363 M/sec                    (26,35%)
+     3 463 095 583      L1-dcache-load-misses     #   15,63% of all L1-dcache hits    (26,51%)
+    10 191 142 732      L1-dcache-stores          #  548,080 M/sec                    (21,46%)
+     5 085 224 630      l2_rqsts,references       #  273,484 M/sec                    (21,55%)
+        84 038 726      l2_rqsts,miss             #    4,520 M/sec                    (21,46%)
+         3 583 177      LLC-loads                 #    0,193 M/sec                    (21,47%)
+           323 659      LLC-load-misses           #    9,03% of all LL-cache hits     (21,31%)
+           404 163      LLC-stores                #    0,022 M/sec                    (10,42%)
+            30 768      LLC-store-misses          #    0,002 M/sec                    (10,39%)
+    16 084 237 588      branches                  #  865,011 M/sec                    (15,58%)
+       719 034 234      branch-misses             #    4,47% of all branches          (20,77%)
+      19,117728021 seconds time elapsed
+       2,232126000 seconds user
+      16,216520000 seconds sys
+         18 609,52 msec task-clock                #    0,973 CPUs utilized          
+             1 578      context-switches          #    0,085 K/sec                  
+             9 381      hw_interrupts,received    #    0,504 K/sec                    (20,80%)
+             9 690      page-faults               #    0,521 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 683      minor-faults              #    0,520 K/sec                  
+    77 234 248 249      cpu-cycles                #    4,150 GHz                      (20,82%)
+    70 945 612 218      instructions              #    0,92  insn per cycle           (26,04%)
+    77 163 151 939      inst_retired,total_cycles_ps # 4146,434 M/sec                    (26,09%)
+    70 846 198 825      inst_retired,any          # 3806,987 M/sec                    (26,12%)
+    70 865 112 223      inst_retired,any_p        # 3808,003 M/sec                    (26,08%)
+        99 820 411      cache-references          #    5,364 M/sec                    (26,08%)
+         4 787 490      cache-misses              #    4,796 % of all cache refs      (26,22%)
+    21 745 604 544      L1-dcache-loads           # 1168,520 M/sec                    (26,39%)
+     3 529 624 572      L1-dcache-load-misses     #   16,23% of all L1-dcache hits    (26,57%)
+     9 997 244 842      L1-dcache-stores          #  537,211 M/sec                    (21,52%)
+     4 920 769 916      l2_rqsts,references       #  264,422 M/sec                    (21,54%)
+        91 133 458      l2_rqsts,miss             #    4,897 M/sec                    (21,45%)
+        16 724 780      LLC-loads                 #    0,899 M/sec                    (21,30%)
+           244 677      LLC-load-misses           #    1,46% of all LL-cache hits     (21,18%)
+           355 998      LLC-stores                #    0,019 M/sec                    (10,45%)
+            46 840      LLC-store-misses          #    0,003 M/sec                    (10,39%)
+    15 786 110 686      branches                  #  848,281 M/sec                    (15,58%)
+       707 658 596      branch-misses             #    4,48% of all branches          (20,76%)
+      19,133308338 seconds time elapsed
+       2,196403000 seconds user
+      16,271489000 seconds sys
+         18 650,50 msec task-clock                #    0,974 CPUs utilized          
+             1 583      context-switches          #    0,085 K/sec                  
+             9 313      hw_interrupts,received    #    0,499 K/sec                    (20,79%)
+             9 686      page-faults               #    0,519 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 679      minor-faults              #    0,519 K/sec                  
+    77 271 710 301      cpu-cycles                #    4,143 GHz                      (20,79%)
+    69 963 590 005      instructions              #    0,91  insn per cycle           (25,98%)
+    77 282 891 296      inst_retired,total_cycles_ps # 4143,743 M/sec                    (25,98%)
+    69 984 515 939      inst_retired,any          # 3752,419 M/sec                    (25,98%)
+    70 053 434 699      inst_retired,any_p        # 3756,115 M/sec                    (26,03%)
+       782 899 010      cache-references          #   41,977 M/sec                    (26,18%)
+         5 356 471      cache-misses              #    0,684 % of all cache refs      (26,33%)
+    21 539 780 560      L1-dcache-loads           # 1154,917 M/sec                    (26,50%)
+     3 537 281 121      L1-dcache-load-misses     #   16,42% of all L1-dcache hits    (26,69%)
+     9 835 464 844      L1-dcache-stores          #  527,357 M/sec                    (21,44%)
+     6 693 839 653      l2_rqsts,references       #  358,909 M/sec                    (21,47%)
+       555 186 775      l2_rqsts,miss             #   29,768 M/sec                    (21,45%)
+       118 651 810      LLC-loads                 #    6,362 M/sec                    (21,39%)
+           286 856      LLC-load-misses           #    0,24% of all LL-cache hits     (21,22%)
+         6 832 502      LLC-stores                #    0,366 M/sec                    (10,39%)
+            16 411      LLC-store-misses          #    0,880 K/sec                    (10,37%)
+    15 577 032 110      branches                  #  835,207 M/sec                    (15,56%)
+       695 727 460      branch-misses             #    4,47% of all branches          (20,75%)
+      19,141517676 seconds time elapsed
+       2,205555000 seconds user
+      16,251637000 seconds sys
+         18 593,21 msec task-clock                #    0,972 CPUs utilized          
+             1 461      context-switches          #    0,079 K/sec                  
+             9 311      hw_interrupts,received    #    0,501 K/sec                    (20,85%)
+             9 662      page-faults               #    0,520 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 655      minor-faults              #    0,519 K/sec                  
+    76 825 676 386      cpu-cycles                #    4,132 GHz                      (20,94%)
+    70 670 036 993      instructions              #    0,92  insn per cycle           (26,16%)
+    76 896 592 382      inst_retired,total_cycles_ps # 4135,735 M/sec                    (26,18%)
+    70 694 770 313      inst_retired,any          # 3802,182 M/sec                    (26,19%)
+    70 720 356 298      inst_retired,any_p        # 3803,558 M/sec                    (26,15%)
+       121 910 419      cache-references          #    6,557 M/sec                    (26,07%)
+         4 824 386      cache-misses              #    3,957 % of all cache refs      (26,22%)
+    21 790 545 485      L1-dcache-loads           # 1171,963 M/sec                    (26,38%)
+     3 469 792 001      L1-dcache-load-misses     #   15,92% of all L1-dcache hits    (26,55%)
+    10 011 522 963      L1-dcache-stores          #  538,450 M/sec                    (21,49%)
+     4 941 522 457      l2_rqsts,references       #  265,770 M/sec                    (21,46%)
+       109 260 063      l2_rqsts,miss             #    5,876 M/sec                    (21,36%)
+         4 727 154      LLC-loads                 #    0,254 M/sec                    (21,20%)
+           183 809      LLC-load-misses           #    3,89% of all LL-cache hits     (21,04%)
+           441 592      LLC-stores                #    0,024 M/sec                    (10,44%)
+           127 820      LLC-store-misses          #    0,007 M/sec                    (10,44%)
+    15 735 658 909      branches                  #  846,312 M/sec                    (15,65%)
+       703 678 176      branch-misses             #    4,47% of all branches          (20,85%)
+      19,129772450 seconds time elapsed
+       2,092243000 seconds user
+      16,398504000 seconds sys
+         18 701,01 msec task-clock                #    0,975 CPUs utilized          
+             1 757      context-switches          #    0,094 K/sec                  
+             9 437      hw_interrupts,received    #    0,505 K/sec                    (20,74%)
+             9 673      page-faults               #    0,517 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 666      minor-faults              #    0,517 K/sec                  
+    77 678 278 483      cpu-cycles                #    4,154 GHz                      (20,71%)
+    70 517 692 354      instructions              #    0,91  insn per cycle           (25,88%)
+    77 606 759 095      inst_retired,total_cycles_ps # 4149,870 M/sec                    (25,90%)
+    70 468 365 402      inst_retired,any          # 3768,159 M/sec                    (25,91%)
+    70 470 436 377      inst_retired,any_p        # 3768,269 M/sec                    (25,89%)
+       181 673 087      cache-references          #    9,715 M/sec                    (25,92%)
+         5 084 803      cache-misses              #    2,799 % of all cache refs      (26,12%)
+    21 518 570 993      L1-dcache-loads           # 1150,664 M/sec                    (26,26%)
+     3 560 237 119      L1-dcache-load-misses     #   16,54% of all L1-dcache hits    (26,44%)
+     9 889 284 813      L1-dcache-stores          #  528,810 M/sec                    (21,39%)
+     5 275 832 910      l2_rqsts,references       #  282,115 M/sec                    (21,38%)
+       147 625 090      l2_rqsts,miss             #    7,894 M/sec                    (21,44%)
+        13 174 616      LLC-loads                 #    0,704 M/sec                    (21,46%)
+           237 686      LLC-load-misses           #    1,80% of all LL-cache hits     (21,49%)
+         5 062 055      LLC-stores                #    0,271 M/sec                    (10,65%)
+            73 121      LLC-store-misses          #    0,004 M/sec                    (10,50%)
+    15 557 809 500      branches                  #  831,924 M/sec                    (15,66%)
+       698 390 535      branch-misses             #    4,49% of all branches          (20,81%)
+      19,187084106 seconds time elapsed
+       2,498393000 seconds user
+      15,952050000 seconds sys
+         18 526,81 msec task-clock                #    0,970 CPUs utilized          
+             1 545      context-switches          #    0,083 K/sec                  
+             9 294      hw_interrupts,received    #    0,502 K/sec                    (20,86%)
+             9 673      page-faults               #    0,522 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 666      minor-faults              #    0,522 K/sec                  
+    76 831 809 834      cpu-cycles                #    4,147 GHz                      (20,85%)
+    70 489 492 667      instructions              #    0,92  insn per cycle           (26,07%)
+    76 827 443 895      inst_retired,total_cycles_ps # 4146,825 M/sec                    (26,09%)
+    70 518 027 238      inst_retired,any          # 3806,269 M/sec                    (26,12%)
+    70 508 089 730      inst_retired,any_p        # 3805,733 M/sec                    (26,11%)
+        82 139 709      cache-references          #    4,434 M/sec                    (26,26%)
+         4 249 720      cache-misses              #    5,174 % of all cache refs      (26,44%)
+    21 809 435 641      L1-dcache-loads           # 1177,182 M/sec                    (26,57%)
+     3 692 004 525      L1-dcache-load-misses     #   16,93% of all L1-dcache hits    (26,72%)
+    10 031 416 031      L1-dcache-stores          #  541,454 M/sec                    (21,46%)
+     5 118 577 529      l2_rqsts,references       #  276,279 M/sec                    (21,32%)
+        72 832 862      l2_rqsts,miss             #    3,931 M/sec                    (21,20%)
+         2 088 182      LLC-loads                 #    0,113 M/sec                    (21,09%)
+           178 701      LLC-load-misses           #    8,56% of all LL-cache hits     (20,98%)
+           277 974      LLC-stores                #    0,015 M/sec                    (10,43%)
+            74 433      LLC-store-misses          #    0,004 M/sec                    (10,45%)
+    15 678 242 337      branches                  #  846,246 M/sec                    (15,66%)
+       702 542 441      branch-misses             #    4,48% of all branches          (20,85%)
+      19,096330563 seconds time elapsed
+       2,177154000 seconds user
+      16,268054000 seconds sys
+         18 754,47 msec task-clock                #    0,977 CPUs utilized          
+             1 617      context-switches          #    0,086 K/sec                  
+             9 336      hw_interrupts,received    #    0,498 K/sec                    (20,71%)
+             9 660      page-faults               #    0,515 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 653      minor-faults              #    0,515 K/sec                  
+    77 551 331 194      cpu-cycles                #    4,135 GHz                      (20,70%)
+    72 178 583 350      instructions              #    0,93  insn per cycle           (25,88%)
+    77 627 534 643      inst_retired,total_cycles_ps # 4139,149 M/sec                    (25,89%)
+    72 218 915 259      inst_retired,any          # 3850,758 M/sec                    (25,93%)
+    72 149 665 240      inst_retired,any_p        # 3847,065 M/sec                    (25,96%)
+       800 725 026      cache-references          #   42,695 M/sec                    (26,00%)
+         4 142 401      cache-misses              #    0,517 % of all cache refs      (26,10%)
+    22 085 331 922      L1-dcache-loads           # 1177,604 M/sec                    (26,24%)
+     3 560 777 755      L1-dcache-load-misses     #   16,12% of all L1-dcache hits    (26,40%)
+    10 196 147 887      L1-dcache-stores          #  543,665 M/sec                    (21,30%)
+     6 622 815 760      l2_rqsts,references       #  353,133 M/sec                    (21,43%)
+       525 300 068      l2_rqsts,miss             #   28,009 M/sec                    (21,46%)
+       107 768 474      LLC-loads                 #    5,746 M/sec                    (21,47%)
+           296 274      LLC-load-misses           #    0,27% of all LL-cache hits     (21,48%)
+        14 369 481      LLC-stores                #    0,766 M/sec                    (10,68%)
+           156 261      LLC-store-misses          #    0,008 M/sec                    (10,52%)
+    15 884 640 900      branches                  #  846,979 M/sec                    (15,70%)
+       711 935 982      branch-misses             #    4,48% of all branches          (20,85%)
+      19,191850268 seconds time elapsed
+       2,547830000 seconds user
+      15,972401000 seconds sys
+         18 670,76 msec task-clock                #    0,976 CPUs utilized          
+             1 473      context-switches          #    0,079 K/sec                  
+             9 413      hw_interrupts,received    #    0,504 K/sec                    (20,83%)
+             9 678      page-faults               #    0,518 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 671      minor-faults              #    0,518 K/sec                  
+    76 681 160 707      cpu-cycles                #    4,107 GHz                      (20,79%)
+    69 964 390 786      instructions              #    0,91  insn per cycle           (25,99%)
+    76 814 591 101      inst_retired,total_cycles_ps # 4114,165 M/sec                    (25,98%)
+    70 024 679 524      inst_retired,any          # 3750,500 M/sec                    (26,00%)
+    70 059 593 204      inst_retired,any_p        # 3752,370 M/sec                    (26,00%)
+       173 768 483      cache-references          #    9,307 M/sec                    (25,97%)
+         3 588 186      cache-misses              #    2,065 % of all cache refs      (25,97%)
+    21 569 664 979      L1-dcache-loads           # 1155,264 M/sec                    (26,05%)
+     3 589 213 533      L1-dcache-load-misses     #   16,64% of all L1-dcache hits    (26,19%)
+     9 948 715 765      L1-dcache-stores          #  532,850 M/sec                    (21,26%)
+     5 089 083 637      l2_rqsts,references       #  272,570 M/sec                    (21,42%)
+       146 877 334      l2_rqsts,miss             #    7,867 M/sec                    (21,52%)
+        21 179 226      LLC-loads                 #    1,134 M/sec                    (21,56%)
+           155 763      LLC-load-misses           #    0,74% of all LL-cache hits     (21,45%)
+         9 293 763      LLC-stores                #    0,498 M/sec                    (10,60%)
+           264 594      LLC-store-misses          #    0,014 M/sec                    (10,53%)
+    15 436 870 673      branches                  #  826,794 M/sec                    (15,75%)
+       696 398 400      branch-misses             #    4,51% of all branches          (20,93%)
+      19,135722416 seconds time elapsed
+       2,356757000 seconds user
+      16,120144000 seconds sys
+         18 705,48 msec task-clock                #    0,977 CPUs utilized          
+             1 581      context-switches          #    0,085 K/sec                  
+             9 441      hw_interrupts,received    #    0,505 K/sec                    (20,82%)
+             9 680      page-faults               #    0,517 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+             9 673      minor-faults              #    0,517 K/sec                  
+    77 536 696 336      cpu-cycles                #    4,145 GHz                      (20,73%)
+    73 072 670 797      instructions              #    0,94  insn per cycle           (25,90%)
+    77 610 701 797      inst_retired,total_cycles_ps # 4149,090 M/sec                    (25,92%)
+    73 158 695 754      inst_retired,any          # 3911,084 M/sec                    (25,89%)
+    73 225 356 932      inst_retired,any_p        # 3914,648 M/sec                    (25,88%)
+       159 726 496      cache-references          #    8,539 M/sec                    (25,88%)
+         4 093 122      cache-misses              #    2,563 % of all cache refs      (26,01%)
+    22 380 890 310      L1-dcache-loads           # 1196,489 M/sec                    (26,17%)
+     3 528 617 494      L1-dcache-load-misses     #   15,77% of all L1-dcache hits    (26,39%)
+    10 283 842 411      L1-dcache-stores          #  549,777 M/sec                    (21,39%)
+     6 206 807 000      l2_rqsts,references       #  331,818 M/sec                    (21,41%)
+       122 785 866      l2_rqsts,miss             #    6,564 M/sec                    (21,42%)
+        22 103 254      LLC-loads                 #    1,182 M/sec                    (21,43%)
+           137 265      LLC-load-misses           #    0,62% of all LL-cache hits     (21,39%)
+        11 206 505      LLC-stores                #    0,599 M/sec                    (10,65%)
+            88 790      LLC-store-misses          #    0,005 M/sec                    (10,61%)
+    16 029 151 904      branches                  #  856,923 M/sec                    (15,77%)
+       717 787 492      branch-misses             #    4,48% of all branches          (20,96%)
+      19,138375734 seconds time elapsed
+       2,209063000 seconds user
+      16,247910000 seconds sys
+MasterSlave_O3_native_65
+          9 980,14 msec task-clock                #    0,922 CPUs utilized          
+             2 329      context-switches          #    0,233 K/sec                  
+             5 004      hw_interrupts,received    #    0,501 K/sec                    (20,50%)
+            13 118      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 111      minor-faults              #    0,001 M/sec                  
+    41 089 314 245      cpu-cycles                #    4,117 GHz                      (20,44%)
+    37 155 175 095      instructions              #    0,90  insn per cycle           (25,56%)
+    41 189 059 052      inst_retired,total_cycles_ps # 4127,104 M/sec                    (25,53%)
+    37 303 499 912      inst_retired,any          # 3737,775 M/sec                    (25,50%)
+    37 281 801 400      inst_retired,any_p        # 3735,601 M/sec                    (25,51%)
+     1 188 275 862      cache-references          #  119,064 M/sec                    (25,74%)
+         5 174 055      cache-misses              #    0,435 % of all cache refs      (26,24%)
+    11 661 769 384      L1-dcache-loads           # 1168,498 M/sec                    (26,98%)
+     2 151 584 187      L1-dcache-load-misses     #   18,45% of all L1-dcache hits    (27,43%)
+     5 178 906 252      L1-dcache-stores          #  518,921 M/sec                    (22,39%)
+     4 130 606 243      l2_rqsts,references       #  413,883 M/sec                    (22,05%)
+       807 955 020      l2_rqsts,miss             #   80,956 M/sec                    (21,50%)
+       292 313 386      LLC-loads                 #   29,290 M/sec                    (21,21%)
+           278 556      LLC-load-misses           #    0,10% of all LL-cache hits     (20,99%)
+         4 962 499      LLC-stores                #    0,497 M/sec                    (10,47%)
+            75 286      LLC-store-misses          #    0,008 M/sec                    (10,45%)
+     8 171 715 174      branches                  #  818,798 M/sec                    (15,57%)
+       389 077 329      branch-misses             #    4,76% of all branches          (20,68%)
+      10,819430469 seconds time elapsed
+       0,738091000 seconds user
+       9,055275000 seconds sys
+          9 949,72 msec task-clock                #    0,952 CPUs utilized          
+             1 812      context-switches          #    0,182 K/sec                  
+             4 956      hw_interrupts,received    #    0,498 K/sec                    (20,52%)
+            13 148      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 141      minor-faults              #    0,001 M/sec                  
+    40 614 604 910      cpu-cycles                #    4,082 GHz                      (20,58%)
+    37 735 424 795      instructions              #    0,93  insn per cycle           (25,70%)
+    40 785 529 841      inst_retired,total_cycles_ps # 4099,164 M/sec                    (25,69%)
+    38 032 024 256      inst_retired,any          # 3822,422 M/sec                    (25,63%)
+    38 106 787 376      inst_retired,any_p        # 3829,936 M/sec                    (25,57%)
+       195 419 395      cache-references          #   19,641 M/sec                    (25,59%)
+         3 945 622      cache-misses              #    2,019 % of all cache refs      (25,90%)
+    11 859 577 254      L1-dcache-loads           # 1191,951 M/sec                    (26,46%)
+     2 170 075 705      L1-dcache-load-misses     #   18,30% of all L1-dcache hits    (27,22%)
+     5 297 087 008      L1-dcache-stores          #  532,386 M/sec                    (22,50%)
+     3 277 685 420      l2_rqsts,references       #  329,425 M/sec                    (22,51%)
+       146 327 225      l2_rqsts,miss             #   14,707 M/sec                    (22,11%)
+        36 084 828      LLC-loads                 #    3,627 M/sec                    (21,47%)
+           299 168      LLC-load-misses           #    0,83% of all LL-cache hits     (21,11%)
+         1 431 487      LLC-stores                #    0,144 M/sec                    (10,31%)
+           139 559      LLC-store-misses          #    0,014 M/sec                    (10,22%)
+     8 429 932 700      branches                  #  847,253 M/sec                    (15,34%)
+       397 837 731      branch-misses             #    4,72% of all branches          (20,51%)
+      10,456109160 seconds time elapsed
+       0,734691000 seconds user
+       9,024440000 seconds sys
+          9 951,52 msec task-clock                #    0,947 CPUs utilized          
+             1 956      context-switches          #    0,197 K/sec                  
+             5 258      hw_interrupts,received    #    0,528 K/sec                    (20,62%)
+            13 174      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 167      minor-faults              #    0,001 M/sec                  
+    40 587 521 699      cpu-cycles                #    4,079 GHz                      (20,76%)
+    37 041 790 143      instructions              #    0,91  insn per cycle           (25,90%)
+    40 717 175 446      inst_retired,total_cycles_ps # 4091,553 M/sec                    (25,88%)
+    37 070 273 166      inst_retired,any          # 3725,086 M/sec                    (25,92%)
+    37 170 320 936      inst_retired,any_p        # 3735,140 M/sec                    (25,84%)
+     1 124 072 857      cache-references          #  112,955 M/sec                    (25,72%)
+         3 292 808      cache-misses              #    0,293 % of all cache refs      (25,73%)
+    11 570 267 360      L1-dcache-loads           # 1162,663 M/sec                    (26,09%)
+     2 232 797 443      L1-dcache-load-misses     #   19,30% of all L1-dcache hits    (26,71%)
+     5 213 485 402      L1-dcache-stores          #  523,888 M/sec                    (22,11%)
+     3 982 965 909      l2_rqsts,references       #  400,237 M/sec                    (22,45%)
+       752 798 983      l2_rqsts,miss             #   75,647 M/sec                    (22,32%)
+       276 992 943      LLC-loads                 #   27,834 M/sec                    (21,70%)
+           105 520      LLC-load-misses           #    0,04% of all LL-cache hits     (21,12%)
+         8 637 154      LLC-stores                #    0,868 M/sec                    (10,29%)
+           185 894      LLC-store-misses          #    0,019 M/sec                    (10,29%)
+     8 263 972 350      branches                  #  830,423 M/sec                    (15,45%)
+       392 113 837      branch-misses             #    4,74% of all branches          (20,54%)
+      10,504018091 seconds time elapsed
+       0,719461000 seconds user
+       9,059709000 seconds sys
+          9 946,02 msec task-clock                #    0,954 CPUs utilized          
+             1 807      context-switches          #    0,182 K/sec                  
+             5 009      hw_interrupts,received    #    0,504 K/sec                    (20,40%)
+            13 153      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 146      minor-faults              #    0,001 M/sec                  
+    41 032 017 884      cpu-cycles                #    4,125 GHz                      (20,43%)
+    35 991 642 267      instructions              #    0,88  insn per cycle           (25,57%)
+    41 099 207 240      inst_retired,total_cycles_ps # 4132,227 M/sec                    (25,64%)
+    36 100 106 264      inst_retired,any          # 3629,604 M/sec                    (25,70%)
+    36 129 367 025      inst_retired,any_p        # 3632,546 M/sec                    (25,70%)
+       913 291 325      cache-references          #   91,825 M/sec                    (25,84%)
+         5 896 838      cache-misses              #    0,646 % of all cache refs      (26,38%)
+    11 203 035 211      L1-dcache-loads           # 1126,384 M/sec                    (27,07%)
+     2 075 201 920      L1-dcache-load-misses     #   18,52% of all L1-dcache hits    (27,66%)
+     4 990 616 356      L1-dcache-stores          #  501,770 M/sec                    (22,68%)
+     3 536 971 949      l2_rqsts,references       #  355,617 M/sec                    (22,30%)
+       625 543 581      l2_rqsts,miss             #   62,894 M/sec                    (21,67%)
+       219 169 195      LLC-loads                 #   22,036 M/sec                    (21,05%)
+           148 851      LLC-load-misses           #    0,07% of all LL-cache hits     (20,82%)
+         5 075 971      LLC-stores                #    0,510 M/sec                    (10,33%)
+            72 311      LLC-store-misses          #    0,007 M/sec                    (10,23%)
+     7 995 472 148      branches                  #  803,887 M/sec                    (15,31%)
+       380 070 446      branch-misses             #    4,75% of all branches          (20,39%)
+      10,428043050 seconds time elapsed
+       0,731223000 seconds user
+       9,021508000 seconds sys
+         10 063,39 msec task-clock                #    0,962 CPUs utilized          
+             1 795      context-switches          #    0,178 K/sec                  
+             5 071      hw_interrupts,received    #    0,504 K/sec                    (21,04%)
+            13 192      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 185      minor-faults              #    0,001 M/sec                  
+    40 621 497 530      cpu-cycles                #    4,037 GHz                      (20,96%)
+    37 598 258 405      instructions              #    0,93  insn per cycle           (26,16%)
+    40 795 668 491      inst_retired,total_cycles_ps # 4053,868 M/sec                    (26,01%)
+    37 558 950 564      inst_retired,any          # 3732,235 M/sec                    (25,93%)
+    37 539 843 764      inst_retired,any_p        # 3730,336 M/sec                    (25,78%)
+       383 672 490      cache-references          #   38,126 M/sec                    (25,68%)
+         3 233 874      cache-misses              #    0,843 % of all cache refs      (25,56%)
+    11 757 196 575      L1-dcache-loads           # 1168,313 M/sec                    (25,46%)
+     2 323 264 708      L1-dcache-load-misses     #   19,76% of all L1-dcache hits    (25,44%)
+     5 393 967 816      L1-dcache-stores          #  535,999 M/sec                    (20,36%)
+     3 620 239 911      l2_rqsts,references       #  359,743 M/sec                    (20,47%)
+       267 104 944      l2_rqsts,miss             #   26,542 M/sec                    (20,92%)
+        63 188 284      LLC-loads                 #    6,279 M/sec                    (21,56%)
+           508 321      LLC-load-misses           #    0,80% of all LL-cache hits     (22,26%)
+         8 424 334      LLC-stores                #    0,837 M/sec                    (11,27%)
+           123 565      LLC-store-misses          #    0,012 M/sec                    (10,74%)
+     8 127 278 413      branches                  #  807,608 M/sec                    (16,07%)
+       387 222 669      branch-misses             #    4,76% of all branches          (21,26%)
+      10,461079627 seconds time elapsed
+       0,858774000 seconds user
+       8,922459000 seconds sys
+         10 051,58 msec task-clock                #    0,960 CPUs utilized          
+             1 993      context-switches          #    0,198 K/sec                  
+             5 039      hw_interrupts,received    #    0,501 K/sec                    (20,38%)
+            13 179      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 172      minor-faults              #    0,001 M/sec                  
+    41 373 920 794      cpu-cycles                #    4,116 GHz                      (20,34%)
+    37 993 064 789      instructions              #    0,92  insn per cycle           (25,49%)
+    41 256 026 790      inst_retired,total_cycles_ps # 4104,430 M/sec                    (25,48%)
+    38 029 550 743      inst_retired,any          # 3783,439 M/sec                    (25,50%)
+    38 082 372 928      inst_retired,any_p        # 3788,694 M/sec                    (25,46%)
+       407 469 629      cache-references          #   40,538 M/sec                    (25,55%)
+         4 636 312      cache-misses              #    1,138 % of all cache refs      (25,81%)
+    11 825 134 046      L1-dcache-loads           # 1176,445 M/sec                    (26,39%)
+     2 199 602 108      L1-dcache-load-misses     #   18,60% of all L1-dcache hits    (26,97%)
+     5 199 794 182      L1-dcache-stores          #  517,311 M/sec                    (22,38%)
+     3 384 110 324      l2_rqsts,references       #  336,674 M/sec                    (22,50%)
+       265 489 760      l2_rqsts,miss             #   26,413 M/sec                    (22,20%)
+        78 318 331      LLC-loads                 #    7,792 M/sec                    (21,84%)
+           139 090      LLC-load-misses           #    0,18% of all LL-cache hits     (21,38%)
+         2 511 990      LLC-stores                #    0,250 M/sec                    (10,42%)
+           241 017      LLC-store-misses          #    0,024 M/sec                    (10,35%)
+     8 386 549 638      branches                  #  834,351 M/sec                    (15,45%)
+       397 478 591      branch-misses             #    4,74% of all branches          (20,51%)
+      10,469775191 seconds time elapsed
+       0,741855000 seconds user
+       9,021576000 seconds sys
+         10 028,61 msec task-clock                #    0,958 CPUs utilized          
+             1 926      context-switches          #    0,192 K/sec                  
+             5 014      hw_interrupts,received    #    0,500 K/sec                    (20,30%)
+            13 192      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 185      minor-faults              #    0,001 M/sec                  
+    41 334 286 590      cpu-cycles                #    4,122 GHz                      (20,34%)
+    39 011 661 852      instructions              #    0,94  insn per cycle           (25,44%)
+    41 390 815 163      inst_retired,total_cycles_ps # 4127,274 M/sec                    (25,44%)
+    39 045 042 640      inst_retired,any          # 3893,366 M/sec                    (25,52%)
+    39 031 023 395      inst_retired,any_p        # 3891,968 M/sec                    (25,50%)
+       260 610 174      cache-references          #   25,987 M/sec                    (25,56%)
+         3 691 672      cache-misses              #    1,417 % of all cache refs      (25,76%)
+    11 955 491 653      L1-dcache-loads           # 1192,139 M/sec                    (26,29%)
+     2 255 474 137      L1-dcache-load-misses     #   18,87% of all L1-dcache hits    (26,92%)
+     5 270 287 569      L1-dcache-stores          #  525,525 M/sec                    (22,38%)
+     3 161 201 767      l2_rqsts,references       #  315,218 M/sec                    (22,66%)
+       183 232 223      l2_rqsts,miss             #   18,271 M/sec                    (22,41%)
+        48 725 862      LLC-loads                 #    4,859 M/sec                    (22,11%)
+           360 747      LLC-load-misses           #    0,74% of all LL-cache hits     (21,58%)
+         3 658 619      LLC-stores                #    0,365 M/sec                    (10,27%)
+            80 237      LLC-store-misses          #    0,008 M/sec                    (10,14%)
+     8 674 426 682      branches                  #  864,968 M/sec                    (15,23%)
+       411 372 637      branch-misses             #    4,74% of all branches          (20,26%)
+      10,464350328 seconds time elapsed
+       0,659164000 seconds user
+       9,098486000 seconds sys
+          9 953,24 msec task-clock                #    0,951 CPUs utilized          
+             1 906      context-switches          #    0,191 K/sec                  
+             5 043      hw_interrupts,received    #    0,507 K/sec                    (20,72%)
+            13 175      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 168      minor-faults              #    0,001 M/sec                  
+    40 784 426 089      cpu-cycles                #    4,098 GHz                      (20,62%)
+    36 102 654 205      instructions              #    0,89  insn per cycle           (25,80%)
+    40 768 537 619      inst_retired,total_cycles_ps # 4096,005 M/sec                    (25,77%)
+    36 262 627 449      inst_retired,any          # 3643,297 M/sec                    (25,71%)
+    36 243 844 334      inst_retired,any_p        # 3641,410 M/sec                    (25,74%)
+       776 137 476      cache-references          #   77,978 M/sec                    (25,86%)
+         5 609 137      cache-misses              #    0,723 % of all cache refs      (26,12%)
+    11 233 169 154      L1-dcache-loads           # 1128,594 M/sec                    (26,62%)
+     2 095 074 974      L1-dcache-load-misses     #   18,65% of all L1-dcache hits    (27,37%)
+     5 076 009 606      L1-dcache-stores          #  509,985 M/sec                    (22,39%)
+     3 367 470 650      l2_rqsts,references       #  338,329 M/sec                    (22,25%)
+       517 250 905      l2_rqsts,miss             #   51,968 M/sec                    (21,77%)
+       163 563 764      LLC-loads                 #   16,433 M/sec                    (21,01%)
+            79 051      LLC-load-misses           #    0,05% of all LL-cache hits     (20,73%)
+        16 333 621      LLC-stores                #    1,641 M/sec                    (10,34%)
+           278 901      LLC-store-misses          #    0,028 M/sec                    (10,40%)
+     8 031 415 631      branches                  #  806,914 M/sec                    (15,57%)
+       378 938 090      branch-misses             #    4,72% of all branches          (20,77%)
+      10,461223494 seconds time elapsed
+       0,772832000 seconds user
+       9,005851000 seconds sys
+         10 000,27 msec task-clock                #    0,955 CPUs utilized          
+             1 696      context-switches          #    0,170 K/sec                  
+             5 080      hw_interrupts,received    #    0,508 K/sec                    (20,53%)
+            13 132      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 125      minor-faults              #    0,001 M/sec                  
+    40 800 232 705      cpu-cycles                #    4,080 GHz                      (20,52%)
+    35 292 094 733      instructions              #    0,86  insn per cycle           (25,63%)
+    40 926 436 176      inst_retired,total_cycles_ps # 4092,531 M/sec                    (25,64%)
+    35 457 473 128      inst_retired,any          # 3545,650 M/sec                    (25,65%)
+    35 617 993 119      inst_retired,any_p        # 3561,701 M/sec                    (25,53%)
+     1 742 285 831      cache-references          #  174,224 M/sec                    (25,73%)
+         2 775 424      cache-misses              #    0,159 % of all cache refs      (25,84%)
+    11 019 467 294      L1-dcache-loads           # 1101,916 M/sec                    (26,41%)
+     2 100 037 914      L1-dcache-load-misses     #   19,06% of all L1-dcache hits    (27,09%)
+     4 950 347 484      L1-dcache-stores          #  495,021 M/sec                    (22,25%)
+     4 257 029 154      l2_rqsts,references       #  425,691 M/sec                    (22,41%)
+     1 138 384 057      l2_rqsts,miss             #  113,835 M/sec                    (22,07%)
+       390 386 154      LLC-loads                 #   39,038 M/sec                    (21,55%)
+           285 255      LLC-load-misses           #    0,07% of all LL-cache hits     (21,23%)
+        16 356 860      LLC-stores                #    1,636 M/sec                    (10,39%)
+         1 254 976      LLC-store-misses          #    0,125 M/sec                    (10,28%)
+     7 816 385 691      branches                  #  781,617 M/sec                    (15,37%)
+       370 149 252      branch-misses             #    4,74% of all branches          (20,48%)
+      10,466062027 seconds time elapsed
+       0,786057000 seconds user
+       9,025492000 seconds sys
+         10 081,27 msec task-clock                #    0,963 CPUs utilized          
+             1 743      context-switches          #    0,173 K/sec                  
+             5 296      hw_interrupts,received    #    0,525 K/sec                    (20,33%)
+            13 168      page-faults               #    0,001 M/sec                  
+                 7      major-faults              #    0,001 K/sec                  
+            13 161      minor-faults              #    0,001 M/sec                  
+    41 397 023 296      cpu-cycles                #    4,106 GHz                      (20,36%)
+    38 167 846 124      instructions              #    0,92  insn per cycle           (25,43%)
+    41 369 842 266      inst_retired,total_cycles_ps # 4103,635 M/sec                    (25,49%)
+    38 111 875 230      inst_retired,any          # 3780,465 M/sec                    (25,50%)
+    38 059 118 198      inst_retired,any_p        # 3775,231 M/sec                    (25,52%)
+       213 753 153      cache-references          #   21,203 M/sec                    (25,56%)
+         3 651 532      cache-misses              #    1,708 % of all cache refs      (25,72%)
+    11 822 049 137      L1-dcache-loads           # 1172,675 M/sec                    (26,20%)
+     2 226 192 654      L1-dcache-load-misses     #   18,83% of all L1-dcache hits    (26,88%)
+     5 230 706 689      L1-dcache-stores          #  518,854 M/sec                    (22,22%)
+     3 074 442 933      l2_rqsts,references       #  304,966 M/sec                    (22,50%)
+       157 359 345      l2_rqsts,miss             #   15,609 M/sec                    (22,26%)
+        40 225 903      LLC-loads                 #    3,990 M/sec                    (21,90%)
+           191 326      LLC-load-misses           #    0,48% of all LL-cache hits     (21,62%)
+         3 247 862      LLC-stores                #    0,322 M/sec                    (10,48%)
+           161 522      LLC-store-misses          #    0,016 M/sec                    (10,23%)
+     8 399 181 386      branches                  #  833,147 M/sec                    (15,37%)
+       399 586 096      branch-misses             #    4,76% of all branches          (20,43%)
+      10,472535655 seconds time elapsed
+       0,720560000 seconds user
+       9,087450000 seconds sys

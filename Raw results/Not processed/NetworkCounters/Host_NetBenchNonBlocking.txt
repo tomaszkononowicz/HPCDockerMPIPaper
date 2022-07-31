@@ -1,0 +1,1205 @@
+nohup: zignorowane dane wejściowe
+NetBenchNonBlocking_O3_native
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152092
+Isend/Irecv	2^1	0.000053	0.304170
+Isend/Irecv	2^2	0.000053	0.605950
+Isend/Irecv	2^3	0.000053	1.209333
+Isend/Irecv	2^4	0.000053	2.420009
+Isend/Irecv	2^5	0.000053	4.843815
+Isend/Irecv	2^6	0.000053	9.705247
+Isend/Irecv	2^7	0.000064	16.057689
+Isend/Irecv	2^8	0.000087	23.525808
+Isend/Irecv	2^9	0.000101	40.537197
+Isend/Irecv	2^10	0.000177	46.412020
+Isend/Irecv	2^11	0.000221	74.198362
+Isend/Irecv	2^12	0.000441	74.244762
+Isend/Irecv	2^13	0.001135	57.724313
+Isend/Irecv	2^14	0.001745	75.116574
+Isend/Irecv	2^15	0.003006	87.207224
+Isend/Irecv	2^16	0.005666	92.527595
+Isend/Irecv	2^17	0.011077	94.661450
+Isend/Irecv	2^18	0.021860	95.934396
+Isend/Irecv	2^19	0.043405	96.632783
+Isend/Irecv	2^20	0.086556	96.915284
+Isend/Irecv	2^21	0.173050	96.949838
+Isend/Irecv	2^22	0.345413	97.143063
+Isend/Irecv	2^23	0.690539	97.183270
+Isend/Irecv	2^24	1.380987	97.189726
+Isend/Irecv	2^25	2.762155	97.183355
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152115
+Isend/Irecv	2^1	0.000053	0.304199
+Isend/Irecv	2^2	0.000053	0.606042
+Isend/Irecv	2^3	0.000053	1.209313
+Isend/Irecv	2^4	0.000053	2.420548
+Isend/Irecv	2^5	0.000053	4.849000
+Isend/Irecv	2^6	0.000053	9.705480
+Isend/Irecv	2^7	0.000064	16.050911
+Isend/Irecv	2^8	0.000087	23.511224
+Isend/Irecv	2^9	0.000101	40.640565
+Isend/Irecv	2^10	0.000139	59.066771
+Isend/Irecv	2^11	0.000222	73.817430
+Isend/Irecv	2^12	0.000505	64.832182
+Isend/Irecv	2^13	0.001165	56.242249
+Isend/Irecv	2^14	0.001771	74.000470
+Isend/Irecv	2^15	0.003030	86.521112
+Isend/Irecv	2^16	0.005738	91.370182
+Isend/Irecv	2^17	0.011036	95.012861
+Isend/Irecv	2^18	0.021833	96.054542
+Isend/Irecv	2^19	0.043603	96.193256
+Isend/Irecv	2^20	0.086733	96.718080
+Isend/Irecv	2^21	0.173113	96.915035
+Isend/Irecv	2^22	0.345554	97.103368
+Isend/Irecv	2^23	0.690621	97.171713
+Isend/Irecv	2^24	1.381080	97.183178
+Isend/Irecv	2^25	2.762456	97.172765
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152104
+Isend/Irecv	2^1	0.000053	0.304177
+Isend/Irecv	2^2	0.000053	0.605984
+Isend/Irecv	2^3	0.000053	1.209412
+Isend/Irecv	2^4	0.000053	2.420026
+Isend/Irecv	2^5	0.000053	4.845533
+Isend/Irecv	2^6	0.000053	9.700932
+Isend/Irecv	2^7	0.000064	16.037803
+Isend/Irecv	2^8	0.000087	23.478969
+Isend/Irecv	2^9	0.000100	40.795594
+Isend/Irecv	2^10	0.000154	53.096370
+Isend/Irecv	2^11	0.000235	69.628780
+Isend/Irecv	2^12	0.000504	65.068031
+Isend/Irecv	2^13	0.001071	61.207383
+Isend/Irecv	2^14	0.001701	77.077192
+Isend/Irecv	2^15	0.003031	86.480452
+Isend/Irecv	2^16	0.005643	92.907420
+Isend/Irecv	2^17	0.011049	94.902589
+Isend/Irecv	2^18	0.021851	95.973158
+Isend/Irecv	2^19	0.043384	96.678564
+Isend/Irecv	2^20	0.086607	96.858407
+Isend/Irecv	2^21	0.173053	96.948567
+Isend/Irecv	2^22	0.345376	97.153225
+Isend/Irecv	2^23	0.690390	97.204278
+Isend/Irecv	2^24	1.380953	97.192130
+Isend/Irecv	2^25	2.762095	97.185444
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152114
+Isend/Irecv	2^1	0.000053	0.304198
+Isend/Irecv	2^2	0.000053	0.606044
+Isend/Irecv	2^3	0.000053	1.209572
+Isend/Irecv	2^4	0.000053	2.420444
+Isend/Irecv	2^5	0.000053	4.845007
+Isend/Irecv	2^6	0.000053	9.708646
+Isend/Irecv	2^7	0.000064	16.059560
+Isend/Irecv	2^8	0.000087	23.467310
+Isend/Irecv	2^9	0.000101	40.749934
+Isend/Irecv	2^10	0.000139	59.082107
+Isend/Irecv	2^11	0.000221	74.116798
+Isend/Irecv	2^12	0.000434	75.503783
+Isend/Irecv	2^13	0.001095	59.831241
+Isend/Irecv	2^14	0.001725	76.000400
+Isend/Irecv	2^15	0.003028	86.570257
+Isend/Irecv	2^16	0.005695	92.056701
+Isend/Irecv	2^17	0.010992	95.397433
+Isend/Irecv	2^18	0.021809	96.161521
+Isend/Irecv	2^19	0.043602	96.196004
+Isend/Irecv	2^20	0.086603	96.862312
+Isend/Irecv	2^21	0.172988	96.984869
+Isend/Irecv	2^22	0.345411	97.143528
+Isend/Irecv	2^23	0.690455	97.195088
+Isend/Irecv	2^24	1.381163	97.177292
+Isend/Irecv	2^25	2.762249	97.180047
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152113
+Isend/Irecv	2^1	0.000053	0.304204
+Isend/Irecv	2^2	0.000053	0.606062
+Isend/Irecv	2^3	0.000053	1.209751
+Isend/Irecv	2^4	0.000053	2.420324
+Isend/Irecv	2^5	0.000053	4.844658
+Isend/Irecv	2^6	0.000053	9.708284
+Isend/Irecv	2^7	0.000064	16.039077
+Isend/Irecv	2^8	0.000087	23.527700
+Isend/Irecv	2^9	0.000100	40.769809
+Isend/Irecv	2^10	0.000155	52.975336
+Isend/Irecv	2^11	0.000235	69.741852
+Isend/Irecv	2^12	0.000504	65.066545
+Isend/Irecv	2^13	0.001128	58.111578
+Isend/Irecv	2^14	0.001724	76.017767
+Isend/Irecv	2^15	0.002958	88.613908
+Isend/Irecv	2^16	0.005695	92.059037
+Isend/Irecv	2^17	0.011032	95.048814
+Isend/Irecv	2^18	0.021853	95.967192
+Isend/Irecv	2^19	0.043463	96.501946
+Isend/Irecv	2^20	0.086732	96.718848
+Isend/Irecv	2^21	0.173123	96.909357
+Isend/Irecv	2^22	0.345538	97.107755
+Isend/Irecv	2^23	0.690601	97.174553
+Isend/Irecv	2^24	1.381391	97.161288
+Isend/Irecv	2^25	2.761545	97.204810
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152103
+Isend/Irecv	2^1	0.000053	0.304166
+Isend/Irecv	2^2	0.000053	0.606038
+Isend/Irecv	2^3	0.000053	1.209245
+Isend/Irecv	2^4	0.000053	2.419835
+Isend/Irecv	2^5	0.000053	4.845703
+Isend/Irecv	2^6	0.000053	9.716255
+Isend/Irecv	2^7	0.000064	16.050876
+Isend/Irecv	2^8	0.000087	23.545778
+Isend/Irecv	2^9	0.000101	40.477508
+Isend/Irecv	2^10	0.000153	53.442236
+Isend/Irecv	2^11	0.000236	69.386096
+Isend/Irecv	2^12	0.000438	74.758850
+Isend/Irecv	2^13	0.001158	56.618085
+Isend/Irecv	2^14	0.001740	75.319840
+Isend/Irecv	2^15	0.003029	86.541563
+Isend/Irecv	2^16	0.005684	92.245459
+Isend/Irecv	2^17	0.011030	95.067415
+Isend/Irecv	2^18	0.021837	96.035401
+Isend/Irecv	2^19	0.043497	96.426477
+Isend/Irecv	2^20	0.086735	96.715326
+Isend/Irecv	2^21	0.173050	96.950290
+Isend/Irecv	2^22	0.345541	97.106869
+Isend/Irecv	2^23	0.690659	97.166356
+Isend/Irecv	2^24	1.381012	97.187929
+Isend/Irecv	2^25	2.761682	97.199996
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152115
+Isend/Irecv	2^1	0.000053	0.304206
+Isend/Irecv	2^2	0.000053	0.606048
+Isend/Irecv	2^3	0.000053	1.209765
+Isend/Irecv	2^4	0.000053	2.421368
+Isend/Irecv	2^5	0.000053	4.846884
+Isend/Irecv	2^6	0.000053	9.708535
+Isend/Irecv	2^7	0.000064	16.064437
+Isend/Irecv	2^8	0.000087	23.573829
+Isend/Irecv	2^9	0.000101	40.750137
+Isend/Irecv	2^10	0.000154	53.364254
+Isend/Irecv	2^11	0.000218	75.150620
+Isend/Irecv	2^12	0.000482	67.913376
+Isend/Irecv	2^13	0.001032	63.475583
+Isend/Irecv	2^14	0.001752	74.819853
+Isend/Irecv	2^15	0.002994	87.550934
+Isend/Irecv	2^16	0.005673	92.412485
+Isend/Irecv	2^17	0.011144	94.090879
+Isend/Irecv	2^18	0.021864	95.919991
+Isend/Irecv	2^19	0.043475	96.475407
+Isend/Irecv	2^20	0.086731	96.720392
+Isend/Irecv	2^21	0.172986	96.985704
+Isend/Irecv	2^22	0.345534	97.108974
+Isend/Irecv	2^23	0.690818	97.143999
+Isend/Irecv	2^24	1.381193	97.175234
+Isend/Irecv	2^25	2.761478	97.207176
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152112
+Isend/Irecv	2^1	0.000053	0.304174
+Isend/Irecv	2^2	0.000053	0.606132
+Isend/Irecv	2^3	0.000053	1.209661
+Isend/Irecv	2^4	0.000053	2.420261
+Isend/Irecv	2^5	0.000053	4.847537
+Isend/Irecv	2^6	0.000053	9.707529
+Isend/Irecv	2^7	0.000064	16.021708
+Isend/Irecv	2^8	0.000087	23.507446
+Isend/Irecv	2^9	0.000099	41.204134
+Isend/Irecv	2^10	0.000154	53.106696
+Isend/Irecv	2^11	0.000236	69.321949
+Isend/Irecv	2^12	0.000470	69.703058
+Isend/Irecv	2^13	0.001208	54.242922
+Isend/Irecv	2^14	0.001612	81.295599
+Isend/Irecv	2^15	0.003010	87.086025
+Isend/Irecv	2^16	0.005651	92.781790
+Isend/Irecv	2^17	0.011039	94.990435
+Isend/Irecv	2^18	0.021840	96.021377
+Isend/Irecv	2^19	0.043369	96.711252
+Isend/Irecv	2^20	0.086605	96.860195
+Isend/Irecv	2^21	0.172991	96.983208
+Isend/Irecv	2^22	0.345412	97.143122
+Isend/Irecv	2^23	0.690308	97.215818
+Isend/Irecv	2^24	1.381425	97.158928
+Isend/Irecv	2^25	2.762270	97.179303
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152117
+Isend/Irecv	2^1	0.000053	0.304212
+Isend/Irecv	2^2	0.000053	0.606042
+Isend/Irecv	2^3	0.000053	1.209655
+Isend/Irecv	2^4	0.000053	2.420501
+Isend/Irecv	2^5	0.000053	4.848676
+Isend/Irecv	2^6	0.000053	9.704892
+Isend/Irecv	2^7	0.000064	16.046779
+Isend/Irecv	2^8	0.000087	23.499309
+Isend/Irecv	2^9	0.000100	40.842781
+Isend/Irecv	2^10	0.000154	53.293259
+Isend/Irecv	2^11	0.000217	75.456057
+Isend/Irecv	2^12	0.000505	64.932968
+Isend/Irecv	2^13	0.001046	62.674651
+Isend/Irecv	2^14	0.001701	77.074065
+Isend/Irecv	2^15	0.002960	88.565962
+Isend/Irecv	2^16	0.005647	92.846774
+Isend/Irecv	2^17	0.011042	94.964115
+Isend/Irecv	2^18	0.021853	95.968253
+Isend/Irecv	2^19	0.043604	96.191745
+Isend/Irecv	2^20	0.086611	96.854243
+Isend/Irecv	2^21	0.172986	96.985869
+Isend/Irecv	2^22	0.345542	97.106566
+Isend/Irecv	2^23	0.691166	97.095097
+Isend/Irecv	2^24	1.380823	97.201221
+Isend/Irecv	2^25	2.761739	97.197970
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152125
+Isend/Irecv	2^1	0.000053	0.304209
+Isend/Irecv	2^2	0.000053	0.605994
+Isend/Irecv	2^3	0.000053	1.209569
+Isend/Irecv	2^4	0.000053	2.421678
+Isend/Irecv	2^5	0.000053	4.847903
+Isend/Irecv	2^6	0.000053	9.707707
+Isend/Irecv	2^7	0.000064	16.120218
+Isend/Irecv	2^8	0.000087	23.517298
+Isend/Irecv	2^9	0.000101	40.618198
+Isend/Irecv	2^10	0.000142	57.540818
+Isend/Irecv	2^11	0.000222	73.737199
+Isend/Irecv	2^12	0.000506	64.822114
+Isend/Irecv	2^13	0.001048	62.542079
+Isend/Irecv	2^14	0.001681	77.990915
+Isend/Irecv	2^15	0.003011	87.048937
+Isend/Irecv	2^16	0.005729	91.516619
+Isend/Irecv	2^17	0.011105	94.422251
+Isend/Irecv	2^18	0.021832	96.059721
+Isend/Irecv	2^19	0.043494	96.433071
+Isend/Irecv	2^20	0.086558	96.913634
+Isend/Irecv	2^21	0.172928	97.018346
+Isend/Irecv	2^22	0.345349	97.161054
+Isend/Irecv	2^23	0.690480	97.191563
+Isend/Irecv	2^24	1.381343	97.164680
+Isend/Irecv	2^25	2.761582	97.203511
+NetBenchNonBlocking_O3
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152109
+Isend/Irecv	2^1	0.000053	0.304185
+Isend/Irecv	2^2	0.000053	0.606035
+Isend/Irecv	2^3	0.000053	1.209720
+Isend/Irecv	2^4	0.000053	2.420008
+Isend/Irecv	2^5	0.000053	4.848054
+Isend/Irecv	2^6	0.000053	9.706474
+Isend/Irecv	2^7	0.000064	16.063447
+Isend/Irecv	2^8	0.000087	23.600769
+Isend/Irecv	2^9	0.000101	40.559475
+Isend/Irecv	2^10	0.000154	53.074354
+Isend/Irecv	2^11	0.000236	69.314764
+Isend/Irecv	2^12	0.000533	61.492326
+Isend/Irecv	2^13	0.001211	54.099545
+Isend/Irecv	2^14	0.001654	79.251335
+Isend/Irecv	2^15	0.002950	88.866635
+Isend/Irecv	2^16	0.005716	91.728973
+Isend/Irecv	2^17	0.011093	94.529778
+Isend/Irecv	2^18	0.021829	96.070077
+Isend/Irecv	2^19	0.043482	96.461341
+Isend/Irecv	2^20	0.086603	96.863054
+Isend/Irecv	2^21	0.172988	96.984964
+Isend/Irecv	2^22	0.345402	97.146046
+Isend/Irecv	2^23	0.690599	97.174863
+Isend/Irecv	2^24	1.381341	97.164790
+Isend/Irecv	2^25	2.761538	97.205069
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152112
+Isend/Irecv	2^1	0.000053	0.304199
+Isend/Irecv	2^2	0.000053	0.606160
+Isend/Irecv	2^3	0.000053	1.209644
+Isend/Irecv	2^4	0.000053	2.420877
+Isend/Irecv	2^5	0.000053	4.845239
+Isend/Irecv	2^6	0.000053	9.701998
+Isend/Irecv	2^7	0.000064	16.038503
+Isend/Irecv	2^8	0.000087	23.491582
+Isend/Irecv	2^9	0.000101	40.657105
+Isend/Irecv	2^10	0.000154	53.092585
+Isend/Irecv	2^11	0.000235	69.806035
+Isend/Irecv	2^12	0.000469	69.872050
+Isend/Irecv	2^13	0.001135	57.742877
+Isend/Irecv	2^14	0.001726	75.944343
+Isend/Irecv	2^15	0.003017	86.877919
+Isend/Irecv	2^16	0.005661	92.616202
+Isend/Irecv	2^17	0.011033	95.039123
+Isend/Irecv	2^18	0.021838	96.031373
+Isend/Irecv	2^19	0.043504	96.412665
+Isend/Irecv	2^20	0.086645	96.816183
+Isend/Irecv	2^21	0.173067	96.940583
+Isend/Irecv	2^22	0.345541	97.107054
+Isend/Irecv	2^23	0.690748	97.153912
+Isend/Irecv	2^24	1.380469	97.226145
+Isend/Irecv	2^25	2.761755	97.197416
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152121
+Isend/Irecv	2^1	0.000053	0.304206
+Isend/Irecv	2^2	0.000053	0.606034
+Isend/Irecv	2^3	0.000053	1.209857
+Isend/Irecv	2^4	0.000053	2.420774
+Isend/Irecv	2^5	0.000053	4.846059
+Isend/Irecv	2^6	0.000053	9.710278
+Isend/Irecv	2^7	0.000064	16.057042
+Isend/Irecv	2^8	0.000087	23.507086
+Isend/Irecv	2^9	0.000101	40.543617
+Isend/Irecv	2^10	0.000176	46.465065
+Isend/Irecv	2^11	0.000221	73.990444
+Isend/Irecv	2^12	0.000440	74.409141
+Isend/Irecv	2^13	0.000984	66.573887
+Isend/Irecv	2^14	0.001723	76.059960
+Isend/Irecv	2^15	0.002982	87.919547
+Isend/Irecv	2^16	0.005661	92.606738
+Isend/Irecv	2^17	0.011044	94.941733
+Isend/Irecv	2^18	0.021809	96.160721
+Isend/Irecv	2^19	0.043380	96.687180
+Isend/Irecv	2^20	0.086604	96.861141
+Isend/Irecv	2^21	0.173046	96.952116
+Isend/Irecv	2^22	0.345373	97.154311
+Isend/Irecv	2^23	0.690418	97.200287
+Isend/Irecv	2^24	1.380874	97.197691
+Isend/Irecv	2^25	2.760980	97.224703
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152115
+Isend/Irecv	2^1	0.000053	0.304225
+Isend/Irecv	2^2	0.000053	0.606143
+Isend/Irecv	2^3	0.000053	1.209638
+Isend/Irecv	2^4	0.000053	2.420056
+Isend/Irecv	2^5	0.000053	4.847210
+Isend/Irecv	2^6	0.000053	9.704879
+Isend/Irecv	2^7	0.000064	16.037265
+Isend/Irecv	2^8	0.000087	23.540906
+Isend/Irecv	2^9	0.000100	40.826294
+Isend/Irecv	2^10	0.000139	58.964946
+Isend/Irecv	2^11	0.000222	73.763591
+Isend/Irecv	2^12	0.000448	73.185739
+Isend/Irecv	2^13	0.001044	62.765409
+Isend/Irecv	2^14	0.001700	77.079798
+Isend/Irecv	2^15	0.003029	86.554550
+Isend/Irecv	2^16	0.005726	91.564240
+Isend/Irecv	2^17	0.011041	94.971736
+Isend/Irecv	2^18	0.021844	96.004528
+Isend/Irecv	2^19	0.043387	96.670984
+Isend/Irecv	2^20	0.086603	96.862906
+Isend/Irecv	2^21	0.173048	96.951035
+Isend/Irecv	2^22	0.345415	97.142437
+Isend/Irecv	2^23	0.690405	97.202133
+Isend/Irecv	2^24	1.381056	97.184875
+Isend/Irecv	2^25	2.761566	97.204074
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152110
+Isend/Irecv	2^1	0.000053	0.304189
+Isend/Irecv	2^2	0.000053	0.605985
+Isend/Irecv	2^3	0.000053	1.209214
+Isend/Irecv	2^4	0.000053	2.419545
+Isend/Irecv	2^5	0.000053	4.848315
+Isend/Irecv	2^6	0.000053	9.719077
+Isend/Irecv	2^7	0.000064	16.054471
+Isend/Irecv	2^8	0.000087	23.606346
+Isend/Irecv	2^9	0.000095	43.132588
+Isend/Irecv	2^10	0.000155	52.988528
+Isend/Irecv	2^11	0.000238	68.863773
+Isend/Irecv	2^12	0.000468	70.079537
+Isend/Irecv	2^13	0.001127	58.159977
+Isend/Irecv	2^14	0.001675	78.263621
+Isend/Irecv	2^15	0.002954	88.731216
+Isend/Irecv	2^16	0.005668	92.494189
+Isend/Irecv	2^17	0.011035	95.020628
+Isend/Irecv	2^18	0.021840	96.024633
+Isend/Irecv	2^19	0.043454	96.522353
+Isend/Irecv	2^20	0.086604	96.861909
+Isend/Irecv	2^21	0.173048	96.951268
+Isend/Irecv	2^22	0.345664	97.072384
+Isend/Irecv	2^23	0.690701	97.160521
+Isend/Irecv	2^24	1.381358	97.163634
+Isend/Irecv	2^25	2.761333	97.212284
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152123
+Isend/Irecv	2^1	0.000053	0.304205
+Isend/Irecv	2^2	0.000053	0.606155
+Isend/Irecv	2^3	0.000053	1.209685
+Isend/Irecv	2^4	0.000053	2.420330
+Isend/Irecv	2^5	0.000053	4.846621
+Isend/Irecv	2^6	0.000053	9.706492
+Isend/Irecv	2^7	0.000064	16.049312
+Isend/Irecv	2^8	0.000087	23.528646
+Isend/Irecv	2^9	0.000101	40.634316
+Isend/Irecv	2^10	0.000151	54.277177
+Isend/Irecv	2^11	0.000235	69.573193
+Isend/Irecv	2^12	0.000523	62.634818
+Isend/Irecv	2^13	0.001132	57.898596
+Isend/Irecv	2^14	0.001791	73.167355
+Isend/Irecv	2^15	0.002950	88.867976
+Isend/Irecv	2^16	0.005722	91.627537
+Isend/Irecv	2^17	0.011033	95.037520
+Isend/Irecv	2^18	0.021837	96.037543
+Isend/Irecv	2^19	0.043511	96.396088
+Isend/Irecv	2^20	0.086604	96.862227
+Isend/Irecv	2^21	0.173038	96.956793
+Isend/Irecv	2^22	0.345411	97.143447
+Isend/Irecv	2^23	0.690433	97.198186
+Isend/Irecv	2^24	1.380803	97.202638
+Isend/Irecv	2^25	2.761942	97.190823
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152116
+Isend/Irecv	2^1	0.000053	0.304206
+Isend/Irecv	2^2	0.000053	0.606026
+Isend/Irecv	2^3	0.000053	1.209486
+Isend/Irecv	2^4	0.000053	2.419995
+Isend/Irecv	2^5	0.000053	4.846384
+Isend/Irecv	2^6	0.000053	9.706204
+Isend/Irecv	2^7	0.000064	16.039382
+Isend/Irecv	2^8	0.000087	23.624000
+Isend/Irecv	2^9	0.000101	40.581979
+Isend/Irecv	2^10	0.000137	59.654757
+Isend/Irecv	2^11	0.000222	73.809947
+Isend/Irecv	2^12	0.000506	64.772206
+Isend/Irecv	2^13	0.001077	60.830855
+Isend/Irecv	2^14	0.001773	73.919736
+Isend/Irecv	2^15	0.003027	86.613276
+Isend/Irecv	2^16	0.005746	91.241487
+Isend/Irecv	2^17	0.011119	94.305443
+Isend/Irecv	2^18	0.021848	95.989082
+Isend/Irecv	2^19	0.043603	96.193116
+Isend/Irecv	2^20	0.086605	96.860637
+Isend/Irecv	2^21	0.172946	97.008646
+Isend/Irecv	2^22	0.345426	97.139304
+Isend/Irecv	2^23	0.690508	97.187669
+Isend/Irecv	2^24	1.381148	97.178414
+Isend/Irecv	2^25	2.761799	97.195866
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152113
+Isend/Irecv	2^1	0.000053	0.304206
+Isend/Irecv	2^2	0.000053	0.605896
+Isend/Irecv	2^3	0.000053	1.209554
+Isend/Irecv	2^4	0.000053	2.420010
+Isend/Irecv	2^5	0.000053	4.846303
+Isend/Irecv	2^6	0.000053	9.707590
+Isend/Irecv	2^7	0.000064	16.046330
+Isend/Irecv	2^8	0.000087	23.555798
+Isend/Irecv	2^9	0.000101	40.693660
+Isend/Irecv	2^10	0.000156	52.482374
+Isend/Irecv	2^11	0.000235	69.851272
+Isend/Irecv	2^12	0.000442	74.203487
+Isend/Irecv	2^13	0.001173	55.854466
+Isend/Irecv	2^14	0.001723	76.088086
+Isend/Irecv	2^15	0.003050	85.959788
+Isend/Irecv	2^16	0.005644	92.885010
+Isend/Irecv	2^17	0.011045	94.940775
+Isend/Irecv	2^18	0.021870	95.893872
+Isend/Irecv	2^19	0.043347	96.761902
+Isend/Irecv	2^20	0.086737	96.713171
+Isend/Irecv	2^21	0.172992	96.982597
+Isend/Irecv	2^22	0.345549	97.104598
+Isend/Irecv	2^23	0.690519	97.186084
+Isend/Irecv	2^24	1.381103	97.181527
+Isend/Irecv	2^25	2.761313	97.212990
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152119
+Isend/Irecv	2^1	0.000053	0.304215
+Isend/Irecv	2^2	0.000053	0.605955
+Isend/Irecv	2^3	0.000053	1.209719
+Isend/Irecv	2^4	0.000053	2.420363
+Isend/Irecv	2^5	0.000053	4.847639
+Isend/Irecv	2^6	0.000053	9.718111
+Isend/Irecv	2^7	0.000064	16.069209
+Isend/Irecv	2^8	0.000087	23.595557
+Isend/Irecv	2^9	0.000101	40.570925
+Isend/Irecv	2^10	0.000152	53.967700
+Isend/Irecv	2^11	0.000220	74.427732
+Isend/Irecv	2^12	0.000506	64.800642
+Isend/Irecv	2^13	0.001238	52.949313
+Isend/Irecv	2^14	0.001727	75.879978
+Isend/Irecv	2^15	0.003048	86.014731
+Isend/Irecv	2^16	0.005684	92.244989
+Isend/Irecv	2^17	0.011036	95.018062
+Isend/Irecv	2^18	0.021859	95.938822
+Isend/Irecv	2^19	0.043560	96.288100
+Isend/Irecv	2^20	0.086734	96.716914
+Isend/Irecv	2^21	0.172983	96.987567
+Isend/Irecv	2^22	0.345681	97.067704
+Isend/Irecv	2^23	0.690716	97.158390
+Isend/Irecv	2^24	1.381163	97.177359
+Isend/Irecv	2^25	2.761497	97.206499
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152052
+Isend/Irecv	2^1	0.000053	0.304195
+Isend/Irecv	2^2	0.000053	0.606027
+Isend/Irecv	2^3	0.000053	1.209767
+Isend/Irecv	2^4	0.000053	2.420813
+Isend/Irecv	2^5	0.000053	4.846958
+Isend/Irecv	2^6	0.000053	9.713545
+Isend/Irecv	2^7	0.000064	16.052241
+Isend/Irecv	2^8	0.000087	23.569534
+Isend/Irecv	2^9	0.000100	41.088195
+Isend/Irecv	2^10	0.000154	53.100156
+Isend/Irecv	2^11	0.000236	69.508700
+Isend/Irecv	2^12	0.000537	61.073027
+Isend/Irecv	2^13	0.001209	54.189750
+Isend/Irecv	2^14	0.001860	70.482990
+Isend/Irecv	2^15	0.003010	87.098032
+Isend/Irecv	2^16	0.005668	92.507416
+Isend/Irecv	2^17	0.011044	94.949307
+Isend/Irecv	2^18	0.021829	96.072656
+Isend/Irecv	2^19	0.043403	96.636714
+Isend/Irecv	2^20	0.086606	96.859699
+Isend/Irecv	2^21	0.173074	96.936738
+Isend/Irecv	2^22	0.345420	97.141063
+Isend/Irecv	2^23	0.690160	97.236613
+Isend/Irecv	2^24	1.380934	97.193410
+Isend/Irecv	2^25	2.762000	97.188784
+NetBenchNonBlocking_O2
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152110
+Isend/Irecv	2^1	0.000053	0.304205
+Isend/Irecv	2^2	0.000053	0.606057
+Isend/Irecv	2^3	0.000053	1.209642
+Isend/Irecv	2^4	0.000053	2.420980
+Isend/Irecv	2^5	0.000053	4.845550
+Isend/Irecv	2^6	0.000053	9.715819
+Isend/Irecv	2^7	0.000064	16.067552
+Isend/Irecv	2^8	0.000086	23.725031
+Isend/Irecv	2^9	0.000100	40.759666
+Isend/Irecv	2^10	0.000154	53.080028
+Isend/Irecv	2^11	0.000236	69.532299
+Isend/Irecv	2^12	0.000436	75.140797
+Isend/Irecv	2^13	0.001079	60.762414
+Isend/Irecv	2^14	0.001725	75.984076
+Isend/Irecv	2^15	0.003013	87.001398
+Isend/Irecv	2^16	0.005714	91.749320
+Isend/Irecv	2^17	0.011034	95.034954
+Isend/Irecv	2^18	0.021835	96.044576
+Isend/Irecv	2^19	0.043369	96.711453
+Isend/Irecv	2^20	0.086608	96.856910
+Isend/Irecv	2^21	0.173059	96.945194
+Isend/Irecv	2^22	0.345414	97.142690
+Isend/Irecv	2^23	0.690509	97.187554
+Isend/Irecv	2^24	1.381540	97.150817
+Isend/Irecv	2^25	2.761328	97.212456
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152111
+Isend/Irecv	2^1	0.000053	0.304177
+Isend/Irecv	2^2	0.000053	0.606103
+Isend/Irecv	2^3	0.000053	1.209335
+Isend/Irecv	2^4	0.000053	2.420006
+Isend/Irecv	2^5	0.000053	4.846470
+Isend/Irecv	2^6	0.000053	9.704174
+Isend/Irecv	2^7	0.000064	16.051199
+Isend/Irecv	2^8	0.000087	23.658249
+Isend/Irecv	2^9	0.000101	40.553452
+Isend/Irecv	2^10	0.000155	52.994013
+Isend/Irecv	2^11	0.000237	69.260556
+Isend/Irecv	2^12	0.000436	75.139505
+Isend/Irecv	2^13	0.001204	54.412754
+Isend/Irecv	2^14	0.001774	73.887567
+Isend/Irecv	2^15	0.002979	88.004020
+Isend/Irecv	2^16	0.005662	92.592992
+Isend/Irecv	2^17	0.011035	95.022612
+Isend/Irecv	2^18	0.021843	96.011552
+Isend/Irecv	2^19	0.043467	96.493238
+Isend/Irecv	2^20	0.086606	96.859613
+Isend/Irecv	2^21	0.173154	96.891778
+Isend/Irecv	2^22	0.345510	97.115750
+Isend/Irecv	2^23	0.690790	97.148000
+Isend/Irecv	2^24	1.381113	97.180856
+Isend/Irecv	2^25	2.760714	97.234084
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152117
+Isend/Irecv	2^1	0.000053	0.304208
+Isend/Irecv	2^2	0.000053	0.605955
+Isend/Irecv	2^3	0.000053	1.209532
+Isend/Irecv	2^4	0.000053	2.420542
+Isend/Irecv	2^5	0.000053	4.844454
+Isend/Irecv	2^6	0.000053	9.712188
+Isend/Irecv	2^7	0.000064	16.062745
+Isend/Irecv	2^8	0.000087	23.523151
+Isend/Irecv	2^9	0.000100	40.760477
+Isend/Irecv	2^10	0.000155	52.977391
+Isend/Irecv	2^11	0.000236	69.427406
+Isend/Irecv	2^12	0.000504	65.029808
+Isend/Irecv	2^13	0.001122	58.433131
+Isend/Irecv	2^14	0.001724	76.030554
+Isend/Irecv	2^15	0.002976	88.087901
+Isend/Irecv	2^16	0.005696	92.046439
+Isend/Irecv	2^17	0.011146	94.080648
+Isend/Irecv	2^18	0.021827	96.079063
+Isend/Irecv	2^19	0.043366	96.718755
+Isend/Irecv	2^20	0.086604	96.861808
+Isend/Irecv	2^21	0.173036	96.957831
+Isend/Irecv	2^22	0.345414	97.142618
+Isend/Irecv	2^23	0.690336	97.211876
+Isend/Irecv	2^24	1.380584	97.218058
+Isend/Irecv	2^25	2.761264	97.214700
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152116
+Isend/Irecv	2^1	0.000053	0.304201
+Isend/Irecv	2^2	0.000053	0.606000
+Isend/Irecv	2^3	0.000053	1.209720
+Isend/Irecv	2^4	0.000053	2.420297
+Isend/Irecv	2^5	0.000053	4.846656
+Isend/Irecv	2^6	0.000053	9.709118
+Isend/Irecv	2^7	0.000064	16.050049
+Isend/Irecv	2^8	0.000087	23.498365
+Isend/Irecv	2^9	0.000099	41.173278
+Isend/Irecv	2^10	0.000176	46.442016
+Isend/Irecv	2^11	0.000251	65.348971
+Isend/Irecv	2^12	0.000473	69.250749
+Isend/Irecv	2^13	0.001101	59.523718
+Isend/Irecv	2^14	0.001724	76.021382
+Isend/Irecv	2^15	0.002960	88.547504
+Isend/Irecv	2^16	0.005626	93.197974
+Isend/Irecv	2^17	0.011033	95.040587
+Isend/Irecv	2^18	0.021831	96.064319
+Isend/Irecv	2^19	0.043525	96.364886
+Isend/Irecv	2^20	0.086736	96.713855
+Isend/Irecv	2^21	0.172991	96.983061
+Isend/Irecv	2^22	0.345546	97.105431
+Isend/Irecv	2^23	0.690798	97.146915
+Isend/Irecv	2^24	1.380906	97.195396
+Isend/Irecv	2^25	2.762217	97.181156
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152109
+Isend/Irecv	2^1	0.000053	0.304197
+Isend/Irecv	2^2	0.000053	0.605958
+Isend/Irecv	2^3	0.000053	1.209442
+Isend/Irecv	2^4	0.000053	2.420200
+Isend/Irecv	2^5	0.000053	4.845553
+Isend/Irecv	2^6	0.000053	9.722897
+Isend/Irecv	2^7	0.000064	16.022621
+Isend/Irecv	2^8	0.000087	23.519504
+Isend/Irecv	2^9	0.000100	40.860708
+Isend/Irecv	2^10	0.000176	46.533028
+Isend/Irecv	2^11	0.000222	73.831900
+Isend/Irecv	2^12	0.000504	64.999236
+Isend/Irecv	2^13	0.000948	69.096982
+Isend/Irecv	2^14	0.001693	77.406728
+Isend/Irecv	2^15	0.002897	90.488966
+Isend/Irecv	2^16	0.005699	91.989308
+Isend/Irecv	2^17	0.011034	95.031965
+Isend/Irecv	2^18	0.021818	96.119219
+Isend/Irecv	2^19	0.043406	96.629096
+Isend/Irecv	2^20	0.086733	96.717307
+Isend/Irecv	2^21	0.173165	96.885579
+Isend/Irecv	2^22	0.345619	97.085104
+Isend/Irecv	2^23	0.690498	97.189115
+Isend/Irecv	2^24	1.381214	97.173726
+Isend/Irecv	2^25	2.761372	97.210888
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152117
+Isend/Irecv	2^1	0.000053	0.304194
+Isend/Irecv	2^2	0.000053	0.605942
+Isend/Irecv	2^3	0.000053	1.209504
+Isend/Irecv	2^4	0.000053	2.420538
+Isend/Irecv	2^5	0.000053	4.844701
+Isend/Irecv	2^6	0.000053	9.712906
+Isend/Irecv	2^7	0.000064	16.057977
+Isend/Irecv	2^8	0.000087	23.521620
+Isend/Irecv	2^9	0.000101	40.729066
+Isend/Irecv	2^10	0.000154	53.130979
+Isend/Irecv	2^11	0.000256	64.071580
+Isend/Irecv	2^12	0.000495	66.154211
+Isend/Irecv	2^13	0.001181	55.469364
+Isend/Irecv	2^14	0.001729	75.804408
+Isend/Irecv	2^15	0.003043	86.155895
+Isend/Irecv	2^16	0.005687	92.193625
+Isend/Irecv	2^17	0.011039	94.986576
+Isend/Irecv	2^18	0.021853	95.966709
+Isend/Irecv	2^19	0.043406	96.629790
+Isend/Irecv	2^20	0.086634	96.828676
+Isend/Irecv	2^21	0.173113	96.914830
+Isend/Irecv	2^22	0.345556	97.102702
+Isend/Irecv	2^23	0.690989	97.120002
+Isend/Irecv	2^24	1.381666	97.141940
+Isend/Irecv	2^25	2.761344	97.211876
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152106
+Isend/Irecv	2^1	0.000053	0.304186
+Isend/Irecv	2^2	0.000053	0.605956
+Isend/Irecv	2^3	0.000053	1.209738
+Isend/Irecv	2^4	0.000053	2.420188
+Isend/Irecv	2^5	0.000053	4.847066
+Isend/Irecv	2^6	0.000053	9.705713
+Isend/Irecv	2^7	0.000064	16.031508
+Isend/Irecv	2^8	0.000087	23.490683
+Isend/Irecv	2^9	0.000102	40.205938
+Isend/Irecv	2^10	0.000153	53.447815
+Isend/Irecv	2^11	0.000217	75.603166
+Isend/Irecv	2^12	0.000502	65.306383
+Isend/Irecv	2^13	0.001116	58.749309
+Isend/Irecv	2^14	0.001771	74.025985
+Isend/Irecv	2^15	0.002960	88.565005
+Isend/Irecv	2^16	0.005633	93.070277
+Isend/Irecv	2^17	0.011059	94.816731
+Isend/Irecv	2^18	0.021830	96.067672
+Isend/Irecv	2^19	0.043377	96.693836
+Isend/Irecv	2^20	0.086604	96.861848
+Isend/Irecv	2^21	0.172931	97.016842
+Isend/Irecv	2^22	0.345545	97.105690
+Isend/Irecv	2^23	0.690584	97.176942
+Isend/Irecv	2^24	1.380964	97.191301
+Isend/Irecv	2^25	2.761255	97.215023
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152109
+Isend/Irecv	2^1	0.000053	0.304198
+Isend/Irecv	2^2	0.000053	0.605989
+Isend/Irecv	2^3	0.000053	1.209556
+Isend/Irecv	2^4	0.000053	2.420945
+Isend/Irecv	2^5	0.000053	4.844767
+Isend/Irecv	2^6	0.000053	9.705327
+Isend/Irecv	2^7	0.000064	16.055675
+Isend/Irecv	2^8	0.000087	23.586997
+Isend/Irecv	2^9	0.000100	40.876612
+Isend/Irecv	2^10	0.000154	53.133047
+Isend/Irecv	2^11	0.000243	67.312097
+Isend/Irecv	2^12	0.000501	65.353337
+Isend/Irecv	2^13	0.000987	66.406893
+Isend/Irecv	2^14	0.001768	74.121073
+Isend/Irecv	2^15	0.003002	87.317475
+Isend/Irecv	2^16	0.005633	93.068600
+Isend/Irecv	2^17	0.011060	94.811887
+Isend/Irecv	2^18	0.021820	96.111922
+Isend/Irecv	2^19	0.043478	96.469377
+Isend/Irecv	2^20	0.086600	96.866500
+Isend/Irecv	2^21	0.173115	96.913939
+Isend/Irecv	2^22	0.345434	97.136976
+Isend/Irecv	2^23	0.690557	97.180801
+Isend/Irecv	2^24	1.381356	97.163772
+Isend/Irecv	2^25	2.762095	97.185446
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152116
+Isend/Irecv	2^1	0.000053	0.304203
+Isend/Irecv	2^2	0.000053	0.606088
+Isend/Irecv	2^3	0.000053	1.209529
+Isend/Irecv	2^4	0.000053	2.419889
+Isend/Irecv	2^5	0.000053	4.846964
+Isend/Irecv	2^6	0.000053	9.705781
+Isend/Irecv	2^7	0.000064	16.054560
+Isend/Irecv	2^8	0.000087	23.511134
+Isend/Irecv	2^9	0.000101	40.513741
+Isend/Irecv	2^10	0.000154	53.030033
+Isend/Irecv	2^11	0.000236	69.401820
+Isend/Irecv	2^12	0.000438	74.835253
+Isend/Irecv	2^13	0.001120	58.502350
+Isend/Irecv	2^14	0.001834	71.459024
+Isend/Irecv	2^15	0.003022	86.739504
+Isend/Irecv	2^16	0.005698	92.009084
+Isend/Irecv	2^17	0.011036	95.016886
+Isend/Irecv	2^18	0.021841	96.018972
+Isend/Irecv	2^19	0.043420	96.597362
+Isend/Irecv	2^20	0.086601	96.864588
+Isend/Irecv	2^21	0.173047	96.951887
+Isend/Irecv	2^22	0.345412	97.143146
+Isend/Irecv	2^23	0.690947	97.125911
+Isend/Irecv	2^24	1.380903	97.195642
+Isend/Irecv	2^25	2.762113	97.184838
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152108
+Isend/Irecv	2^1	0.000053	0.304170
+Isend/Irecv	2^2	0.000053	0.606080
+Isend/Irecv	2^3	0.000053	1.209788
+Isend/Irecv	2^4	0.000053	2.420744
+Isend/Irecv	2^5	0.000053	4.845313
+Isend/Irecv	2^6	0.000053	9.716716
+Isend/Irecv	2^7	0.000064	16.054812
+Isend/Irecv	2^8	0.000087	23.588537
+Isend/Irecv	2^9	0.000101	40.755611
+Isend/Irecv	2^10	0.000155	52.843090
+Isend/Irecv	2^11	0.000221	73.985265
+Isend/Irecv	2^12	0.000406	80.631310
+Isend/Irecv	2^13	0.001080	60.674515
+Isend/Irecv	2^14	0.001757	74.601160
+Isend/Irecv	2^15	0.002949	88.906600
+Isend/Irecv	2^16	0.005644	92.899123
+Isend/Irecv	2^17	0.011057	94.835215
+Isend/Irecv	2^18	0.021830	96.069063
+Isend/Irecv	2^19	0.043507	96.404953
+Isend/Irecv	2^20	0.086732	96.718893
+Isend/Irecv	2^21	0.173052	96.948907
+Isend/Irecv	2^22	0.345556	97.102848
+Isend/Irecv	2^23	0.690683	97.163071
+Isend/Irecv	2^24	1.381590	97.147279
+Isend/Irecv	2^25	2.761768	97.196950
+NetBenchNonBlocking
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152111
+Isend/Irecv	2^1	0.000053	0.304206
+Isend/Irecv	2^2	0.000053	0.606001
+Isend/Irecv	2^3	0.000053	1.209648
+Isend/Irecv	2^4	0.000053	2.420167
+Isend/Irecv	2^5	0.000053	4.849034
+Isend/Irecv	2^6	0.000053	9.709720
+Isend/Irecv	2^7	0.000064	16.055423
+Isend/Irecv	2^8	0.000087	23.519144
+Isend/Irecv	2^9	0.000102	40.274726
+Isend/Irecv	2^10	0.000154	53.220552
+Isend/Irecv	2^11	0.000217	75.503000
+Isend/Irecv	2^12	0.000431	76.042221
+Isend/Irecv	2^13	0.001113	58.894206
+Isend/Irecv	2^14	0.001773	73.941066
+Isend/Irecv	2^15	0.003011	87.069899
+Isend/Irecv	2^16	0.005640	92.958643
+Isend/Irecv	2^17	0.011063	94.786000
+Isend/Irecv	2^18	0.021830	96.065670
+Isend/Irecv	2^19	0.043557	96.294957
+Isend/Irecv	2^20	0.086738	96.712096
+Isend/Irecv	2^21	0.173049	96.950424
+Isend/Irecv	2^22	0.345666	97.071852
+Isend/Irecv	2^23	0.690896	97.133049
+Isend/Irecv	2^24	1.381517	97.152408
+Isend/Irecv	2^25	2.761852	97.194006
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152116
+Isend/Irecv	2^1	0.000053	0.304210
+Isend/Irecv	2^2	0.000053	0.605958
+Isend/Irecv	2^3	0.000053	1.209644
+Isend/Irecv	2^4	0.000053	2.420335
+Isend/Irecv	2^5	0.000053	4.847781
+Isend/Irecv	2^6	0.000053	9.704928
+Isend/Irecv	2^7	0.000064	16.072920
+Isend/Irecv	2^8	0.000087	23.496658
+Isend/Irecv	2^9	0.000100	40.852150
+Isend/Irecv	2^10	0.000156	52.569940
+Isend/Irecv	2^11	0.000222	73.890504
+Isend/Irecv	2^12	0.000504	64.974619
+Isend/Irecv	2^13	0.001041	62.939555
+Isend/Irecv	2^14	0.001630	80.405339
+Isend/Irecv	2^15	0.002906	90.218681
+Isend/Irecv	2^16	0.005594	93.716398
+Isend/Irecv	2^17	0.011032	95.048151
+Isend/Irecv	2^18	0.021837	96.038627
+Isend/Irecv	2^19	0.043429	96.578251
+Isend/Irecv	2^20	0.086734	96.716110
+Isend/Irecv	2^21	0.172990	96.983516
+Isend/Irecv	2^22	0.345539	97.107557
+Isend/Irecv	2^23	0.690600	97.174765
+Isend/Irecv	2^24	1.381000	97.188784
+Isend/Irecv	2^25	2.762036	97.187535
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152114
+Isend/Irecv	2^1	0.000053	0.304210
+Isend/Irecv	2^2	0.000053	0.605987
+Isend/Irecv	2^3	0.000053	1.209558
+Isend/Irecv	2^4	0.000053	2.420344
+Isend/Irecv	2^5	0.000053	4.847755
+Isend/Irecv	2^6	0.000053	9.711463
+Isend/Irecv	2^7	0.000064	16.030092
+Isend/Irecv	2^8	0.000087	23.466190
+Isend/Irecv	2^9	0.000099	41.227774
+Isend/Irecv	2^10	0.000141	58.229378
+Isend/Irecv	2^11	0.000222	73.884839
+Isend/Irecv	2^12	0.000438	74.764393
+Isend/Irecv	2^13	0.001130	57.974758
+Isend/Irecv	2^14	0.001726	75.956534
+Isend/Irecv	2^15	0.003030	86.512931
+Isend/Irecv	2^16	0.005693	92.095236
+Isend/Irecv	2^17	0.011035	95.019396
+Isend/Irecv	2^18	0.021857	95.947658
+Isend/Irecv	2^19	0.043360	96.731188
+Isend/Irecv	2^20	0.086740	96.709917
+Isend/Irecv	2^21	0.172985	96.986286
+Isend/Irecv	2^22	0.345542	97.106581
+Isend/Irecv	2^23	0.690960	97.124046
+Isend/Irecv	2^24	1.381279	97.169193
+Isend/Irecv	2^25	2.762454	97.172815
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152114
+Isend/Irecv	2^1	0.000053	0.304218
+Isend/Irecv	2^2	0.000053	0.606042
+Isend/Irecv	2^3	0.000053	1.209611
+Isend/Irecv	2^4	0.000053	2.420747
+Isend/Irecv	2^5	0.000053	4.846782
+Isend/Irecv	2^6	0.000053	9.715186
+Isend/Irecv	2^7	0.000064	16.071389
+Isend/Irecv	2^8	0.000087	23.524412
+Isend/Irecv	2^9	0.000101	40.612962
+Isend/Irecv	2^10	0.000155	52.980132
+Isend/Irecv	2^11	0.000236	69.498233
+Isend/Irecv	2^12	0.000439	74.665585
+Isend/Irecv	2^13	0.001191	55.038876
+Isend/Irecv	2^14	0.001726	75.934972
+Isend/Irecv	2^15	0.003017	86.889351
+Isend/Irecv	2^16	0.005711	91.796709
+Isend/Irecv	2^17	0.011143	94.097854
+Isend/Irecv	2^18	0.021840	96.025274
+Isend/Irecv	2^19	0.043479	96.466974
+Isend/Irecv	2^20	0.086730	96.720657
+Isend/Irecv	2^21	0.173163	96.886776
+Isend/Irecv	2^22	0.345541	97.106837
+Isend/Irecv	2^23	0.690859	97.138275
+Isend/Irecv	2^24	1.381153	97.178000
+Isend/Irecv	2^25	2.761791	97.196150
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152116
+Isend/Irecv	2^1	0.000053	0.304198
+Isend/Irecv	2^2	0.000053	0.605981
+Isend/Irecv	2^3	0.000053	1.209894
+Isend/Irecv	2^4	0.000053	2.421086
+Isend/Irecv	2^5	0.000053	4.845180
+Isend/Irecv	2^6	0.000053	9.705382
+Isend/Irecv	2^7	0.000064	16.063501
+Isend/Irecv	2^8	0.000087	23.542304
+Isend/Irecv	2^9	0.000101	40.405037
+Isend/Irecv	2^10	0.000153	53.391035
+Isend/Irecv	2^11	0.000217	75.475001
+Isend/Irecv	2^12	0.000445	73.617261
+Isend/Irecv	2^13	0.001174	55.832292
+Isend/Irecv	2^14	0.001725	75.971282
+Isend/Irecv	2^15	0.003128	83.793103
+Isend/Irecv	2^16	0.005633	93.081968
+Isend/Irecv	2^17	0.011055	94.849606
+Isend/Irecv	2^18	0.021820	96.112561
+Isend/Irecv	2^19	0.043495	96.430935
+Isend/Irecv	2^20	0.086736	96.714476
+Isend/Irecv	2^21	0.172987	96.985519
+Isend/Irecv	2^22	0.345537	97.108013
+Isend/Irecv	2^23	0.690974	97.122191
+Isend/Irecv	2^24	1.380761	97.205630
+Isend/Irecv	2^25	2.760749	97.232822
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152111
+Isend/Irecv	2^1	0.000053	0.304205
+Isend/Irecv	2^2	0.000053	0.605983
+Isend/Irecv	2^3	0.000053	1.209530
+Isend/Irecv	2^4	0.000053	2.421076
+Isend/Irecv	2^5	0.000053	4.846981
+Isend/Irecv	2^6	0.000053	9.719729
+Isend/Irecv	2^7	0.000064	16.037606
+Isend/Irecv	2^8	0.000087	23.625408
+Isend/Irecv	2^9	0.000098	41.769493
+Isend/Irecv	2^10	0.000155	52.965232
+Isend/Irecv	2^11	0.000238	68.979890
+Isend/Irecv	2^12	0.000508	64.541163
+Isend/Irecv	2^13	0.001079	60.758808
+Isend/Irecv	2^14	0.001702	77.023383
+Isend/Irecv	2^15	0.003050	85.953164
+Isend/Irecv	2^16	0.005682	92.270079
+Isend/Irecv	2^17	0.011034	95.033562
+Isend/Irecv	2^18	0.021847	95.991791
+Isend/Irecv	2^19	0.043373	96.703685
+Isend/Irecv	2^20	0.086736	96.714692
+Isend/Irecv	2^21	0.173040	96.955719
+Isend/Irecv	2^22	0.345665	97.072182
+Isend/Irecv	2^23	0.690772	97.150534
+Isend/Irecv	2^24	1.381333	97.165374
+Isend/Irecv	2^25	2.761776	97.196691
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152113
+Isend/Irecv	2^1	0.000053	0.304191
+Isend/Irecv	2^2	0.000053	0.606043
+Isend/Irecv	2^3	0.000053	1.209688
+Isend/Irecv	2^4	0.000053	2.420685
+Isend/Irecv	2^5	0.000053	4.847044
+Isend/Irecv	2^6	0.000053	9.705904
+Isend/Irecv	2^7	0.000064	16.030791
+Isend/Irecv	2^8	0.000084	24.504447
+Isend/Irecv	2^9	0.000101	40.697501
+Isend/Irecv	2^10	0.000155	52.917333
+Isend/Irecv	2^11	0.000236	69.347476
+Isend/Irecv	2^12	0.000507	64.661900
+Isend/Irecv	2^13	0.001093	59.985813
+Isend/Irecv	2^14	0.001808	72.508007
+Isend/Irecv	2^15	0.003007	87.186501
+Isend/Irecv	2^16	0.005703	91.938366
+Isend/Irecv	2^17	0.011134	94.173854
+Isend/Irecv	2^18	0.021854	95.962950
+Isend/Irecv	2^19	0.043496	96.429104
+Isend/Irecv	2^20	0.086603	96.862865
+Isend/Irecv	2^21	0.172930	97.017566
+Isend/Irecv	2^22	0.345552	97.103841
+Isend/Irecv	2^23	0.690552	97.181425
+Isend/Irecv	2^24	1.381054	97.185006
+Isend/Irecv	2^25	2.761749	97.197641
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152121
+Isend/Irecv	2^1	0.000053	0.304212
+Isend/Irecv	2^2	0.000053	0.606170
+Isend/Irecv	2^3	0.000053	1.210950
+Isend/Irecv	2^4	0.000053	2.420934
+Isend/Irecv	2^5	0.000053	4.846252
+Isend/Irecv	2^6	0.000053	9.702869
+Isend/Irecv	2^7	0.000064	16.061953
+Isend/Irecv	2^8	0.000087	23.528691
+Isend/Irecv	2^9	0.000100	40.769809
+Isend/Irecv	2^10	0.000154	53.154939
+Isend/Irecv	2^11	0.000237	69.252944
+Isend/Irecv	2^12	0.000454	72.226006
+Isend/Irecv	2^13	0.001098	59.711964
+Isend/Irecv	2^14	0.001772	73.977999
+Isend/Irecv	2^15	0.002963	88.479706
+Isend/Irecv	2^16	0.005643	92.907066
+Isend/Irecv	2^17	0.011066	94.753388
+Isend/Irecv	2^18	0.021861	95.930252
+Isend/Irecv	2^19	0.043409	96.622128
+Isend/Irecv	2^20	0.086737	96.712595
+Isend/Irecv	2^21	0.173019	96.967306
+Isend/Irecv	2^22	0.345736	97.052227
+Isend/Irecv	2^23	0.690880	97.135307
+Isend/Irecv	2^24	1.381676	97.141272
+Isend/Irecv	2^25	2.762411	97.174320
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152112
+Isend/Irecv	2^1	0.000053	0.304203
+Isend/Irecv	2^2	0.000053	0.606019
+Isend/Irecv	2^3	0.000053	1.209396
+Isend/Irecv	2^4	0.000053	2.420542
+Isend/Irecv	2^5	0.000053	4.847000
+Isend/Irecv	2^6	0.000053	9.712053
+Isend/Irecv	2^7	0.000064	16.064293
+Isend/Irecv	2^8	0.000083	24.547574
+Isend/Irecv	2^9	0.000100	41.097471
+Isend/Irecv	2^10	0.000154	53.036213
+Isend/Irecv	2^11	0.000236	69.379485
+Isend/Irecv	2^12	0.000474	69.175386
+Isend/Irecv	2^13	0.001116	58.747993
+Isend/Irecv	2^14	0.001725	75.982359
+Isend/Irecv	2^15	0.002961	88.534121
+Isend/Irecv	2^16	0.005699	92.003473
+Isend/Irecv	2^17	0.011040	94.983909
+Isend/Irecv	2^18	0.021847	95.994317
+Isend/Irecv	2^19	0.043478	96.469502
+Isend/Irecv	2^20	0.086605	96.860703
+Isend/Irecv	2^21	0.173046	96.952392
+Isend/Irecv	2^22	0.345334	97.165156
+Isend/Irecv	2^23	0.690601	97.174514
+Isend/Irecv	2^24	1.380978	97.190342
+Isend/Irecv	2^25	2.761855	97.193890
+No protocol specified
+No protocol specified
+No protocol specified
+Kind		n	time (sec)	Rate (MB/sec)
+Isend/Irecv	2^0	0.000053	0.152112
+Isend/Irecv	2^1	0.000053	0.304199
+Isend/Irecv	2^2	0.000053	0.606096
+Isend/Irecv	2^3	0.000053	1.209688
+Isend/Irecv	2^4	0.000053	2.419986
+Isend/Irecv	2^5	0.000053	4.847869
+Isend/Irecv	2^6	0.000053	9.713158
+Isend/Irecv	2^7	0.000064	16.048450
+Isend/Irecv	2^8	0.000087	23.474259
+Isend/Irecv	2^9	0.000100	40.821004
+Isend/Irecv	2^10	0.000154	53.158388
+Isend/Irecv	2^11	0.000217	75.456926
+Isend/Irecv	2^12	0.000452	72.454139
+Isend/Irecv	2^13	0.001026	63.891061
+Isend/Irecv	2^14	0.001769	74.104898
+Isend/Irecv	2^15	0.002947	88.940882
+Isend/Irecv	2^16	0.005685	92.220488
+Isend/Irecv	2^17	0.011045	94.933168
+Isend/Irecv	2^18	0.021831	96.063058
+Isend/Irecv	2^19	0.043495	96.431727
+Isend/Irecv	2^20	0.086731	96.719946
+Isend/Irecv	2^21	0.173056	96.947000
+Isend/Irecv	2^22	0.345537	97.108028
+Isend/Irecv	2^23	0.690531	97.184423
+Isend/Irecv	2^24	1.381293	97.168164
+Isend/Irecv	2^25	2.761823	97.195017

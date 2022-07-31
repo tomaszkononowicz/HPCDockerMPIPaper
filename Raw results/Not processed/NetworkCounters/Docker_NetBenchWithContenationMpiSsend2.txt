@@ -1,0 +1,436 @@
+NetBenchWithContentionMpiSsend_O3_native_64
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.38]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.46]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode11]:2222,[10.0.1.56]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode12]:2222,[10.0.1.58]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.44]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.42]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode10]:2222,[10.0.1.54]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode09]:2222,[10.0.1.52]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.48]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode16]:2222,[10.0.1.66]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.50]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode13]:2222,[10.0.1.60]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.40]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode15]:2222,[10.0.1.64]:2222' (ECDSA) to the list of known hosts.
+Kind (np=64)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000118	0.067978
+Send/Recv	2^1	0.000117	0.136302
+Send/Recv	2^2	0.000119	0.270007
+Send/Recv	2^3	0.000119	0.537481
+Send/Recv	2^4	0.000119	1.073482
+Send/Recv	2^5	0.000119	2.156766
+Send/Recv	2^6	0.000122	4.182017
+Send/Recv	2^7	0.000111	9.214635
+Send/Recv	2^8	0.000123	16.661492
+Send/Recv	2^9	0.000179	22.917951
+Send/Recv	2^10	0.000250	32.747035
+Send/Recv	2^11	0.000468	35.040779
+Send/Recv	2^12	0.000985	33.267951
+Send/Recv	2^13	0.002344	27.964401
+Send/Recv	2^14	0.004507	29.082466
+Send/Recv	2^15	0.008959	29.259501
+Send/Recv	2^16	0.018317	28.622445
+Send/Recv	2^17	0.036765	28.521058
+Send/Recv	2^18	0.074233	28.251125
+Send/Recv	2^19	0.148325	28.277736
+Send/Recv	2^20	0.297640	28.183776
+Send/Recv	2^21	0.595093	28.192605
+Send/Recv	2^22	1.190389	28.187780
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.46]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.40]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode16]:2222,[10.0.1.66]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.48]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode09]:2222,[10.0.1.52]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.38]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode12]:2222,[10.0.1.58]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode13]:2222,[10.0.1.60]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.42]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode15]:2222,[10.0.1.64]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.44]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.50]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode10]:2222,[10.0.1.54]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode11]:2222,[10.0.1.56]:2222' (ECDSA) to the list of known hosts.
+Kind (np=64)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000119	0.067241
+Send/Recv	2^1	0.000119	0.134126
+Send/Recv	2^2	0.000119	0.269914
+Send/Recv	2^3	0.000121	0.530989
+Send/Recv	2^4	0.000121	1.061135
+Send/Recv	2^5	0.000121	2.121044
+Send/Recv	2^6	0.000127	4.044254
+Send/Recv	2^7	0.000121	8.464249
+Send/Recv	2^8	0.000130	15.708854
+Send/Recv	2^9	0.000177	23.085942
+Send/Recv	2^10	0.000246	33.307518
+Send/Recv	2^11	0.000506	32.391992
+Send/Recv	2^12	0.000818	40.037121
+Send/Recv	2^13	0.002330	28.129900
+Send/Recv	2^14	0.004493	29.173033
+Send/Recv	2^15	0.008683	30.189362
+Send/Recv	2^16	0.018274	28.690760
+Send/Recv	2^17	0.036624	28.631098
+Send/Recv	2^18	0.073573	28.504495
+Send/Recv	2^19	0.148473	28.249623
+Send/Recv	2^20	0.297423	28.204272
+Send/Recv	2^21	0.595114	28.191577
+Send/Recv	2^22	1.190460	28.186100
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.40]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode10]:2222,[10.0.1.54]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode09]:2222,[10.0.1.52]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.46]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode12]:2222,[10.0.1.58]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.48]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.38]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.44]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.50]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode16]:2222,[10.0.1.66]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode13]:2222,[10.0.1.60]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.42]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode15]:2222,[10.0.1.64]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode11]:2222,[10.0.1.56]:2222' (ECDSA) to the list of known hosts.
+Kind (np=64)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000115	0.069534
+Send/Recv	2^1	0.000118	0.135815
+Send/Recv	2^2	0.000118	0.271722
+Send/Recv	2^3	0.000121	0.529639
+Send/Recv	2^4	0.000121	1.059699
+Send/Recv	2^5	0.000118	2.165541
+Send/Recv	2^6	0.000126	4.051919
+Send/Recv	2^7	0.000114	9.013524
+Send/Recv	2^8	0.000131	15.641229
+Send/Recv	2^9	0.000157	26.058058
+Send/Recv	2^10	0.000238	34.466284
+Send/Recv	2^11	0.000397	41.309636
+Send/Recv	2^12	0.000998	32.837386
+Send/Recv	2^13	0.002388	27.447541
+Send/Recv	2^14	0.004505	29.097739
+Send/Recv	2^15	0.008794	29.809834
+Send/Recv	2^16	0.018121	28.932191
+Send/Recv	2^17	0.036730	28.548294
+Send/Recv	2^18	0.074067	28.314069
+Send/Recv	2^19	0.148410	28.261587
+Send/Recv	2^20	0.297586	28.188844
+Send/Recv	2^21	0.595224	28.186405
+Send/Recv	2^22	1.190412	28.187245
+Warning: Permanently added '[hpcvirtualizationnode11]:2222,[10.0.1.56]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.38]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.48]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.50]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode16]:2222,[10.0.1.66]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode13]:2222,[10.0.1.60]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.44]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.42]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode10]:2222,[10.0.1.54]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode09]:2222,[10.0.1.52]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.46]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode15]:2222,[10.0.1.64]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode12]:2222,[10.0.1.58]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.40]:2222' (ECDSA) to the list of known hosts.
+Kind (np=64)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000117	0.068652
+Send/Recv	2^1	0.000118	0.135184
+Send/Recv	2^2	0.000120	0.267732
+Send/Recv	2^3	0.000119	0.539331
+Send/Recv	2^4	0.000120	1.065504
+Send/Recv	2^5	0.000121	2.120497
+Send/Recv	2^6	0.000127	4.044397
+Send/Recv	2^7	0.000128	7.987591
+Send/Recv	2^8	0.000134	15.256901
+Send/Recv	2^9	0.000175	23.357066
+Send/Recv	2^10	0.000251	32.608867
+Send/Recv	2^11	0.000392	41.844487
+Send/Recv	2^12	0.000978	33.506191
+Send/Recv	2^13	0.002381	27.525731
+Send/Recv	2^14	0.004430	29.584260
+Send/Recv	2^15	0.009081	28.865967
+Send/Recv	2^16	0.018124	28.927606
+Send/Recv	2^17	0.036955	28.374566
+Send/Recv	2^18	0.074023	28.331161
+Send/Recv	2^19	0.148261	28.290055
+Send/Recv	2^20	0.297495	28.197447
+Send/Recv	2^21	0.595221	28.186511
+Send/Recv	2^22	1.190522	28.184644
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.42]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode11]:2222,[10.0.1.56]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.44]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.38]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode10]:2222,[10.0.1.54]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode13]:2222,[10.0.1.60]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode16]:2222,[10.0.1.66]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode15]:2222,[10.0.1.64]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.46]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode12]:2222,[10.0.1.58]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.48]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.40]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode09]:2222,[10.0.1.52]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.50]:2222' (ECDSA) to the list of known hosts.
+Kind (np=64)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000117	0.068307
+Send/Recv	2^1	0.000119	0.134809
+Send/Recv	2^2	0.000121	0.265214
+Send/Recv	2^3	0.000119	0.537191
+Send/Recv	2^4	0.000120	1.067481
+Send/Recv	2^5	0.000120	2.133784
+Send/Recv	2^6	0.000128	3.987356
+Send/Recv	2^7	0.000116	8.865335
+Send/Recv	2^8	0.000131	15.587400
+Send/Recv	2^9	0.000188	21.740287
+Send/Recv	2^10	0.000254	32.263523
+Send/Recv	2^11	0.000450	36.388716
+Send/Recv	2^12	0.001028	31.877796
+Send/Recv	2^13	0.002427	27.003685
+Send/Recv	2^14	0.004477	29.274570
+Send/Recv	2^15	0.009087	28.849367
+Send/Recv	2^16	0.017617	29.760858
+Send/Recv	2^17	0.036899	28.417182
+Send/Recv	2^18	0.074134	28.288523
+Send/Recv	2^19	0.148474	28.249470
+Send/Recv	2^20	0.297082	28.236672
+Send/Recv	2^21	0.595149	28.189957
+Send/Recv	2^22	1.190355	28.188599
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.42]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.48]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.40]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode15]:2222,[10.0.1.64]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode12]:2222,[10.0.1.58]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode09]:2222,[10.0.1.52]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode16]:2222,[10.0.1.66]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.46]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.50]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.38]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode13]:2222,[10.0.1.60]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode10]:2222,[10.0.1.54]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.44]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode11]:2222,[10.0.1.56]:2222' (ECDSA) to the list of known hosts.
+Kind (np=64)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000119	0.067343
+Send/Recv	2^1	0.000119	0.134266
+Send/Recv	2^2	0.000120	0.266411
+Send/Recv	2^3	0.000120	0.532216
+Send/Recv	2^4	0.000120	1.070034
+Send/Recv	2^5	0.000121	2.123119
+Send/Recv	2^6	0.000121	4.235964
+Send/Recv	2^7	0.000116	8.806703
+Send/Recv	2^8	0.000134	15.284971
+Send/Recv	2^9	0.000169	24.225647
+Send/Recv	2^10	0.000249	32.899732
+Send/Recv	2^11	0.000479	34.234256
+Send/Recv	2^12	0.001011	32.426709
+Send/Recv	2^13	0.002341	27.992213
+Send/Recv	2^14	0.004435	29.556412
+Send/Recv	2^15	0.008913	29.412961
+Send/Recv	2^16	0.018169	28.855941
+Send/Recv	2^17	0.036894	28.421492
+Send/Recv	2^18	0.073925	28.368759
+Send/Recv	2^19	0.148468	28.250623
+Send/Recv	2^20	0.297470	28.199834
+Send/Recv	2^21	0.595136	28.190561
+Send/Recv	2^22	1.190305	28.189765
+NetBenchWithContentionMpiSsend_O3_2b
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000093	0.085648
+Send/Recv	2^1	0.000094	0.169385
+Send/Recv	2^2	0.000095	0.337350
+Send/Recv	2^3	0.000097	0.660623
+Send/Recv	2^4	0.000099	1.298074
+Send/Recv	2^5	0.000098	2.602073
+Send/Recv	2^6	0.000097	5.267582
+Send/Recv	2^7	0.000097	10.564628
+Send/Recv	2^8	0.000098	20.793989
+Send/Recv	2^9	0.000100	40.832177
+Send/Recv	2^10	0.000152	53.792812
+Send/Recv	2^11	0.000231	70.840079
+Send/Recv	2^12	0.000384	85.231008
+Send/Recv	2^13	0.000765	85.677661
+Send/Recv	2^14	0.001335	98.218057
+Send/Recv	2^15	0.002525	103.825164
+Send/Recv	2^16	0.004846	108.186968
+Send/Recv	2^17	0.009498	110.402337
+Send/Recv	2^18	0.018787	111.625187
+Send/Recv	2^19	0.037380	112.206679
+Send/Recv	2^20	0.074605	112.440293
+Send/Recv	2^21	0.149099	112.523922
+Send/Recv	2^22	0.297754	112.691793
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000089	0.089466
+Send/Recv	2^1	0.000092	0.174178
+Send/Recv	2^2	0.000090	0.356105
+Send/Recv	2^3	0.000096	0.664787
+Send/Recv	2^4	0.000097	1.320356
+Send/Recv	2^5	0.000100	2.567925
+Send/Recv	2^6	0.000097	5.269514
+Send/Recv	2^7	0.000097	10.522476
+Send/Recv	2^8	0.000098	20.941691
+Send/Recv	2^9	0.000098	41.988930
+Send/Recv	2^10	0.000153	53.696206
+Send/Recv	2^11	0.000232	70.503088
+Send/Recv	2^12	0.000366	89.465645
+Send/Recv	2^13	0.000769	85.259283
+Send/Recv	2^14	0.001337	98.014465
+Send/Recv	2^15	0.002529	103.658929
+Send/Recv	2^16	0.004849	108.123803
+Send/Recv	2^17	0.009492	110.463711
+Send/Recv	2^18	0.018787	111.627783
+Send/Recv	2^19	0.037385	112.191246
+Send/Recv	2^20	0.074610	112.433265
+Send/Recv	2^21	0.149042	112.567163
+Send/Recv	2^22	0.297888	112.640986
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000079	0.101514
+Send/Recv	2^1	0.000095	0.168441
+Send/Recv	2^2	0.000096	0.333556
+Send/Recv	2^3	0.000097	0.660038
+Send/Recv	2^4	0.000098	1.305782
+Send/Recv	2^5	0.000099	2.587667
+Send/Recv	2^6	0.000094	5.439966
+Send/Recv	2^7	0.000095	10.747126
+Send/Recv	2^8	0.000098	20.922119
+Send/Recv	2^9	0.000098	41.980964
+Send/Recv	2^10	0.000153	53.406353
+Send/Recv	2^11	0.000238	68.875489
+Send/Recv	2^12	0.000388	84.490408
+Send/Recv	2^13	0.000762	86.027995
+Send/Recv	2^14	0.001338	97.949056
+Send/Recv	2^15	0.002530	103.606244
+Send/Recv	2^16	0.004856	107.970587
+Send/Recv	2^17	0.009498	110.403511
+Send/Recv	2^18	0.018792	111.596607
+Send/Recv	2^19	0.037382	112.200568
+Send/Recv	2^20	0.074592	112.460509
+Send/Recv	2^21	0.149075	112.542407
+Send/Recv	2^22	0.297745	112.695037
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000089	0.090094
+Send/Recv	2^1	0.000095	0.168580
+Send/Recv	2^2	0.000095	0.337957
+Send/Recv	2^3	0.000098	0.654338
+Send/Recv	2^4	0.000095	1.353093
+Send/Recv	2^5	0.000099	2.574248
+Send/Recv	2^6	0.000098	5.239660
+Send/Recv	2^7	0.000092	11.150571
+Send/Recv	2^8	0.000098	20.802333
+Send/Recv	2^9	0.000098	41.863606
+Send/Recv	2^10	0.000153	53.403211
+Send/Recv	2^11	0.000233	70.326794
+Send/Recv	2^12	0.000363	90.178302
+Send/Recv	2^13	0.000767	85.398327
+Send/Recv	2^14	0.001338	97.945358
+Send/Recv	2^15	0.002528	103.680085
+Send/Recv	2^16	0.004852	108.045059
+Send/Recv	2^17	0.009496	110.420031
+Send/Recv	2^18	0.018790	111.608761
+Send/Recv	2^19	0.037382	112.201033
+Send/Recv	2^20	0.074591	112.461998
+Send/Recv	2^21	0.148961	112.628604
+Send/Recv	2^22	0.297766	112.687350
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000071	0.113062
+Send/Recv	2^1	0.000088	0.180952
+Send/Recv	2^2	0.000092	0.348498
+Send/Recv	2^3	0.000093	0.686758
+Send/Recv	2^4	0.000097	1.317900
+Send/Recv	2^5	0.000099	2.589330
+Send/Recv	2^6	0.000097	5.269255
+Send/Recv	2^7	0.000097	10.548622
+Send/Recv	2^8	0.000098	20.801275
+Send/Recv	2^9	0.000100	41.048882
+Send/Recv	2^10	0.000153	53.451301
+Send/Recv	2^11	0.000233	70.282911
+Send/Recv	2^12	0.000362	90.570871
+Send/Recv	2^13	0.000758	86.463663
+Send/Recv	2^14	0.001336	98.122179
+Send/Recv	2^15	0.002527	103.731758
+Send/Recv	2^16	0.004850	108.107663
+Send/Recv	2^17	0.009499	110.382823
+Send/Recv	2^18	0.018956	110.631068
+Send/Recv	2^19	0.037397	112.156155
+Send/Recv	2^20	0.074598	112.450435
+Send/Recv	2^21	0.148991	112.605344
+Send/Recv	2^22	0.297762	112.688938
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000085	0.094290
+Send/Recv	2^1	0.000092	0.173471
+Send/Recv	2^2	0.000075	0.429516
+Send/Recv	2^3	0.000095	0.675403
+Send/Recv	2^4	0.000096	1.326883
+Send/Recv	2^5	0.000099	2.582825
+Send/Recv	2^6	0.000097	5.284743
+Send/Recv	2^7	0.000097	10.550330
+Send/Recv	2^8	0.000098	20.866094
+Send/Recv	2^9	0.000098	41.608692
+Send/Recv	2^10	0.000152	53.940162
+Send/Recv	2^11	0.000232	70.606830
+Send/Recv	2^12	0.000369	88.802767
+Send/Recv	2^13	0.000762	86.056691
+Send/Recv	2^14	0.001339	97.921361
+Send/Recv	2^15	0.002530	103.632109
+Send/Recv	2^16	0.004852	108.066851
+Send/Recv	2^17	0.009495	110.435010
+Send/Recv	2^18	0.018785	111.636919
+Send/Recv	2^19	0.037394	112.166397
+Send/Recv	2^20	0.074585	112.470988
+Send/Recv	2^21	0.148972	112.620113
+Send/Recv	2^22	0.297752	112.692625
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000075	0.105984
+Send/Recv	2^1	0.000071	0.224532
+Send/Recv	2^2	0.000093	0.343718
+Send/Recv	2^3	0.000095	0.675861
+Send/Recv	2^4	0.000097	1.315400
+Send/Recv	2^5	0.000097	2.646375
+Send/Recv	2^6	0.000099	5.184912
+Send/Recv	2^7	0.000098	10.413738
+Send/Recv	2^8	0.000098	20.806872
+Send/Recv	2^9	0.000100	41.043950
+Send/Recv	2^10	0.000153	53.446064
+Send/Recv	2^11	0.000231	70.837939
+Send/Recv	2^12	0.000360	90.947063
+Send/Recv	2^13	0.000768	85.290466
+Send/Recv	2^14	0.001338	97.981711
+Send/Recv	2^15	0.002526	103.774507
+Send/Recv	2^16	0.004850	108.090623
+Send/Recv	2^17	0.009496	110.421519
+Send/Recv	2^18	0.018785	111.639460
+Send/Recv	2^19	0.037389	112.179195
+Send/Recv	2^20	0.074594	112.457390
+Send/Recv	2^21	0.148969	112.622031
+Send/Recv	2^22	0.297780	112.681869
+Warning: Permanently added '[hpcvirtualizationnode14]:2222,[10.0.1.62]:2222' (ECDSA) to the list of known hosts.
+Kind (np=2)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000085	0.093768
+Send/Recv	2^1	0.000083	0.192358
+Send/Recv	2^2	0.000095	0.338410
+Send/Recv	2^3	0.000090	0.709892
+Send/Recv	2^4	0.000097	1.321289
+Send/Recv	2^5	0.000099	2.581627
+Send/Recv	2^6	0.000097	5.254474
+Send/Recv	2^7	0.000097	10.521712
+Send/Recv	2^8	0.000098	20.875519
+Send/Recv	2^9	0.000097	42.151183
+Send/Recv	2^10	0.000153	53.564553
+Send/Recv	2^11	0.000232	70.743437
+Send/Recv	2^12	0.000362	90.512579
+Send/Recv	2^13	0.000767	85.482375
+Send/Recv	2^14	0.001337	98.024582
+Send/Recv	2^15	0.002528	103.707627
+Send/Recv	2^16	0.004850	108.093943
+Send/Recv	2^17	0.009496	110.420200
+Send/Recv	2^18	0.018944	110.703974
+Send/Recv	2^19	0.037376	112.217874
+Send/Recv	2^20	0.074600	112.447705
+Send/Recv	2^21	0.148980	112.613609
+Send/Recv	2^22	0.297837	112.660477

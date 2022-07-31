@@ -1,0 +1,314 @@
+DAC_O2_16
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 34.98s
+user	2m 17.06s
+sys	0m 0.29s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile16 -np 16 DAC_O2 100 200':
+
+         138127.63 msec task-clock                #    3.949 CPUs utilized          
+              4069      context-switches          #    0.029 K/sec                  
+             69787      hw_interrupts.received    #    0.505 K/sec                    (21.04%)
+              9471      page-faults               #    0.069 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+              9462      minor-faults              #    0.069 K/sec                  
+      551808393195      cpu-cycles                #    3.995 GHz                      (21.04%)
+     1257136600396      instructions              #    2.28  insn per cycle           (26.30%)
+      551690350041      inst_retired.total_cycles_ps # 3994.062 M/sec                    (26.29%)
+     1256776067237      inst_retired.any          # 9098.658 M/sec                    (26.29%)
+     1256178914137      inst_retired.any_p        # 9094.335 M/sec                    (26.30%)
+          38602144      cache-references          #    0.279 M/sec                    (26.31%)
+           4432912      cache-misses              #   11.484 % of all cache refs      (26.33%)
+        2247800344      L1-dcache-loads           #   16.273 M/sec                    (26.34%)
+          22013504      L1-dcache-load-misses     #    0.98% of all L1-dcache hits    (26.36%)
+        1259134850      L1-dcache-stores          #    9.116 M/sec                    (21.08%)
+   <not supported>      L1-dcache-stores-misses                                     
+          62390447      l2_rqsts.references       #    0.452 M/sec                    (21.07%)
+          20264612      l2_rqsts.miss             #    0.147 M/sec                    (21.06%)
+           1245231      LLC-loads                 #    0.009 M/sec                    (21.05%)
+              6918      LLC-load-misses           #    0.56% of all LL-cache hits     (21.05%)
+            818636      LLC-stores                #    0.006 M/sec                    (10.52%)
+              3193      LLC-store-misses          #    0.023 K/sec                    (10.52%)
+      126610131096      branches                  #  916.617 M/sec                    (15.79%)
+          14497723      branch-misses             #    0.01% of all branches          (21.05%)
+
+      34.981637733 seconds time elapsed
+
+     137.067489000 seconds user
+       0.296523000 seconds sys
+
+
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 34.96s
+user	2m 16.56s
+sys	0m 0.18s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile16 -np 16 DAC_O2 100 200':
+
+         137884.19 msec task-clock                #    3.943 CPUs utilized          
+              4315      context-switches          #    0.031 K/sec                  
+             69268      hw_interrupts.received    #    0.502 K/sec                    (21.04%)
+              9450      page-faults               #    0.069 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+              9441      minor-faults              #    0.068 K/sec                  
+      550369412222      cpu-cycles                #    3.992 GHz                      (21.04%)
+     1253953872871      instructions              #    2.28  insn per cycle           (26.30%)
+      550280571326      inst_retired.total_cycles_ps # 3990.890 M/sec                    (26.30%)
+     1253992381359      inst_retired.any          # 9094.533 M/sec                    (26.31%)
+     1253715513714      inst_retired.any_p        # 9092.525 M/sec                    (26.31%)
+          31571341      cache-references          #    0.229 M/sec                    (26.31%)
+           2229393      cache-misses              #    7.061 % of all cache refs      (26.31%)
+        1074864219      L1-dcache-loads           #    7.795 M/sec                    (26.32%)
+          12549038      L1-dcache-load-misses     #    1.17% of all L1-dcache hits    (26.32%)
+         706966001      L1-dcache-stores          #    5.127 M/sec                    (21.07%)
+   <not supported>      L1-dcache-stores-misses                                     
+          69987595      l2_rqsts.references       #    0.508 M/sec                    (21.08%)
+          27748051      l2_rqsts.miss             #    0.201 M/sec                    (21.07%)
+           2632746      LLC-loads                 #    0.019 M/sec                    (21.06%)
+             82011      LLC-load-misses           #    3.12% of all LL-cache hits     (21.06%)
+            799717      LLC-stores                #    0.006 M/sec                    (10.53%)
+              1264      LLC-store-misses          #    0.009 K/sec                    (10.52%)
+      125933440933      branches                  #  913.328 M/sec                    (15.78%)
+          13800043      branch-misses             #    0.01% of all branches          (21.03%)
+
+      34.966333010 seconds time elapsed
+
+     136.568128000 seconds user
+       0.188501000 seconds sys
+
+
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 34.87s
+user	2m 16.58s
+sys	0m 0.21s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile16 -np 16 DAC_O2 100 200':
+
+         137912.90 msec task-clock                #    3.955 CPUs utilized          
+              3601      context-switches          #    0.026 K/sec                  
+             71743      hw_interrupts.received    #    0.520 K/sec                    (21.03%)
+              9450      page-faults               #    0.069 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+              9441      minor-faults              #    0.068 K/sec                  
+      550610760166      cpu-cycles                #    3.992 GHz                      (21.04%)
+     1257911085877      instructions              #    2.28  insn per cycle           (26.30%)
+      550635673115      inst_retired.total_cycles_ps # 3992.634 M/sec                    (26.30%)
+     1257633018068      inst_retired.any          # 9119.039 M/sec                    (26.31%)
+     1256943016475      inst_retired.any_p        # 9114.035 M/sec                    (26.32%)
+          47463313      cache-references          #    0.344 M/sec                    (26.33%)
+           4919946      cache-misses              #   10.366 % of all cache refs      (26.34%)
+        2462712098      L1-dcache-loads           #   17.857 M/sec                    (26.35%)
+          18463565      L1-dcache-load-misses     #    0.75% of all L1-dcache hits    (26.34%)
+        1429611856      L1-dcache-stores          #   10.366 M/sec                    (21.07%)
+   <not supported>      L1-dcache-stores-misses                                     
+          50522235      l2_rqsts.references       #    0.366 M/sec                    (21.06%)
+          16174646      l2_rqsts.miss             #    0.117 M/sec                    (21.05%)
+           1617619      LLC-loads                 #    0.012 M/sec                    (21.05%)
+             61289      LLC-load-misses           #    3.79% of all LL-cache hits     (21.05%)
+           1092083      LLC-stores                #    0.008 M/sec                    (10.52%)
+             64905      LLC-store-misses          #    0.471 K/sec                    (10.52%)
+      126642524694      branches                  #  918.279 M/sec                    (15.78%)
+          13953632      branch-misses             #    0.01% of all branches          (21.04%)
+
+      34.871803656 seconds time elapsed
+
+     136.585572000 seconds user
+       0.214013000 seconds sys
+
+
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 35.07s
+user	2m 17.11s
+sys	0m 0.37s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile16 -np 16 DAC_O2 100 200':
+
+         138595.31 msec task-clock                #    3.951 CPUs utilized          
+              3435      context-switches          #    0.025 K/sec                  
+             72012      hw_interrupts.received    #    0.520 K/sec                    (21.04%)
+              9474      page-faults               #    0.068 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+              9465      minor-faults              #    0.068 K/sec                  
+      551996331789      cpu-cycles                #    3.983 GHz                      (21.03%)
+     1258686220281      instructions              #    2.28  insn per cycle           (26.30%)
+      551852517900      inst_retired.total_cycles_ps # 3981.754 M/sec                    (26.30%)
+     1257655170679      inst_retired.any          # 9074.298 M/sec                    (26.30%)
+     1257385887631      inst_retired.any_p        # 9072.355 M/sec                    (26.31%)
+          37159219      cache-references          #    0.268 M/sec                    (26.31%)
+           3602395      cache-misses              #    9.694 % of all cache refs      (26.31%)
+        2559565897      L1-dcache-loads           #   18.468 M/sec                    (26.32%)
+          11642301      L1-dcache-load-misses     #    0.45% of all L1-dcache hits    (26.32%)
+        1406482854      L1-dcache-stores          #   10.148 M/sec                    (21.07%)
+   <not supported>      L1-dcache-stores-misses                                     
+          38921056      l2_rqsts.references       #    0.281 M/sec                    (21.06%)
+          15740618      l2_rqsts.miss             #    0.114 M/sec                    (21.06%)
+           1995741      LLC-loads                 #    0.014 M/sec                    (21.06%)
+             77990      LLC-load-misses           #    3.91% of all LL-cache hits     (21.06%)
+           1731807      LLC-stores                #    0.012 M/sec                    (10.54%)
+            242368      LLC-store-misses          #    0.002 M/sec                    (10.53%)
+      126677960623      branches                  #  914.013 M/sec                    (15.79%)
+          18611211      branch-misses             #    0.01% of all branches          (21.04%)
+
+      35.077478226 seconds time elapsed
+
+     137.119934000 seconds user
+       0.377413000 seconds sys
+
+
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 34.91s
+user	2m 16.40s
+sys	0m 0.09s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile16 -np 16 DAC_O2 100 200':
+
+         137606.24 msec task-clock                #    3.942 CPUs utilized          
+              6005      context-switches          #    0.044 K/sec                  
+             69880      hw_interrupts.received    #    0.508 K/sec                    (21.05%)
+              9463      page-faults               #    0.069 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+              9454      minor-faults              #    0.069 K/sec                  
+      549206334656      cpu-cycles                #    3.991 GHz                      (21.05%)
+     1253578953930      instructions              #    2.28  insn per cycle           (26.31%)
+      549055418614      inst_retired.total_cycles_ps # 3990.047 M/sec                    (26.32%)
+     1252319923366      inst_retired.any          # 9100.750 M/sec                    (26.33%)
+     1251526485137      inst_retired.any_p        # 9094.984 M/sec                    (26.33%)
+          49161935      cache-references          #    0.357 M/sec                    (26.33%)
+           4464455      cache-misses              #    9.081 % of all cache refs      (26.34%)
+         822676010      L1-dcache-loads           #    5.978 M/sec                    (26.34%)
+          16233749      L1-dcache-load-misses     #    1.97% of all L1-dcache hits    (26.32%)
+         558261754      L1-dcache-stores          #    4.057 M/sec                    (21.05%)
+   <not supported>      L1-dcache-stores-misses                                     
+          44788530      l2_rqsts.references       #    0.325 M/sec                    (21.04%)
+          13477379      l2_rqsts.miss             #    0.098 M/sec                    (21.04%)
+           1283635      LLC-loads                 #    0.009 M/sec                    (21.05%)
+             49519      LLC-load-misses           #    3.86% of all LL-cache hits     (21.05%)
+            847735      LLC-stores                #    0.006 M/sec                    (10.52%)
+              5265      LLC-store-misses          #    0.038 K/sec                    (10.52%)
+      125735415241      branches                  #  913.733 M/sec                    (15.78%)
+           8908850      branch-misses             #    0.01% of all branches          (21.04%)
+
+      34.911454646 seconds time elapsed
+
+     136.406544000 seconds user
+       0.091317000 seconds sys
+
+
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 34.93s
+user	2m 16.90s
+sys	0m 0.12s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile16 -np 16 DAC_O2 100 200':
+
+         138135.97 msec task-clock                #    3.955 CPUs utilized          
+              2503      context-switches          #    0.018 K/sec                  
+             69580      hw_interrupts.received    #    0.504 K/sec                    (21.04%)
+              9470      page-faults               #    0.069 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+              9461      minor-faults              #    0.068 K/sec                  
+      551657393040      cpu-cycles                #    3.994 GHz                      (21.04%)
+     1261115106118      instructions              #    2.29  insn per cycle           (26.30%)
+      551593085264      inst_retired.total_cycles_ps # 3993.117 M/sec                    (26.30%)
+     1260133048125      inst_retired.any          # 9122.411 M/sec                    (26.30%)
+     1259305587605      inst_retired.any_p        # 9116.421 M/sec                    (26.31%)
+          35857945      cache-references          #    0.260 M/sec                    (26.32%)
+           4260973      cache-misses              #   11.883 % of all cache refs      (26.33%)
+        3388112746      L1-dcache-loads           #   24.527 M/sec                    (26.33%)
+          15790156      L1-dcache-load-misses     #    0.47% of all L1-dcache hits    (26.34%)
+        1782672648      L1-dcache-stores          #   12.905 M/sec                    (21.07%)
+   <not supported>      L1-dcache-stores-misses                                     
+          56689407      l2_rqsts.references       #    0.410 M/sec                    (21.07%)
+          19987471      l2_rqsts.miss             #    0.145 M/sec                    (21.06%)
+           1742181      LLC-loads                 #    0.013 M/sec                    (21.05%)
+             11355      LLC-load-misses           #    0.65% of all LL-cache hits     (21.05%)
+            634430      LLC-stores                #    0.005 M/sec                    (10.52%)
+              2793      LLC-store-misses          #    0.020 K/sec                    (10.52%)
+      127336282529      branches                  #  921.818 M/sec                    (15.78%)
+          13378131      branch-misses             #    0.01% of all branches          (21.04%)
+
+      34.930586604 seconds time elapsed
+
+     136.904477000 seconds user
+       0.125624000 seconds sys
+
+
+DAC_O2_32
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.114]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.116]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.112]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.110]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+
+Result is 0.688172
+real	0m 18.10s
+user	1m 9.92s
+sys	0m 1.08s
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include eth0 -hostfile ../hostfile32 -np 32 DAC_O2 100 200':
+
+          72630.36 msec task-clock                #    4.011 CPUs utilized          
+              2115      context-switches          #    0.029 K/sec                  
+             37598      hw_interrupts.received    #    0.518 K/sec                    (21.00%)
+             10432      page-faults               #    0.144 K/sec                  
+                 9      major-faults              #    0.000 K/sec                  
+             10423      minor-faults              #    0.144 K/sec                  
+      288541652424      cpu-cycles                #    3.973 GHz                      (21.00%)
+      631991675407      instructions              #    2.19  insn per cycle           (26.25%)
+      288615648978      inst_retired.total_cycles_ps # 3973.760 M/sec                    (26.23%)
+      631941132320      inst_retired.any          # 8700.785 M/sec                    (26.24%)
+      631012633134      inst_retired.any_p        # 8688.001 M/sec                    (26.27%)
+          35483056      cache-references          #    0.489 M/sec                    (26.30%)
+           3220584      cache-misses              #    9.076 % of all cache refs      (26.33%)
+        1588988845      L1-dcache-loads           #   21.878 M/sec                    (26.38%)
+          14212157      L1-dcache-load-misses     #    0.89% of all L1-dcache hits    (26.40%)
+         993905069      L1-dcache-stores          #   13.684 M/sec                    (21.12%)
+   <not supported>      L1-dcache-stores-misses                                     
+          40848824      l2_rqsts.references       #    0.562 M/sec                    (21.11%)
+          16789534      l2_rqsts.miss             #    0.231 M/sec                    (21.08%)
+           2081420      LLC-loads                 #    0.029 M/sec                    (21.08%)
+            146679      LLC-load-misses           #    7.05% of all LL-cache hits     (21.06%)
+           1207579      LLC-stores                #    0.017 M/sec                    (10.53%)
+            242465      LLC-store-misses          #    0.003 M/sec                    (10.52%)
+       63561307121      branches                  #  875.134 M/sec                    (15.77%)
+          18731514      branch-misses             #    0.03% of all branches          (21.01%)
+
+      18.107883875 seconds time elapsed
+
+      69.920839000 seconds user
+       1.084249000 seconds sys
+
+
+Warning: Permanently added '[hpcvirtualizationnode04]:2222,[10.0.1.108]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode02]:2222,[10.0.1.104]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode08]:2222,[10.0.1.116]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode03]:2222,[10.0.1.106]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode06]:2222,[10.0.1.112]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode05]:2222,[10.0.1.110]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[hpcvirtualizationnode07]:2222,[10.0.1.114]:2222' (ECDSA) to the list of known hosts.

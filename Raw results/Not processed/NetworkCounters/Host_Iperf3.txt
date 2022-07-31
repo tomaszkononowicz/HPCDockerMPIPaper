@@ -1,0 +1,190 @@
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36298 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  91.0 MBytes   763 Mbits/sec    0    301 KBytes       
+[  5]   1.00-2.00   sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+[  5]   2.00-3.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   3.00-4.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   4.00-5.00   sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+[  5]   5.00-6.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   6.00-7.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   7.00-8.00   sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+[  5]   8.00-9.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   9.00-10.00  sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   909 MBytes   763 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   908 MBytes   762 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36302 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  93.3 MBytes   783 Mbits/sec    0    277 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   775 Mbits/sec    0    294 KBytes       
+[  5]   2.00-3.00   sec  91.3 MBytes   766 Mbits/sec    0    307 KBytes       
+[  5]   3.00-4.00   sec  90.9 MBytes   762 Mbits/sec    0    307 KBytes       
+[  5]   4.00-5.00   sec  91.3 MBytes   766 Mbits/sec    0    307 KBytes       
+[  5]   5.00-6.00   sec  90.7 MBytes   761 Mbits/sec    0    307 KBytes       
+[  5]   6.00-7.00   sec  91.3 MBytes   766 Mbits/sec    0    307 KBytes       
+[  5]   7.00-8.00   sec  91.3 MBytes   766 Mbits/sec    0    307 KBytes       
+[  5]   8.00-9.00   sec  90.7 MBytes   761 Mbits/sec    0    307 KBytes       
+[  5]   9.00-10.00  sec  91.3 MBytes   766 Mbits/sec    0    307 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   915 MBytes   767 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   913 MBytes   766 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36314 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  91.6 MBytes   769 Mbits/sec    0    294 KBytes       
+[  5]   1.00-2.00   sec  91.3 MBytes   766 Mbits/sec    0    294 KBytes       
+[  5]   2.00-3.00   sec  90.7 MBytes   761 Mbits/sec    0    307 KBytes       
+[  5]   3.00-4.00   sec  90.7 MBytes   761 Mbits/sec    0    307 KBytes       
+[  5]   4.00-5.00   sec  91.3 MBytes   766 Mbits/sec    0    307 KBytes       
+[  5]   5.00-6.00   sec  90.7 MBytes   761 Mbits/sec    0    307 KBytes       
+[  5]   6.00-7.00   sec  90.7 MBytes   761 Mbits/sec    0    307 KBytes       
+[  5]   7.00-8.00   sec  91.0 MBytes   764 Mbits/sec    0    370 KBytes       
+[  5]   8.00-9.00   sec  91.0 MBytes   763 Mbits/sec    0    370 KBytes       
+[  5]   9.00-10.00  sec  91.0 MBytes   763 Mbits/sec    0    370 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   910 MBytes   764 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   909 MBytes   762 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36318 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  94.0 MBytes   788 Mbits/sec    0    341 KBytes       
+[  5]   1.00-2.00   sec  93.0 MBytes   780 Mbits/sec    0    341 KBytes       
+[  5]   2.00-3.00   sec  92.3 MBytes   774 Mbits/sec    0    341 KBytes       
+[  5]   3.00-4.00   sec  90.2 MBytes   756 Mbits/sec    0    356 KBytes       
+[  5]   4.00-5.00   sec  91.7 MBytes   769 Mbits/sec    0    356 KBytes       
+[  5]   5.00-6.00   sec  91.7 MBytes   769 Mbits/sec    0    356 KBytes       
+[  5]   6.00-7.00   sec  92.5 MBytes   776 Mbits/sec    0    356 KBytes       
+[  5]   7.00-8.00   sec  92.5 MBytes   776 Mbits/sec    0    356 KBytes       
+[  5]   8.00-9.00   sec  92.5 MBytes   776 Mbits/sec    0    356 KBytes       
+[  5]   9.00-10.00  sec  91.7 MBytes   769 Mbits/sec    0    356 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   922 MBytes   773 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   921 MBytes   772 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36326 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  94.2 MBytes   790 Mbits/sec    0    352 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   775 Mbits/sec    0    352 KBytes       
+[  5]   2.00-3.00   sec  92.5 MBytes   776 Mbits/sec    0    352 KBytes       
+[  5]   3.00-4.00   sec  91.8 MBytes   770 Mbits/sec    0    369 KBytes       
+[  5]   4.00-5.00   sec  91.7 MBytes   769 Mbits/sec    0    369 KBytes       
+[  5]   5.00-6.00   sec  92.5 MBytes   776 Mbits/sec    0    369 KBytes       
+[  5]   6.00-7.00   sec  92.5 MBytes   776 Mbits/sec    0    369 KBytes       
+[  5]   7.00-8.00   sec  92.5 MBytes   776 Mbits/sec    0    369 KBytes       
+[  5]   8.00-9.00   sec  92.5 MBytes   776 Mbits/sec    0    369 KBytes       
+[  5]   9.00-10.00  sec  92.5 MBytes   776 Mbits/sec    0    369 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   925 MBytes   776 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   923 MBytes   775 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36336 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  94.0 MBytes   788 Mbits/sec    0    337 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   774 Mbits/sec    0    337 KBytes       
+[  5]   2.00-3.00   sec  93.0 MBytes   780 Mbits/sec    0    337 KBytes       
+[  5]   3.00-4.00   sec  92.7 MBytes   777 Mbits/sec    0    359 KBytes       
+[  5]   4.00-5.00   sec  91.7 MBytes   769 Mbits/sec    0    359 KBytes       
+[  5]   5.00-6.00   sec  91.7 MBytes   769 Mbits/sec    0    359 KBytes       
+[  5]   6.00-7.00   sec  91.0 MBytes   763 Mbits/sec    0    359 KBytes       
+[  5]   7.00-8.00   sec  91.7 MBytes   769 Mbits/sec    0    359 KBytes       
+[  5]   8.00-9.00   sec  91.0 MBytes   763 Mbits/sec    0    359 KBytes       
+[  5]   9.00-10.00  sec  91.0 MBytes   763 Mbits/sec    0    359 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   920 MBytes   772 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   919 MBytes   770 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36342 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  94.3 MBytes   791 Mbits/sec    0    342 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   775 Mbits/sec    0    359 KBytes       
+[  5]   2.00-3.00   sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+[  5]   3.00-4.00   sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+[  5]   4.00-5.00   sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+[  5]   5.00-6.00   sec  93.2 MBytes   782 Mbits/sec    0    359 KBytes       
+[  5]   6.00-7.00   sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+[  5]   7.00-8.00   sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+[  5]   8.00-9.00   sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+[  5]   9.00-10.00  sec  92.5 MBytes   776 Mbits/sec    0    359 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   927 MBytes   778 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   926 MBytes   776 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36350 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  93.8 MBytes   787 Mbits/sec    0    274 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   774 Mbits/sec    0    274 KBytes       
+[  5]   2.00-3.00   sec  92.8 MBytes   779 Mbits/sec    0    274 KBytes       
+[  5]   3.00-4.00   sec  91.8 MBytes   770 Mbits/sec    0    301 KBytes       
+[  5]   4.00-5.00   sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+[  5]   5.00-6.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   6.00-7.00   sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+[  5]   7.00-8.00   sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+[  5]   8.00-9.00   sec  90.7 MBytes   761 Mbits/sec    0    301 KBytes       
+[  5]   9.00-10.00  sec  91.3 MBytes   766 Mbits/sec    0    301 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   918 MBytes   770 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   916 MBytes   769 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36356 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  94.1 MBytes   789 Mbits/sec    0    338 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   774 Mbits/sec    0    338 KBytes       
+[  5]   2.00-3.00   sec  93.0 MBytes   780 Mbits/sec    0    338 KBytes       
+[  5]   3.00-4.00   sec  92.3 MBytes   774 Mbits/sec    0    355 KBytes       
+[  5]   4.00-5.00   sec  92.5 MBytes   776 Mbits/sec    0    355 KBytes       
+[  5]   5.00-6.00   sec  92.4 MBytes   775 Mbits/sec    0    355 KBytes       
+[  5]   6.00-7.00   sec  93.1 MBytes   781 Mbits/sec    0    355 KBytes       
+[  5]   7.00-8.00   sec  91.9 MBytes   771 Mbits/sec    0    355 KBytes       
+[  5]   8.00-9.00   sec  92.6 MBytes   777 Mbits/sec    0    355 KBytes       
+[  5]   9.00-10.00  sec  92.5 MBytes   776 Mbits/sec    0    355 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   927 MBytes   777 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   925 MBytes   776 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host des02.kask, port 5201
+[  5] local 172.20.83.201 port 36364 connected to 172.20.83.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  93.7 MBytes   786 Mbits/sec    0    288 KBytes       
+[  5]   1.00-2.00   sec  92.3 MBytes   775 Mbits/sec    0    288 KBytes       
+[  5]   2.00-3.00   sec  92.5 MBytes   776 Mbits/sec    0    288 KBytes       
+[  5]   3.00-4.00   sec  92.3 MBytes   774 Mbits/sec    0    288 KBytes       
+[  5]   4.00-5.00   sec  92.5 MBytes   776 Mbits/sec    0    288 KBytes       
+[  5]   5.00-6.00   sec  92.7 MBytes   777 Mbits/sec    0    288 KBytes       
+[  5]   6.00-7.00   sec  92.2 MBytes   773 Mbits/sec    0    288 KBytes       
+[  5]   7.00-8.00   sec  92.7 MBytes   777 Mbits/sec    0    288 KBytes       
+[  5]   8.00-9.00   sec  92.1 MBytes   773 Mbits/sec    0    383 KBytes       
+[  5]   9.00-10.00  sec  91.0 MBytes   764 Mbits/sec    0    383 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   924 MBytes   775 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec   922 MBytes   774 Mbits/sec                  receiver
+
+iperf Done.

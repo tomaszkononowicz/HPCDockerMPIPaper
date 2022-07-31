@@ -1,0 +1,2787 @@
+nohup: zignorowane dane wejściowe
+SPMDv4_O3_native_2
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2416.15user 0.50system 20:08.63elapsed 199%CPU (0avgtext+0avgdata 782012maxresident)k
+0inputs+16488outputs (7major+393496minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 416 634,46 msec task-clock                #    1,999 CPUs utilized          
+             9 386      context-switches          #    0,004 K/sec                  
+         1 217 546      hw_interrupts.received    #    0,504 K/sec                    (21,05%)
+           393 563      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 556      minor-faults              #    0,163 K/sec                  
+ 9 879 561 684 447      cpu-cycles                #    4,088 GHz                      (21,05%)
+10 160 101 851 888      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 879 876 417 058      inst_retired.total_cycles_ps # 4088,279 M/sec                    (26,32%)
+10 159 872 209 868      inst_retired.any          # 4204,141 M/sec                    (26,31%)
+10 160 067 241 485      inst_retired.any_p        # 4204,222 M/sec                    (26,32%)
+    33 741 171 137      cache-references          #   13,962 M/sec                    (26,32%)
+    23 106 084 880      cache-misses              #   68,480 % of all cache refs      (26,32%)
+   362 924 426 806      L1-dcache-loads           #  150,178 M/sec                    (26,32%)
+    15 010 378 952      L1-dcache-load-misses     #    4,14% of all L1-dcache hits    (26,32%)
+   116 773 418 978      L1-dcache-stores          #   48,321 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 986 760 560      l2_rqsts.references       #   14,477 M/sec                    (21,05%)
+    20 000 749 681      l2_rqsts.miss             #    8,276 M/sec                    (21,05%)
+       465 796 483      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       236 991 267      LLC-load-misses           #   50,88% of all LL-cache hits     (21,05%)
+        98 618 752      LLC-stores                #    0,041 M/sec                    (10,53%)
+        55 881 184      LLC-store-misses          #    0,023 M/sec                    (10,53%)
+ 2 925 015 303 772      branches                  # 1210,367 M/sec                    (15,79%)
+    14 498 852 674      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1208,638252683 seconds time elapsed
+
+    2416,158393000 seconds user
+       0,506498000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2415.04user 0.47system 20:08.05elapsed 199%CPU (0avgtext+0avgdata 782356maxresident)k
+0inputs+16496outputs (7major+393501minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 415 500,56 msec task-clock                #    1,999 CPUs utilized          
+             8 541      context-switches          #    0,004 K/sec                  
+         1 213 035      hw_interrupts.received    #    0,502 K/sec                    (21,05%)
+           393 569      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 562      minor-faults              #    0,163 K/sec                  
+ 9 877 150 778 281      cpu-cycles                #    4,089 GHz                      (21,05%)
+10 159 041 153 636      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 877 284 527 961      inst_retired.total_cycles_ps # 4089,125 M/sec                    (26,32%)
+10 158 965 313 335      inst_retired.any          # 4205,739 M/sec                    (26,32%)
+10 158 922 182 103      inst_retired.any_p        # 4205,721 M/sec                    (26,32%)
+    33 718 306 317      cache-references          #   13,959 M/sec                    (26,32%)
+    23 121 420 138      cache-misses              #   68,572 % of all cache refs      (26,32%)
+   362 633 678 460      L1-dcache-loads           #  150,128 M/sec                    (26,32%)
+    14 994 176 212      L1-dcache-load-misses     #    4,13% of all L1-dcache hits    (26,32%)
+   116 704 480 445      L1-dcache-stores          #   48,315 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 970 142 347      l2_rqsts.references       #   14,477 M/sec                    (21,05%)
+    19 999 169 508      l2_rqsts.miss             #    8,280 M/sec                    (21,05%)
+       465 390 828      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       236 476 497      LLC-load-misses           #   50,81% of all LL-cache hits     (21,05%)
+       113 639 934      LLC-stores                #    0,047 M/sec                    (10,53%)
+        70 151 752      LLC-store-misses          #    0,029 M/sec                    (10,53%)
+ 2 924 636 934 178      branches                  # 1210,779 M/sec                    (15,79%)
+    14 496 374 048      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1208,055278378 seconds time elapsed
+
+    2415,045168000 seconds user
+       0,479098000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2414.83user 0.42system 20:07.87elapsed 199%CPU (0avgtext+0avgdata 782280maxresident)k
+0inputs+16496outputs (7major+393481minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 415 239,62 msec task-clock                #    2,000 CPUs utilized          
+             8 581      context-switches          #    0,004 K/sec                  
+         1 212 114      hw_interrupts.received    #    0,502 K/sec                    (21,05%)
+           393 547      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 540      minor-faults              #    0,163 K/sec                  
+ 9 875 882 961 602      cpu-cycles                #    4,089 GHz                      (21,05%)
+10 158 649 121 187      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 876 182 256 407      inst_retired.total_cycles_ps # 4089,111 M/sec                    (26,31%)
+10 158 988 891 634      inst_retired.any          # 4206,203 M/sec                    (26,32%)
+10 159 259 837 313      inst_retired.any_p        # 4206,315 M/sec                    (26,32%)
+    33 674 435 382      cache-references          #   13,942 M/sec                    (26,32%)
+    22 798 254 093      cache-misses              #   67,702 % of all cache refs      (26,32%)
+   362 553 292 423      L1-dcache-loads           #  150,111 M/sec                    (26,32%)
+    15 020 748 430      L1-dcache-load-misses     #    4,14% of all L1-dcache hits    (26,32%)
+   116 706 740 352      L1-dcache-stores          #   48,321 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 082 990 706      l2_rqsts.references       #   14,526 M/sec                    (21,05%)
+    19 986 749 006      l2_rqsts.miss             #    8,275 M/sec                    (21,05%)
+       465 632 748      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       233 261 508      LLC-load-misses           #   50,10% of all LL-cache hits     (21,05%)
+       118 214 493      LLC-stores                #    0,049 M/sec                    (10,53%)
+        72 833 675      LLC-store-misses          #    0,030 M/sec                    (10,53%)
+ 2 924 549 894 674      branches                  # 1210,874 M/sec                    (15,79%)
+    14 496 126 446      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1207,877619976 seconds time elapsed
+
+    2414,836101000 seconds user
+       0,429163000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2414.94user 0.48system 20:08.00elapsed 199%CPU (0avgtext+0avgdata 781992maxresident)k
+0inputs+16496outputs (7major+393511minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 415 406,84 msec task-clock                #    2,000 CPUs utilized          
+             8 733      context-switches          #    0,004 K/sec                  
+         1 213 884      hw_interrupts.received    #    0,503 K/sec                    (21,05%)
+           393 578      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 571      minor-faults              #    0,163 K/sec                  
+ 9 877 383 359 565      cpu-cycles                #    4,089 GHz                      (21,05%)
+10 159 567 929 425      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 877 859 180 398      inst_retired.total_cycles_ps # 4089,522 M/sec                    (26,31%)
+10 159 483 165 751      inst_retired.any          # 4206,117 M/sec                    (26,31%)
+10 159 523 541 088      inst_retired.any_p        # 4206,133 M/sec                    (26,31%)
+    33 728 960 412      cache-references          #   13,964 M/sec                    (26,32%)
+    23 046 328 592      cache-misses              #   68,328 % of all cache refs      (26,32%)
+   362 423 246 816      L1-dcache-loads           #  150,046 M/sec                    (26,32%)
+    15 000 395 720      L1-dcache-load-misses     #    4,14% of all L1-dcache hits    (26,32%)
+   116 707 789 550      L1-dcache-stores          #   48,318 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 976 876 603      l2_rqsts.references       #   14,481 M/sec                    (21,05%)
+    20 005 963 375      l2_rqsts.miss             #    8,283 M/sec                    (21,05%)
+       467 023 904      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       235 660 574      LLC-load-misses           #   50,46% of all LL-cache hits     (21,05%)
+       100 635 555      LLC-stores                #    0,042 M/sec                    (10,53%)
+        53 560 530      LLC-store-misses          #    0,022 M/sec                    (10,53%)
+ 2 924 775 180 646      branches                  # 1210,883 M/sec                    (15,79%)
+    14 497 451 204      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1208,005110337 seconds time elapsed
+
+    2414,947756000 seconds user
+       0,481936000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2414.64user 0.43system 20:07.82elapsed 199%CPU (0avgtext+0avgdata 782340maxresident)k
+0inputs+16496outputs (7major+393495minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 415 061,53 msec task-clock                #    2,000 CPUs utilized          
+             8 764      context-switches          #    0,004 K/sec                  
+         1 213 103      hw_interrupts.received    #    0,502 K/sec                    (21,05%)
+           393 560      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 553      minor-faults              #    0,163 K/sec                  
+ 9 876 742 273 625      cpu-cycles                #    4,090 GHz                      (21,05%)
+10 158 935 933 880      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 877 161 363 129      inst_retired.total_cycles_ps # 4089,818 M/sec                    (26,31%)
+10 159 502 874 256      inst_retired.any          # 4206,726 M/sec                    (26,32%)
+10 159 714 989 407      inst_retired.any_p        # 4206,814 M/sec                    (26,32%)
+    33 706 516 487      cache-references          #   13,957 M/sec                    (26,32%)
+    22 845 522 284      cache-misses              #   67,778 % of all cache refs      (26,32%)
+   362 710 611 675      L1-dcache-loads           #  150,187 M/sec                    (26,32%)
+    14 976 034 071      L1-dcache-load-misses     #    4,13% of all L1-dcache hits    (26,32%)
+   116 665 922 043      L1-dcache-stores          #   48,308 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 937 887 366      l2_rqsts.references       #   14,467 M/sec                    (21,05%)
+    19 993 883 358      l2_rqsts.miss             #    8,279 M/sec                    (21,05%)
+       465 413 713      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       233 488 812      LLC-load-misses           #   50,17% of all LL-cache hits     (21,05%)
+       113 270 506      LLC-stores                #    0,047 M/sec                    (10,53%)
+        70 692 875      LLC-store-misses          #    0,029 M/sec                    (10,53%)
+ 2 924 675 593 363      branches                  # 1211,015 M/sec                    (15,79%)
+    14 496 331 315      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1207,824515865 seconds time elapsed
+
+    2414,649439000 seconds user
+       0,436273000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2414.95user 0.41system 20:07.97elapsed 199%CPU (0avgtext+0avgdata 782300maxresident)k
+0inputs+16496outputs (7major+393478minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 415 351,29 msec task-clock                #    2,000 CPUs utilized          
+             9 142      context-switches          #    0,004 K/sec                  
+         1 219 143      hw_interrupts.received    #    0,505 K/sec                    (21,05%)
+           393 545      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 538      minor-faults              #    0,163 K/sec                  
+ 9 877 359 464 160      cpu-cycles                #    4,089 GHz                      (21,05%)
+10 159 803 343 105      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 877 814 469 306      inst_retired.total_cycles_ps # 4089,597 M/sec                    (26,32%)
+10 159 734 746 792      inst_retired.any          # 4206,318 M/sec                    (26,32%)
+10 159 809 113 355      inst_retired.any_p        # 4206,348 M/sec                    (26,32%)
+    33 699 037 958      cache-references          #   13,952 M/sec                    (26,32%)
+    22 700 603 905      cache-misses              #   67,363 % of all cache refs      (26,32%)
+   362 872 147 592      L1-dcache-loads           #  150,236 M/sec                    (26,32%)
+    14 995 232 075      L1-dcache-load-misses     #    4,13% of all L1-dcache hits    (26,32%)
+   116 856 811 069      L1-dcache-stores          #   48,381 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 977 963 056      l2_rqsts.references       #   14,482 M/sec                    (21,05%)
+    19 990 331 459      l2_rqsts.miss             #    8,276 M/sec                    (21,05%)
+       466 578 843      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       233 042 786      LLC-load-misses           #   49,95% of all LL-cache hits     (21,05%)
+       103 080 378      LLC-stores                #    0,043 M/sec                    (10,53%)
+        64 159 163      LLC-store-misses          #    0,027 M/sec                    (10,53%)
+ 2 924 733 422 989      branches                  # 1210,894 M/sec                    (15,79%)
+    14 497 721 211      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1207,974311231 seconds time elapsed
+
+    2414,954567000 seconds user
+       0,419586000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2414.50user 0.51system 20:07.80elapsed 199%CPU (0avgtext+0avgdata 782148maxresident)k
+0inputs+16496outputs (7major+393500minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 414 998,20 msec task-clock                #    1,999 CPUs utilized          
+             9 245      context-switches          #    0,004 K/sec                  
+         1 213 941      hw_interrupts.received    #    0,503 K/sec                    (21,05%)
+           393 568      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 561      minor-faults              #    0,163 K/sec                  
+ 9 877 502 791 676      cpu-cycles                #    4,090 GHz                      (21,05%)
+10 159 468 282 771      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 877 661 510 679      inst_retired.total_cycles_ps # 4090,132 M/sec                    (26,32%)
+10 159 629 073 825      inst_retired.any          # 4206,889 M/sec                    (26,32%)
+10 159 557 968 314      inst_retired.any_p        # 4206,859 M/sec                    (26,31%)
+    33 729 820 038      cache-references          #   13,967 M/sec                    (26,31%)
+    22 930 595 020      cache-misses              #   67,983 % of all cache refs      (26,31%)
+   362 545 018 865      L1-dcache-loads           #  150,122 M/sec                    (26,32%)
+    15 044 323 338      L1-dcache-load-misses     #    4,15% of all L1-dcache hits    (26,32%)
+   116 609 345 419      L1-dcache-stores          #   48,285 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 110 447 988      l2_rqsts.references       #   14,538 M/sec                    (21,05%)
+    19 985 893 575      l2_rqsts.miss             #    8,276 M/sec                    (21,05%)
+       464 049 441      LLC-loads                 #    0,192 M/sec                    (21,05%)
+       233 829 675      LLC-load-misses           #   50,39% of all LL-cache hits     (21,05%)
+       101 485 636      LLC-stores                #    0,042 M/sec                    (10,53%)
+        58 720 730      LLC-store-misses          #    0,024 M/sec                    (10,53%)
+ 2 924 871 923 701      branches                  # 1211,128 M/sec                    (15,79%)
+    14 497 763 254      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1207,801828264 seconds time elapsed
+
+    2414,508165000 seconds user
+       0,517129000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2426.49user 0.41system 20:13.71elapsed 199%CPU (0avgtext+0avgdata 782012maxresident)k
+0inputs+16496outputs (7major+393514minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 426 883,72 msec task-clock                #    2,000 CPUs utilized          
+             9 647      context-switches          #    0,004 K/sec                  
+         1 219 238      hw_interrupts.received    #    0,502 K/sec                    (21,05%)
+           393 581      page-faults               #    0,162 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 574      minor-faults              #    0,162 K/sec                  
+ 9 926 139 256 390      cpu-cycles                #    4,090 GHz                      (21,05%)
+10 184 094 905 511      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 926 368 237 573      inst_retired.total_cycles_ps # 4090,171 M/sec                    (26,32%)
+10 184 166 262 658      inst_retired.any          # 4196,396 M/sec                    (26,32%)
+10 184 251 913 124      inst_retired.any_p        # 4196,432 M/sec                    (26,32%)
+    33 695 928 695      cache-references          #   13,884 M/sec                    (26,32%)
+    22 761 495 246      cache-misses              #   67,550 % of all cache refs      (26,32%)
+   370 871 271 553      L1-dcache-loads           #  152,818 M/sec                    (26,32%)
+    15 014 047 362      L1-dcache-load-misses     #    4,05% of all L1-dcache hits    (26,32%)
+   120 265 652 586      L1-dcache-stores          #   49,556 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 085 963 912      l2_rqsts.references       #   14,457 M/sec                    (21,05%)
+    20 005 039 674      l2_rqsts.miss             #    8,243 M/sec                    (21,05%)
+       466 005 389      LLC-loads                 #    0,192 M/sec                    (21,05%)
+       232 979 106      LLC-load-misses           #   49,99% of all LL-cache hits     (21,05%)
+       112 685 907      LLC-stores                #    0,046 M/sec                    (10,53%)
+        69 616 532      LLC-store-misses          #    0,029 M/sec                    (10,53%)
+ 2 929 335 105 137      branches                  # 1207,036 M/sec                    (15,79%)
+    14 522 115 906      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1213,715471469 seconds time elapsed
+
+    2426,499111000 seconds user
+       0,411887000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2414.67user 0.42system 20:07.83elapsed 199%CPU (0avgtext+0avgdata 781996maxresident)k
+0inputs+16496outputs (7major+393495minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 415 065,73 msec task-clock                #    1,999 CPUs utilized          
+             9 204      context-switches          #    0,004 K/sec                  
+         1 213 586      hw_interrupts.received    #    0,503 K/sec                    (21,05%)
+           393 562      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 555      minor-faults              #    0,163 K/sec                  
+ 9 877 318 159 542      cpu-cycles                #    4,090 GHz                      (21,05%)
+10 159 943 727 973      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 877 880 676 938      inst_retired.total_cycles_ps # 4090,108 M/sec                    (26,32%)
+10 160 169 772 192      inst_retired.any          # 4206,995 M/sec                    (26,32%)
+10 160 154 879 246      inst_retired.any_p        # 4206,989 M/sec                    (26,32%)
+    33 705 479 315      cache-references          #   13,956 M/sec                    (26,32%)
+    22 730 843 857      cache-misses              #   67,440 % of all cache refs      (26,32%)
+   362 886 893 272      L1-dcache-loads           #  150,260 M/sec                    (26,32%)
+    15 000 193 058      L1-dcache-load-misses     #    4,13% of all L1-dcache hits    (26,32%)
+   116 909 800 273      L1-dcache-stores          #   48,409 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 994 122 834      l2_rqsts.references       #   14,490 M/sec                    (21,05%)
+    20 003 683 384      l2_rqsts.miss             #    8,283 M/sec                    (21,05%)
+       466 930 709      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       232 995 759      LLC-load-misses           #   49,90% of all LL-cache hits     (21,05%)
+        97 927 755      LLC-stores                #    0,041 M/sec                    (10,53%)
+        59 312 872      LLC-store-misses          #    0,025 M/sec                    (10,53%)
+ 2 924 805 644 038      branches                  # 1211,067 M/sec                    (15,79%)
+    14 497 837 864      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1207,837301648 seconds time elapsed
+
+    2414,671738000 seconds user
+       0,423332000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2414.50user 0.41system 20:07.74elapsed 199%CPU (0avgtext+0avgdata 781996maxresident)k
+0inputs+16496outputs (7major+393481minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 2 SPMDv4_O3_native 200 400 600 300':
+
+      2 414 897,95 msec task-clock                #    2,000 CPUs utilized          
+             9 680      context-switches          #    0,004 K/sec                  
+         1 213 431      hw_interrupts.received    #    0,502 K/sec                    (21,05%)
+           393 548      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           393 541      minor-faults              #    0,163 K/sec                  
+ 9 876 439 176 669      cpu-cycles                #    4,090 GHz                      (21,05%)
+10 158 922 043 700      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 876 954 647 203      inst_retired.total_cycles_ps # 4090,009 M/sec                    (26,32%)
+10 159 382 066 466      inst_retired.any          # 4206,961 M/sec                    (26,32%)
+10 159 638 362 074      inst_retired.any_p        # 4207,067 M/sec                    (26,32%)
+    33 706 127 531      cache-references          #   13,958 M/sec                    (26,32%)
+    22 672 662 750      cache-misses              #   67,266 % of all cache refs      (26,32%)
+   362 611 414 907      L1-dcache-loads           #  150,156 M/sec                    (26,32%)
+    14 990 259 355      L1-dcache-load-misses     #    4,13% of all L1-dcache hits    (26,32%)
+   116 776 198 727      L1-dcache-stores          #   48,357 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    34 957 920 727      l2_rqsts.references       #   14,476 M/sec                    (21,05%)
+    19 992 070 210      l2_rqsts.miss             #    8,279 M/sec                    (21,05%)
+       465 657 318      LLC-loads                 #    0,193 M/sec                    (21,05%)
+       232 518 536      LLC-load-misses           #   49,93% of all LL-cache hits     (21,05%)
+       109 671 246      LLC-stores                #    0,045 M/sec                    (10,53%)
+        61 611 062      LLC-store-misses          #    0,026 M/sec                    (10,53%)
+ 2 924 726 407 204      branches                  # 1211,118 M/sec                    (15,79%)
+    14 497 666 749      branch-misses             #    0,50% of all branches          (21,05%)
+
+    1207,748937575 seconds time elapsed
+
+    2414,504195000 seconds user
+       0,418865000 seconds sys
+
+
+SPMDv4_O3_native_4
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2472.65user 0.69system 10:18.63elapsed 399%CPU (0avgtext+0avgdata 398076maxresident)k
+0inputs+16488outputs (7major+398313minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 473 325,69 msec task-clock                #    3,998 CPUs utilized          
+            10 293      context-switches          #    0,004 K/sec                  
+         1 282 221      hw_interrupts.received    #    0,518 K/sec                    (21,05%)
+           398 375      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 368      minor-faults              #    0,161 K/sec                  
+ 9 882 233 315 206      cpu-cycles                #    3,996 GHz                      (21,05%)
+10 162 012 951 300      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 882 390 977 749      inst_retired.total_cycles_ps # 3995,588 M/sec                    (26,32%)
+10 161 746 601 119      inst_retired.any          # 4108,536 M/sec                    (26,32%)
+10 161 721 266 627      inst_retired.any_p        # 4108,525 M/sec                    (26,32%)
+    33 872 054 437      cache-references          #   13,695 M/sec                    (26,32%)
+    21 802 042 399      cache-misses              #   64,366 % of all cache refs      (26,31%)
+   363 025 073 989      L1-dcache-loads           #  146,776 M/sec                    (26,32%)
+    15 376 030 846      L1-dcache-load-misses     #    4,24% of all L1-dcache hits    (26,32%)
+   116 950 698 163      L1-dcache-stores          #   47,285 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 985 659 274      l2_rqsts.references       #   14,550 M/sec                    (21,05%)
+    20 110 373 809      l2_rqsts.miss             #    8,131 M/sec                    (21,05%)
+       492 798 354      LLC-loads                 #    0,199 M/sec                    (21,05%)
+       242 109 423      LLC-load-misses           #   49,13% of all LL-cache hits     (21,05%)
+       173 298 234      LLC-stores                #    0,070 M/sec                    (10,53%)
+       103 288 459      LLC-store-misses          #    0,042 M/sec                    (10,53%)
+ 2 925 279 329 744      branches                  # 1182,731 M/sec                    (15,79%)
+    14 499 673 199      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,636998022 seconds time elapsed
+
+    2472,652065000 seconds user
+       0,694375000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2472.54user 0.68system 10:18.60elapsed 399%CPU (0avgtext+0avgdata 398172maxresident)k
+0inputs+16496outputs (7major+398319minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 473 202,25 msec task-clock                #    3,998 CPUs utilized          
+            10 225      context-switches          #    0,004 K/sec                  
+         1 282 756      hw_interrupts.received    #    0,519 K/sec                    (21,05%)
+           398 384      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 377      minor-faults              #    0,161 K/sec                  
+ 9 881 108 288 714      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 159 966 867 532      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 881 310 804 709      inst_retired.total_cycles_ps # 3995,351 M/sec                    (26,31%)
+10 160 128 573 574      inst_retired.any          # 4108,086 M/sec                    (26,31%)
+10 160 373 683 343      inst_retired.any_p        # 4108,186 M/sec                    (26,31%)
+    33 870 121 293      cache-references          #   13,695 M/sec                    (26,31%)
+    21 996 381 949      cache-misses              #   64,943 % of all cache refs      (26,32%)
+   362 761 351 355      L1-dcache-loads           #  146,677 M/sec                    (26,32%)
+    15 381 489 008      L1-dcache-load-misses     #    4,24% of all L1-dcache hits    (26,32%)
+   116 838 579 544      L1-dcache-stores          #   47,242 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 984 160 999      l2_rqsts.references       #   14,550 M/sec                    (21,05%)
+    20 125 685 004      l2_rqsts.miss             #    8,138 M/sec                    (21,05%)
+       493 108 289      LLC-loads                 #    0,199 M/sec                    (21,05%)
+       243 273 864      LLC-load-misses           #   49,33% of all LL-cache hits     (21,05%)
+       167 111 291      LLC-stores                #    0,068 M/sec                    (10,53%)
+        97 858 842      LLC-store-misses          #    0,040 M/sec                    (10,53%)
+ 2 924 716 425 729      branches                  # 1182,563 M/sec                    (15,79%)
+    14 499 377 142      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,608975930 seconds time elapsed
+
+    2472,543824000 seconds user
+       0,681277000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2471.97user 0.66system 10:18.46elapsed 399%CPU (0avgtext+0avgdata 398168maxresident)k
+0inputs+16496outputs (7major+398272minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 472 619,04 msec task-clock                #    3,998 CPUs utilized          
+            10 362      context-switches          #    0,004 K/sec                  
+         1 263 481      hw_interrupts.received    #    0,511 K/sec                    (21,05%)
+           398 337      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 330      minor-faults              #    0,161 K/sec                  
+ 9 879 263 367 153      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 160 514 073 228      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 879 434 149 105      inst_retired.total_cycles_ps # 3995,534 M/sec                    (26,32%)
+10 160 673 929 289      inst_retired.any          # 4109,276 M/sec                    (26,32%)
+10 160 694 336 204      inst_retired.any_p        # 4109,284 M/sec                    (26,31%)
+    33 852 715 292      cache-references          #   13,691 M/sec                    (26,31%)
+    21 526 773 048      cache-misses              #   63,590 % of all cache refs      (26,31%)
+   362 891 034 824      L1-dcache-loads           #  146,764 M/sec                    (26,32%)
+    15 369 895 358      L1-dcache-load-misses     #    4,24% of all L1-dcache hits    (26,32%)
+   116 783 158 736      L1-dcache-stores          #   47,231 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 957 618 517      l2_rqsts.references       #   14,542 M/sec                    (21,05%)
+    20 104 722 559      l2_rqsts.miss             #    8,131 M/sec                    (21,05%)
+       492 022 952      LLC-loads                 #    0,199 M/sec                    (21,05%)
+       238 953 115      LLC-load-misses           #   48,57% of all LL-cache hits     (21,05%)
+       167 014 267      LLC-stores                #    0,068 M/sec                    (10,53%)
+        98 953 228      LLC-store-misses          #    0,040 M/sec                    (10,53%)
+ 2 924 893 423 425      branches                  # 1182,913 M/sec                    (15,79%)
+    14 500 098 669      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,464466635 seconds time elapsed
+
+    2471,973982000 seconds user
+       0,667185000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2471.81user 0.70system 10:18.44elapsed 399%CPU (0avgtext+0avgdata 398132maxresident)k
+0inputs+16496outputs (7major+398319minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 472 497,90 msec task-clock                #    3,998 CPUs utilized          
+            10 308      context-switches          #    0,004 K/sec                  
+         1 264 784      hw_interrupts.received    #    0,512 K/sec                    (21,05%)
+           398 380      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 373      minor-faults              #    0,161 K/sec                  
+ 9 878 698 629 954      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 161 005 880 974      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 878 822 680 244      inst_retired.total_cycles_ps # 3995,483 M/sec                    (26,32%)
+10 160 964 106 579      inst_retired.any          # 4109,595 M/sec                    (26,32%)
+10 160 866 028 413      inst_retired.any_p        # 4109,555 M/sec                    (26,31%)
+    33 831 326 368      cache-references          #   13,683 M/sec                    (26,31%)
+    21 243 606 107      cache-misses              #   62,793 % of all cache refs      (26,31%)
+   362 820 603 861      L1-dcache-loads           #  146,743 M/sec                    (26,31%)
+    15 351 568 952      L1-dcache-load-misses     #    4,23% of all L1-dcache hits    (26,32%)
+   116 868 078 943      L1-dcache-stores          #   47,267 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 947 341 607      l2_rqsts.references       #   14,539 M/sec                    (21,05%)
+    20 117 817 340      l2_rqsts.miss             #    8,137 M/sec                    (21,05%)
+       493 905 106      LLC-loads                 #    0,200 M/sec                    (21,05%)
+       235 536 160      LLC-load-misses           #   47,69% of all LL-cache hits     (21,05%)
+       169 464 167      LLC-stores                #    0,069 M/sec                    (10,53%)
+       105 107 212      LLC-store-misses          #    0,043 M/sec                    (10,53%)
+ 2 924 969 078 806      branches                  # 1183,002 M/sec                    (15,79%)
+    14 499 972 919      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,441135813 seconds time elapsed
+
+    2471,819102000 seconds user
+       0,700515000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2472.09user 0.63system 10:18.48elapsed 399%CPU (0avgtext+0avgdata 398060maxresident)k
+0inputs+16496outputs (7major+398305minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 472 712,21 msec task-clock                #    3,998 CPUs utilized          
+            10 111      context-switches          #    0,004 K/sec                  
+         1 270 013      hw_interrupts.received    #    0,514 K/sec                    (21,05%)
+           398 366      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 359      minor-faults              #    0,161 K/sec                  
+ 9 879 532 945 364      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 161 121 681 501      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 879 654 844 755      inst_retired.total_cycles_ps # 3995,473 M/sec                    (26,32%)
+10 161 801 783 075      inst_retired.any          # 4109,577 M/sec                    (26,32%)
+10 161 927 298 584      inst_retired.any_p        # 4109,628 M/sec                    (26,32%)
+    33 845 869 649      cache-references          #   13,688 M/sec                    (26,32%)
+    21 245 343 963      cache-misses              #   62,771 % of all cache refs      (26,31%)
+   363 083 821 273      L1-dcache-loads           #  146,836 M/sec                    (26,32%)
+    15 362 855 623      L1-dcache-load-misses     #    4,23% of all L1-dcache hits    (26,32%)
+   116 834 672 804      L1-dcache-stores          #   47,250 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 958 442 535      l2_rqsts.references       #   14,542 M/sec                    (21,05%)
+    20 109 341 522      l2_rqsts.miss             #    8,133 M/sec                    (21,05%)
+       494 437 073      LLC-loads                 #    0,200 M/sec                    (21,05%)
+       236 417 490      LLC-load-misses           #   47,82% of all LL-cache hits     (21,05%)
+       177 377 893      LLC-stores                #    0,072 M/sec                    (10,53%)
+       106 127 178      LLC-store-misses          #    0,043 M/sec                    (10,53%)
+ 2 924 781 071 664      branches                  # 1182,823 M/sec                    (15,79%)
+    14 499 436 731      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,488126909 seconds time elapsed
+
+    2472,095034000 seconds user
+       0,638048000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2472.40user 0.70system 10:18.59elapsed 399%CPU (0avgtext+0avgdata 398136maxresident)k
+0inputs+16496outputs (7major+398282minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 473 078,10 msec task-clock                #    3,998 CPUs utilized          
+            10 577      context-switches          #    0,004 K/sec                  
+         1 260 902      hw_interrupts.received    #    0,510 K/sec                    (21,05%)
+           398 344      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 337      minor-faults              #    0,161 K/sec                  
+ 9 880 682 590 149      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 162 305 253 532      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 880 843 645 492      inst_retired.total_cycles_ps # 3995,363 M/sec                    (26,32%)
+10 162 568 680 051      inst_retired.any          # 4109,279 M/sec                    (26,32%)
+10 162 388 448 541      inst_retired.any_p        # 4109,206 M/sec                    (26,32%)
+    33 858 411 021      cache-references          #   13,691 M/sec                    (26,32%)
+    21 474 405 128      cache-misses              #   63,424 % of all cache refs      (26,32%)
+   363 193 739 446      L1-dcache-loads           #  146,859 M/sec                    (26,32%)
+    15 366 925 545      L1-dcache-load-misses     #    4,23% of all L1-dcache hits    (26,32%)
+   116 812 307 031      L1-dcache-stores          #   47,234 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 917 659 014      l2_rqsts.references       #   14,523 M/sec                    (21,05%)
+    20 105 322 738      l2_rqsts.miss             #    8,130 M/sec                    (21,05%)
+       491 197 199      LLC-loads                 #    0,199 M/sec                    (21,05%)
+       239 917 913      LLC-load-misses           #   48,84% of all LL-cache hits     (21,05%)
+       167 967 721      LLC-stores                #    0,068 M/sec                    (10,53%)
+        97 626 716      LLC-store-misses          #    0,039 M/sec                    (10,53%)
+ 2 925 002 220 165      branches                  # 1182,738 M/sec                    (15,79%)
+    14 499 455 426      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,598486967 seconds time elapsed
+
+    2472,402675000 seconds user
+       0,700207000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2472.06user 0.78system 10:18.52elapsed 399%CPU (0avgtext+0avgdata 398240maxresident)k
+0inputs+16496outputs (7major+398312minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 472 823,96 msec task-clock                #    3,998 CPUs utilized          
+            10 073      context-switches          #    0,004 K/sec                  
+         1 266 431      hw_interrupts.received    #    0,512 K/sec                    (21,05%)
+           398 375      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 368      minor-faults              #    0,161 K/sec                  
+ 9 879 075 397 043      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 159 828 640 498      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 879 334 988 291      inst_retired.total_cycles_ps # 3995,163 M/sec                    (26,32%)
+10 160 648 229 410      inst_retired.any          # 4108,925 M/sec                    (26,32%)
+10 161 073 496 589      inst_retired.any_p        # 4109,097 M/sec                    (26,32%)
+    33 860 493 524      cache-references          #   13,693 M/sec                    (26,32%)
+    21 275 760 388      cache-misses              #   62,834 % of all cache refs      (26,32%)
+   363 338 088 862      L1-dcache-loads           #  146,932 M/sec                    (26,32%)
+    15 373 302 814      L1-dcache-load-misses     #    4,23% of all L1-dcache hits    (26,32%)
+   116 943 761 984      L1-dcache-stores          #   47,292 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 926 711 085      l2_rqsts.references       #   14,529 M/sec                    (21,05%)
+    20 105 429 064      l2_rqsts.miss             #    8,131 M/sec                    (21,05%)
+       491 739 310      LLC-loads                 #    0,199 M/sec                    (21,05%)
+       235 997 414      LLC-load-misses           #   47,99% of all LL-cache hits     (21,05%)
+       165 594 089      LLC-stores                #    0,067 M/sec                    (10,53%)
+        98 310 727      LLC-store-misses          #    0,040 M/sec                    (10,53%)
+ 2 924 576 731 879      branches                  # 1182,687 M/sec                    (15,79%)
+    14 498 253 039      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,530830389 seconds time elapsed
+
+    2472,066164000 seconds user
+       0,783494000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+2472.12user 0.77system 10:18.54elapsed 399%CPU (0avgtext+0avgdata 398080maxresident)k
+0inputs+16496outputs (7major+398303minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 472 875,64 msec task-clock                #    3,998 CPUs utilized          
+            10 112      context-switches          #    0,004 K/sec                  
+         1 276 247      hw_interrupts.received    #    0,516 K/sec                    (21,05%)
+           398 366      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 359      minor-faults              #    0,161 K/sec                  
+ 9 879 934 038 990      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 160 466 073 838      instructions              #    1,03  insn per cycle           (26,31%)
+ 9 880 137 720 436      inst_retired.total_cycles_ps # 3995,404 M/sec                    (26,31%)
+10 160 815 576 633      inst_retired.any          # 4108,907 M/sec                    (26,31%)
+10 160 885 259 488      inst_retired.any_p        # 4108,935 M/sec                    (26,32%)
+    33 865 973 330      cache-references          #   13,695 M/sec                    (26,31%)
+    21 552 096 993      cache-misses              #   63,639 % of all cache refs      (26,32%)
+   362 808 726 002      L1-dcache-loads           #  146,715 M/sec                    (26,32%)
+    15 390 721 265      L1-dcache-load-misses     #    4,24% of all L1-dcache hits    (26,32%)
+   116 933 950 881      L1-dcache-stores          #   47,287 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    36 062 282 916      l2_rqsts.references       #   14,583 M/sec                    (21,05%)
+    20 132 744 403      l2_rqsts.miss             #    8,141 M/sec                    (21,06%)
+       496 297 713      LLC-loads                 #    0,201 M/sec                    (21,05%)
+       240 235 902      LLC-load-misses           #   48,41% of all LL-cache hits     (21,05%)
+       164 631 255      LLC-stores                #    0,067 M/sec                    (10,53%)
+        94 784 704      LLC-store-misses          #    0,038 M/sec                    (10,53%)
+ 2 924 800 613 296      branches                  # 1182,753 M/sec                    (15,79%)
+    14 499 666 705      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,542738933 seconds time elapsed
+
+    2472,123512000 seconds user
+       0,777201000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2472.22user 0.82system 10:18.58elapsed 399%CPU (0avgtext+0avgdata 398064maxresident)k
+0inputs+16496outputs (7major+398309minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 473 024,17 msec task-clock                #    3,998 CPUs utilized          
+            10 255      context-switches          #    0,004 K/sec                  
+         1 269 382      hw_interrupts.received    #    0,513 K/sec                    (21,05%)
+           398 372      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 365      minor-faults              #    0,161 K/sec                  
+ 9 880 878 197 675      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 161 163 739 802      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 880 886 209 702      inst_retired.total_cycles_ps # 3995,467 M/sec                    (26,32%)
+10 161 263 835 330      inst_retired.any          # 4108,841 M/sec                    (26,32%)
+10 161 423 943 255      inst_retired.any_p        # 4108,906 M/sec                    (26,31%)
+    33 861 078 393      cache-references          #   13,692 M/sec                    (26,31%)
+    21 391 520 406      cache-misses              #   63,174 % of all cache refs      (26,31%)
+   362 946 881 637      L1-dcache-loads           #  146,762 M/sec                    (26,31%)
+    15 369 418 614      L1-dcache-load-misses     #    4,23% of all L1-dcache hits    (26,32%)
+   116 838 011 815      L1-dcache-stores          #   47,245 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 963 872 699      l2_rqsts.references       #   14,542 M/sec                    (21,05%)
+    20 119 250 569      l2_rqsts.miss             #    8,135 M/sec                    (21,05%)
+       492 865 274      LLC-loads                 #    0,199 M/sec                    (21,05%)
+       237 013 062      LLC-load-misses           #   48,09% of all LL-cache hits     (21,05%)
+       170 849 633      LLC-stores                #    0,069 M/sec                    (10,53%)
+        97 129 660      LLC-store-misses          #    0,039 M/sec                    (10,53%)
+ 2 924 901 696 489      branches                  # 1182,723 M/sec                    (15,79%)
+    14 500 588 101      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,585544085 seconds time elapsed
+
+    2472,221952000 seconds user
+       0,822412000 seconds sys
+
+
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+2472.06user 0.80system 10:18.52elapsed 399%CPU (0avgtext+0avgdata 398108maxresident)k
+0inputs+16496outputs (7major+398292minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile4 -np 4 SPMDv4_O3_native 200 400 600 300':
+
+      2 472 840,75 msec task-clock                #    3,998 CPUs utilized          
+            10 487      context-switches          #    0,004 K/sec                  
+         1 272 416      hw_interrupts.received    #    0,515 K/sec                    (21,05%)
+           398 357      page-faults               #    0,161 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           398 350      minor-faults              #    0,161 K/sec                  
+ 9 879 872 780 306      cpu-cycles                #    3,995 GHz                      (21,05%)
+10 160 686 748 939      instructions              #    1,03  insn per cycle           (26,32%)
+ 9 879 978 572 014      inst_retired.total_cycles_ps # 3995,396 M/sec                    (26,32%)
+10 160 719 025 811      inst_retired.any          # 4108,926 M/sec                    (26,32%)
+10 160 723 846 583      inst_retired.any_p        # 4108,928 M/sec                    (26,32%)
+    33 852 781 269      cache-references          #   13,690 M/sec                    (26,32%)
+    21 496 267 051      cache-misses              #   63,499 % of all cache refs      (26,31%)
+   362 966 939 695      L1-dcache-loads           #  146,781 M/sec                    (26,32%)
+    15 371 343 750      L1-dcache-load-misses     #    4,23% of all L1-dcache hits    (26,32%)
+   117 024 698 370      L1-dcache-stores          #   47,324 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    35 987 569 073      l2_rqsts.references       #   14,553 M/sec                    (21,05%)
+    20 133 343 943      l2_rqsts.miss             #    8,142 M/sec                    (21,05%)
+       494 765 999      LLC-loads                 #    0,200 M/sec                    (21,05%)
+       238 583 789      LLC-load-misses           #   48,22% of all LL-cache hits     (21,05%)
+       162 552 172      LLC-stores                #    0,066 M/sec                    (10,53%)
+       100 017 020      LLC-store-misses          #    0,040 M/sec                    (10,53%)
+ 2 924 765 623 015      branches                  # 1182,755 M/sec                    (15,79%)
+    14 499 171 154      branch-misses             #    0,50% of all branches          (21,05%)
+
+     618,529078006 seconds time elapsed
+
+    2472,062321000 seconds user
+       0,801836000 seconds sys
+
+
+SPMDv4_O3_native_8
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1260.07user 7.84system 5:17.57elapsed 399%CPU (0avgtext+0avgdata 206212maxresident)k
+0inputs+16488outputs (7major+206147minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 914,26 msec task-clock                #    3,993 CPUs utilized          
+             8 389      context-switches          #    0,007 K/sec                  
+           671 782      hw_interrupts.received    #    0,530 K/sec                    (21,05%)
+           206 603      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 596      minor-faults              #    0,163 K/sec                  
+ 5 065 479 259 577      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 176 111 276 169      instructions              #    1,02  insn per cycle           (26,32%)
+ 5 065 653 871 411      inst_retired.total_cycles_ps # 3995,265 M/sec                    (26,32%)
+ 5 176 357 211 595      inst_retired.any          # 4082,577 M/sec                    (26,32%)
+ 5 176 354 589 014      inst_retired.any_p        # 4082,575 M/sec                    (26,31%)
+    17 172 530 216      cache-references          #   13,544 M/sec                    (26,31%)
+    10 688 124 234      cache-misses              #   62,240 % of all cache refs      (26,31%)
+   211 339 499 006      L1-dcache-loads           #  166,683 M/sec                    (26,31%)
+     7 834 692 422      L1-dcache-load-misses     #    3,71% of all L1-dcache hits    (26,31%)
+    72 152 524 775      L1-dcache-stores          #   56,906 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 312 935 067      l2_rqsts.references       #   14,443 M/sec                    (21,05%)
+    10 228 637 533      l2_rqsts.miss             #    8,067 M/sec                    (21,05%)
+       281 842 655      LLC-loads                 #    0,222 M/sec                    (21,06%)
+       131 481 992      LLC-load-misses           #   46,65% of all LL-cache hits     (21,06%)
+       127 251 178      LLC-stores                #    0,100 M/sec                    (10,53%)
+        64 872 118      LLC-store-misses          #    0,051 M/sec                    (10,53%)
+ 1 481 015 740 124      branches                  # 1168,072 M/sec                    (15,79%)
+     7 467 414 597      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,571924817 seconds time elapsed
+
+    1260,076500000 seconds user
+       7,849637000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.73user 7.98system 5:17.58elapsed 399%CPU (0avgtext+0avgdata 206228maxresident)k
+0inputs+16496outputs (7major+206149minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 729,83 msec task-clock                #    3,992 CPUs utilized          
+             8 509      context-switches          #    0,007 K/sec                  
+           673 165      hw_interrupts.received    #    0,531 K/sec                    (21,05%)
+           206 610      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 603      minor-faults              #    0,163 K/sec                  
+ 5 064 987 011 630      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 168 752 150 056      instructions              #    1,02  insn per cycle           (26,32%)
+ 5 065 085 636 797      inst_retired.total_cycles_ps # 3995,398 M/sec                    (26,32%)
+ 5 169 001 726 355      inst_retired.any          # 4077,369 M/sec                    (26,31%)
+ 5 169 016 395 386      inst_retired.any_p        # 4077,380 M/sec                    (26,31%)
+    17 163 685 781      cache-references          #   13,539 M/sec                    (26,31%)
+    10 494 527 528      cache-misses              #   61,144 % of all cache refs      (26,31%)
+   208 791 707 100      L1-dcache-loads           #  164,697 M/sec                    (26,31%)
+     7 868 077 374      L1-dcache-load-misses     #    3,77% of all L1-dcache hits    (26,31%)
+    71 192 235 221      L1-dcache-stores          #   56,157 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 360 498 664      l2_rqsts.references       #   14,483 M/sec                    (21,05%)
+    10 218 994 406      l2_rqsts.miss             #    8,061 M/sec                    (21,05%)
+       281 130 783      LLC-loads                 #    0,222 M/sec                    (21,05%)
+       129 336 059      LLC-load-misses           #   46,01% of all LL-cache hits     (21,06%)
+       135 390 115      LLC-stores                #    0,107 M/sec                    (10,53%)
+        75 696 687      LLC-store-misses          #    0,060 M/sec                    (10,53%)
+ 1 479 367 504 838      branches                  # 1166,942 M/sec                    (15,79%)
+     7 463 868 897      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,590138935 seconds time elapsed
+
+    1259,733023000 seconds user
+       7,983719000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1260.18user 7.70system 5:17.61elapsed 399%CPU (0avgtext+0avgdata 206264maxresident)k
+0inputs+16496outputs (7major+206143minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 882,61 msec task-clock                #    3,992 CPUs utilized          
+             8 563      context-switches          #    0,007 K/sec                  
+           675 824      hw_interrupts.received    #    0,533 K/sec                    (21,05%)
+           206 598      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 591      minor-faults              #    0,163 K/sec                  
+ 5 065 611 473 668      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 174 560 334 185      instructions              #    1,02  insn per cycle           (26,31%)
+ 5 065 740 781 396      inst_retired.total_cycles_ps # 3995,434 M/sec                    (26,31%)
+ 5 174 906 979 143      inst_retired.any          # 4081,535 M/sec                    (26,31%)
+ 5 175 104 420 029      inst_retired.any_p        # 4081,691 M/sec                    (26,31%)
+    17 141 783 985      cache-references          #   13,520 M/sec                    (26,31%)
+    10 575 962 503      cache-misses              #   61,697 % of all cache refs      (26,31%)
+   210 999 290 612      L1-dcache-loads           #  166,419 M/sec                    (26,32%)
+     7 844 451 841      L1-dcache-load-misses     #    3,72% of all L1-dcache hits    (26,32%)
+    71 873 007 567      L1-dcache-stores          #   56,687 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 332 562 530      l2_rqsts.references       #   14,459 M/sec                    (21,06%)
+    10 219 161 005      l2_rqsts.miss             #    8,060 M/sec                    (21,05%)
+       277 295 605      LLC-loads                 #    0,219 M/sec                    (21,05%)
+       129 796 285      LLC-load-misses           #   46,81% of all LL-cache hits     (21,05%)
+       137 589 013      LLC-stores                #    0,109 M/sec                    (10,53%)
+        74 402 813      LLC-store-misses          #    0,059 M/sec                    (10,53%)
+ 1 480 542 348 410      branches                  # 1167,728 M/sec                    (15,79%)
+     7 467 041 361      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,616016320 seconds time elapsed
+
+    1260,189678000 seconds user
+       7,704486000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1260.28user 7.76system 5:17.68elapsed 399%CPU (0avgtext+0avgdata 206048maxresident)k
+0inputs+16496outputs (7major+206147minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 268 045,58 msec task-clock                #    3,992 CPUs utilized          
+             8 655      context-switches          #    0,007 K/sec                  
+           676 424      hw_interrupts.received    #    0,533 K/sec                    (21,05%)
+           206 606      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 599      minor-faults              #    0,163 K/sec                  
+ 5 065 904 651 188      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 176 195 841 052      instructions              #    1,02  insn per cycle           (26,32%)
+ 5 066 161 052 636      inst_retired.total_cycles_ps # 3995,252 M/sec                    (26,32%)
+ 5 176 500 383 425      inst_retired.any          # 4082,267 M/sec                    (26,31%)
+ 5 176 269 455 691      inst_retired.any_p        # 4082,085 M/sec                    (26,31%)
+    17 161 020 084      cache-references          #   13,533 M/sec                    (26,31%)
+    10 394 863 291      cache-misses              #   60,573 % of all cache refs      (26,31%)
+   211 131 192 064      L1-dcache-loads           #  166,501 M/sec                    (26,31%)
+     7 874 602 330      L1-dcache-load-misses     #    3,73% of all L1-dcache hits    (26,31%)
+    72 208 860 812      L1-dcache-stores          #   56,945 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 361 855 754      l2_rqsts.references       #   14,480 M/sec                    (21,05%)
+    10 221 050 430      l2_rqsts.miss             #    8,060 M/sec                    (21,05%)
+       281 688 142      LLC-loads                 #    0,222 M/sec                    (21,05%)
+       128 878 687      LLC-load-misses           #   45,75% of all LL-cache hits     (21,05%)
+       130 483 948      LLC-stores                #    0,103 M/sec                    (10,53%)
+        69 137 541      LLC-store-misses          #    0,055 M/sec                    (10,53%)
+ 1 480 799 420 846      branches                  # 1167,781 M/sec                    (15,79%)
+     7 469 766 713      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,685431877 seconds time elapsed
+
+    1260,284208000 seconds user
+       7,769311000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.39user 8.23system 5:17.49elapsed 399%CPU (0avgtext+0avgdata 206132maxresident)k
+0inputs+16496outputs (7major+206123minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 618,46 msec task-clock                #    3,993 CPUs utilized          
+             9 157      context-switches          #    0,007 K/sec                  
+           676 467      hw_interrupts.received    #    0,534 K/sec                    (21,05%)
+           206 582      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 575      minor-faults              #    0,163 K/sec                  
+ 5 063 802 225 477      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 175 719 787 824      instructions              #    1,02  insn per cycle           (26,31%)
+ 5 063 893 285 496      inst_retired.total_cycles_ps # 3994,809 M/sec                    (26,31%)
+ 5 175 432 975 878      inst_retired.any          # 4082,800 M/sec                    (26,31%)
+ 5 175 421 047 759      inst_retired.any_p        # 4082,791 M/sec                    (26,31%)
+    17 179 297 451      cache-references          #   13,552 M/sec                    (26,31%)
+    10 443 858 021      cache-misses              #   60,793 % of all cache refs      (26,31%)
+   211 090 523 270      L1-dcache-loads           #  166,525 M/sec                    (26,31%)
+     7 869 198 519      L1-dcache-load-misses     #    3,73% of all L1-dcache hits    (26,31%)
+    71 973 220 890      L1-dcache-stores          #   56,778 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 392 811 912      l2_rqsts.references       #   14,510 M/sec                    (21,06%)
+    10 259 999 795      l2_rqsts.miss             #    8,094 M/sec                    (21,06%)
+       284 247 930      LLC-loads                 #    0,224 M/sec                    (21,06%)
+       128 918 715      LLC-load-misses           #   45,35% of all LL-cache hits     (21,05%)
+       142 829 195      LLC-stores                #    0,113 M/sec                    (10,53%)
+        77 403 965      LLC-store-misses          #    0,061 M/sec                    (10,53%)
+ 1 481 141 237 954      branches                  # 1168,444 M/sec                    (15,79%)
+     7 470 351 659      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,495412526 seconds time elapsed
+
+    1259,400611000 seconds user
+       8,232963000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.63user 8.00system 5:17.52elapsed 399%CPU (0avgtext+0avgdata 206244maxresident)k
+0inputs+16496outputs (7major+206148minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 628,62 msec task-clock                #    3,992 CPUs utilized          
+             8 956      context-switches          #    0,007 K/sec                  
+           671 661      hw_interrupts.received    #    0,530 K/sec                    (21,05%)
+           206 603      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 596      minor-faults              #    0,163 K/sec                  
+ 5 064 353 304 492      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 175 224 007 639      instructions              #    1,02  insn per cycle           (26,31%)
+ 5 064 196 673 890      inst_retired.total_cycles_ps # 3995,016 M/sec                    (26,31%)
+ 5 175 177 336 521      inst_retired.any          # 4082,566 M/sec                    (26,32%)
+ 5 175 073 615 228      inst_retired.any_p        # 4082,484 M/sec                    (26,32%)
+    17 201 373 777      cache-references          #   13,570 M/sec                    (26,32%)
+    10 504 624 158      cache-misses              #   61,069 % of all cache refs      (26,32%)
+   211 194 575 541      L1-dcache-loads           #  166,606 M/sec                    (26,32%)
+     7 888 722 413      L1-dcache-load-misses     #    3,74% of all L1-dcache hits    (26,32%)
+    71 882 564 042      L1-dcache-stores          #   56,706 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 323 190 283      l2_rqsts.references       #   14,455 M/sec                    (21,05%)
+    10 212 557 490      l2_rqsts.miss             #    8,056 M/sec                    (21,05%)
+       278 429 194      LLC-loads                 #    0,220 M/sec                    (21,05%)
+       128 742 876      LLC-load-misses           #   46,24% of all LL-cache hits     (21,05%)
+       132 539 830      LLC-stores                #    0,105 M/sec                    (10,53%)
+        72 893 287      LLC-store-misses          #    0,058 M/sec                    (10,53%)
+ 1 480 963 602 464      branches                  # 1168,295 M/sec                    (15,79%)
+     7 470 391 209      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,529101354 seconds time elapsed
+
+    1259,630763000 seconds user
+       8,011383000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.93user 7.87system 5:17.58elapsed 399%CPU (0avgtext+0avgdata 206412maxresident)k
+0inputs+16504outputs (7major+206139minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 808,11 msec task-clock                #    3,992 CPUs utilized          
+             8 559      context-switches          #    0,007 K/sec                  
+           682 530      hw_interrupts.received    #    0,538 K/sec                    (21,05%)
+           206 593      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 586      minor-faults              #    0,163 K/sec                  
+ 5 065 177 559 984      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 174 860 639 624      instructions              #    1,02  insn per cycle           (26,31%)
+ 5 065 311 854 618      inst_retired.total_cycles_ps # 3995,330 M/sec                    (26,31%)
+ 5 175 592 681 390      inst_retired.any          # 4082,315 M/sec                    (26,31%)
+ 5 175 928 063 412      inst_retired.any_p        # 4082,580 M/sec                    (26,31%)
+    17 147 543 986      cache-references          #   13,525 M/sec                    (26,31%)
+    10 537 561 642      cache-misses              #   61,452 % of all cache refs      (26,31%)
+   211 613 004 898      L1-dcache-loads           #  166,912 M/sec                    (26,31%)
+     7 836 484 732      L1-dcache-load-misses     #    3,70% of all L1-dcache hits    (26,31%)
+    71 995 367 952      L1-dcache-stores          #   56,787 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 296 523 185      l2_rqsts.references       #   14,432 M/sec                    (21,05%)
+    10 238 277 533      l2_rqsts.miss             #    8,076 M/sec                    (21,06%)
+       281 685 915      LLC-loads                 #    0,222 M/sec                    (21,06%)
+       130 072 238      LLC-load-misses           #   46,18% of all LL-cache hits     (21,06%)
+       139 391 764      LLC-stores                #    0,110 M/sec                    (10,53%)
+        76 342 775      LLC-store-misses          #    0,060 M/sec                    (10,53%)
+ 1 480 697 635 853      branches                  # 1167,919 M/sec                    (15,79%)
+     7 468 051 920      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,589720034 seconds time elapsed
+
+    1259,939979000 seconds user
+       7,874346000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.59user 8.15system 5:17.56elapsed 399%CPU (0avgtext+0avgdata 206160maxresident)k
+0inputs+16496outputs (7major+206144minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 745,61 msec task-clock                #    3,992 CPUs utilized          
+             8 922      context-switches          #    0,007 K/sec                  
+           672 597      hw_interrupts.received    #    0,531 K/sec                    (21,05%)
+           206 607      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 600      minor-faults              #    0,163 K/sec                  
+ 5 064 975 814 879      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 175 078 206 622      instructions              #    1,02  insn per cycle           (26,31%)
+ 5 065 110 545 420      inst_retired.total_cycles_ps # 3995,368 M/sec                    (26,31%)
+ 5 175 272 697 615      inst_retired.any          # 4082,264 M/sec                    (26,31%)
+ 5 175 318 331 393      inst_retired.any_p        # 4082,300 M/sec                    (26,31%)
+    17 196 027 238      cache-references          #   13,564 M/sec                    (26,31%)
+    10 604 878 860      cache-misses              #   61,671 % of all cache refs      (26,31%)
+   211 167 197 899      L1-dcache-loads           #  166,569 M/sec                    (26,31%)
+     7 861 609 386      L1-dcache-load-misses     #    3,72% of all L1-dcache hits    (26,31%)
+    72 019 262 229      L1-dcache-stores          #   56,809 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 288 666 744      l2_rqsts.references       #   14,426 M/sec                    (21,05%)
+    10 225 736 026      l2_rqsts.miss             #    8,066 M/sec                    (21,05%)
+       282 485 888      LLC-loads                 #    0,223 M/sec                    (21,05%)
+       130 605 168      LLC-load-misses           #   46,23% of all LL-cache hits     (21,06%)
+       133 998 839      LLC-stores                #    0,106 M/sec                    (10,53%)
+        70 973 940      LLC-store-misses          #    0,056 M/sec                    (10,53%)
+ 1 480 993 927 815      branches                  # 1168,211 M/sec                    (15,79%)
+     7 468 747 481      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,563839181 seconds time elapsed
+
+    1259,597539000 seconds user
+       8,154100000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.24user 8.29system 5:17.49elapsed 399%CPU (0avgtext+0avgdata 206212maxresident)k
+0inputs+16496outputs (7major+206145minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 523,55 msec task-clock                #    3,992 CPUs utilized          
+             9 084      context-switches          #    0,007 K/sec                  
+           675 250      hw_interrupts.received    #    0,533 K/sec                    (21,05%)
+           206 602      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 595      minor-faults              #    0,163 K/sec                  
+ 5 064 036 897 113      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 174 120 686 831      instructions              #    1,02  insn per cycle           (26,31%)
+ 5 064 223 213 971      inst_retired.total_cycles_ps # 3995,368 M/sec                    (26,31%)
+ 5 174 494 429 513      inst_retired.any          # 4082,366 M/sec                    (26,31%)
+ 5 174 579 866 808      inst_retired.any_p        # 4082,433 M/sec                    (26,31%)
+    17 176 249 934      cache-references          #   13,551 M/sec                    (26,31%)
+    10 410 061 714      cache-misses              #   60,607 % of all cache refs      (26,32%)
+   210 614 607 833      L1-dcache-loads           #  166,162 M/sec                    (26,32%)
+     7 917 069 787      L1-dcache-load-misses     #    3,76% of all L1-dcache hits    (26,32%)
+    71 865 288 439      L1-dcache-stores          #   56,697 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 404 551 257      l2_rqsts.references       #   14,520 M/sec                    (21,05%)
+    10 250 170 428      l2_rqsts.miss             #    8,087 M/sec                    (21,05%)
+       285 184 253      LLC-loads                 #    0,225 M/sec                    (21,05%)
+       129 795 841      LLC-load-misses           #   45,51% of all LL-cache hits     (21,05%)
+       129 172 252      LLC-stores                #    0,102 M/sec                    (10,53%)
+        68 051 347      LLC-store-misses          #    0,054 M/sec                    (10,53%)
+ 1 480 556 157 041      branches                  # 1168,070 M/sec                    (15,79%)
+     7 475 693 857      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,499575989 seconds time elapsed
+
+    1259,242158000 seconds user
+       8,292213000 seconds sys
+
+
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+1259.92user 7.81system 5:17.54elapsed 399%CPU (0avgtext+0avgdata 206416maxresident)k
+0inputs+16496outputs (7major+206145minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile8 -np 8 SPMDv4_O3_native 200 400 600 300':
+
+      1 267 735,56 msec task-clock                #    3,992 CPUs utilized          
+             8 634      context-switches          #    0,007 K/sec                  
+           667 623      hw_interrupts.received    #    0,527 K/sec                    (21,05%)
+           206 598      page-faults               #    0,163 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           206 591      minor-faults              #    0,163 K/sec                  
+ 5 065 046 706 898      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 5 175 903 613 215      instructions              #    1,02  insn per cycle           (26,32%)
+ 5 065 165 465 770      inst_retired.total_cycles_ps # 3995,443 M/sec                    (26,32%)
+ 5 175 673 205 599      inst_retired.any          # 4082,613 M/sec                    (26,32%)
+ 5 175 701 746 821      inst_retired.any_p        # 4082,635 M/sec                    (26,32%)
+    17 168 652 309      cache-references          #   13,543 M/sec                    (26,32%)
+    10 656 038 180      cache-misses              #   62,067 % of all cache refs      (26,32%)
+   211 454 519 267      L1-dcache-loads           #  166,797 M/sec                    (26,32%)
+     7 950 982 410      L1-dcache-load-misses     #    3,76% of all L1-dcache hits    (26,32%)
+    72 208 138 761      L1-dcache-stores          #   56,958 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+    18 444 185 249      l2_rqsts.references       #   14,549 M/sec                    (21,05%)
+    10 227 670 637      l2_rqsts.miss             #    8,068 M/sec                    (21,05%)
+       283 317 697      LLC-loads                 #    0,223 M/sec                    (21,05%)
+       131 067 697      LLC-load-misses           #   46,26% of all LL-cache hits     (21,05%)
+       125 510 568      LLC-stores                #    0,099 M/sec                    (10,53%)
+        65 998 129      LLC-store-misses          #    0,052 M/sec                    (10,53%)
+ 1 481 133 950 643      branches                  # 1168,330 M/sec                    (15,79%)
+     7 471 587 458      branch-misses             #    0,50% of all branches          (21,05%)
+
+     317,543632694 seconds time elapsed
+
+    1259,930111000 seconds user
+       7,817192000 seconds sys
+
+
+SPMDv4_O3_native_16
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+646.38user 26.42system 2:49.04elapsed 398%CPU (0avgtext+0avgdata 109396maxresident)k
+0inputs+16488outputs (7major+109698minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        672 867,71 msec task-clock                #    3,980 CPUs utilized          
+             8 276      context-switches          #    0,012 K/sec                  
+           385 618      hw_interrupts.received    #    0,573 K/sec                    (21,05%)
+           110 977      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 970      minor-faults              #    0,165 K/sec                  
+ 2 687 360 086 474      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 2 701 678 914 205      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 687 613 616 475      inst_retired.total_cycles_ps # 3994,267 M/sec                    (26,31%)
+ 2 702 296 017 290      inst_retired.any          # 4016,088 M/sec                    (26,31%)
+ 2 702 317 217 027      inst_retired.any_p        # 4016,120 M/sec                    (26,31%)
+     8 660 617 819      cache-references          #   12,871 M/sec                    (26,31%)
+     3 729 992 213      cache-misses              #   43,068 % of all cache refs      (26,31%)
+   138 445 483 630      L1-dcache-loads           #  205,754 M/sec                    (26,31%)
+     4 177 866 133      L1-dcache-load-misses     #    3,02% of all L1-dcache hits    (26,31%)
+    55 813 719 869      L1-dcache-stores          #   82,949 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 462 038 495      l2_rqsts.references       #   14,062 M/sec                    (21,05%)
+     5 229 574 599      l2_rqsts.miss             #    7,772 M/sec                    (21,05%)
+       163 283 056      LLC-loads                 #    0,243 M/sec                    (21,06%)
+        57 023 689      LLC-load-misses           #   34,92% of all LL-cache hits     (21,06%)
+       105 590 352      LLC-stores                #    0,157 M/sec                    (10,53%)
+        58 136 708      LLC-store-misses          #    0,086 M/sec                    (10,53%)
+   765 233 065 723      branches                  # 1137,271 M/sec                    (15,79%)
+     4 260 199 402      branch-misses             #    0,56% of all branches          (21,05%)
+
+     169,045336218 seconds time elapsed
+
+     646,385336000 seconds user
+      26,426659000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+646.72user 25.53system 2:48.82elapsed 398%CPU (0avgtext+0avgdata 109412maxresident)k
+0inputs+16488outputs (7major+109672minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        672 276,40 msec task-clock                #    3,982 CPUs utilized          
+             8 048      context-switches          #    0,012 K/sec                  
+           393 411      hw_interrupts.received    #    0,585 K/sec                    (21,05%)
+           110 915      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 908      minor-faults              #    0,165 K/sec                  
+ 2 685 347 172 260      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 2 699 719 749 284      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 685 454 771 824      inst_retired.total_cycles_ps # 3994,569 M/sec                    (26,31%)
+ 2 698 626 823 000      inst_retired.any          # 4014,163 M/sec                    (26,31%)
+ 2 699 261 412 870      inst_retired.any_p        # 4015,107 M/sec                    (26,31%)
+     8 660 557 514      cache-references          #   12,882 M/sec                    (26,31%)
+     3 543 087 864      cache-misses              #   40,911 % of all cache refs      (26,31%)
+   137 380 678 681      L1-dcache-loads           #  204,351 M/sec                    (26,32%)
+     4 123 839 524      L1-dcache-load-misses     #    3,00% of all L1-dcache hits    (26,32%)
+    55 981 845 589      L1-dcache-stores          #   83,272 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 461 639 212      l2_rqsts.references       #   14,074 M/sec                    (21,06%)
+     5 250 401 326      l2_rqsts.miss             #    7,810 M/sec                    (21,06%)
+       165 580 678      LLC-loads                 #    0,246 M/sec                    (21,05%)
+        55 330 662      LLC-load-misses           #   33,42% of all LL-cache hits     (21,05%)
+       101 242 740      LLC-stores                #    0,151 M/sec                    (10,52%)
+        50 390 518      LLC-store-misses          #    0,075 M/sec                    (10,53%)
+   765 678 005 731      branches                  # 1138,933 M/sec                    (15,79%)
+     4 246 512 148      branch-misses             #    0,55% of all branches          (21,05%)
+
+     168,827501713 seconds time elapsed
+
+     646,723351000 seconds user
+      25,537493000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+647.47user 26.74system 2:49.30elapsed 398%CPU (0avgtext+0avgdata 109240maxresident)k
+0inputs+16488outputs (7major+110084minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        674 215,30 msec task-clock                #    3,982 CPUs utilized          
+             8 101      context-switches          #    0,012 K/sec                  
+           390 689      hw_interrupts.received    #    0,579 K/sec                    (21,05%)
+           110 925      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 918      minor-faults              #    0,165 K/sec                  
+ 2 693 430 351 136      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 2 706 251 376 092      instructions              #    1,00  insn per cycle           (26,31%)
+ 2 693 529 807 548      inst_retired.total_cycles_ps # 3995,059 M/sec                    (26,31%)
+ 2 705 570 444 336      inst_retired.any          # 4012,918 M/sec                    (26,31%)
+ 2 705 441 201 927      inst_retired.any_p        # 4012,726 M/sec                    (26,31%)
+     8 660 188 761      cache-references          #   12,845 M/sec                    (26,31%)
+     3 519 495 784      cache-misses              #   40,640 % of all cache refs      (26,31%)
+   139 422 157 101      L1-dcache-loads           #  206,792 M/sec                    (26,31%)
+     4 171 106 239      L1-dcache-load-misses     #    2,99% of all L1-dcache hits    (26,32%)
+    56 310 898 491      L1-dcache-stores          #   83,521 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 508 878 772      l2_rqsts.references       #   14,104 M/sec                    (21,06%)
+     5 238 229 032      l2_rqsts.miss             #    7,769 M/sec                    (21,06%)
+       166 019 003      LLC-loads                 #    0,246 M/sec                    (21,06%)
+        54 596 868      LLC-load-misses           #   32,89% of all LL-cache hits     (21,06%)
+       100 845 773      LLC-stores                #    0,150 M/sec                    (10,53%)
+        56 914 553      LLC-store-misses          #    0,084 M/sec                    (10,53%)
+   766 738 704 517      branches                  # 1137,231 M/sec                    (15,79%)
+     4 275 691 377      branch-misses             #    0,56% of all branches          (21,05%)
+
+     169,307616707 seconds time elapsed
+
+     647,478226000 seconds user
+      26,742934000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+645.92user 25.95system 2:48.74elapsed 398%CPU (0avgtext+0avgdata 109304maxresident)k
+0inputs+16488outputs (7major+109699minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        671 901,16 msec task-clock                #    3,982 CPUs utilized          
+             8 155      context-switches          #    0,012 K/sec                  
+           414 943      hw_interrupts.received    #    0,618 K/sec                    (21,05%)
+           110 942      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 935      minor-faults              #    0,165 K/sec                  
+ 2 684 011 793 188      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 2 697 989 577 755      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 684 048 659 064      inst_retired.total_cycles_ps # 3994,708 M/sec                    (26,31%)
+ 2 698 545 633 591      inst_retired.any          # 4016,284 M/sec                    (26,31%)
+ 2 698 912 679 413      inst_retired.any_p        # 4016,830 M/sec                    (26,31%)
+     8 695 641 090      cache-references          #   12,942 M/sec                    (26,31%)
+     3 659 262 210      cache-misses              #   42,082 % of all cache refs      (26,31%)
+   137 649 916 733      L1-dcache-loads           #  204,866 M/sec                    (26,31%)
+     4 150 614 871      L1-dcache-load-misses     #    3,02% of all L1-dcache hits    (26,31%)
+    55 228 524 591      L1-dcache-stores          #   82,197 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 471 884 248      l2_rqsts.references       #   14,097 M/sec                    (21,06%)
+     5 254 406 934      l2_rqsts.miss             #    7,820 M/sec                    (21,06%)
+       168 791 224      LLC-loads                 #    0,251 M/sec                    (21,06%)
+        56 755 155      LLC-load-misses           #   33,62% of all LL-cache hits     (21,06%)
+       100 018 428      LLC-stores                #    0,149 M/sec                    (10,53%)
+        56 207 410      LLC-store-misses          #    0,084 M/sec                    (10,53%)
+   764 969 151 517      branches                  # 1138,514 M/sec                    (15,79%)
+     4 249 240 556      branch-misses             #    0,56% of all branches          (21,05%)
+
+     168,740699852 seconds time elapsed
+
+     645,927742000 seconds user
+      25,959270000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+646.55user 25.73system 2:48.86elapsed 398%CPU (0avgtext+0avgdata 109336maxresident)k
+0inputs+16488outputs (7major+109701minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        672 336,75 msec task-clock                #    3,981 CPUs utilized          
+             8 421      context-switches          #    0,013 K/sec                  
+           392 758      hw_interrupts.received    #    0,584 K/sec                    (21,05%)
+           110 960      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 953      minor-faults              #    0,165 K/sec                  
+ 2 685 884 196 400      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 2 699 872 935 130      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 686 074 287 087      inst_retired.total_cycles_ps # 3995,132 M/sec                    (26,31%)
+ 2 700 039 570 511      inst_retired.any          # 4015,904 M/sec                    (26,31%)
+ 2 700 033 720 413      inst_retired.any_p        # 4015,895 M/sec                    (26,31%)
+     8 673 382 832      cache-references          #   12,900 M/sec                    (26,31%)
+     3 690 731 820      cache-misses              #   42,552 % of all cache refs      (26,31%)
+   137 784 741 106      L1-dcache-loads           #  204,934 M/sec                    (26,32%)
+     4 120 643 349      L1-dcache-load-misses     #    2,99% of all L1-dcache hits    (26,32%)
+    55 426 582 955      L1-dcache-stores          #   82,439 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 410 708 225      l2_rqsts.references       #   13,997 M/sec                    (21,06%)
+     5 235 593 480      l2_rqsts.miss             #    7,787 M/sec                    (21,06%)
+       164 541 140      LLC-loads                 #    0,245 M/sec                    (21,06%)
+        56 795 399      LLC-load-misses           #   34,52% of all LL-cache hits     (21,06%)
+       108 512 971      LLC-stores                #    0,161 M/sec                    (10,53%)
+        50 078 567      LLC-store-misses          #    0,074 M/sec                    (10,53%)
+   765 067 783 835      branches                  # 1137,923 M/sec                    (15,79%)
+     4 253 907 409      branch-misses             #    0,56% of all branches          (21,05%)
+
+     168,867918869 seconds time elapsed
+
+     646,560566000 seconds user
+      25,731205000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+647.22user 26.42system 2:49.18elapsed 398%CPU (0avgtext+0avgdata 109520maxresident)k
+0inputs+16488outputs (7major+109716minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        673 699,92 msec task-clock                #    3,982 CPUs utilized          
+             7 555      context-switches          #    0,011 K/sec                  
+           404 407      hw_interrupts.received    #    0,600 K/sec                    (21,05%)
+           110 969      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 962      minor-faults              #    0,165 K/sec                  
+ 2 690 972 371 412      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 2 699 841 572 785      instructions              #    1,00  insn per cycle           (26,31%)
+ 2 691 123 948 541      inst_retired.total_cycles_ps # 3994,544 M/sec                    (26,31%)
+ 2 699 953 685 409      inst_retired.any          # 4007,650 M/sec                    (26,31%)
+ 2 700 060 627 106      inst_retired.any_p        # 4007,809 M/sec                    (26,31%)
+     8 684 280 175      cache-references          #   12,890 M/sec                    (26,31%)
+     3 700 547 380      cache-misses              #   42,612 % of all cache refs      (26,31%)
+   138 034 348 686      L1-dcache-loads           #  204,890 M/sec                    (26,31%)
+     4 098 698 661      L1-dcache-load-misses     #    2,97% of all L1-dcache hits    (26,31%)
+    55 579 670 588      L1-dcache-stores          #   82,499 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 429 222 223      l2_rqsts.references       #   13,996 M/sec                    (21,05%)
+     5 247 983 682      l2_rqsts.miss             #    7,790 M/sec                    (21,06%)
+       165 064 616      LLC-loads                 #    0,245 M/sec                    (21,06%)
+        57 004 281      LLC-load-misses           #   34,53% of all LL-cache hits     (21,06%)
+        98 447 120      LLC-stores                #    0,146 M/sec                    (10,52%)
+        48 064 622      LLC-store-misses          #    0,071 M/sec                    (10,53%)
+   765 398 163 838      branches                  # 1136,111 M/sec                    (15,79%)
+     4 251 715 659      branch-misses             #    0,56% of all branches          (21,05%)
+
+     169,183774866 seconds time elapsed
+
+     647,224355000 seconds user
+      26,426895000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+646.15user 26.14system 2:48.86elapsed 398%CPU (0avgtext+0avgdata 109344maxresident)k
+0inputs+16488outputs (7major+109694minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        672 304,47 msec task-clock                #    3,981 CPUs utilized          
+             8 210      context-switches          #    0,012 K/sec                  
+           391 423      hw_interrupts.received    #    0,582 K/sec                    (21,05%)
+           110 943      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 936      minor-faults              #    0,165 K/sec                  
+ 2 685 451 029 325      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 2 700 548 586 369      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 685 524 435 637      inst_retired.total_cycles_ps # 3994,506 M/sec                    (26,31%)
+ 2 700 501 296 570      inst_retired.any          # 4016,783 M/sec                    (26,31%)
+ 2 700 543 037 245      inst_retired.any_p        # 4016,845 M/sec                    (26,31%)
+     8 660 918 449      cache-references          #   12,882 M/sec                    (26,31%)
+     3 611 990 224      cache-misses              #   41,704 % of all cache refs      (26,31%)
+   138 212 574 974      L1-dcache-loads           #  205,580 M/sec                    (26,32%)
+     4 108 004 373      L1-dcache-load-misses     #    2,97% of all L1-dcache hits    (26,32%)
+    55 478 049 006      L1-dcache-stores          #   82,519 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 401 785 179      l2_rqsts.references       #   13,984 M/sec                    (21,06%)
+     5 239 804 608      l2_rqsts.miss             #    7,794 M/sec                    (21,06%)
+       165 588 190      LLC-loads                 #    0,246 M/sec                    (21,06%)
+        56 095 326      LLC-load-misses           #   33,88% of all LL-cache hits     (21,06%)
+       110 033 749      LLC-stores                #    0,164 M/sec                    (10,53%)
+        61 265 981      LLC-store-misses          #    0,091 M/sec                    (10,53%)
+   765 242 683 490      branches                  # 1138,238 M/sec                    (15,79%)
+     4 255 332 094      branch-misses             #    0,56% of all branches          (21,05%)
+
+     168,862918611 seconds time elapsed
+
+     646,155621000 seconds user
+      26,141145000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+646.16user 25.52system 2:48.70elapsed 398%CPU (0avgtext+0avgdata 109460maxresident)k
+0inputs+16488outputs (7major+109693minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        671 703,40 msec task-clock                #    3,982 CPUs utilized          
+             8 419      context-switches          #    0,013 K/sec                  
+           404 568      hw_interrupts.received    #    0,602 K/sec                    (21,05%)
+           110 954      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 947      minor-faults              #    0,165 K/sec                  
+ 2 682 858 384 237      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 2 695 853 458 295      instructions              #    1,00  insn per cycle           (26,31%)
+ 2 683 116 795 376      inst_retired.total_cycles_ps # 3994,496 M/sec                    (26,31%)
+ 2 695 676 766 868      inst_retired.any          # 4013,195 M/sec                    (26,31%)
+ 2 695 499 192 779      inst_retired.any_p        # 4012,931 M/sec                    (26,31%)
+     8 668 889 433      cache-references          #   12,906 M/sec                    (26,31%)
+     3 536 571 173      cache-misses              #   40,796 % of all cache refs      (26,31%)
+   136 854 745 620      L1-dcache-loads           #  203,743 M/sec                    (26,31%)
+     4 061 670 871      L1-dcache-load-misses     #    2,97% of all L1-dcache hits    (26,32%)
+    54 725 251 226      L1-dcache-stores          #   81,472 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 398 058 320      l2_rqsts.references       #   13,991 M/sec                    (21,05%)
+     5 251 863 126      l2_rqsts.miss             #    7,819 M/sec                    (21,05%)
+       167 147 254      LLC-loads                 #    0,249 M/sec                    (21,06%)
+        54 794 222      LLC-load-misses           #   32,78% of all LL-cache hits     (21,06%)
+       101 721 206      LLC-stores                #    0,151 M/sec                    (10,53%)
+        54 273 346      LLC-store-misses          #    0,081 M/sec                    (10,53%)
+   764 515 793 192      branches                  # 1138,175 M/sec                    (15,79%)
+     4 235 947 446      branch-misses             #    0,55% of all branches          (21,05%)
+
+     168,706000402 seconds time elapsed
+
+     646,167347000 seconds user
+      25,527509000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+645.53user 26.31system 2:48.72elapsed 398%CPU (0avgtext+0avgdata 109400maxresident)k
+0inputs+16488outputs (7major+110103minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        671 866,49 msec task-clock                #    3,982 CPUs utilized          
+             8 019      context-switches          #    0,012 K/sec                  
+           422 292      hw_interrupts.received    #    0,629 K/sec                    (21,05%)
+           110 952      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 945      minor-faults              #    0,165 K/sec                  
+ 2 683 924 205 226      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 2 698 976 195 641      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 684 056 366 225      inst_retired.total_cycles_ps # 3994,925 M/sec                    (26,31%)
+ 2 699 251 257 648      inst_retired.any          # 4017,541 M/sec                    (26,31%)
+ 2 699 312 795 819      inst_retired.any_p        # 4017,633 M/sec                    (26,31%)
+     8 683 176 522      cache-references          #   12,924 M/sec                    (26,31%)
+     3 597 847 135      cache-misses              #   41,435 % of all cache refs      (26,31%)
+   137 558 548 056      L1-dcache-loads           #  204,741 M/sec                    (26,32%)
+     4 082 605 480      L1-dcache-load-misses     #    2,97% of all L1-dcache hits    (26,32%)
+    55 312 352 142      L1-dcache-stores          #   82,326 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 415 523 673      l2_rqsts.references       #   14,014 M/sec                    (21,06%)
+     5 248 433 292      l2_rqsts.miss             #    7,812 M/sec                    (21,06%)
+       163 792 562      LLC-loads                 #    0,244 M/sec                    (21,06%)
+        55 723 054      LLC-load-misses           #   34,02% of all LL-cache hits     (21,05%)
+        99 290 549      LLC-stores                #    0,148 M/sec                    (10,52%)
+        52 334 785      LLC-store-misses          #    0,078 M/sec                    (10,52%)
+   764 999 871 702      branches                  # 1138,619 M/sec                    (15,79%)
+     4 252 349 791      branch-misses             #    0,56% of all branches          (21,05%)
+
+     168,723808745 seconds time elapsed
+
+     645,531211000 seconds user
+      26,311804000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+646.25user 25.87system 2:48.80elapsed 398%CPU (0avgtext+0avgdata 109288maxresident)k
+0inputs+16488outputs (7major+110081minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile16 -np 16 SPMDv4_O3_native 200 400 600 300':
+
+        672 138,76 msec task-clock                #    3,982 CPUs utilized          
+             8 381      context-switches          #    0,012 K/sec                  
+           399 718      hw_interrupts.received    #    0,595 K/sec                    (21,05%)
+           110 933      page-faults               #    0,165 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+           110 926      minor-faults              #    0,165 K/sec                  
+ 2 685 405 276 779      cpu-cycles                #    3,995 GHz                      (21,05%)
+ 2 699 760 984 394      instructions              #    1,01  insn per cycle           (26,31%)
+ 2 685 450 028 728      inst_retired.total_cycles_ps # 3995,380 M/sec                    (26,31%)
+ 2 699 915 959 121      inst_retired.any          # 4016,903 M/sec                    (26,31%)
+ 2 699 835 689 066      inst_retired.any_p        # 4016,783 M/sec                    (26,31%)
+     8 677 474 568      cache-references          #   12,910 M/sec                    (26,31%)
+     3 505 705 269      cache-misses              #   40,400 % of all cache refs      (26,31%)
+   137 583 720 032      L1-dcache-loads           #  204,695 M/sec                    (26,31%)
+     4 281 611 658      L1-dcache-load-misses     #    3,11% of all L1-dcache hits    (26,32%)
+    55 517 585 779      L1-dcache-stores          #   82,598 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     9 601 999 351      l2_rqsts.references       #   14,286 M/sec                    (21,06%)
+     5 244 174 406      l2_rqsts.miss             #    7,802 M/sec                    (21,06%)
+       166 025 672      LLC-loads                 #    0,247 M/sec                    (21,06%)
+        54 672 746      LLC-load-misses           #   32,93% of all LL-cache hits     (21,06%)
+        91 438 788      LLC-stores                #    0,136 M/sec                    (10,53%)
+        51 904 060      LLC-store-misses          #    0,077 M/sec                    (10,53%)
+   765 400 014 890      branches                  # 1138,753 M/sec                    (15,79%)
+     4 252 094 447      branch-misses             #    0,56% of all branches          (21,05%)
+
+     168,801927163 seconds time elapsed
+
+     646,256118000 seconds user
+      25,878147000 seconds sys
+
+
+SPMDv4_O3_native_32
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+326.13user 16.00system 1:26.36elapsed 396%CPU (0avgtext+0avgdata 60936maxresident)k
+0inputs+16488outputs (7major+61192minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 197,29 msec task-clock                #    3,962 CPUs utilized          
+             7 133      context-switches          #    0,021 K/sec                  
+           191 014      hw_interrupts.received    #    0,558 K/sec                    (21,04%)
+            64 066      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 059      minor-faults              #    0,187 K/sec                  
+ 1 366 279 348 295      cpu-cycles                #    3,993 GHz                      (21,04%)
+ 1 368 983 805 915      instructions              #    1,00  insn per cycle           (26,30%)
+ 1 366 282 393 251      inst_retired.total_cycles_ps # 3992,675 M/sec                    (26,30%)
+ 1 368 862 331 374      inst_retired.any          # 4000,214 M/sec                    (26,31%)
+ 1 368 777 435 903      inst_retired.any_p        # 3999,966 M/sec                    (26,31%)
+     4 570 983 106      cache-references          #   13,358 M/sec                    (26,31%)
+     1 835 352 416      cache-misses              #   40,152 % of all cache refs      (26,31%)
+    73 993 128 223      L1-dcache-loads           #  216,229 M/sec                    (26,31%)
+     2 269 660 334      L1-dcache-load-misses     #    3,07% of all L1-dcache hits    (26,32%)
+    30 360 440 601      L1-dcache-stores          #   88,722 M/sec                    (21,07%)
+   <not supported>      L1-dcache-stores-misses                                     
+     5 037 579 710      l2_rqsts.references       #   14,721 M/sec                    (21,07%)
+     2 798 163 987      l2_rqsts.miss             #    8,177 M/sec                    (21,07%)
+       109 392 106      LLC-loads                 #    0,320 M/sec                    (21,06%)
+        44 561 317      LLC-load-misses           #   40,74% of all LL-cache hits     (21,06%)
+       100 800 923      LLC-stores                #    0,295 M/sec                    (10,53%)
+        64 490 955      LLC-store-misses          #    0,188 M/sec                    (10,52%)
+   386 744 535 517      branches                  # 1130,180 M/sec                    (15,78%)
+     2 248 470 274      branch-misses             #    0,58% of all branches          (21,04%)
+
+      86,369409969 seconds time elapsed
+
+     326,135246000 seconds user
+      16,001411000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+326.18user 16.47system 1:26.45elapsed 396%CPU (0avgtext+0avgdata 60900maxresident)k
+0inputs+16488outputs (7major+61178minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 769,57 msec task-clock                #    3,965 CPUs utilized          
+             7 396      context-switches          #    0,022 K/sec                  
+           204 062      hw_interrupts.received    #    0,595 K/sec                    (21,05%)
+            64 059      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 052      minor-faults              #    0,187 K/sec                  
+ 1 368 483 233 191      cpu-cycles                #    3,992 GHz                      (21,05%)
+ 1 369 943 393 679      instructions              #    1,00  insn per cycle           (26,31%)
+ 1 368 679 088 251      inst_retired.total_cycles_ps # 3993,001 M/sec                    (26,31%)
+ 1 370 133 989 247      inst_retired.any          # 3997,245 M/sec                    (26,31%)
+ 1 370 065 321 657      inst_retired.any_p        # 3997,045 M/sec                    (26,30%)
+     4 615 969 903      cache-references          #   13,467 M/sec                    (26,30%)
+     1 874 707 477      cache-misses              #   40,614 % of all cache refs      (26,30%)
+    74 990 669 566      L1-dcache-loads           #  218,779 M/sec                    (26,31%)
+     2 213 539 025      L1-dcache-load-misses     #    2,95% of all L1-dcache hits    (26,32%)
+    30 889 321 513      L1-dcache-stores          #   90,117 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     4 980 982 594      l2_rqsts.references       #   14,532 M/sec                    (21,06%)
+     2 808 810 770      l2_rqsts.miss             #    8,194 M/sec                    (21,07%)
+       109 355 039      LLC-loads                 #    0,319 M/sec                    (21,07%)
+        45 049 346      LLC-load-misses           #   41,20% of all LL-cache hits     (21,06%)
+       102 664 502      LLC-stores                #    0,300 M/sec                    (10,52%)
+        57 182 089      LLC-store-misses          #    0,167 M/sec                    (10,52%)
+   387 039 858 656      branches                  # 1129,155 M/sec                    (15,79%)
+     2 250 519 272      branch-misses             #    0,58% of all branches          (21,05%)
+
+      86,456244326 seconds time elapsed
+
+     326,186840000 seconds user
+      16,474376000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+325.84user 16.22system 1:26.31elapsed 396%CPU (0avgtext+0avgdata 60932maxresident)k
+0inputs+16488outputs (7major+61175minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 254,08 msec task-clock                #    3,965 CPUs utilized          
+             7 003      context-switches          #    0,020 K/sec                  
+           200 822      hw_interrupts.received    #    0,587 K/sec                    (21,04%)
+            64 026      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 019      minor-faults              #    0,187 K/sec                  
+ 1 366 467 311 938      cpu-cycles                #    3,993 GHz                      (21,04%)
+ 1 369 021 407 046      instructions              #    1,00  insn per cycle           (26,30%)
+ 1 366 538 320 202      inst_retired.total_cycles_ps # 3992,760 M/sec                    (26,30%)
+ 1 368 765 287 193      inst_retired.any          # 3999,267 M/sec                    (26,30%)
+ 1 368 748 068 212      inst_retired.any_p        # 3999,216 M/sec                    (26,30%)
+     4 596 786 299      cache-references          #   13,431 M/sec                    (26,30%)
+     1 851 114 029      cache-misses              #   40,270 % of all cache refs      (26,30%)
+    74 610 212 392      L1-dcache-loads           #  217,997 M/sec                    (26,31%)
+     2 273 392 683      L1-dcache-load-misses     #    3,05% of all L1-dcache hits    (26,31%)
+    30 567 700 120      L1-dcache-stores          #   89,313 M/sec                    (21,07%)
+   <not supported>      L1-dcache-stores-misses                                     
+     5 047 959 710      l2_rqsts.references       #   14,749 M/sec                    (21,07%)
+     2 802 857 548      l2_rqsts.miss             #    8,189 M/sec                    (21,07%)
+       111 290 844      LLC-loads                 #    0,325 M/sec                    (21,08%)
+        45 033 841      LLC-load-misses           #   40,47% of all LL-cache hits     (21,07%)
+        98 936 972      LLC-stores                #    0,289 M/sec                    (10,53%)
+        55 996 533      LLC-store-misses          #    0,164 M/sec                    (10,52%)
+   387 061 199 287      branches                  # 1130,918 M/sec                    (15,78%)
+     2 243 938 474      branch-misses             #    0,58% of all branches          (21,04%)
+
+      86,316109476 seconds time elapsed
+
+     325,845380000 seconds user
+      16,229485000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+326.28user 15.75system 1:26.32elapsed 396%CPU (0avgtext+0avgdata 60984maxresident)k
+0inputs+16488outputs (7major+61186minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 306,78 msec task-clock                #    3,965 CPUs utilized          
+             7 379      context-switches          #    0,022 K/sec                  
+           207 764      hw_interrupts.received    #    0,607 K/sec                    (21,06%)
+            64 037      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 030      minor-faults              #    0,187 K/sec                  
+ 1 366 653 257 545      cpu-cycles                #    3,992 GHz                      (21,05%)
+ 1 368 259 666 673      instructions              #    1,00  insn per cycle           (26,31%)
+ 1 367 216 366 626      inst_retired.total_cycles_ps # 3994,126 M/sec                    (26,30%)
+ 1 369 211 066 232      inst_retired.any          # 3999,953 M/sec                    (26,29%)
+ 1 369 507 809 583      inst_retired.any_p        # 4000,820 M/sec                    (26,29%)
+     4 635 660 902      cache-references          #   13,542 M/sec                    (26,29%)
+     1 873 401 518      cache-misses              #   40,413 % of all cache refs      (26,29%)
+    74 868 118 404      L1-dcache-loads           #  218,716 M/sec                    (26,29%)
+     2 251 413 267      L1-dcache-load-misses     #    3,01% of all L1-dcache hits    (26,30%)
+    30 876 322 735      L1-dcache-stores          #   90,201 M/sec                    (21,05%)
+   <not supported>      L1-dcache-stores-misses                                     
+     5 026 140 865      l2_rqsts.references       #   14,683 M/sec                    (21,06%)
+     2 807 132 595      l2_rqsts.miss             #    8,201 M/sec                    (21,07%)
+       112 133 382      LLC-loads                 #    0,328 M/sec                    (21,07%)
+        45 337 010      LLC-load-misses           #   40,43% of all LL-cache hits     (21,07%)
+        87 222 269      LLC-stores                #    0,255 M/sec                    (10,53%)
+        59 565 892      LLC-store-misses          #    0,174 M/sec                    (10,53%)
+   386 136 322 583      branches                  # 1128,042 M/sec                    (15,80%)
+     2 257 724 927      branch-misses             #    0,58% of all branches          (21,07%)
+
+      86,328075053 seconds time elapsed
+
+     326,281716000 seconds user
+      15,759500000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+326.26user 16.01system 1:26.38elapsed 396%CPU (0avgtext+0avgdata 60780maxresident)k
+0inputs+16488outputs (7major+61218minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 347,97 msec task-clock                #    3,963 CPUs utilized          
+             7 136      context-switches          #    0,021 K/sec                  
+           192 202      hw_interrupts.received    #    0,561 K/sec                    (21,04%)
+            64 077      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 070      minor-faults              #    0,187 K/sec                  
+ 1 367 370 947 892      cpu-cycles                #    3,994 GHz                      (21,04%)
+ 1 368 948 961 790      instructions              #    1,00  insn per cycle           (26,30%)
+ 1 367 474 170 789      inst_retired.total_cycles_ps # 3994,398 M/sec                    (26,30%)
+ 1 369 018 708 370      inst_retired.any          # 3998,910 M/sec                    (26,30%)
+ 1 369 187 740 852      inst_retired.any_p        # 3999,404 M/sec                    (26,30%)
+     4 580 210 959      cache-references          #   13,379 M/sec                    (26,30%)
+     1 855 437 469      cache-misses              #   40,510 % of all cache refs      (26,30%)
+    74 894 974 556      L1-dcache-loads           #  218,769 M/sec                    (26,31%)
+     2 251 562 952      L1-dcache-load-misses     #    3,01% of all L1-dcache hits    (26,32%)
+    30 701 986 058      L1-dcache-stores          #   89,681 M/sec                    (21,07%)
+   <not supported>      L1-dcache-stores-misses                                     
+     5 037 479 229      l2_rqsts.references       #   14,715 M/sec                    (21,07%)
+     2 800 683 386      l2_rqsts.miss             #    8,181 M/sec                    (21,07%)
+       110 669 991      LLC-loads                 #    0,323 M/sec                    (21,07%)
+        44 121 737      LLC-load-misses           #   39,87% of all LL-cache hits     (21,06%)
+       101 263 958      LLC-stores                #    0,296 M/sec                    (10,53%)
+        62 225 175      LLC-store-misses          #    0,182 M/sec                    (10,53%)
+   386 799 991 605      branches                  # 1129,845 M/sec                    (15,79%)
+     2 247 431 962      branch-misses             #    0,58% of all branches          (21,05%)
+
+      86,389172342 seconds time elapsed
+
+     326,268147000 seconds user
+      16,014770000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+325.96user 16.25system 1:26.31elapsed 396%CPU (0avgtext+0avgdata 60972maxresident)k
+0inputs+16488outputs (7major+61208minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 292,49 msec task-clock                #    3,965 CPUs utilized          
+             6 864      context-switches          #    0,020 K/sec                  
+           191 488      hw_interrupts.received    #    0,559 K/sec                    (21,04%)
+            64 082      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 075      minor-faults              #    0,187 K/sec                  
+ 1 366 983 388 792      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 1 369 238 045 446      instructions              #    1,00  insn per cycle           (26,31%)
+ 1 366 924 300 746      inst_retired.total_cycles_ps # 3993,439 M/sec                    (26,31%)
+ 1 368 893 920 867      inst_retired.any          # 3999,194 M/sec                    (26,31%)
+ 1 368 587 499 044      inst_retired.any_p        # 3998,298 M/sec                    (26,31%)
+     4 590 635 158      cache-references          #   13,411 M/sec                    (26,30%)
+     1 883 798 746      cache-misses              #   41,036 % of all cache refs      (26,31%)
+    74 237 115 974      L1-dcache-loads           #  216,882 M/sec                    (26,31%)
+     2 193 888 840      L1-dcache-load-misses     #    2,96% of all L1-dcache hits    (26,32%)
+    30 493 398 766      L1-dcache-stores          #   89,086 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     4 933 793 753      l2_rqsts.references       #   14,414 M/sec                    (21,06%)
+     2 789 838 945      l2_rqsts.miss             #    8,150 M/sec                    (21,06%)
+       108 749 261      LLC-loads                 #    0,318 M/sec                    (21,06%)
+        45 477 362      LLC-load-misses           #   41,82% of all LL-cache hits     (21,06%)
+        98 257 497      LLC-stores                #    0,287 M/sec                    (10,53%)
+        56 639 235      LLC-store-misses          #    0,165 M/sec                    (10,52%)
+   386 755 142 175      branches                  # 1129,897 M/sec                    (15,79%)
+     2 249 786 625      branch-misses             #    0,58% of all branches          (21,05%)
+
+      86,320111490 seconds time elapsed
+
+     325,963257000 seconds user
+      16,253139000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+325.96user 16.49system 1:26.37elapsed 396%CPU (0avgtext+0avgdata 60728maxresident)k
+0inputs+16496outputs (7major+61619minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 530,06 msec task-clock                #    3,965 CPUs utilized          
+             6 824      context-switches          #    0,020 K/sec                  
+           210 977      hw_interrupts.received    #    0,616 K/sec                    (21,04%)
+            64 071      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 064      minor-faults              #    0,187 K/sec                  
+ 1 367 872 154 406      cpu-cycles                #    3,993 GHz                      (21,04%)
+ 1 369 442 369 351      instructions              #    1,00  insn per cycle           (26,30%)
+ 1 367 852 673 582      inst_retired.total_cycles_ps # 3993,380 M/sec                    (26,30%)
+ 1 369 732 128 984      inst_retired.any          # 3998,867 M/sec                    (26,30%)
+ 1 369 714 801 676      inst_retired.any_p        # 3998,816 M/sec                    (26,31%)
+     4 592 031 571      cache-references          #   13,406 M/sec                    (26,31%)
+     1 833 782 011      cache-misses              #   39,934 % of all cache refs      (26,31%)
+    74 433 092 660      L1-dcache-loads           #  217,304 M/sec                    (26,31%)
+     2 163 243 951      L1-dcache-load-misses     #    2,91% of all L1-dcache hits    (26,32%)
+    30 597 008 063      L1-dcache-stores          #   89,326 M/sec                    (21,07%)
+   <not supported>      L1-dcache-stores-misses                                     
+     4 951 521 506      l2_rqsts.references       #   14,456 M/sec                    (21,07%)
+     2 803 999 262      l2_rqsts.miss             #    8,186 M/sec                    (21,08%)
+       111 624 482      LLC-loads                 #    0,326 M/sec                    (21,07%)
+        45 239 502      LLC-load-misses           #   40,53% of all LL-cache hits     (21,07%)
+        98 024 867      LLC-stores                #    0,286 M/sec                    (10,52%)
+        62 324 346      LLC-store-misses          #    0,182 M/sec                    (10,52%)
+   387 033 032 135      branches                  # 1129,924 M/sec                    (15,78%)
+     2 251 683 489      branch-misses             #    0,58% of all branches          (21,04%)
+
+      86,378546893 seconds time elapsed
+
+     325,964432000 seconds user
+      16,495843000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+325.74user 16.30system 1:26.27elapsed 396%CPU (0avgtext+0avgdata 60984maxresident)k
+0inputs+16488outputs (7major+61217minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 111,58 msec task-clock                #    3,965 CPUs utilized          
+             6 828      context-switches          #    0,020 K/sec                  
+           192 763      hw_interrupts.received    #    0,563 K/sec                    (21,04%)
+            64 066      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 059      minor-faults              #    0,187 K/sec                  
+ 1 366 336 918 188      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 1 367 290 016 864      instructions              #    1,00  insn per cycle           (26,31%)
+ 1 366 522 415 244      inst_retired.total_cycles_ps # 3994,376 M/sec                    (26,31%)
+ 1 367 500 342 724      inst_retired.any          # 3997,235 M/sec                    (26,31%)
+ 1 367 486 549 083      inst_retired.any_p        # 3997,195 M/sec                    (26,31%)
+     4 590 332 710      cache-references          #   13,418 M/sec                    (26,31%)
+     1 851 469 557      cache-misses              #   40,334 % of all cache refs      (26,31%)
+    74 001 723 805      L1-dcache-loads           #  216,309 M/sec                    (26,31%)
+     2 163 398 072      L1-dcache-load-misses     #    2,92% of all L1-dcache hits    (26,31%)
+    30 504 632 427      L1-dcache-stores          #   89,166 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     4 927 739 838      l2_rqsts.references       #   14,404 M/sec                    (21,06%)
+     2 797 819 264      l2_rqsts.miss             #    8,178 M/sec                    (21,07%)
+       109 957 035      LLC-loads                 #    0,321 M/sec                    (21,07%)
+        45 567 705      LLC-load-misses           #   41,44% of all LL-cache hits     (21,06%)
+        90 229 592      LLC-stores                #    0,264 M/sec                    (10,53%)
+        57 030 458      LLC-store-misses          #    0,167 M/sec                    (10,52%)
+   386 249 522 730      branches                  # 1129,016 M/sec                    (15,79%)
+     2 245 091 694      branch-misses             #    0,58% of all branches          (21,04%)
+
+      86,273198646 seconds time elapsed
+
+     325,742834000 seconds user
+      16,302199000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+325.72user 16.28system 1:26.26elapsed 396%CPU (0avgtext+0avgdata 60976maxresident)k
+0inputs+16488outputs (7major+61622minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 053,18 msec task-clock                #    3,965 CPUs utilized          
+             7 156      context-switches          #    0,021 K/sec                  
+           203 637      hw_interrupts.received    #    0,595 K/sec                    (21,05%)
+            64 072      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 065      minor-faults              #    0,187 K/sec                  
+ 1 366 275 604 049      cpu-cycles                #    3,994 GHz                      (21,05%)
+ 1 368 025 192 052      instructions              #    1,00  insn per cycle           (26,31%)
+ 1 366 321 556 773      inst_retired.total_cycles_ps # 3994,471 M/sec                    (26,31%)
+ 1 368 305 668 052      inst_retired.any          # 4000,272 M/sec                    (26,31%)
+ 1 368 488 121 443      inst_retired.any_p        # 4000,805 M/sec                    (26,31%)
+     4 595 667 017      cache-references          #   13,436 M/sec                    (26,31%)
+     1 847 594 462      cache-misses              #   40,203 % of all cache refs      (26,30%)
+    74 375 310 760      L1-dcache-loads           #  217,438 M/sec                    (26,30%)
+     2 482 005 064      L1-dcache-load-misses     #    3,34% of all L1-dcache hits    (26,31%)
+    30 547 658 291      L1-dcache-stores          #   89,307 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     5 259 283 903      l2_rqsts.references       #   15,376 M/sec                    (21,07%)
+     2 808 562 297      l2_rqsts.miss             #    8,211 M/sec                    (21,07%)
+       110 896 987      LLC-loads                 #    0,324 M/sec                    (21,07%)
+        45 136 541      LLC-load-misses           #   40,70% of all LL-cache hits     (21,06%)
+        99 822 150      LLC-stores                #    0,292 M/sec                    (10,53%)
+        61 879 641      LLC-store-misses          #    0,181 M/sec                    (10,53%)
+   386 382 600 597      branches                  # 1129,598 M/sec                    (15,79%)
+     2 245 360 035      branch-misses             #    0,58% of all branches          (21,05%)
+
+      86,264081207 seconds time elapsed
+
+     325,721351000 seconds user
+      16,283844000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+326.00user 16.16system 1:26.34elapsed 396%CPU (0avgtext+0avgdata 60852maxresident)k
+0inputs+16488outputs (7major+61199minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile32 -np 32 SPMDv4_O3_native 200 400 600 300':
+
+        342 269,06 msec task-clock                #    3,964 CPUs utilized          
+             7 388      context-switches          #    0,022 K/sec                  
+           218 795      hw_interrupts.received    #    0,639 K/sec                    (21,04%)
+            64 085      page-faults               #    0,187 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            64 078      minor-faults              #    0,187 K/sec                  
+ 1 367 025 528 652      cpu-cycles                #    3,994 GHz                      (21,04%)
+ 1 368 733 466 159      instructions              #    1,00  insn per cycle           (26,30%)
+ 1 367 231 598 537      inst_retired.total_cycles_ps # 3994,611 M/sec                    (26,30%)
+ 1 369 219 621 301      inst_retired.any          # 4000,419 M/sec                    (26,30%)
+ 1 369 620 354 214      inst_retired.any_p        # 4001,590 M/sec                    (26,30%)
+     4 619 100 087      cache-references          #   13,496 M/sec                    (26,30%)
+     1 843 272 202      cache-misses              #   39,905 % of all cache refs      (26,30%)
+    74 747 360 972      L1-dcache-loads           #  218,388 M/sec                    (26,31%)
+     2 206 553 292      L1-dcache-load-misses     #    2,95% of all L1-dcache hits    (26,32%)
+    30 896 433 820      L1-dcache-stores          #   90,269 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     5 009 741 571      l2_rqsts.references       #   14,637 M/sec                    (21,07%)
+     2 817 922 985      l2_rqsts.miss             #    8,233 M/sec                    (21,07%)
+       113 169 254      LLC-loads                 #    0,331 M/sec                    (21,07%)
+        44 775 680      LLC-load-misses           #   39,57% of all LL-cache hits     (21,07%)
+        98 760 861      LLC-stores                #    0,289 M/sec                    (10,53%)
+        63 379 553      LLC-store-misses          #    0,185 M/sec                    (10,52%)
+   386 647 005 503      branches                  # 1129,658 M/sec                    (15,78%)
+     2 250 333 378      branch-misses             #    0,58% of all branches          (21,04%)
+
+      86,342172026 seconds time elapsed
+
+     326,007271000 seconds user
+      16,164159000 seconds sys
+
+
+SPMDv4_O3_native_64
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+168.98user 14.23system 0:46.62elapsed 393%CPU (0avgtext+0avgdata 36068maxresident)k
+0inputs+16496outputs (7major+37114minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 460,62 msec task-clock                #    3,935 CPUs utilized          
+             7 127      context-switches          #    0,039 K/sec                  
+           152 930      hw_interrupts.received    #    0,834 K/sec                    (21,02%)
+            42 742      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 735      minor-faults              #    0,233 K/sec                  
+   732 404 233 473      cpu-cycles                #    3,992 GHz                      (21,02%)
+   707 451 552 279      instructions              #    0,97  insn per cycle           (26,28%)
+   732 490 102 985      inst_retired.total_cycles_ps # 3992,628 M/sec                    (26,28%)
+   713 635 490 104      inst_retired.any          # 3889,856 M/sec                    (26,28%)
+   718 586 859 764      inst_retired.any_p        # 3916,845 M/sec                    (26,27%)
+     2 340 090 186      cache-references          #   12,755 M/sec                    (26,27%)
+       930 847 037      cache-misses              #   39,778 % of all cache refs      (26,29%)
+    40 630 593 794      L1-dcache-loads           #  221,468 M/sec                    (26,32%)
+     1 233 250 722      L1-dcache-load-misses     #    3,04% of all L1-dcache hits    (26,35%)
+    14 748 205 058      L1-dcache-stores          #   80,389 M/sec                    (21,11%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 784 133 144      l2_rqsts.references       #   15,176 M/sec                    (21,11%)
+     1 520 826 155      l2_rqsts.miss             #    8,290 M/sec                    (21,09%)
+        63 720 181      LLC-loads                 #    0,347 M/sec                    (21,07%)
+        28 026 601      LLC-load-misses           #   43,98% of all LL-cache hits     (21,07%)
+        87 188 385      LLC-stores                #    0,475 M/sec                    (10,54%)
+        47 314 735      LLC-store-misses          #    0,258 M/sec                    (10,52%)
+   194 226 452 669      branches                  # 1058,682 M/sec                    (15,78%)
+     1 365 787 870      branch-misses             #    0,70% of all branches          (21,03%)
+
+      46,621407845 seconds time elapsed
+
+     168,989487000 seconds user
+      14,239555000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+169.37user 13.74system 0:46.63elapsed 392%CPU (0avgtext+0avgdata 35980maxresident)k
+0inputs+16488outputs (7major+36686minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 435,28 msec task-clock                #    3,933 CPUs utilized          
+             6 813      context-switches          #    0,037 K/sec                  
+           166 319      hw_interrupts.received    #    0,907 K/sec                    (21,02%)
+            42 777      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 770      minor-faults              #    0,233 K/sec                  
+   731 979 649 692      cpu-cycles                #    3,990 GHz                      (21,02%)
+   729 436 293 811      instructions              #    1,00  insn per cycle           (26,28%)
+   731 904 552 537      inst_retired.total_cycles_ps # 3989,988 M/sec                    (26,28%)
+   746 497 469 011      inst_retired.any          # 4069,542 M/sec                    (26,28%)
+   748 345 769 862      inst_retired.any_p        # 4079,618 M/sec                    (26,28%)
+     2 530 026 727      cache-references          #   13,792 M/sec                    (26,28%)
+     1 009 361 482      cache-misses              #   39,895 % of all cache refs      (26,30%)
+    37 987 283 893      L1-dcache-loads           #  207,088 M/sec                    (26,33%)
+     1 171 738 567      L1-dcache-load-misses     #    3,08% of all L1-dcache hits    (26,35%)
+    19 920 225 393      L1-dcache-stores          #  108,595 M/sec                    (21,12%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 608 598 128      l2_rqsts.references       #   14,221 M/sec                    (21,12%)
+     1 474 140 484      l2_rqsts.miss             #    8,036 M/sec                    (21,10%)
+        86 362 815      LLC-loads                 #    0,471 M/sec                    (21,08%)
+        40 195 777      LLC-load-misses           #   46,54% of all LL-cache hits     (21,07%)
+        99 141 407      LLC-stores                #    0,540 M/sec                    (10,52%)
+        34 595 049      LLC-store-misses          #    0,189 M/sec                    (10,51%)
+   185 757 798 382      branches                  # 1012,661 M/sec                    (15,77%)
+     1 398 745 374      branch-misses             #    0,75% of all branches          (21,02%)
+
+      46,639848727 seconds time elapsed
+
+     169,371324000 seconds user
+      13,748922000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+168.89user 14.97system 0:46.77elapsed 393%CPU (0avgtext+0avgdata 35928maxresident)k
+0inputs+16488outputs (7major+36731minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        184 145,02 msec task-clock                #    3,936 CPUs utilized          
+             7 136      context-switches          #    0,039 K/sec                  
+           108 985      hw_interrupts.received    #    0,592 K/sec                    (21,03%)
+            42 825      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 818      minor-faults              #    0,233 K/sec                  
+   734 912 956 798      cpu-cycles                #    3,991 GHz                      (21,02%)
+   716 529 762 903      instructions              #    0,97  insn per cycle           (26,28%)
+   735 123 105 089      inst_retired.total_cycles_ps # 3992,088 M/sec                    (26,28%)
+   728 540 647 778      inst_retired.any          # 3956,342 M/sec                    (26,28%)
+   732 752 320 892      inst_retired.any_p        # 3979,213 M/sec                    (26,27%)
+     2 443 483 766      cache-references          #   13,269 M/sec                    (26,27%)
+       972 103 819      cache-misses              #   39,784 % of all cache refs      (26,27%)
+    42 156 509 191      L1-dcache-loads           #  228,931 M/sec                    (26,27%)
+     1 203 424 721      L1-dcache-load-misses     #    2,85% of all L1-dcache hits    (26,28%)
+    19 215 165 206      L1-dcache-stores          #  104,348 M/sec                    (21,06%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 753 857 802      l2_rqsts.references       #   14,955 M/sec                    (21,09%)
+     1 495 109 136      l2_rqsts.miss             #    8,119 M/sec                    (21,12%)
+        67 202 413      LLC-loads                 #    0,365 M/sec                    (21,13%)
+        25 913 356      LLC-load-misses           #   38,56% of all LL-cache hits     (21,12%)
+        82 773 650      LLC-stores                #    0,450 M/sec                    (10,54%)
+        52 941 509      LLC-store-misses          #    0,287 M/sec                    (10,53%)
+   193 499 409 252      branches                  # 1050,799 M/sec                    (15,79%)
+     1 371 792 294      branch-misses             #    0,71% of all branches          (21,04%)
+
+      46,781195997 seconds time elapsed
+
+     168,892798000 seconds user
+      14,970633000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+168.93user 14.23system 0:46.59elapsed 393%CPU (0avgtext+0avgdata 36092maxresident)k
+0inputs+16488outputs (7major+36701minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 420,68 msec task-clock                #    3,936 CPUs utilized          
+             6 772      context-switches          #    0,037 K/sec                  
+           136 037      hw_interrupts.received    #    0,742 K/sec                    (21,01%)
+            42 796      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 789      minor-faults              #    0,233 K/sec                  
+   732 589 646 801      cpu-cycles                #    3,994 GHz                      (21,01%)
+   717 466 868 142      instructions              #    0,98  insn per cycle           (26,26%)
+   732 496 733 839      inst_retired.total_cycles_ps # 3993,534 M/sec                    (26,26%)
+   724 139 106 291      inst_retired.any          # 3947,969 M/sec                    (26,26%)
+   726 707 533 643      inst_retired.any_p        # 3961,972 M/sec                    (26,26%)
+     2 379 675 808      cache-references          #   12,974 M/sec                    (26,27%)
+       988 747 951      cache-misses              #   41,550 % of all cache refs      (26,27%)
+    41 651 677 519      L1-dcache-loads           #  227,083 M/sec                    (26,28%)
+     1 150 803 922      L1-dcache-load-misses     #    2,76% of all L1-dcache hits    (26,31%)
+    17 735 710 245      L1-dcache-stores          #   96,694 M/sec                    (21,10%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 660 033 063      l2_rqsts.references       #   14,502 M/sec                    (21,12%)
+     1 496 763 937      l2_rqsts.miss             #    8,160 M/sec                    (21,14%)
+        72 732 355      LLC-loads                 #    0,397 M/sec                    (21,13%)
+        30 606 600      LLC-load-misses           #   42,08% of all LL-cache hits     (21,12%)
+        71 893 788      LLC-stores                #    0,392 M/sec                    (10,53%)
+        35 932 194      LLC-store-misses          #    0,196 M/sec                    (10,51%)
+   195 360 159 055      branches                  # 1065,093 M/sec                    (15,76%)
+     1 356 426 910      branch-misses             #    0,69% of all branches          (21,02%)
+
+      46,594922679 seconds time elapsed
+
+     168,939556000 seconds user
+      14,230860000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+169.33user 14.21system 0:46.66elapsed 393%CPU (0avgtext+0avgdata 36056maxresident)k
+0inputs+16488outputs (7major+36715minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 834,21 msec task-clock                #    3,939 CPUs utilized          
+             6 058      context-switches          #    0,033 K/sec                  
+           132 971      hw_interrupts.received    #    0,723 K/sec                    (21,03%)
+            42 816      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 809      minor-faults              #    0,233 K/sec                  
+   733 140 305 088      cpu-cycles                #    3,988 GHz                      (21,03%)
+   722 766 161 811      instructions              #    0,99  insn per cycle           (26,30%)
+   732 919 285 547      inst_retired.total_cycles_ps # 3986,849 M/sec                    (26,30%)
+   723 128 209 662      inst_retired.any          # 3933,589 M/sec                    (26,30%)
+   723 028 808 402      inst_retired.any_p        # 3933,048 M/sec                    (26,30%)
+     2 407 413 622      cache-references          #   13,096 M/sec                    (26,30%)
+       934 670 213      cache-misses              #   38,825 % of all cache refs      (26,28%)
+    48 034 790 888      L1-dcache-loads           #  261,294 M/sec                    (26,28%)
+     1 194 771 984      L1-dcache-load-misses     #    2,49% of all L1-dcache hits    (26,30%)
+    21 035 007 349      L1-dcache-stores          #  114,424 M/sec                    (21,07%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 680 069 202      l2_rqsts.references       #   14,579 M/sec                    (21,09%)
+     1 465 066 732      l2_rqsts.miss             #    7,969 M/sec                    (21,10%)
+        61 741 636      LLC-loads                 #    0,336 M/sec                    (21,10%)
+        24 675 679      LLC-load-misses           #   39,97% of all LL-cache hits     (21,09%)
+        67 608 508      LLC-stores                #    0,368 M/sec                    (10,53%)
+        38 054 796      LLC-store-misses          #    0,207 M/sec                    (10,52%)
+   200 633 452 309      branches                  # 1091,383 M/sec                    (15,77%)
+     1 292 043 457      branch-misses             #    0,64% of all branches          (21,03%)
+
+      46,667508614 seconds time elapsed
+
+     169,337135000 seconds user
+      14,219355000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+169.09user 14.24system 0:46.62elapsed 393%CPU (0avgtext+0avgdata 35868maxresident)k
+0inputs+16488outputs (7major+36683minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 639,05 msec task-clock                #    3,939 CPUs utilized          
+             6 812      context-switches          #    0,037 K/sec                  
+           114 984      hw_interrupts.received    #    0,626 K/sec                    (21,04%)
+            42 766      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 759      minor-faults              #    0,233 K/sec                  
+   732 330 424 466      cpu-cycles                #    3,988 GHz                      (21,03%)
+   719 520 475 626      instructions              #    0,98  insn per cycle           (26,29%)
+   732 480 641 294      inst_retired.total_cycles_ps # 3988,698 M/sec                    (26,28%)
+   720 385 295 903      inst_retired.any          # 3922,833 M/sec                    (26,28%)
+   718 657 945 977      inst_retired.any_p        # 3913,427 M/sec                    (26,28%)
+     2 359 099 311      cache-references          #   12,846 M/sec                    (26,28%)
+       945 748 111      cache-misses              #   40,089 % of all cache refs      (26,28%)
+    52 081 345 592      L1-dcache-loads           #  283,607 M/sec                    (26,29%)
+     1 162 403 923      L1-dcache-load-misses     #    2,23% of all L1-dcache hits    (26,31%)
+    21 926 947 515      L1-dcache-stores          #  119,402 M/sec                    (21,08%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 599 911 591      l2_rqsts.references       #   14,158 M/sec                    (21,09%)
+     1 457 988 524      l2_rqsts.miss             #    7,939 M/sec                    (21,08%)
+        57 657 286      LLC-loads                 #    0,314 M/sec                    (21,08%)
+        23 689 539      LLC-load-misses           #   41,09% of all LL-cache hits     (21,08%)
+        65 087 481      LLC-stores                #    0,354 M/sec                    (10,54%)
+        40 609 173      LLC-store-misses          #    0,221 M/sec                    (10,54%)
+   200 014 870 476      branches                  # 1089,174 M/sec                    (15,80%)
+     1 299 217 111      branch-misses             #    0,65% of all branches          (21,06%)
+
+      46,625305472 seconds time elapsed
+
+     169,090926000 seconds user
+      14,241268000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+169.13user 13.98system 0:46.56elapsed 393%CPU (0avgtext+0avgdata 35972maxresident)k
+0inputs+16488outputs (7major+37132minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 271,01 msec task-clock                #    3,936 CPUs utilized          
+             7 107      context-switches          #    0,039 K/sec                  
+           105 268      hw_interrupts.received    #    0,574 K/sec                    (21,02%)
+            42 817      page-faults               #    0,234 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 810      minor-faults              #    0,234 K/sec                  
+   731 989 015 736      cpu-cycles                #    3,994 GHz                      (21,02%)
+   706 543 898 845      instructions              #    0,97  insn per cycle           (26,28%)
+   732 146 218 449      inst_retired.total_cycles_ps # 3994,883 M/sec                    (26,28%)
+   702 226 899 669      inst_retired.any          # 3831,631 M/sec                    (26,29%)
+   705 986 414 010      inst_retired.any_p        # 3852,145 M/sec                    (26,29%)
+     2 277 481 157      cache-references          #   12,427 M/sec                    (26,29%)
+       921 621 410      cache-misses              #   40,467 % of all cache refs      (26,29%)
+    45 749 146 550      L1-dcache-loads           #  249,626 M/sec                    (26,30%)
+     1 142 131 415      L1-dcache-load-misses     #    2,50% of all L1-dcache hits    (26,35%)
+    18 811 820 729      L1-dcache-stores          #  102,645 M/sec                    (21,11%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 612 643 141      l2_rqsts.references       #   14,256 M/sec                    (21,13%)
+     1 463 445 349      l2_rqsts.miss             #    7,985 M/sec                    (21,13%)
+        56 656 070      LLC-loads                 #    0,309 M/sec                    (21,09%)
+        18 667 798      LLC-load-misses           #   32,95% of all LL-cache hits     (21,07%)
+        38 932 318      LLC-stores                #    0,212 M/sec                    (10,51%)
+        28 471 896      LLC-store-misses          #    0,155 M/sec                    (10,51%)
+   205 633 548 647      branches                  # 1122,019 M/sec                    (15,77%)
+     1 253 062 312      branch-misses             #    0,61% of all branches          (21,02%)
+
+      46,566430748 seconds time elapsed
+
+     169,136021000 seconds user
+      13,985074000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+169.16user 13.96system 0:46.57elapsed 393%CPU (0avgtext+0avgdata 36156maxresident)k
+0inputs+16488outputs (7major+37121minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 277,08 msec task-clock                #    3,935 CPUs utilized          
+             6 956      context-switches          #    0,038 K/sec                  
+           101 025      hw_interrupts.received    #    0,551 K/sec                    (21,04%)
+            42 821      page-faults               #    0,234 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 814      minor-faults              #    0,234 K/sec                  
+   731 578 712 290      cpu-cycles                #    3,992 GHz                      (21,03%)
+   720 922 815 739      instructions              #    0,99  insn per cycle           (26,29%)
+   731 656 785 442      inst_retired.total_cycles_ps # 3992,080 M/sec                    (26,29%)
+   731 267 377 099      inst_retired.any          # 3989,955 M/sec                    (26,28%)
+   735 269 825 638      inst_retired.any_p        # 4011,794 M/sec                    (26,27%)
+     2 421 502 608      cache-references          #   13,212 M/sec                    (26,27%)
+       974 815 497      cache-misses              #   40,257 % of all cache refs      (26,29%)
+    38 536 739 440      L1-dcache-loads           #  210,265 M/sec                    (26,31%)
+     1 182 690 347      L1-dcache-load-misses     #    3,07% of all L1-dcache hits    (26,34%)
+    19 890 112 741      L1-dcache-stores          #  108,525 M/sec                    (21,11%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 691 373 715      l2_rqsts.references       #   14,685 M/sec                    (21,11%)
+     1 450 187 163      l2_rqsts.miss             #    7,913 M/sec                    (21,09%)
+        70 591 543      LLC-loads                 #    0,385 M/sec                    (21,07%)
+        29 287 870      LLC-load-misses           #   41,49% of all LL-cache hits     (21,05%)
+        88 962 789      LLC-stores                #    0,485 M/sec                    (10,53%)
+        44 599 514      LLC-store-misses          #    0,243 M/sec                    (10,53%)
+   194 457 327 778      branches                  # 1061,002 M/sec                    (15,78%)
+     1 350 865 667      branch-misses             #    0,69% of all branches          (21,04%)
+
+      46,573037583 seconds time elapsed
+
+     169,161158000 seconds user
+      13,967782000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+169.13user 14.06system 0:46.60elapsed 393%CPU (0avgtext+0avgdata 36148maxresident)k
+0inputs+16488outputs (7major+36717minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 376,35 msec task-clock                #    3,935 CPUs utilized          
+             7 156      context-switches          #    0,039 K/sec                  
+           102 036      hw_interrupts.received    #    0,556 K/sec                    (21,02%)
+            42 820      page-faults               #    0,234 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 813      minor-faults              #    0,233 K/sec                  
+   732 078 708 624      cpu-cycles                #    3,992 GHz                      (21,03%)
+   737 440 900 302      instructions              #    1,01  insn per cycle           (26,29%)
+   732 334 841 754      inst_retired.total_cycles_ps # 3993,617 M/sec                    (26,28%)
+   730 513 871 086      inst_retired.any          # 3983,686 M/sec                    (26,29%)
+   726 609 623 278      inst_retired.any_p        # 3962,396 M/sec                    (26,28%)
+     2 390 329 315      cache-references          #   13,035 M/sec                    (26,28%)
+       957 352 400      cache-misses              #   40,051 % of all cache refs      (26,31%)
+    54 382 160 680      L1-dcache-loads           #  296,560 M/sec                    (26,35%)
+     1 263 595 549      L1-dcache-load-misses     #    2,32% of all L1-dcache hits    (26,38%)
+    27 955 719 166      L1-dcache-stores          #  152,450 M/sec                    (21,14%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 682 734 407      l2_rqsts.references       #   14,630 M/sec                    (21,11%)
+     1 382 773 571      l2_rqsts.miss             #    7,541 M/sec                    (21,07%)
+        63 281 778      LLC-loads                 #    0,345 M/sec                    (21,04%)
+        20 796 640      LLC-load-misses           #   32,86% of all LL-cache hits     (21,03%)
+        44 047 300      LLC-stores                #    0,240 M/sec                    (10,53%)
+        13 517 788      LLC-store-misses          #    0,074 M/sec                    (10,52%)
+   208 518 819 053      branches                  # 1137,109 M/sec                    (15,78%)
+     1 195 416 751      branch-misses             #    0,57% of all branches          (21,03%)
+
+      46,604615237 seconds time elapsed
+
+     169,133480000 seconds user
+      14,068907000 seconds sys
+
+
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+
+Simulation completed. Value of cell 199,399,599 is 1.446664
+
+Simulation completed. Value of cell 20,20,20 is 0.000000
+169.57user 13.71system 0:46.59elapsed 393%CPU (0avgtext+0avgdata 36060maxresident)k
+0inputs+16488outputs (7major+36713minor)pagefaults 0swaps
+
+ Performance counter stats for 'time mpirun --mca btl_tcp_if_include enp0s31f6 -hostfile ../hostfile64 -np 64 SPMDv4_O3_native 200 400 600 300':
+
+        183 456,77 msec task-clock                #    3,937 CPUs utilized          
+             6 727      context-switches          #    0,037 K/sec                  
+           140 560      hw_interrupts.received    #    0,766 K/sec                    (21,04%)
+            42 820      page-faults               #    0,233 K/sec                  
+                 7      major-faults              #    0,000 K/sec                  
+            42 813      minor-faults              #    0,233 K/sec                  
+   732 079 587 926      cpu-cycles                #    3,990 GHz                      (21,03%)
+   710 887 507 650      instructions              #    0,97  insn per cycle           (26,29%)
+   732 135 784 684      inst_retired.total_cycles_ps # 3990,781 M/sec                    (26,28%)
+   709 850 357 329      inst_retired.any          # 3869,306 M/sec                    (26,29%)
+   712 111 197 293      inst_retired.any_p        # 3881,629 M/sec                    (26,28%)
+     2 306 643 011      cache-references          #   12,573 M/sec                    (26,28%)
+       936 150 386      cache-misses              #   40,585 % of all cache refs      (26,28%)
+    47 497 263 834      L1-dcache-loads           #  258,902 M/sec                    (26,31%)
+     1 219 552 555      L1-dcache-load-misses     #    2,57% of all L1-dcache hits    (26,33%)
+    18 511 933 082      L1-dcache-stores          #  100,906 M/sec                    (21,10%)
+   <not supported>      L1-dcache-stores-misses                                     
+     2 704 408 490      l2_rqsts.references       #   14,741 M/sec                    (21,11%)
+     1 489 890 662      l2_rqsts.miss             #    8,121 M/sec                    (21,12%)
+        60 331 773      LLC-loads                 #    0,329 M/sec                    (21,09%)
+        22 135 675      LLC-load-misses           #   36,69% of all LL-cache hits     (21,07%)
+        56 291 348      LLC-stores                #    0,307 M/sec                    (10,51%)
+        36 784 256      LLC-store-misses          #    0,201 M/sec                    (10,51%)
+   200 925 447 281      branches                  # 1095,220 M/sec                    (15,78%)
+     1 292 385 996      branch-misses             #    0,64% of all branches          (21,03%)
+
+      46,592335842 seconds time elapsed
+
+     169,574367000 seconds user
+      13,718626000 seconds sys
+
+

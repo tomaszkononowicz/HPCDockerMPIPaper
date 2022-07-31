@@ -1,0 +1,803 @@
+nohup: zignorowane dane wejściowe
+NetBenchWithContention_O3_native_128
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000076	0.105364
+Send/Recv	2^1	0.000077	0.208025
+Send/Recv	2^2	0.000079	0.405316
+Send/Recv	2^3	0.000079	0.810989
+Send/Recv	2^4	0.000079	1.622372
+Send/Recv	2^5	0.000080	3.206901
+Send/Recv	2^6	0.000080	6.419282
+Send/Recv	2^7	0.000098	10.440198
+Send/Recv	2^8	0.000120	17.122433
+Send/Recv	2^9	0.000207	19.775641
+Send/Recv	2^10	0.000436	18.798174
+Send/Recv	2^11	0.000918	17.840275
+Send/Recv	2^12	0.001971	16.621530
+Send/Recv	2^13	0.005008	13.085797
+Send/Recv	2^14	0.009715	13.492006
+Send/Recv	2^15	0.019953	13.137807
+Send/Recv	2^16	0.041213	12.721333
+Send/Recv	2^17	0.082924	12.644957
+Send/Recv	2^18	0.168885	12.417644
+Send/Recv	2^19	0.337711	12.419785
+Send/Recv	2^20	0.676643	12.397394
+Send/Recv	2^21	1.355811	12.374302
+Send/Recv	2^22	2.712674	12.369505
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000074	0.107488
+Send/Recv	2^1	0.000078	0.204005
+Send/Recv	2^2	0.000079	0.405096
+Send/Recv	2^3	0.000079	0.811301
+Send/Recv	2^4	0.000079	1.624703
+Send/Recv	2^5	0.000079	3.249397
+Send/Recv	2^6	0.000081	6.286374
+Send/Recv	2^7	0.000098	10.472558
+Send/Recv	2^8	0.000120	17.023517
+Send/Recv	2^9	0.000205	19.993947
+Send/Recv	2^10	0.000382	21.453591
+Send/Recv	2^11	0.000870	18.829641
+Send/Recv	2^12	0.001648	19.880992
+Send/Recv	2^13	0.004960	13.212208
+Send/Recv	2^14	0.009767	13.420088
+Send/Recv	2^15	0.020155	13.006307
+Send/Recv	2^16	0.028737	18.244444
+Send/Recv	2^17	0.081930	12.798483
+Send/Recv	2^18	0.167947	12.486957
+Send/Recv	2^19	0.338111	12.405102
+Send/Recv	2^20	0.677107	12.388897
+Send/Recv	2^21	1.356075	12.371893
+Send/Recv	2^22	2.713011	12.367967
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000074	0.107728
+Send/Recv	2^1	0.000078	0.204664
+Send/Recv	2^2	0.000079	0.404642
+Send/Recv	2^3	0.000079	0.812506
+Send/Recv	2^4	0.000079	1.620726
+Send/Recv	2^5	0.000078	3.261214
+Send/Recv	2^6	0.000080	6.424399
+Send/Recv	2^7	0.000099	10.299487
+Send/Recv	2^8	0.000120	17.129355
+Send/Recv	2^9	0.000205	20.018572
+Send/Recv	2^10	0.000332	24.689572
+Send/Recv	2^11	0.000865	18.937767
+Send/Recv	2^12	0.001775	18.464845
+Send/Recv	2^13	0.004984	13.148945
+Send/Recv	2^14	0.009880	13.266471
+Send/Recv	2^15	0.019262	13.609695
+Send/Recv	2^16	0.040859	12.831668
+Send/Recv	2^17	0.083434	12.567745
+Send/Recv	2^18	0.168251	12.464402
+Send/Recv	2^19	0.338650	12.385354
+Send/Recv	2^20	0.676844	12.393707
+Send/Recv	2^21	1.356312	12.369729
+Send/Recv	2^22	2.715173	12.358118
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000075	0.106297
+Send/Recv	2^1	0.000078	0.206395
+Send/Recv	2^2	0.000079	0.403883
+Send/Recv	2^3	0.000079	0.811135
+Send/Recv	2^4	0.000079	1.626181
+Send/Recv	2^5	0.000079	3.257578
+Send/Recv	2^6	0.000080	6.416249
+Send/Recv	2^7	0.000090	11.383542
+Send/Recv	2^8	0.000120	17.085532
+Send/Recv	2^9	0.000206	19.889964
+Send/Recv	2^10	0.000411	19.916343
+Send/Recv	2^11	0.000729	22.489817
+Send/Recv	2^12	0.001871	17.510826
+Send/Recv	2^13	0.004082	16.054637
+Send/Recv	2^14	0.009781	13.400765
+Send/Recv	2^15	0.020008	13.102279
+Send/Recv	2^16	0.040732	12.871667
+Send/Recv	2^17	0.083150	12.610686
+Send/Recv	2^18	0.167242	12.539589
+Send/Recv	2^19	0.338082	12.406156
+Send/Recv	2^20	0.678145	12.369936
+Send/Recv	2^21	1.356773	12.365529
+Send/Recv	2^22	2.713516	12.365664
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000074	0.107449
+Send/Recv	2^1	0.000079	0.203115
+Send/Recv	2^2	0.000079	0.405205
+Send/Recv	2^3	0.000079	0.811062
+Send/Recv	2^4	0.000079	1.623213
+Send/Recv	2^5	0.000079	3.259921
+Send/Recv	2^6	0.000080	6.426289
+Send/Recv	2^7	0.000094	10.905666
+Send/Recv	2^8	0.000121	16.866402
+Send/Recv	2^9	0.000225	18.187510
+Send/Recv	2^10	0.000411	19.939612
+Send/Recv	2^11	0.000505	32.452143
+Send/Recv	2^12	0.001795	18.250695
+Send/Recv	2^13	0.005021	13.052938
+Send/Recv	2^14	0.010172	12.885998
+Send/Recv	2^15	0.020070	13.061403
+Send/Recv	2^16	0.040817	12.844974
+Send/Recv	2^17	0.082616	12.692184
+Send/Recv	2^18	0.168371	12.455552
+Send/Recv	2^19	0.338218	12.401173
+Send/Recv	2^20	0.677340	12.384633
+Send/Recv	2^21	1.356283	12.369998
+Send/Recv	2^22	2.712239	12.371487
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000076	0.105357
+Send/Recv	2^1	0.000076	0.210265
+Send/Recv	2^2	0.000079	0.405572
+Send/Recv	2^3	0.000079	0.811405
+Send/Recv	2^4	0.000079	1.623446
+Send/Recv	2^5	0.000080	3.205102
+Send/Recv	2^6	0.000080	6.396708
+Send/Recv	2^7	0.000095	10.747996
+Send/Recv	2^8	0.000120	17.116900
+Send/Recv	2^9	0.000178	22.972905
+Send/Recv	2^10	0.000409	20.019208
+Send/Recv	2^11	0.000751	21.816594
+Send/Recv	2^12	0.001833	17.880382
+Send/Recv	2^13	0.005021	13.051286
+Send/Recv	2^14	0.009772	13.413550
+Send/Recv	2^15	0.020050	13.074434
+Send/Recv	2^16	0.040762	12.862312
+Send/Recv	2^17	0.083365	12.578162
+Send/Recv	2^18	0.167869	12.492823
+Send/Recv	2^19	0.337899	12.412893
+Send/Recv	2^20	0.676741	12.395604
+Send/Recv	2^21	1.355574	12.376470
+Send/Recv	2^22	2.713001	12.368014
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000077	0.103295
+Send/Recv	2^1	0.000076	0.210490
+Send/Recv	2^2	0.000079	0.405363
+Send/Recv	2^3	0.000079	0.811214
+Send/Recv	2^4	0.000079	1.622878
+Send/Recv	2^5	0.000079	3.230951
+Send/Recv	2^6	0.000082	6.264392
+Send/Recv	2^7	0.000096	10.651427
+Send/Recv	2^8	0.000120	17.039569
+Send/Recv	2^9	0.000208	19.738665
+Send/Recv	2^10	0.000359	22.807823
+Send/Recv	2^11	0.000598	27.383775
+Send/Recv	2^12	0.001373	23.859670
+Send/Recv	2^13	0.003640	18.005333
+Send/Recv	2^14	0.009673	13.550569
+Send/Recv	2^15	0.019752	13.271733
+Send/Recv	2^16	0.040754	12.864585
+Send/Recv	2^17	0.082786	12.666066
+Send/Recv	2^18	0.168030	12.480822
+Send/Recv	2^19	0.337756	12.418139
+Send/Recv	2^20	0.676906	12.392574
+Send/Recv	2^21	1.355599	12.376236
+Send/Recv	2^22	2.713378	12.366293
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000076	0.105224
+Send/Recv	2^1	0.000078	0.205269
+Send/Recv	2^2	0.000079	0.405431
+Send/Recv	2^3	0.000079	0.808568
+Send/Recv	2^4	0.000079	1.618055
+Send/Recv	2^5	0.000079	3.256136
+Send/Recv	2^6	0.000080	6.429716
+Send/Recv	2^7	0.000093	11.048080
+Send/Recv	2^8	0.000120	17.092210
+Send/Recv	2^9	0.000203	20.151480
+Send/Recv	2^10	0.000411	19.940000
+Send/Recv	2^11	0.000811	20.199455
+Send/Recv	2^12	0.001651	19.850942
+Send/Recv	2^13	0.004941	13.262376
+Send/Recv	2^14	0.007613	17.215959
+Send/Recv	2^15	0.019913	13.164398
+Send/Recv	2^16	0.041263	12.705926
+Send/Recv	2^17	0.083652	12.534934
+Send/Recv	2^18	0.168240	12.465253
+Send/Recv	2^19	0.337944	12.411224
+Send/Recv	2^20	0.676742	12.395582
+Send/Recv	2^21	1.355557	12.376625
+Send/Recv	2^22	2.712887	12.368533
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000076	0.104764
+Send/Recv	2^1	0.000078	0.204314
+Send/Recv	2^2	0.000079	0.405158
+Send/Recv	2^3	0.000079	0.812000
+Send/Recv	2^4	0.000079	1.626560
+Send/Recv	2^5	0.000079	3.233136
+Send/Recv	2^6	0.000081	6.284509
+Send/Recv	2^7	0.000096	10.650414
+Send/Recv	2^8	0.000128	16.057141
+Send/Recv	2^9	0.000206	19.927122
+Send/Recv	2^10	0.000433	18.933270
+Send/Recv	2^11	0.000831	19.711332
+Send/Recv	2^12	0.002039	16.073315
+Send/Recv	2^13	0.003589	18.261069
+Send/Recv	2^14	0.009905	13.232849
+Send/Recv	2^15	0.020381	12.862185
+Send/Recv	2^16	0.039879	13.146950
+Send/Recv	2^17	0.082921	12.645500
+Send/Recv	2^18	0.168641	12.435577
+Send/Recv	2^19	0.337841	12.415037
+Send/Recv	2^20	0.676802	12.394478
+Send/Recv	2^21	1.355832	12.374111
+Send/Recv	2^22	2.713813	12.364311
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=128)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000076	0.105769
+Send/Recv	2^1	0.000077	0.207601
+Send/Recv	2^2	0.000079	0.405806
+Send/Recv	2^3	0.000079	0.811523
+Send/Recv	2^4	0.000079	1.618173
+Send/Recv	2^5	0.000078	3.262165
+Send/Recv	2^6	0.000081	6.283275
+Send/Recv	2^7	0.000099	10.328292
+Send/Recv	2^8	0.000119	17.229509
+Send/Recv	2^9	0.000214	19.112545
+Send/Recv	2^10	0.000257	31.937124
+Send/Recv	2^11	0.000892	18.374274
+Send/Recv	2^12	0.001627	20.143713
+Send/Recv	2^13	0.005064	12.941138
+Send/Recv	2^14	0.009999	13.108794
+Send/Recv	2^15	0.019826	13.222314
+Send/Recv	2^16	0.040570	12.922949
+Send/Recv	2^17	0.082839	12.657995
+Send/Recv	2^18	0.167566	12.515401
+Send/Recv	2^19	0.337768	12.417710
+Send/Recv	2^20	0.677203	12.387143
+Send/Recv	2^21	1.355769	12.374682
+Send/Recv	2^22	2.714726	12.360153
+NetBenchWithContention_O3_native_256
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000239	0.033498
+Send/Recv	2^1	0.000205	0.077938
+Send/Recv	2^2	0.000203	0.157709
+Send/Recv	2^3	0.000162	0.394120
+Send/Recv	2^4	0.000260	0.492882
+Send/Recv	2^5	0.000070	3.674501
+Send/Recv	2^6	0.000093	5.533050
+Send/Recv	2^7	0.000090	11.405168
+Send/Recv	2^8	0.000096	21.385870
+Send/Recv	2^9	0.000113	36.248910
+Send/Recv	2^10	0.000162	50.441486
+Send/Recv	2^11	0.000292	56.066675
+Send/Recv	2^12	0.000697	47.018815
+Send/Recv	2^13	0.001443	45.403042
+Send/Recv	2^14	0.003114	42.085221
+Send/Recv	2^15	0.017553	14.934091
+Send/Recv	2^16	0.032321	16.221218
+Send/Recv	2^17	0.119145	8.800851
+Send/Recv	2^18	0.274568	7.638017
+Send/Recv	2^19	0.594967	7.049641
+Send/Recv	2^20	1.240156	6.764156
+Send/Recv	2^21	2.592960	6.470296
+Send/Recv	2^22	5.214336	6.435034
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000233	0.034318
+Send/Recv	2^1	0.000220	0.072856
+Send/Recv	2^2	0.000194	0.165023
+Send/Recv	2^3	0.000158	0.405387
+Send/Recv	2^4	0.000215	0.595910
+Send/Recv	2^5	0.000070	3.640850
+Send/Recv	2^6	0.000077	6.689461
+Send/Recv	2^7	0.000082	12.480184
+Send/Recv	2^8	0.000100	20.380205
+Send/Recv	2^9	0.000117	34.940905
+Send/Recv	2^10	0.000160	51.318514
+Send/Recv	2^11	0.000283	57.938112
+Send/Recv	2^12	0.000609	53.796699
+Send/Recv	2^13	0.001369	47.854748
+Send/Recv	2^14	0.002996	43.751854
+Send/Recv	2^15	0.014867	17.632677
+Send/Recv	2^16	0.034789	15.070326
+Send/Recv	2^17	0.112725	9.302065
+Send/Recv	2^18	0.281369	7.453387
+Send/Recv	2^19	0.583094	7.193188
+Send/Recv	2^20	1.241641	6.756066
+Send/Recv	2^21	2.554756	6.567051
+Send/Recv	2^22	5.221754	6.425893
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000209	0.038298
+Send/Recv	2^1	0.000236	0.067891
+Send/Recv	2^2	0.000236	0.135608
+Send/Recv	2^3	0.000172	0.371863
+Send/Recv	2^4	0.000217	0.590082
+Send/Recv	2^5	0.000078	3.269484
+Send/Recv	2^6	0.000079	6.513478
+Send/Recv	2^7	0.000079	12.893942
+Send/Recv	2^8	0.000100	20.479420
+Send/Recv	2^9	0.000115	35.548612
+Send/Recv	2^10	0.000159	51.505654
+Send/Recv	2^11	0.000336	48.717827
+Send/Recv	2^12	0.000545	60.100455
+Send/Recv	2^13	0.001654	39.611680
+Send/Recv	2^14	0.003075	42.622317
+Send/Recv	2^15	0.017403	15.063000
+Send/Recv	2^16	0.043680	12.002920
+Send/Recv	2^17	0.111976	9.364251
+Send/Recv	2^18	0.273654	7.663509
+Send/Recv	2^19	0.599732	6.993634
+Send/Recv	2^20	1.267587	6.617779
+Send/Recv	2^21	2.570536	6.526739
+Send/Recv	2^22	5.205137	6.446407
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000252	0.031808
+Send/Recv	2^1	0.000258	0.061941
+Send/Recv	2^2	0.000192	0.166285
+Send/Recv	2^3	0.000180	0.355142
+Send/Recv	2^4	0.000120	1.066629
+Send/Recv	2^5	0.000077	3.321223
+Send/Recv	2^6	0.000078	6.542482
+Send/Recv	2^7	0.000084	12.216270
+Send/Recv	2^8	0.000101	20.257705
+Send/Recv	2^9	0.000115	35.743114
+Send/Recv	2^10	0.000173	47.396984
+Send/Recv	2^11	0.000295	55.513484
+Send/Recv	2^12	0.000514	63.709946
+Send/Recv	2^13	0.003321	19.736510
+Send/Recv	2^14	0.003009	43.567190
+Send/Recv	2^15	0.014330	18.293911
+Send/Recv	2^16	0.033077	15.850351
+Send/Recv	2^17	0.118390	8.856989
+Send/Recv	2^18	0.275961	7.599450
+Send/Recv	2^19	0.591461	7.091434
+Send/Recv	2^20	1.243374	6.746648
+Send/Recv	2^21	2.557823	6.559178
+Send/Recv	2^22	5.232492	6.412706
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000241	0.033150
+Send/Recv	2^1	0.000294	0.054471
+Send/Recv	2^2	0.000226	0.141292
+Send/Recv	2^3	0.000174	0.367680
+Send/Recv	2^4	0.000099	1.292899
+Send/Recv	2^5	0.000075	3.435064
+Send/Recv	2^6	0.000074	6.877508
+Send/Recv	2^7	0.000081	12.706573
+Send/Recv	2^8	0.000102	20.150803
+Send/Recv	2^9	0.000113	36.164737
+Send/Recv	2^10	0.000160	51.132250
+Send/Recv	2^11	0.000275	59.595627
+Send/Recv	2^12	0.000640	51.170577
+Send/Recv	2^13	0.001702	38.506577
+Send/Recv	2^14	0.003405	38.496868
+Send/Recv	2^15	0.014643	17.902856
+Send/Recv	2^16	0.045462	11.532403
+Send/Recv	2^17	0.113063	9.274293
+Send/Recv	2^18	0.279941	7.491407
+Send/Recv	2^19	0.590477	7.103250
+Send/Recv	2^20	1.251212	6.704383
+Send/Recv	2^21	2.554252	6.568349
+Send/Recv	2^22	5.203836	6.448018
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000223	0.035921
+Send/Recv	2^1	0.000221	0.072535
+Send/Recv	2^2	0.000203	0.157681
+Send/Recv	2^3	0.000174	0.368249
+Send/Recv	2^4	0.000207	0.618772
+Send/Recv	2^5	0.000106	2.413105
+Send/Recv	2^6	0.000093	5.493040
+Send/Recv	2^7	0.000141	7.245611
+Send/Recv	2^8	0.000101	20.263351
+Send/Recv	2^9	0.000115	35.595415
+Send/Recv	2^10	0.000158	51.928294
+Send/Recv	2^11	0.000275	59.473832
+Send/Recv	2^12	0.000732	44.741251
+Send/Recv	2^13	0.001630	40.200278
+Send/Recv	2^14	0.002561	51.188413
+Send/Recv	2^15	0.014631	17.916884
+Send/Recv	2^16	0.037643	13.927756
+Send/Recv	2^17	0.118692	8.834403
+Send/Recv	2^18	0.276135	7.594666
+Send/Recv	2^19	0.593986	7.061288
+Send/Recv	2^20	1.240012	6.764943
+Send/Recv	2^21	2.570528	6.526758
+Send/Recv	2^22	5.252234	6.388601
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000242	0.033012
+Send/Recv	2^1	0.000216	0.074175
+Send/Recv	2^2	0.000192	0.166444
+Send/Recv	2^3	0.000155	0.411689
+Send/Recv	2^4	0.000072	1.772531
+Send/Recv	2^5	0.000069	3.686092
+Send/Recv	2^6	0.000069	7.465472
+Send/Recv	2^7	0.000083	12.334207
+Send/Recv	2^8	0.000102	20.169160
+Send/Recv	2^9	0.000115	35.728928
+Send/Recv	2^10	0.000172	47.693486
+Send/Recv	2^11	0.000296	55.345649
+Send/Recv	2^12	0.000591	55.439568
+Send/Recv	2^13	0.001572	41.698440
+Send/Recv	2^14	0.003355	39.071567
+Send/Recv	2^15	0.015133	17.322728
+Send/Recv	2^16	0.034495	15.199043
+Send/Recv	2^17	0.120774	8.682162
+Send/Recv	2^18	0.282344	7.427643
+Send/Recv	2^19	0.597125	7.024164
+Send/Recv	2^20	1.244014	6.743176
+Send/Recv	2^21	2.577115	6.510077
+Send/Recv	2^22	5.208771	6.441909
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000225	0.035519
+Send/Recv	2^1	0.000211	0.075885
+Send/Recv	2^2	0.000229	0.139457
+Send/Recv	2^3	0.000178	0.359015
+Send/Recv	2^4	0.000197	0.651193
+Send/Recv	2^5	0.000072	3.557979
+Send/Recv	2^6	0.000076	6.743479
+Send/Recv	2^7	0.000081	12.590990
+Send/Recv	2^8	0.000100	20.458178
+Send/Recv	2^9	0.000113	36.185024
+Send/Recv	2^10	0.000177	46.295825
+Send/Recv	2^11	0.000310	52.800345
+Send/Recv	2^12	0.000566	57.870374
+Send/Recv	2^13	0.001481	44.259385
+Send/Recv	2^14	0.002831	46.297428
+Send/Recv	2^15	0.013040	20.103670
+Send/Recv	2^16	0.040116	13.069335
+Send/Recv	2^17	0.111895	9.371034
+Send/Recv	2^18	0.278428	7.532128
+Send/Recv	2^19	0.585491	7.163738
+Send/Recv	2^20	1.244368	6.741258
+Send/Recv	2^21	2.566388	6.537288
+Send/Recv	2^22	5.215308	6.433836
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000280	0.028596
+Send/Recv	2^1	0.000227	0.070335
+Send/Recv	2^2	0.000207	0.154269
+Send/Recv	2^3	0.000170	0.377289
+Send/Recv	2^4	0.000189	0.678349
+Send/Recv	2^5	0.000061	4.194791
+Send/Recv	2^6	0.000078	6.581685
+Send/Recv	2^7	0.000084	12.127426
+Send/Recv	2^8	0.000101	20.255201
+Send/Recv	2^9	0.000115	35.727214
+Send/Recv	2^10	0.000162	50.630251
+Send/Recv	2^11	0.000293	55.983530
+Send/Recv	2^12	0.000580	56.486764
+Send/Recv	2^13	0.001434	45.691688
+Send/Recv	2^14	0.006260	20.938066
+Send/Recv	2^15	0.015802	16.589799
+Send/Recv	2^16	0.047523	11.032189
+Send/Recv	2^17	0.107945	9.714000
+Send/Recv	2^18	0.279246	7.510055
+Send/Recv	2^19	0.597385	7.021111
+Send/Recv	2^20	1.261012	6.652284
+Send/Recv	2^21	2.595135	6.464872
+Send/Recv	2^22	5.220030	6.428016
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+No protocol specified
+Kind (np=256)	n	time (sec)	Rate (MB/sec)
+Send/Recv	2^0	0.000209	0.038240
+Send/Recv	2^1	0.000208	0.076985
+Send/Recv	2^2	0.000205	0.156120
+Send/Recv	2^3	0.000151	0.425007
+Send/Recv	2^4	0.000182	0.703066
+Send/Recv	2^5	0.000073	3.522208
+Send/Recv	2^6	0.000069	7.423876
+Send/Recv	2^7	0.000082	12.493867
+Send/Recv	2^8	0.000102	20.010064
+Send/Recv	2^9	0.000115	35.585364
+Send/Recv	2^10	0.000158	51.707379
+Send/Recv	2^11	0.000316	51.837028
+Send/Recv	2^12	0.000569	57.591890
+Send/Recv	2^13	0.001593	41.137237
+Send/Recv	2^14	0.003452	37.975224
+Send/Recv	2^15	0.017214	15.228285
+Send/Recv	2^16	0.045264	11.582990
+Send/Recv	2^17	0.111447	9.408726
+Send/Recv	2^18	0.279096	7.514091
+Send/Recv	2^19	0.592025	7.084669
+Send/Recv	2^20	1.269847	6.605997
+Send/Recv	2^21	2.579182	6.504861
+Send/Recv	2^22	5.216768	6.432035
